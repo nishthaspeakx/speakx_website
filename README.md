@@ -1,36 +1,54 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# SpeakX comparison hub (`/vs`)
 
-## Getting Started
+A Next.js (App Router, TypeScript, Tailwind v4) implementation of the SpeakX comparison hub:
+`/vs`, six `/vs/speakx-vs-*` pages and `/press`. Every page is statically rendered, so all
+comparison text is in the HTML for search engines and AI crawlers.
 
-First, run the development server:
+## Run locally
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+npm install
+cp .env.example .env.local   # fill in the install link and analytics ids
+npm run dev                  # http://localhost:3000/vs
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+```bash
+npm run build && npm start   # production build + server
+npm run lint                 # eslint
+npm run check                # typecheck + link/content QA script
+```
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Where things live
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+| Path | Purpose |
+|---|---|
+| `src/data/products.ts` | Central competitor research dataset (facts, sources, verification status) |
+| `src/data/comparisons/*.ts` | One file per comparison page: all copy, FAQs, sources, last-verified date |
+| `src/data/hub.ts` | `/vs` hub copy: differentiators, goals, FAQs, matrix columns |
+| `src/data/press.ts`, `awards.ts`, `investors.ts` | Press inventory, award register, investor facts (labelled by type and verification) |
+| `src/lib/types.ts` | Data model shared by all of the above |
+| `src/lib/site.ts` | Canonical origin, existing SpeakX URLs, install link, analytics ids |
+| `src/lib/analytics.ts` | Event taxonomy (`vs_page_view`, `competitor_card_click`, `cta_click`, ...) |
+| `src/lib/schema.ts` | Organization / WebSite / MobileApplication JSON-LD helpers |
+| `src/app/vs/page.tsx` | Hub page |
+| `src/app/vs/[slug]/page.tsx` | Comparison page template (data-driven) |
+| `src/app/press/page.tsx` | Press, awards, founder and investors |
+| `src/app/sitemap.ts`, `robots.ts` | Generated sitemap and robots |
+| `research/` (repo root, one level up) | Research registers: competitors, media, awards, backlinks, keyword map, GEO audit, site audit |
 
-## Learn More
+## Adding a competitor
 
-To learn more about Next.js, take a look at the following resources:
+1. Add the product to `src/data/products.ts` with sources for every fact (use `"not-verified"` rather than guessing).
+2. Create `src/data/comparisons/speakx-vs-<slug>.ts` following an existing file.
+3. Add the entry to `comparisonIndex` and `loaders` in `src/data/comparisons/index.ts`.
+4. Drop the competitor logo into `public/logos/`.
+5. Run `npm run check`.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Deploying into speakx.ai
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+speakx.ai is already a Next.js site served from `https://speakx.ai` (non-www). Preferred integration:
+copy `src/app/vs`, `src/app/press`, `src/components`, `src/data`, `src/lib` and `public/logos|images`
+into the production repo, merge `globals.css` tokens with the existing theme, and add the `/vs` and
+`/press` URLs to the production sitemap. If deployed as a separate app, reverse-proxy
+`https://speakx.ai/vs*` and `https://speakx.ai/press*` to it so the pages stay on the canonical host.
+Do not deploy to speakx.com or speakx.in; those hosts should 301 to speakx.ai.
