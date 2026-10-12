@@ -18,6 +18,7 @@ import { products, speakx, competitorOrder } from "@/data/products";
 import { hubContent } from "@/data/hub";
 import { SITE, absoluteUrl, withAttribution } from "@/lib/site";
 import { organizationSchema, websiteSchema, speakxAppSchema } from "@/lib/schema";
+import { rich, plain } from "@/lib/richtext";
 
 export const metadata: Metadata = {
   title: { absolute: hubContent.seo.title },
@@ -51,7 +52,7 @@ export default async function HubPage() {
   const faqSchema = {
     "@context": "https://schema.org",
     "@type": "FAQPage",
-    mainEntity: hubContent.faqs.map((f) => ({ "@type": "Question", name: f.q, acceptedAnswer: { "@type": "Answer", text: f.a } })),
+    mainEntity: hubContent.faqs.map((f) => ({ "@type": "Question", name: f.q, acceptedAnswer: { "@type": "Answer", text: plain(f.a) } })),
   };
 
   return (
@@ -67,7 +68,7 @@ export default async function HubPage() {
             <div>
               <p className="text-xs font-semibold uppercase tracking-[0.18em] text-brand-dark">{SITE.tagline}</p>
               <h1 className="mt-3 text-4xl font-extrabold leading-[1.05] sm:text-6xl">{hubContent.h1}</h1>
-              <p className="mt-5 max-w-2xl text-lg leading-relaxed text-ink-soft">{hubContent.subtitle}</p>
+              <p className="mt-5 max-w-2xl text-lg leading-relaxed text-ink-soft">{rich(hubContent.subtitle, "vs")}</p>
               <div className="mt-8 flex flex-wrap gap-3">
                 <CtaButton href={install("hero")} label="Start Speaking with SpeakX" location="hero" size="lg" params={{ page_slug: "vs" }} />
                 <CtaButton href="#comparisons" label="Explore Comparisons" location="hero" variant="secondary" size="lg" params={{ page_slug: "vs" }} />
@@ -122,7 +123,7 @@ export default async function HubPage() {
             <article key={d.title} className="rounded-3xl border border-line bg-surface p-6">
               <span aria-hidden="true" className="grid h-10 w-10 place-items-center rounded-2xl bg-brand-soft text-lg">{d.icon}</span>
               <h3 className="mt-4 text-lg font-bold">{d.title}</h3>
-              <p className="mt-2 text-sm leading-relaxed text-ink-soft">{d.body}</p>
+              <p className="mt-2 text-sm leading-relaxed text-ink-soft">{rich(d.body, "vs")}</p>
             </article>
           ))}
         </div>
@@ -142,7 +143,7 @@ export default async function HubPage() {
           {hubContent.goals.map((g) => (
             <div key={g.title} className="flex flex-col rounded-3xl border border-line bg-surface p-5">
               <h3 className="text-base font-bold">{g.title}</h3>
-              <p className="mt-2 flex-1 text-sm text-ink-soft">{g.body}</p>
+              <p className="mt-2 flex-1 text-sm text-ink-soft">{rich(g.body, "vs")}</p>
               <ul className="mt-4 space-y-1.5 text-sm">
                 {g.links.map((l) => (
                   <li key={l.href}><TrackedLink href={l.href} event="internal_link_click" params={{ page_slug: "vs", link_text: l.label }} className="text-brand-dark underline underline-offset-4 hover:text-brand">{l.label}</TrackedLink></li>

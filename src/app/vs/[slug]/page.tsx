@@ -19,6 +19,7 @@ import { comparisonIndex, getComparison } from "@/data/comparisons";
 import { products, speakx } from "@/data/products";
 import { SITE, absoluteUrl, withAttribution } from "@/lib/site";
 import { organizationSchema, websiteSchema } from "@/lib/schema";
+import { rich, plain } from "@/lib/richtext";
 
 export const dynamicParams = false;
 
@@ -82,7 +83,7 @@ export default async function ComparisonPageRoute({ params }: Params) {
     mainEntity: page.faqs.map((f) => ({
       "@type": "Question",
       name: f.q,
-      acceptedAnswer: { "@type": "Answer", text: f.a },
+      acceptedAnswer: { "@type": "Answer", text: plain(f.a) },
     })),
   };
 
@@ -117,7 +118,7 @@ export default async function ComparisonPageRoute({ params }: Params) {
             <aside className="rounded-3xl border border-line bg-surface p-6 shadow-[0_30px_60px_-30px_rgba(20,18,53,0.25)] sm:p-7" aria-labelledby="quick-answer">
               <p id="quick-answer" className="text-xs font-semibold uppercase tracking-[0.18em] text-brand-dark">Quick answer</p>
               <div className="prose-vs mt-3 space-y-3 text-[15px]">
-                {page.quickAnswer.map((s) => <p key={s}>{s}</p>)}
+                {page.quickAnswer.map((s) => <p key={s}>{rich(s, slug)}</p>)}
               </div>
             </aside>
           </div>
@@ -129,11 +130,11 @@ export default async function ComparisonPageRoute({ params }: Params) {
         <div className="grid gap-6 md:grid-cols-2">
           <article className="rounded-3xl border border-brand/20 bg-brand-soft/40 p-6 sm:p-8">
             <div className="flex items-center gap-3"><ProductLogo product={speakx} size={44} /><h3 className="text-xl font-bold">SpeakX</h3></div>
-            <p className="prose-vs mt-4 text-[15px]">{page.intro.speakx}</p>
+            <p className="prose-vs mt-4 text-[15px]">{rich(page.intro.speakx, slug)}</p>
           </article>
           <article className="rounded-3xl border border-line bg-surface p-6 sm:p-8">
             <div className="flex items-center gap-3"><ProductLogo product={competitor} size={44} /><h3 className="text-xl font-bold">{competitor.name}</h3></div>
-            <p className="prose-vs mt-4 text-[15px]">{page.intro.competitor}</p>
+            <p className="prose-vs mt-4 text-[15px]">{rich(page.intro.competitor, slug)}</p>
           </article>
         </div>
       </Section>
@@ -148,12 +149,12 @@ export default async function ComparisonPageRoute({ params }: Params) {
         <div className="grid gap-10 lg:grid-cols-2">
           <div>
             <h3 className="text-2xl font-bold">How SpeakX works</h3>
-            <div className="prose-vs mt-4 space-y-4 text-[15px]">{page.howSpeakXWorks.map((p) => <p key={p}>{p}</p>)}</div>
+            <div className="prose-vs mt-4 space-y-4 text-[15px]">{page.howSpeakXWorks.map((p) => <p key={p}>{rich(p, slug)}</p>)}</div>
             <Image src="/images/speakx-sia-practice.webp" alt="Sia, SpeakX's AI speaking partner, on a voice-call practice screen" width={640} height={420} className="mt-6 w-full rounded-3xl border border-line object-cover" />
           </div>
           <div>
             <h3 className="text-2xl font-bold">How {competitor.name} works</h3>
-            <div className="prose-vs mt-4 space-y-4 text-[15px]">{page.howCompetitorWorks.map((p) => <p key={p}>{p}</p>)}</div>
+            <div className="prose-vs mt-4 space-y-4 text-[15px]">{page.howCompetitorWorks.map((p) => <p key={p}>{rich(p, slug)}</p>)}</div>
           </div>
         </div>
       </Section>
@@ -165,7 +166,7 @@ export default async function ComparisonPageRoute({ params }: Params) {
             <li key={d.title} className="rounded-3xl border border-line bg-surface p-6">
               <span className="grid h-9 w-9 place-items-center rounded-full bg-brand text-sm font-bold text-white">{i + 1}</span>
               <h3 className="mt-4 text-lg font-bold">{d.title}</h3>
-              <p className="prose-vs mt-2 text-[15px]">{d.body}</p>
+              <p className="prose-vs mt-2 text-[15px]">{rich(d.body, slug)}</p>
             </li>
           ))}
         </ol>
@@ -176,11 +177,11 @@ export default async function ComparisonPageRoute({ params }: Params) {
         <div className="grid gap-6 md:grid-cols-2">
           <div className="rounded-3xl border border-brand/20 bg-brand-soft/40 p-6 sm:p-8">
             <h3 className="text-xl font-bold">Where SpeakX may be a better fit</h3>
-            <ul className="mt-4 space-y-3 text-[15px] text-ink-soft">{page.speakxBetterFor.map((s) => <li key={s} className="flex gap-3"><span aria-hidden="true" className="mt-1 text-success">✓</span><span>{s}</span></li>)}</ul>
+            <ul className="mt-4 space-y-3 text-[15px] text-ink-soft">{page.speakxBetterFor.map((s) => <li key={s} className="flex gap-3"><span aria-hidden="true" className="mt-1 text-success">✓</span><span>{rich(s, slug)}</span></li>)}</ul>
           </div>
           <div className="rounded-3xl border border-line bg-surface p-6 sm:p-8">
             <h3 className="text-xl font-bold">Where {competitor.name} may be a better fit</h3>
-            <ul className="mt-4 space-y-3 text-[15px] text-ink-soft">{page.competitorBetterFor.map((s) => <li key={s} className="flex gap-3"><span aria-hidden="true" className="mt-1 text-brand-dark">✓</span><span>{s}</span></li>)}</ul>
+            <ul className="mt-4 space-y-3 text-[15px] text-ink-soft">{page.competitorBetterFor.map((s) => <li key={s} className="flex gap-3"><span aria-hidden="true" className="mt-1 text-brand-dark">✓</span><span>{rich(s, slug)}</span></li>)}</ul>
           </div>
         </div>
       </Section>
@@ -204,20 +205,20 @@ export default async function ComparisonPageRoute({ params }: Params) {
         <div className="grid gap-6 md:grid-cols-2">
           <div className="rounded-3xl border border-brand/20 bg-brand-soft/40 p-6 sm:p-8">
             <h3 className="text-lg font-bold">SpeakX</h3>
-            <p className="prose-vs mt-3 text-[15px]">{page.pricing.speakx}</p>
+            <p className="prose-vs mt-3 text-[15px]">{rich(page.pricing.speakx, slug)}</p>
             <TrackedLink href={SITE.links.premium} event="internal_link_click" params={{ page_slug: slug, link_text: "SpeakX Premium" }} className="mt-4 inline-block text-sm font-semibold text-brand-dark underline underline-offset-4">See SpeakX Premium details</TrackedLink>
           </div>
           <div className="rounded-3xl border border-line bg-surface p-6 sm:p-8">
             <h3 className="text-lg font-bold">{competitor.name}</h3>
-            <p className="prose-vs mt-3 text-[15px]">{page.pricing.competitor}</p>
+            <p className="prose-vs mt-3 text-[15px]">{rich(page.pricing.competitor, slug)}</p>
           </div>
         </div>
-        <p className="mt-4 text-sm text-muted">{page.pricing.note}</p>
+        <p className="mt-4 text-sm text-muted">{rich(page.pricing.note, slug)}</p>
       </Section>
 
       {/* UX & feedback */}
       <Section tone="soft" eyebrow="Experience" title="User experience and how each app gives feedback">
-        <div className="prose-vs max-w-3xl space-y-4 text-[15px]">{page.uxAndFeedback.map((p) => <p key={p}>{p}</p>)}</div>
+        <div className="prose-vs max-w-3xl space-y-4 text-[15px]">{page.uxAndFeedback.map((p) => <p key={p}>{rich(p, slug)}</p>)}</div>
       </Section>
 
       {/* Press & awards */}

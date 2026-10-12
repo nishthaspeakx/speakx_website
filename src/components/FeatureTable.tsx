@@ -1,4 +1,5 @@
 import type { TableRow } from "@/lib/types";
+import { rich } from "@/lib/richtext";
 
 interface Props {
   rows: TableRow[];
@@ -23,8 +24,8 @@ export default function FeatureTable({ rows, competitorName, caption }: Props) {
           {rows.map((r, i) => (
             <tr key={r.label} className={i % 2 ? "bg-surface-2/60" : ""}>
               <th scope="row" className="px-4 py-3 text-left font-medium text-ink">{r.label}</th>
-              <td className="px-4 py-3 align-top text-ink-soft">{r.speakx}</td>
-              <td className="px-4 py-3 align-top text-ink-soft">{r.competitor}</td>
+              <td className="px-4 py-3 align-top text-ink-soft">{rich(r.speakx)}</td>
+              <td className="px-4 py-3 align-top text-ink-soft">{rich(r.competitor)}</td>
             </tr>
           ))}
         </tbody>

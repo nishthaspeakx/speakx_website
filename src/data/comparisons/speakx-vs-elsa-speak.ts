@@ -19,7 +19,7 @@ const page: ComparisonPage = {
   },
   h1: "SpeakX vs ELSA Speak: pronunciation drills vs conversation practice",
   quickAnswer: [
-    "SpeakX is an AI English speaking app for Indian learners, made by Ivypods Technology in Gurugram. You practise on voice calls with Sia, an AI speaking partner, and explanations are available in 7 Indian languages.",
+    "SpeakX is an AI English speaking app for Indian learners, made by [Ivypods Technology](https://speakx.ai/about) in Gurugram. You practise on voice calls with Sia, an AI speaking partner, and explanations are available in 7 Indian languages.",
     "ELSA Speak is a US-based pronunciation coach from ELSA Corp. Its speech recognition scores how you say each syllable, and it builds a lesson path around the sounds you get wrong.",
     "Pick SpeakX if you hesitate to speak, think in Hindi or a regional language, and want to hold real conversations about interviews, office life or family situations.",
     "Pick ELSA Speak if you already speak fairly freely but want sound-by-sound pronunciation correction, a choice of accent, or IELTS and TOEFL preparation.",
@@ -113,9 +113,9 @@ const page: ComparisonPage = {
     },
   ],
   howSpeakXWorks: [
-    "SpeakX is built around a daily voice call with Sia. You speak, Sia replies, and the conversation moves the way a real one would. Roleplays cover a job interview, an office conversation about a promotion, a parent-teacher meeting, a phone call. Premium unlocks more than 100 of these scenarios and removes the cap on AI talk time.",
-    "The part that matters most for hesitant speakers is the language bridge. If Hindi, Marathi, Bengali, Telugu, Tamil, Kannada or Malayalam is the language you think in, Sia explains in that language first and shifts the conversation into English step by step. You never have to understand an English explanation of English before you can start. Learning paths are mapped to CEFR levels from Pre-A1 up to advanced.",
-    "Feedback arrives as a progress report rather than a single number. It covers fluency, vocabulary, grammar and pronunciation, and tells you what to work on next. A Confidence Meter tracks how freely you are speaking, and city leaderboards add friendly competition. The recommended habit is about 15 minutes a day.",
+    "SpeakX is built around a daily voice call with [Sia](https://speakx.ai/). You speak, Sia replies, and the conversation moves the way a real one would. Roleplays cover a [job interview](https://speakx.ai/blog/interview-questions-answers-english-freshers), an office conversation about a promotion, a [parent-teacher meeting](https://speakx.ai/blog/how-to-speak-english-fluently-in-parent-teacher-meetings-a-teachers-5-minute-daily-method), a phone call. Premium unlocks more than 100 of these scenarios and removes the cap on AI talk time.",
+    "The part that matters most for hesitant speakers is the language bridge. If [Hindi](https://speakx.ai/blog/100-simple-english-sentences-for-daily-use-with-hindi-meaning), Marathi, Bengali, Telugu, Tamil, Kannada or Malayalam is the language you think in, Sia explains in that language first and shifts the conversation into English step by step. You never have to understand an English explanation of English before you can start. Learning paths are mapped to CEFR levels from [Pre-A1](https://speakx.ai/blog/unlock-confident-english-speaking-your-guide-to-daily-practice-and-learning-the-basics) up to advanced.",
+    "Feedback arrives as a progress report rather than a single number. It covers fluency, vocabulary, [grammar](https://speakx.ai/blog/english-grammar-tenses) and [pronunciation](https://speakx.ai/blog/english-pronunciation-difficulty), and tells you what to work on next. A Confidence Meter tracks how freely you are speaking, and city leaderboards add friendly competition. The recommended habit is [about 15 minutes a day](https://speakx.ai/blog/practice-spoken-english-alone-at-home).",
     "One note on names: SpeakX is not the same as Speak (speak.com), a separate US company with its own app. SpeakX has 1 crore+ Google Play downloads with a 4.5 rating from 92.9K reviews, and received the ET Education Excellence Award 2026 for Excellence in Generative AI for Education.",
   ],
   howCompetitorWorks: [
@@ -139,7 +139,7 @@ const page: ComparisonPage = {
     },
     {
       title: "Scenarios: Indian daily life versus global career",
-      body: "SpeakX roleplays include parent-teacher meetings, phone calls and office promotions, situations written for Indian adults. ELSA's role-play coaches cover Workplace, Interviews, Meetings, Presentations and Dating, with career-specific vocabulary and exam tracks. ELSA goes deeper on professional and exam English; SpeakX goes wider on everyday Indian situations.",
+      body: "SpeakX [roleplays](https://speakx.ai/blog/master-real-life-english-your-guide-to-confident-daily-conversation) include parent-teacher meetings, phone calls and office promotions, situations written for Indian adults. ELSA's role-play coaches cover Workplace, Interviews, Meetings, Presentations and Dating, with career-specific vocabulary and exam tracks. ELSA goes deeper on professional and exam English; SpeakX goes wider on everyday Indian situations.",
     },
     {
       title: "One price versus a ladder of plans",
@@ -232,10 +232,10 @@ const page: ComparisonPage = {
     note: "Prices, trials and plan names change often and can differ between the web, Google Play and the App Store. Check the official SpeakX Premium page and ELSA Speak's subscription page before you pay.",
   },
   uxAndFeedback: [
-    "SpeakX's feedback is conversational. During a call, Sia keeps the exchange going and nudges you when you stumble, rather than stopping to grade each word. Afterwards, the progress report scores fluency, vocabulary, grammar and pronunciation and tells you what to work on next. On Premium, a 24x7 AI teacher gives instant feedback. The Confidence Meter tracks whether you are actually speaking more freely, which a pronunciation score cannot measure.",
+    "SpeakX's feedback is conversational. During a call, Sia keeps the exchange going and nudges you when you stumble, rather than stopping to grade each word. Afterwards, the progress report scores [fluency](https://speakx.ai/blog/english-speaking-fluency), vocabulary, grammar and pronunciation and tells you what to work on next. On Premium, a 24x7 AI teacher gives instant feedback. The Confidence Meter tracks whether you are actually speaking more freely, which a pronunciation score cannot measure.",
     "ELSA's feedback is diagnostic. Say a sentence and you get a score for each syllable and a model to copy in your chosen accent. The Speech Analyzer extends this to longer speech and produces detailed reports, including predicted exam scores. Progress is shown in quantitative dashboards; the Play listing calls it superior quantitative progress tracking. ELSA is strongest when the question is measurable.",
     "The trade-off matters for Indian learners with mother-tongue influence (MTI). ELSA scores the sounds MTI affects most, such as a retroflex t and d, v and w, or stress on the wrong syllable, and drills them until the score rises. SpeakX notices pronunciation problems too, but treats them as one of four things to fix, and will not let you spend a week on a single sound while your sentences stay stuck in your head.",
-    "On outcomes, SpeakX says that in just 2 months, 4 out of 5 learners start speaking English confidently; that is the company's own claim. ELSA's site calls itself the number one AI English speaking app and claims 92 million+ downloads, also company claims. The figures we can verify are the store ratings: 4.5 from 92.9K Google Play reviews for SpeakX and 4.2 from about 1.01 million for ELSA, as displayed on 12 October 2026.",
+    "On outcomes, SpeakX says that in just 2 months, 4 out of 5 learners start speaking English confidently; that is the company's own claim. ELSA's site calls itself the number one AI English speaking app and claims 92 million+ downloads, also company claims. The figures we can verify are the store ratings: 4.5 from 92.9K [Google Play](https://play.google.com/store/apps/details?id=yellowclass.kids.live) reviews for SpeakX and 4.2 from about 1.01 million for ELSA, as displayed on 12 October 2026.",
   ],
   faqs: [
     {
@@ -256,7 +256,7 @@ const page: ComparisonPage = {
     },
     {
       q: "How does ELSA Speak pricing compare with SpeakX in India?",
-      a: "SpeakX Premium is ₹2 for a 3-day trial and then ₹299 a month on the SpeakX website, as of 12 October 2026. ELSA offers a 7-day trial, after which the India App Store shows plans from ₹499 a month up to ₹12,900 a year, with several Pro and Premium tiers in between. ELSA's trial is longer; SpeakX's monthly price is lower and simpler.",
+      a: "SpeakX Premium is ₹2 for a 3-day trial and then [₹299 a month](https://speakx.ai/premium) on the SpeakX website, as of 12 October 2026. ELSA offers a 7-day trial, after which the India App Store shows plans from ₹499 a month up to ₹12,900 a year, with several Pro and Premium tiers in between. ELSA's trial is longer; SpeakX's monthly price is lower and simpler.",
     },
     {
       q: "Is ELSA Speak good for conversation practice?",

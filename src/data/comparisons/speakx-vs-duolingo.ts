@@ -19,7 +19,7 @@ const page: ComparisonPage = {
   h1: "SpeakX vs Duolingo: which helps you speak English?",
   quickAnswer: [
     "First, a quick clarification: SpeakX is not Speak, the US app often compared with Duolingo; this page is about SpeakX, the Indian app.",
-    "SpeakX is an AI English speaking app for Indian learners, made by Ivypods Technology in Gurugram, built around daily voice calls with Sia, an AI speaking partner, with explanations in seven Indian languages.",
+    "SpeakX is an AI English speaking app for Indian learners, made by [Ivypods Technology](https://speakx.ai/about) in Gurugram, built around daily voice calls with Sia, an AI speaking partner, with explanations in seven Indian languages.",
     "Duolingo is a free, gamified app that teaches 40 or more languages through short lessons, with English available as a course for Hindi, Bengali, Tamil and Telugu speakers.",
     "Pick SpeakX if your goal is to speak English confidently for interviews, work or daily life; pick Duolingo if you want a free daily habit for vocabulary and grammar basics, or you are learning more than one language.",
   ],
@@ -49,10 +49,10 @@ const page: ComparisonPage = {
     { label: "Google Play rating (as displayed)", speakx: "4.5 from 92.9K reviews", competitor: "4.6 from 50.9M reviews" },
   ],
   howSpeakXWorks: [
-    "SpeakX treats speaking as the whole lesson, not one exercise at the end. The core activity is a voice call with Sia, an AI speaking partner that listens, replies and keeps the conversation going. You do not need good English to begin: the Play listing says you do not need perfect English to start, and the CEFR-mapped paths begin at Pre-A1.",
-    "The second idea is language support that fades out. Sia explains in your own language, whether Hindi, Marathi, Bengali, Telugu, Tamil, Kannada or Malayalam, and gradually shifts the conversation across to English as you become comfortable. The explanation and the speaking happen in the same conversation, which feels very different from a translation-based lesson.",
-    "Practice is organised around Indian situations: job interviews, office conversations and promotions, parent-teacher meetings, phone calls, travel and everyday social talk. You can start on the free tier; Premium adds a 24x7 AI teacher with instant feedback, 100 or more real-life scenarios and unlimited AI talk time.",
-    "Feedback arrives as a progress report that scores fluency, vocabulary, grammar and pronunciation and tells you what to work on next. A Confidence Meter and city leaderboards add light motivation. The recommended routine is about 15 minutes a day on your phone; there is no web version.",
+    "SpeakX treats speaking as the whole lesson, not one exercise at the end. The core activity is a voice call with [Sia](https://speakx.ai/), an AI speaking partner that listens, replies and keeps the conversation going. You do not need good English to begin: the Play listing says you do not need perfect English to start, and the CEFR-mapped paths begin at [Pre-A1](https://speakx.ai/blog/unlock-confident-english-speaking-your-guide-to-daily-practice-and-learning-the-basics).",
+    "The second idea is language support that fades out. Sia explains in your own language, whether [Hindi](https://speakx.ai/blog/100-simple-english-sentences-for-daily-use-with-hindi-meaning), Marathi, Bengali, Telugu, Tamil, Kannada or Malayalam, and gradually shifts the conversation across to English as you become comfortable. The explanation and the speaking happen in the same conversation, which feels very different from a translation-based lesson.",
+    "Practice is organised around Indian situations: [job interviews](https://speakx.ai/blog/interview-questions-answers-english-freshers), office conversations and promotions, [parent-teacher meetings](https://speakx.ai/blog/how-to-speak-english-fluently-in-parent-teacher-meetings-a-teachers-5-minute-daily-method), phone calls, travel and everyday social talk. You can start on the free tier; Premium adds a 24x7 AI teacher with instant feedback, 100 or more real-life scenarios and unlimited AI talk time.",
+    "Feedback arrives as a progress report that scores fluency, vocabulary, [grammar](https://speakx.ai/blog/english-grammar-tenses) and [pronunciation](https://speakx.ai/blog/english-pronunciation-difficulty) and tells you what to work on next. A Confidence Meter and city leaderboards add light motivation. The recommended routine is [about 15 minutes a day](https://speakx.ai/blog/practice-spoken-english-alone-at-home) on your phone; there is no web version.",
   ],
   howCompetitorWorks: [
     "Duolingo organises each language into a path of units. Each lesson is a run of short exercises: match the word, translate the sentence, type what you hear, repeat a phrase aloud. Speaking is one exercise type among several, and the speech recognition checks whether you said the phrase, not how you handle an open conversation. English courses exist from Hindi, Bengali, Tamil and Telugu, and the interface is available in Hindi, Bengali, Kannada, Marathi, Punjabi, Tamil, Telugu and Urdu.",
@@ -70,7 +70,7 @@ const page: ComparisonPage = {
       body: "Both apps meet Indian learners in their own language, but differently. Duolingo offers English courses from Hindi, Bengali, Tamil and Telugu, and an interface in eight Indian languages, a wider UI footprint. SpeakX uses seven Indian languages for spoken explanations inside the conversation itself, then shifts you into English. Marathi, Kannada and Malayalam speakers get explanations on SpeakX, while Duolingo's English courses are not listed from those languages.",
     },
     {
-      title: "Interview, office and daily-life roleplays",
+      title: "Interview, office and daily-life [roleplays](https://speakx.ai/blog/master-real-life-english-your-guide-to-confident-daily-conversation)",
       body: "SpeakX roleplays are written for Indian life: a job interview, asking for a promotion, a parent-teacher meeting, a phone call, with 100 or more scenarios on Premium. Duolingo's Roleplay is a Max feature with general scenarios, and job interview or workplace English content is not verified from official sources. For someone preparing for placements or a new office, SpeakX is more direct.",
     },
     {
@@ -121,7 +121,7 @@ const page: ComparisonPage = {
     note: "Prices and trial terms change often and can differ between the web, Google Play and the App Store. Check the official SpeakX and Duolingo pages or the in-app purchase screen before you pay.",
   },
   uxAndFeedback: [
-    "SpeakX gives feedback the way a patient tutor would. During a call, Sia keeps the conversation moving and, on Premium, acts as a 24x7 AI teacher that corrects you as you go. After practice you get a progress report that scores fluency, vocabulary, grammar and pronunciation and points to what to work on next. A Confidence Meter tracks how freely you are speaking over time, and city leaderboards show how your practice compares with learners nearby. SpeakX says that in just 2 months, 4 out of 5 learners start speaking English confidently; treat that as a company claim rather than an independent result.",
+    "SpeakX gives feedback the way a patient tutor would. During a call, Sia keeps the conversation moving and, on Premium, acts as a 24x7 AI teacher that corrects you as you go. After practice you get a progress report that scores [fluency](https://speakx.ai/blog/english-speaking-fluency), vocabulary, grammar and pronunciation and points to what to work on next. A Confidence Meter tracks how freely you are speaking over time, and city leaderboards show how your practice compares with learners nearby. SpeakX says that in just 2 months, 4 out of 5 learners start speaking English confidently; treat that as a company claim rather than an independent result.",
     "Duolingo's feedback is immediate and binary inside each exercise: right or wrong, with the correct answer shown. The emotional feedback is where it shines. The owl reminders, streak freezes, league promotions and achievement badges are designed to make you open the app tomorrow, and they work for a lot of people. Grammar is taught mostly implicitly; the Explain My Answer feature that spells out why you were wrong is part of Duolingo Max.",
     "On speaking specifically, Duolingo's standard exercises check that you repeated a phrase; they do not score fluency or coach pronunciation in detail. Roleplay and Video Call in Max give AI feedback on a conversation, but for selected courses and at the paid tier. On SpeakX, every call is open conversation and every report covers pronunciation. A fair reading: Duolingo is better at telling you that you showed up and got the exercise right, and SpeakX is better at telling you how your spoken English is changing. If you use both, let Duolingo own the streak and SpeakX own the speaking.",
   ],
@@ -152,7 +152,7 @@ const page: ComparisonPage = {
     },
     {
       q: "How much do SpeakX and Duolingo cost in India?",
-      a: "SpeakX is free to start; Premium is ₹2 for a 3-day trial and then ₹299 per month on the SpeakX website, as of 12 October 2026. Duolingo's India prices are not published on its public pages; its Play listing shows in-app purchases from ₹19 to ₹19,900 per item and a 14-day free trial of Super Duolingo. All Duolingo language courses are free with ads.",
+      a: "SpeakX is free to start; Premium is ₹2 for a 3-day trial and then [₹299 per month](https://speakx.ai/premium) on the SpeakX website, as of 12 October 2026. Duolingo's India prices are not published on its public pages; its Play listing shows in-app purchases from ₹19 to ₹19,900 per item and a 14-day free trial of Super Duolingo. All Duolingo language courses are free with ads.",
     },
   ],
   related: [

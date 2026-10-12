@@ -18,7 +18,7 @@ const page: ComparisonPage = {
   },
   h1: "SpeakX vs Supernova: which spoken English app fits you?",
   quickAnswer: [
-    "SpeakX is an AI English speaking app for Indian learners, made by Ivypods Technology in Gurugram. Supernova AI: Spoken English is a structured spoken-English course app made by L8 Cones Interactive in Bengaluru.",
+    "SpeakX is an AI English speaking app for Indian learners, made by [Ivypods Technology](https://speakx.ai/about) in Gurugram. Supernova AI: Spoken English is a structured spoken-English course app made by L8 Cones Interactive in Bengaluru.",
     "SpeakX gets you talking from the first session through voice calls with Sia, its AI speaking partner, inside real-life roleplays, with explanations in 7 Indian languages.",
     "Supernova teaches lesson-first: you learn one sentence pattern, translate short lines from your mother tongue, chat with its AI tutor Nova, and revise with spaced repetition over about 20 minutes a day.",
     "Pick SpeakX if you want conversation-first practice with a published price (₹299/month after a ₹2 3-day trial). Pick Supernova if you prefer a fixed daily curriculum and do not mind finding the price inside the app.",
@@ -112,10 +112,10 @@ const page: ComparisonPage = {
     },
   ],
   howSpeakXWorks: [
-    "SpeakX treats speaking as the lesson, not the reward at the end of it. You pick a scenario and start a voice call with Sia, an AI speaking partner, so there is no human on the other side and no one judging a wrong tense. Sia asks, you answer, Sia responds to what you actually said. Because the practice is spoken rather than typed, you build the reflex of forming English sentences out loud.",
-    "The language scaffolding matters for hesitant beginners. SpeakX teaches in 7 Indian languages (Hindi, Marathi, Bengali, Telugu, Tamil, Kannada and Malayalam) and shifts the conversation into English as you get comfortable. Paths are mapped to CEFR levels from Pre-A1 to advanced, so someone who cannot yet introduce themselves and someone preparing for a promotion discussion both have a starting point. The Play listing puts it plainly: you do not need perfect English to begin.",
-    "Roleplays come from Indian adult life: job interviews, office conversations, higher studies, travel, parent-teacher meetings, phone calls and everyday chats with neighbours or relatives. Premium opens 100+ scenarios, a 24x7 AI teacher with instant feedback, and unlimited AI talk time. The free version lets you try the voice calls before paying. One clarification: SpeakX is not the same company as Speak (speak.com), a US-based app with a similar name.",
-    "After each session, a Progress Report shows movement on fluency, vocabulary, grammar and pronunciation and points to what to work on next. A Confidence Meter and city leaderboards add a light competitive layer. The routine is about 15 minutes a day, short enough to fit around college, shifts, housework or a commute.",
+    "SpeakX treats speaking as the lesson, not the reward at the end of it. You pick a scenario and start a voice call with [Sia](https://speakx.ai/), an AI speaking partner, so there is no human on the other side and no one judging a wrong tense. Sia asks, you answer, Sia responds to what you actually said. Because the practice is spoken rather than typed, you build the reflex of forming English sentences out loud.",
+    "The language scaffolding matters for hesitant beginners. SpeakX teaches in 7 Indian languages ([Hindi](https://speakx.ai/blog/100-simple-english-sentences-for-daily-use-with-hindi-meaning), Marathi, Bengali, Telugu, Tamil, Kannada and Malayalam) and shifts the conversation into English as you get comfortable. Paths are mapped to CEFR levels from [Pre-A1](https://speakx.ai/blog/unlock-confident-english-speaking-your-guide-to-daily-practice-and-learning-the-basics) to advanced, so someone who cannot yet introduce themselves and someone preparing for a promotion discussion both have a starting point. The Play listing puts it plainly: you do not need perfect English to begin.",
+    "Roleplays come from Indian adult life: [job interviews](https://speakx.ai/blog/interview-questions-answers-english-freshers), office conversations, higher studies, travel, [parent-teacher meetings](https://speakx.ai/blog/how-to-speak-english-fluently-in-parent-teacher-meetings-a-teachers-5-minute-daily-method), phone calls and everyday chats with neighbours or relatives. Premium opens 100+ scenarios, a 24x7 AI teacher with instant feedback, and unlimited AI talk time. The free version lets you try the voice calls before paying. One clarification: SpeakX is not the same company as Speak (speak.com), a US-based app with a similar name.",
+    "After each session, a Progress Report shows movement on fluency, vocabulary, [grammar](https://speakx.ai/blog/english-grammar-tenses) and [pronunciation](https://speakx.ai/blog/english-pronunciation-difficulty) and points to what to work on next. A Confidence Meter and city leaderboards add a light competitive layer. The routine is [about 15 minutes a day](https://speakx.ai/blog/practice-spoken-english-alone-at-home), short enough to fit around college, shifts, housework or a commute.",
   ],
   howCompetitorWorks: [
     "Supernova's method is published on its own website, which makes it easy to describe. The company says you learn a language by speaking it out loud, but its route to speaking is a curriculum rather than an open conversation. Every day you get a personalised lesson of roughly 20 minutes. It begins with a single sentence pattern, explained in your mother tongue.",
@@ -232,7 +232,7 @@ const page: ComparisonPage = {
       "Prices, trial terms and in-app purchase ranges change often and can differ by platform and offer. Check speakx.ai/premium and Supernova's official store listings before you pay.",
   },
   uxAndFeedback: [
-    "On SpeakX, feedback happens during and after the conversation. Sia responds in the moment, and Premium adds a 24x7 AI teacher that gives instant feedback on mistakes. After practice, the Progress Report shows four scores (fluency, vocabulary, grammar, pronunciation) and suggests what to work on next. A Confidence Meter and city leaderboards show how you compare with other learners in your city.",
+    "On SpeakX, feedback happens during and after the conversation. Sia responds in the moment, and Premium adds a 24x7 AI teacher that gives instant feedback on mistakes. After practice, the Progress Report shows four scores ([fluency](https://speakx.ai/blog/english-speaking-fluency), vocabulary, grammar, pronunciation) and suggests what to work on next. A Confidence Meter and city leaderboards show how you compare with other learners in your city.",
     "On Supernova, feedback is tied to the lesson structure. Nova provides instant grammar corrections, pronunciation help and personalised feedback, according to the App Store listing, and the controlled-chat stage keeps you inside the pattern you just learned, so corrections stay focused. The spaced-repetition schedule is itself a form of feedback: material returns on a set timetable. A progress dashboard is mentioned in a homepage testimonial but is not documented as a feature, so we cannot describe what it shows.",
     "Neither app offers human tutors; both are AI-only. Gamification such as streaks or badges is not described on Supernova's official pages, while SpeakX offers a Confidence Meter and leaderboards.",
     "On outcomes, SpeakX says that in just 2 months, 4 out of 5 learners start speaking English confidently. That is the company's own claim, not independently verified. Supernova's homepage carries user and rating figures that do not match its store listings on the day we checked, so we have relied on the store listings.",
@@ -252,7 +252,7 @@ const page: ComparisonPage = {
     },
     {
       q: "How much does SpeakX cost compared with Supernova?",
-      a: "SpeakX Premium is ₹2 for a 3-day trial and then ₹299 per month, as of 12 October 2026 on the SpeakX website. Supernova does not publish a price list; its App Store (India) in-app purchases range from ₹99 to ₹1,999 and Play items from ₹100 to ₹21,200, so the exact plan price appears inside the app. Both apps are free to start.",
+      a: "SpeakX Premium is ₹2 for a 3-day trial and then [₹299 per month](https://speakx.ai/premium), as of 12 October 2026 on the SpeakX website. Supernova does not publish a price list; its App Store (India) in-app purchases range from ₹99 to ₹1,999 and Play items from ₹100 to ₹21,200, so the exact plan price appears inside the app. Both apps are free to start.",
     },
     {
       q: "Which app has more real-life roleplays, SpeakX or Supernova?",
@@ -264,7 +264,7 @@ const page: ComparisonPage = {
     },
     {
       q: "Which Supernova app is this comparison about?",
-      a: "This page compares SpeakX with Supernova AI: Spoken English by L8 Cones Interactive Private Limited, Bengaluru, on Google Play and the App Store, website getsupernova.ai. It is not about supernova.io (a design-system tool) or other products sharing the name.",
+      a: "This page compares SpeakX with Supernova AI: Spoken English by L8 Cones Interactive Private Limited, Bengaluru, on [Google Play](https://play.google.com/store/apps/details?id=yellowclass.kids.live) and the App Store, website getsupernova.ai. It is not about supernova.io (a design-system tool) or other products sharing the name.",
     },
     {
       q: "Does Supernova track progress like SpeakX's Progress Report?",

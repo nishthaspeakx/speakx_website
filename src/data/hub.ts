@@ -13,7 +13,7 @@ export const hubContent = {
       "Compare SpeakX with Duolingo, ELSA Speak, Speak, Supernova, MySivi and Stimuler on speaking practice, Indian-language support, price and features.",
     keywords: ["SpeakX vs", "English speaking app comparison", "AI English speaking app", "english learning app", "english conversation practice"],
   },
-  h1: "SpeakX vs Other English Speaking Apps: Find the Right App for You",
+  h1: "SpeakX vs Other English Speaking Apps: Why SpeakX Is the Right App for You?",
   subtitle:
     "Compare SpeakX with Supernova, MySivi, Duolingo, Stimuler, ELSA Speak and Speak. Explore AI speaking practice, Indian-language support, real-life conversations, pronunciation tools and learning methods to find the right fit.",
   trustSignals: [
@@ -39,12 +39,12 @@ export const hubContent = {
     "ios",
   ] as DimensionKey[],
   differentiators: [
-    { icon: "🎙️", title: "Voice calls with Sia, your AI speaking partner", body: "Sia is SpeakX's AI speaking partner. You talk to Sia on voice calls, so practice feels like a real conversation rather than tapping answers." },
-    { icon: "🇮🇳", title: "English explained in 7 Indian languages", body: "Hindi, Marathi, Bengali, Telugu, Tamil, Kannada and Malayalam. You learn English through the language you already think in." },
-    { icon: "💼", title: "Roleplays for the moments that matter", body: "Job interviews, office conversations, parent-teacher meetings and phone calls: rehearse the real situations you will face." },
-    { icon: "🧭", title: "A path from Pre-A1 to advanced", body: "CEFR-aligned paths mean a complete beginner and an intermediate speaker both start at the right level and move up step by step." },
-    { icon: "📈", title: "A progress report that speaks plainly", body: "SpeakX tracks fluency, vocabulary, grammar and pronunciation, and a Confidence Meter shows how far you have come." },
-    { icon: "⏱️", title: "15 minutes a day, free to start", body: "Short daily sessions fit around college, work and home. SpeakX is free to download; Premium adds a 24x7 AI teacher, 100+ scenarios and unlimited AI talk time." },
+    { icon: "🎙️", title: "Voice calls with Sia, your AI speaking partner", body: "[Sia](https://speakx.ai/) is SpeakX's AI speaking partner. You talk to Sia on voice calls, so practice feels like a real conversation rather than tapping answers." },
+    { icon: "🇮🇳", title: "English explained in 7 Indian languages", body: "Hindi, Marathi, Bengali, Telugu, Tamil, Kannada and Malayalam. You learn English through the language you already think in, starting with [simple sentences explained in Hindi](https://speakx.ai/blog/100-simple-english-sentences-for-daily-use-with-hindi-meaning)." },
+    { icon: "💼", title: "Roleplays for the moments that matter", body: "[Job interviews](https://speakx.ai/blog/interview-questions-answers-english-freshers), office conversations, [parent-teacher meetings](https://speakx.ai/blog/how-to-speak-english-fluently-in-parent-teacher-meetings-a-teachers-5-minute-daily-method) and phone calls: rehearse the real situations you will face." },
+    { icon: "🧭", title: "A path from Pre-A1 to advanced", body: "CEFR-aligned paths mean a [complete beginner](https://speakx.ai/blog/unlock-confident-english-speaking-your-guide-to-daily-practice-and-learning-the-basics) and an intermediate speaker both start at the right level and move up step by step." },
+    { icon: "📈", title: "A progress report that speaks plainly", body: "SpeakX tracks [fluency](https://speakx.ai/blog/english-speaking-fluency), vocabulary, [grammar](https://speakx.ai/blog/english-grammar-tenses) and [pronunciation](https://speakx.ai/blog/english-pronunciation-difficulty), and a Confidence Meter shows how far you have come." },
+    { icon: "⏱️", title: "15 minutes a day, free to start", body: "[Short daily sessions](https://speakx.ai/blog/practice-spoken-english-alone-at-home) fit around college, work and home. SpeakX is free to download; [Premium](https://speakx.ai/premium) adds a 24x7 AI teacher, 100+ scenarios and unlimited AI talk time." },
   ],
   screenshots: [
     { src: "/images/speakx-screen-1.webp", alt: "SpeakX home screen showing the daily lesson and Sia voice-call button", caption: "Daily lesson and Sia voice call" },
@@ -62,14 +62,14 @@ export const hubContent = {
     { title: "Read the full guide", body: "Our long-form guide walks through the English speaking apps available in India and how to choose.", links: [{ label: "Best English speaking apps in India: SpeakX vs competitors", href: SITE.links.comparisonArticle }] as LinkItem[] },
   ],
   faqs: [
-    { q: "What is SpeakX?", a: "SpeakX is an AI English speaking app for Indian learners, made by Ivypods Technology in Gurugram. Learners practise speaking with Sia, an AI speaking partner, on voice calls, rehearse real-life roleplays such as job interviews and office conversations, and get explanations in 7 Indian languages. It is built for young adults and older learners who want to speak English confidently and fluently." },
+    { q: "What is SpeakX?", a: "SpeakX is an AI English speaking app for Indian learners, made by [Ivypods Technology in Gurugram](https://speakx.ai/about). Learners practise speaking with Sia, an AI speaking partner, on voice calls, rehearse real-life roleplays such as job interviews and office conversations, and get explanations in 7 Indian languages. It is built for young adults and older learners who want to speak English confidently and fluently." },
     { q: "Which English speaking app is best in India?", a: "It depends on what you need. If you want AI conversation practice with explanations in Hindi, Marathi, Bengali, Telugu, Tamil, Kannada or Malayalam, SpeakX is built for that. If you want a game-like course across many languages, Duolingo is the better-known choice. If pronunciation drilling is your priority, ELSA Speak specialises in it. Each comparison page on this hub explains who each app suits." },
     { q: "Does SpeakX support Hindi and other Indian languages?", a: "Yes. SpeakX explains English in 7 Indian languages: Hindi, Marathi, Bengali, Telugu, Tamil, Kannada and Malayalam. The speaking practice itself is in English." },
-    { q: "Is SpeakX free?", a: "SpeakX is free to download and start. Premium, which adds a 24x7 AI teacher with instant feedback, 100+ real-life speaking scenarios and unlimited talk time with AI, has a 3-day trial for ₹2 and then costs ₹299 a month on the SpeakX website at the time of writing. It auto-renews monthly and can be cancelled anytime." },
+    { q: "Is SpeakX free?", a: "SpeakX is free to download and start. Premium, which adds a 24x7 AI teacher with instant feedback, 100+ real-life speaking scenarios and unlimited talk time with AI, has a 3-day trial for ₹2 and then costs [₹299 a month on the SpeakX website](https://speakx.ai/premium) at the time of writing. It auto-renews monthly and can be cancelled anytime." },
     { q: "Is SpeakX the same as Speak?", a: "No. Speak (speak.com) is a different company based in the United States. SpeakX is made by Ivypods Technology in Gurugram, India. We compare the two on the SpeakX vs Speak page." },
-    { q: "Which app is best for job interview English?", a: "Look for an app with interview roleplays and feedback on how you actually sound. SpeakX includes job interview roleplays practised on voice calls with Sia, with a progress report on fluency, vocabulary, grammar and pronunciation. Our Stimuler and Speak comparisons cover other apps with interview-style practice." },
-    { q: "How much time does SpeakX take each day?", a: "About 15 minutes a day. Lessons are short and follow CEFR-aligned paths from Pre-A1 to advanced." },
+    { q: "Which app is best for job interview English?", a: "Look for an app with interview roleplays and feedback on how you actually sound. SpeakX includes [job interview roleplays](https://speakx.ai/blog/how-to-improve-english-speaking-fluency-for-job-interviews-a-guide-for-indian-professionals) practised on voice calls with Sia, with a progress report on fluency, vocabulary, grammar and pronunciation. Our Stimuler and Speak comparisons cover other apps with interview-style practice." },
+    { q: "How much time does SpeakX take each day?", a: "About 15 minutes a day. Lessons are short and follow CEFR-aligned paths from Pre-A1 to advanced. See the [15-minute routine for practising alone at home](https://speakx.ai/blog/practice-spoken-english-alone-at-home)." },
     { q: "How do you keep these comparisons fair?", a: "Every feature mark comes from an official source: the app's own website, help centre or store listing. Where we could not confirm a detail, the page says “not verified” rather than guessing. We also list where each competitor may be the better choice, and we show the date each page was last verified." },
-    { q: "Who uses SpeakX?", a: "Students, job-seekers, working professionals, parents and homemakers: anyone who understands some English but wants to speak it confidently. SpeakX has 1 crore+ downloads and a 4.5-star rating from 92.9K reviews on Google Play." },
+    { q: "Who uses SpeakX?", a: "Students, job-seekers, working professionals, parents and homemakers: anyone who understands some English but wants to speak it confidently. SpeakX has 1 crore+ downloads and a 4.5-star rating from 92.9K reviews on [Google Play](https://play.google.com/store/apps/details?id=yellowclass.kids.live)." },
   ] as FAQ[],
 };

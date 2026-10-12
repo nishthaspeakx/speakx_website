@@ -2,6 +2,7 @@
 
 import { track } from "@/lib/analytics";
 import type { FAQ } from "@/lib/types";
+import { rich } from "@/lib/richtext";
 
 export default function FaqSection({ faqs, pageSlug }: { faqs: FAQ[]; pageSlug: string }) {
   return (
@@ -20,7 +21,7 @@ export default function FaqSection({ faqs, pageSlug }: { faqs: FAQ[]; pageSlug: 
             <span>{f.q}</span>
             <span aria-hidden="true" className="grid h-7 w-7 shrink-0 place-items-center rounded-full bg-brand-soft text-brand-dark transition-transform group-open:rotate-45">+</span>
           </summary>
-          <p className="prose-vs mt-3 text-[15px] leading-relaxed">{f.a}</p>
+          <p className="prose-vs mt-3 text-[15px] leading-relaxed">{rich(f.a, pageSlug)}</p>
         </details>
       ))}
     </div>

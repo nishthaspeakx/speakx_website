@@ -19,7 +19,7 @@ const page: ComparisonPage = {
   },
   h1: "SpeakX vs MySivi: AI spoken English apps compared",
   quickAnswer: [
-    "SpeakX is an AI English speaking app for Indian learners, made by Ivypods Technology in Gurugram. You practise on voice calls with Sia, its AI speaking partner, in real-life roleplays for about 15 minutes a day, with explanations in seven Indian languages.",
+    "SpeakX is an AI English speaking app for Indian learners, made by [Ivypods Technology](https://speakx.ai/about) in Gurugram. You practise on voice calls with Sia, its AI speaking partner, in real-life roleplays for about 15 minutes a day, with explanations in seven Indian languages.",
     "MySivi is a Bengaluru-based, Y Combinator-backed AI English speaking app built around an AI coach with topic-based chats and tasks, a guided lesson path, word translations in Hindi, Tamil, Telugu, Marathi, Bengali and Urdu, streaks and badges, and IELTS, TOEFL and placement goals.",
     "Pick SpeakX if you want to speak out loud on a call, be guided in your own language from Pre-A1 upwards, and pay ₹299 a month after a ₹2 three-day trial (SpeakX website, as of 12 October 2026).",
     "Pick MySivi if exam-aware practice, streaks, Urdu translation or offline modules matter more, and its India App Store price of ₹999 a month (as of 12 October 2026) fits your budget.",
@@ -113,9 +113,9 @@ const page: ComparisonPage = {
     },
   ],
   howSpeakXWorks: [
-    "SpeakX treats spoken English as a speaking problem, not a reading problem. Each day you take a voice call with Sia, the AI speaking partner, who plays the interviewer, your manager, your child's class teacher or the person on a phone call. You answer out loud, in real time, as you would with a human. A session takes about 15 minutes.",
-    "The app is designed for learners who hesitate. Explanations begin in your own language, whether Hindi, Marathi, Bengali, Telugu, Tamil, Kannada or Malayalam, and the conversation moves to English step by step. Paths are mapped to CEFR levels from Pre-A1 up to advanced, so a first-time speaker and a working professional are not given the same conversation.",
-    "After you speak, SpeakX keeps a progress report across fluency, vocabulary, grammar and pronunciation, with a Confidence Meter and city leaderboards for motivation. Premium adds a 24x7 AI teacher with instant feedback, 100+ real-life scenarios and unlimited AI talk time. The app is free to start; Premium is a 3-day trial for ₹2, then ₹299 a month on the SpeakX website, as of 12 October 2026.",
+    "SpeakX treats spoken English as a speaking problem, not a reading problem. Each day you take a voice call with [Sia](https://speakx.ai/), the AI speaking partner, who plays the interviewer, your manager, your child's class teacher or the person on a phone call. You answer out loud, in real time, as you would with a human. A session takes [about 15 minutes](https://speakx.ai/blog/practice-spoken-english-alone-at-home).",
+    "The app is designed for learners who hesitate. Explanations begin in your own language, whether [Hindi](https://speakx.ai/blog/100-simple-english-sentences-for-daily-use-with-hindi-meaning), Marathi, Bengali, Telugu, Tamil, Kannada or Malayalam, and the conversation moves to English step by step. Paths are mapped to CEFR levels from [Pre-A1](https://speakx.ai/blog/unlock-confident-english-speaking-your-guide-to-daily-practice-and-learning-the-basics) up to advanced, so a first-time speaker and a working professional are not given the same conversation.",
+    "After you speak, SpeakX keeps a progress report across fluency, vocabulary, [grammar](https://speakx.ai/blog/english-grammar-tenses) and [pronunciation](https://speakx.ai/blog/english-pronunciation-difficulty), with a Confidence Meter and city leaderboards for motivation. Premium adds a 24x7 AI teacher with instant feedback, 100+ real-life scenarios and unlimited AI talk time. The app is free to start; Premium is a 3-day trial for ₹2, then [₹299 a month](https://speakx.ai/premium) on the SpeakX website, as of 12 October 2026.",
     "SpeakX was recognised at the ET Education Excellence Awards 2026 for Excellence in Generative AI for Education. Its outcome claim is its own and is quoted as such later on this page.",
   ],
   howCompetitorWorks: [
@@ -150,7 +150,7 @@ const page: ComparisonPage = {
     "Learners who freeze when speaking: Sia keeps the conversation going on a voice call rather than waiting for a typed or short task answer.",
     "Hindi-medium and regional-language learners who want explanations, not just translations, in Hindi, Marathi, Bengali, Telugu, Tamil, Kannada or Malayalam.",
     "Absolute beginners, because paths start at CEFR Pre-A1 and the app says you do not need perfect English to start.",
-    "Indian life situations: parent-teacher meetings, office conversations, phone calls and interviews are built-in roleplays, with 100+ scenarios on Premium.",
+    "Indian life situations: [parent-teacher meetings](https://speakx.ai/blog/how-to-speak-english-fluently-in-parent-teacher-meetings-a-teachers-5-minute-daily-method), office conversations, phone calls and interviews are built-in [roleplays](https://speakx.ai/blog/master-real-life-english-your-guide-to-confident-daily-conversation), with 100+ scenarios on Premium.",
     "Budget-conscious learners: ₹299 a month after a ₹2 trial is roughly a third of MySivi's ₹999 App Store monthly price (both India, 12 October 2026).",
     "Learners who want to see improvement in numbers: a progress report on fluency, vocabulary, grammar and pronunciation, plus a Confidence Meter.",
   ],
@@ -233,9 +233,9 @@ const page: ComparisonPage = {
     note: "Prices change often and can differ between the website, Google Play and the App Store. Check the official SpeakX Premium page and MySivi's store listings before you pay.",
   },
   uxAndFeedback: [
-    "On SpeakX, feedback is tied to the call. Sia listens to the whole conversation, and after the session you see where you hesitated and how your grammar and pronunciation held up. Over days this builds a progress report across fluency, vocabulary, grammar and pronunciation, and the Confidence Meter shows how comfortable you are becoming. Premium adds a 24x7 AI teacher with instant feedback.",
+    "On SpeakX, feedback is tied to the call. Sia listens to the whole conversation, and after the session you see where you hesitated and how your grammar and pronunciation held up. Over days this builds a progress report across [fluency](https://speakx.ai/blog/english-speaking-fluency), vocabulary, grammar and pronunciation, and the Confidence Meter shows how comfortable you are becoming. Premium adds a 24x7 AI teacher with instant feedback.",
     "The outcome claim is the company's own: SpeakX says that in just 2 months, 4 out of 5 learners start speaking English confidently. Treat it as a company statement, not an independent finding.",
-    "MySivi's feedback, as described on Google Play, is immediate and correction-led. The AI coach corrects mistakes as you go, offers grammar improvements and fluency tips, and gives personalised feedback on lessons. Word translations into Hindi, Tamil, Telugu, Marathi, Bengali or Urdu remove the friction of not knowing a word mid-practice. Streaks, badges and points reward consistency.",
+    "MySivi's feedback, as described on [Google Play](https://play.google.com/store/apps/details?id=yellowclass.kids.live), is immediate and correction-led. The AI coach corrects mistakes as you go, offers grammar improvements and fluency tips, and gives personalised feedback on lessons. Word translations into Hindi, Tamil, Telugu, Marathi, Bengali or Urdu remove the friction of not knowing a word mid-practice. Streaks, badges and points reward consistency.",
     "What we could not verify for MySivi is the long view: a progress report, a placement test and a scenario catalogue are not described on its official listings. If a trend line of your speaking matters, SpeakX's progress report is the clearer offer today; if in-the-moment corrections and rewards matter more, MySivi's listing speaks directly to that.",
   ],
   faqs: [
