@@ -73,7 +73,7 @@ export const products: Record<string, Product> = {
       },
       "ai_conversation_practice": {
         "value": "yes",
-        "note": "'Meet Sia, your AI English practice partner... Ppractice real-life conversations'; Premium: 'Unlimited talktime with AI 24x7'.",
+        "note": "'Meet Sia, your AI English practice partner... Practice real-life conversations'; Premium: 'Unlimited talktime with AI 24x7'.",
         "source": "https://speakx.ai/premium"
       },
       "structured_course_progression": {
@@ -93,7 +93,7 @@ export const products: Record<string, Product> = {
       },
       "speaking_practice": {
         "value": "yes",
-        "note": "Core product: 'Speak English every day' with Sia on voice calls; 'Ppractice speaking English out loud, about fifteen minutes a day'.",
+        "note": "Core product: 'Speak English every day' with Sia on voice calls; 'Practice speaking English out loud, about fifteen minutes a day'.",
         "source": "https://speakx.ai/"
       },
       "real_life_roleplays": {
@@ -190,7 +190,7 @@ export const products: Record<string, Product> = {
       "No exam-specific IELTS/TOEFL band scoring described on official pages (Stimuler and ELSA offer this).",
       "App Store (India) footprint is small and new (258 ratings) compared with the Play listing."
     ],
-    "bestFit": "Indian adults who understand Hindi or another supported Indian language and want to actually speak English for interviews, work, studies, or family life, ppracticing ~15 minutes a day on a phone. Suits hesitant beginners who want explanations in their own language and judgment-free voice practice.",
+    "bestFit": "Indian adults who understand Hindi or another supported Indian language and want to actually speak English for interviews, work, studies, or family life, practicing ~15 minutes a day on a phone. Suits hesitant beginners who want explanations in their own language and judgment-free voice practice.",
     "sources": [
       {
         "label": "speakx.ai/",
@@ -448,7 +448,7 @@ export const products: Record<string, Product> = {
     "founded": "2022 (Y Combinator profile: Founded 2022, batch W22; Inc42: Sept 2022 as Speakify AI) - verified via YC page",
     "primaryObjective": "Confident spoken English for interviews, classes and daily talk; exam prep (IELTS/TOEFL).",
     "targetLearner": "Indian beginners, students, professionals; copy mixes Hindi ('aur har conversation mein confidently English bole').",
-    "teachingMethod": "AI-coach conversation practice (topic-based chats, real-time tasks) with instant corrections, a structured guided lesson path, translations in Indian languages, gamified rewards, exam/interview practice; YC page also describes ppracticing with humans (peer practice).",
+    "teachingMethod": "AI-coach conversation practice (topic-based chats, real-time tasks) with instant corrections, a structured guided lesson path, translations in Indian languages, gamified rewards, exam/interview practice; YC page also describes practicing with humans (peer practice).",
     "languagesTaught": "English only",
     "interfaceLanguages": "English with word translations in Hindi, Tamil, Telugu, Marathi, Bengali, Urdu and more",
     "humanOrAi": "AI tutor plus peer practice (claimed)",
@@ -1284,7 +1284,7 @@ export const products: Record<string, Product> = {
       "Free tier is thin (first 2 lessons per topic); premium SKUs in India are complex (₹499/month to ₹12,900/year).",
       "Oriented to pronunciation drills; voice-call style free conversation is a newer add-on rather than the core."
     ],
-    "bestFit": "Intermediate professionals and exam candidates who want to fix pronunciation and accent with precise feedback, ppractice workplace/interview role-plays, and can work in English (or Hindi) UI.",
+    "bestFit": "Intermediate professionals and exam candidates who want to fix pronunciation and accent with precise feedback, practice workplace/interview role-plays, and can work in English (or Hindi) UI.",
     "sources": [
       {
         "label": "elsaspeak.com/en/",

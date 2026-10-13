@@ -1,6 +1,9 @@
 """Transforms research/competitors.json into src/data/products.ts and downloads official logos.
 Run from the speakx-vs folder: python3 scripts/build-products.py
 """
+import sys, os
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from us_english import us_english
 import json, re, os, urllib.request, pathlib
 ROOT = pathlib.Path(__file__).resolve().parents[1]
 SRC = ROOT.parent / "research" / "competitors.json"
@@ -99,7 +102,7 @@ ts += 'import type { Product } from "@/lib/types";\n\n'
 ts += "export const products: Record<string, Product> = " + json.dumps(products, ensure_ascii=False, indent=2) + " as Record<string, Product>;\n\n"
 ts += "export const speakx: Product = products.speakx;\n"
 ts += "export const competitorOrder = " + json.dumps(order) + " as const;\n"
-OUT.write_text(ts)
+OUT.write_text(us_english(ts))
 print("wrote", OUT, "products:", list(products))
 for s, p in products.items():
     print(s, p["brandColor"], p["pricing"]["summary"][:90], "|", p["pricing"]["status"])

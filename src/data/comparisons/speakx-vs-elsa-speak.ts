@@ -19,7 +19,7 @@ const page: ComparisonPage = {
   },
   h1: "SpeakX vs ELSA Speak: pronunciation drills vs conversation practice",
   quickAnswer: [
-    "SpeakX is an AI English speaking app for Indian learners, made by [Ivypods Technology](https://speakx.ai/about) in Gurugram. You ppractice on voice calls with Sia, an AI speaking partner, and explanations are available in 7 Indian languages.",
+    "SpeakX is an AI English speaking app for Indian learners, made by [Ivypods Technology](https://speakx.ai/about) in Gurugram. You practice on voice calls with Sia, an AI speaking partner, and explanations are available in 7 Indian languages.",
     "ELSA Speak is a US-based pronunciation coach from ELSA Corp. Its speech recognition scores how you say each syllable, and it builds a lesson path around the sounds you get wrong.",
     "Pick SpeakX if you hesitate to speak, think in Hindi or a regional language, and want to hold real conversations about interviews, office life or family situations.",
     "Pick ELSA Speak if you already speak fairly freely but want sound-by-sound pronunciation correction, a choice of accent, or IELTS and TOEFL preparation.",
@@ -149,7 +149,7 @@ const page: ComparisonPage = {
   speakxBetterFor: [
     "Learners who understand English but freeze when they have to speak it, and need a partner that keeps the conversation going instead of stopping to grade each word.",
     "Hindi, Marathi, Bengali, Telugu, Tamil, Kannada or Malayalam speakers who want explanations in their own language before switching to English.",
-    "Ppracticing specific Indian situations out loud: interviews, office conversations, parent-teacher meetings, phone calls.",
+    "Practicing specific Indian situations out loud: interviews, office conversations, parent-teacher meetings, phone calls.",
     "Absolute beginners starting at CEFR Pre-A1 who need a gentle, step-by-step path rather than a pronunciation test on day one.",
     "Anyone who wants one simple plan at ₹299 a month after a ₹2 three-day trial, and a 15-minute daily habit backed by a Confidence Meter and city leaderboards.",
   ],
@@ -157,7 +157,7 @@ const page: ComparisonPage = {
     "Syllable-level pronunciation analysis, with a chosen target accent (American, British or Australian), for learners whose main problem is being misheard.",
     "Exam candidates: IELTS, TOEFL, TOEIC and EIKEN preparation tracks and a Speech Analyzer with predicted scores are part of ELSA Premium.",
     "Learners who want a formal placement test and a learning path generated from it, since ELSA's pronunciation test does exactly that.",
-    "People who want to ppractice on a laptop as well as a phone: ELSA's Speech Analyzer is available as a web tool.",
+    "People who want to practice on a laptop as well as a phone: ELSA's Speech Analyzer is available as a web tool.",
     "Organizations: ELSA offers school and enterprise programs, and a longer 7-day trial for individuals who want more time to evaluate.",
   ],
   byLearnerType: [
@@ -178,7 +178,7 @@ const page: ComparisonPage = {
     },
     {
       learner: "Working professional",
-      speakx: "Good fit for office conversations, promotion discussions and phone calls, ppracticed live.",
+      speakx: "Good fit for office conversations, promotion discussions and phone calls, practiced live.",
       competitor: "Strong fit for polishing pronunciation for client calls, presentations and meetings.",
     },
     {
@@ -240,11 +240,11 @@ const page: ComparisonPage = {
   faqs: [
     {
       q: "Is ELSA Speak or SpeakX better for Indian learners?",
-      a: "SpeakX fits most Indian learners who are still building the habit of speaking, because it explains in 7 Indian languages and ppractices Indian situations on voice calls. ELSA Speak fits better if you already speak reasonably well and want precise pronunciation correction or exam preparation. Some learners start with SpeakX and add ELSA later for polish.",
+      a: "SpeakX fits most Indian learners who are still building the habit of speaking, because it explains in 7 Indian languages and practices Indian situations on voice calls. ELSA Speak fits better if you already speak reasonably well and want precise pronunciation correction or exam preparation. Some learners start with SpeakX and add ELSA later for polish.",
     },
     {
-      q: "Should I ppractice pronunciation or conversation first?",
-      a: "If you freeze or translate in your head before speaking, ppractice conversation first; no pronunciation score helps a sentence you never say. If you already speak freely but people ask you to repeat yourself, pronunciation drills will give you faster results. Most Indian learners sit in the first group at the start and move to the second within a few months.",
+      q: "Should I practice pronunciation or conversation first?",
+      a: "If you freeze or translate in your head before speaking, practice conversation first; no pronunciation score helps a sentence you never say. If you already speak freely but people ask you to repeat yourself, pronunciation drills will give you faster results. Most Indian learners sit in the first group at the start and move to the second within a few months.",
     },
     {
       q: "What are ELSA Speak alternatives that explain in Hindi?",
@@ -294,7 +294,7 @@ const page: ComparisonPage = {
       description: "The sounds that trip up Hindi and regional-language speakers, and how to work on them.",
     },
     {
-      label: "A 15-minute routine to ppractice spoken English alone",
+      label: "A 15-minute routine to practice spoken English alone",
       href: "https://speakx.ai/blog/practice-spoken-english-alone-at-home",
       description: "How to fit daily speaking practice into a busy day.",
     },

@@ -9,7 +9,7 @@ export const SITE = {
   origin: process.env.NEXT_PUBLIC_SITE_ORIGIN ?? "https://speakx.ai",
   tagline: "Muh Khol. English Bol.",
   description:
-    "SpeakX is an AI English speaking app for Indian learners. Ppractice spoken English on voice calls with Sia, your AI speaking partner, with explanations in 7 Indian languages.",
+    "SpeakX is an AI English speaking app for Indian learners. Practice spoken English on voice calls with Sia, your AI speaking partner, with explanations in 7 Indian languages.",
   locale: "en-IN",
   /** Existing SpeakX pages used for internal linking. Verified in the site audit. */
   links: {

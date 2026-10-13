@@ -19,7 +19,7 @@ const page: ComparisonPage = {
   },
   h1: "SpeakX vs Stimuler: AI English speaking practice compared",
   quickAnswer: [
-    "SpeakX is an AI English speaking app for Indian learners, made by [Ivypods Technology](https://speakx.ai/about) in Gurugram. You ppractice on guided voice calls with Sia, its AI speaking partner, with explanations in 7 Indian languages and roleplays for interviews, office and daily life.",
+    "SpeakX is an AI English speaking app for Indian learners, made by [Ivypods Technology](https://speakx.ai/about) in Gurugram. You practice on guided voice calls with Sia, its AI speaking partner, with explanations in 7 Indian languages and roleplays for interviews, office and daily life.",
     "Stimuler is a voice-first AI English coach from Stimuler Private Limited. You record 60-second speeches or chat with its AI coach, and it returns detailed feedback on pronunciation, fluency, grammar, vocabulary, fillers, pace and tone, along with an IELTS band prediction.",
     "Pick SpeakX if you are starting from a low level, want Hindi or regional-language explanations, and prefer structured practice that builds everyday confidence.",
     "Pick Stimuler if you already speak intermediate English, are comfortable reading feedback in English, and want exam-style scoring or very granular speech analytics.",
@@ -114,7 +114,7 @@ const page: ComparisonPage = {
   ],
   howSpeakXWorks: [
     "Where Stimuler asks you to perform and then grades you, SpeakX asks you to talk and helps you keep talking. Each session is a voice call with [Sia](https://speakx.ai/), who asks questions, listens, corrects a wrong tense or a missing article, and explains why in the language you chose at setup. If you think in [Hindi](https://speakx.ai/blog/100-simple-english-sentences-for-daily-use-with-hindi-meaning) or Tamil, you hear the fix in Hindi or Tamil, which removes the translation step that slows many first-time speakers down.",
-    "Practice is organized as [roleplays](https://speakx.ai/blog/master-real-life-english-your-guide-to-confident-daily-conversation) rather than open prompts: a [job interview](https://speakx.ai/blog/interview-questions-answers-english-freshers), a conversation with your manager, a [parent-teacher meeting](https://speakx.ai/blog/how-to-speak-english-fluently-in-parent-teacher-meetings-a-teachers-5-minute-daily-method), a phone call to a service center. The scenarios are built around situations Indian learners actually face, so the vocabulary and tone you ppractice are the ones you will use. Premium opens 100+ real-life scenarios and unlimited AI talk time with a 24x7 AI teacher.",
+    "Practice is organized as [roleplays](https://speakx.ai/blog/master-real-life-english-your-guide-to-confident-daily-conversation) rather than open prompts: a [job interview](https://speakx.ai/blog/interview-questions-answers-english-freshers), a conversation with your manager, a [parent-teacher meeting](https://speakx.ai/blog/how-to-speak-english-fluently-in-parent-teacher-meetings-a-teachers-5-minute-daily-method), a phone call to a service center. The scenarios are built around situations Indian learners actually face, so the vocabulary and tone you practice are the ones you will use. Premium opens 100+ real-life scenarios and unlimited AI talk time with a 24x7 AI teacher.",
     "SpeakX places you on a CEFR path from [Pre-A1](https://speakx.ai/blog/unlock-confident-english-speaking-your-guide-to-daily-practice-and-learning-the-basics) to advanced. This matters here: a learner who cannot yet form a full sentence has a clear starting point, which Stimuler's official pages do not describe. A report tracks fluency, vocabulary, [grammar](https://speakx.ai/blog/english-grammar-tenses) and [pronunciation](https://speakx.ai/blog/english-pronunciation-difficulty), a Confidence Meter shows how comfortably you are speaking, and city leaderboards add a light competitive element.",
     "The time commitment is modest, [about 15 minutes a day](https://speakx.ai/blog/practice-spoken-english-alone-at-home), and the app is free to start. The ₹2 3-day Premium trial and [₹299](https://speakx.ai/premium) monthly plan are covered in the pricing section below.",
   ],
@@ -303,7 +303,7 @@ const page: ComparisonPage = {
       description: "Practical prep for the interview roleplays discussed above.",
     },
     {
-      label: "A 15-minute routine to ppractice spoken English alone at home",
+      label: "A 15-minute routine to practice spoken English alone at home",
       href: "https://speakx.ai/blog/practice-spoken-english-alone-at-home",
       description: "Fits the daily habit both apps try to build.",
     },

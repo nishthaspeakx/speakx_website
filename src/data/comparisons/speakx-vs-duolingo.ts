@@ -56,7 +56,7 @@ const page: ComparisonPage = {
   ],
   howCompetitorWorks: [
     "Duolingo organizes each language into a path of units. Each lesson is a run of short exercises: match the word, translate the sentence, type what you hear, repeat a phrase aloud. Speaking is one exercise type among several, and the speech recognition checks whether you said the phrase, not how you handle an open conversation. English courses exist from Hindi, Bengali, Tamil and Telugu, and the interface is available in Hindi, Bengali, Kannada, Marathi, Punjabi, Tamil, Telugu and Urdu.",
-    "The habit layer is where Duolingo stands out. Streaks reward daily use, XP feeds weekly leagues, achievements mark milestones, and hearts cap how many mistakes you can make before you pause or ppractice to recover. Many people who have never finished a course on any app have a long Duolingo streak, and that consistency is real value.",
+    "The habit layer is where Duolingo stands out. Streaks reward daily use, XP feeds weekly leagues, achievements mark milestones, and hearts cap how many mistakes you can make before you pause or practice to recover. Many people who have never finished a course on any app have a long Duolingo streak, and that consistency is real value.",
     "All of this is free, supported by ads. Super Duolingo removes ads and gives unlimited hearts, and the Play listing mentions a 14-day free trial. Duolingo Max, the higher tier, adds AI features: Roleplay for practice conversations, Explain My Answer for grammar explanations, and Video Call with the character Lily. These launched in 2023 and cover selected courses, so check whether your English course includes them before you pay.",
     "Duolingo runs on Android, iOS and the web, with progress synced across devices, and the same account offers math, music and chess. The product is designed for a global audience, so the English content is general rather than tuned to Indian interviews, offices or accents. Job interview and workplace English tracks are not verified from official sources.",
   ],
@@ -160,7 +160,7 @@ const page: ComparisonPage = {
     { label: "How SpeakX compares with ELSA Speak on pronunciation", href: "/vs/speakx-vs-elsa-speak", description: "Pronunciation-first coaching vs conversation-first practice." },
     { label: "What SpeakX Premium includes", href: "https://speakx.ai/premium", description: "24x7 AI teacher, 100+ scenarios, unlimited talk time, ₹2 trial." },
     { label: "English speaking apps in India, compared", href: "https://speakx.ai/blog/best-english-speaking-apps-india-speakx-vs-competitors", description: "The wider roundup this page sits inside." },
-    { label: "A 15-minute routine to ppractice spoken English alone at home", href: "https://speakx.ai/blog/practice-spoken-english-alone-at-home", description: "Useful whether you use Duolingo, SpeakX or both." },
+    { label: "A 15-minute routine to practice spoken English alone at home", href: "https://speakx.ai/blog/practice-spoken-english-alone-at-home", description: "Useful whether you use Duolingo, SpeakX or both." },
     { label: "100 simple English sentences for daily use, with Hindi meaning", href: "https://speakx.ai/blog/100-simple-english-sentences-for-daily-use-with-hindi-meaning", description: "Starter sentences to try on your next call with Sia." },
   ],
   sources: [

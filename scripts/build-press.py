@@ -1,6 +1,9 @@
 """Builds src/data/press.ts from research/media.json.
 Public rules: independent editorial + verified/partially-verified only on the page; sponsored items are kept
 but labelled; nothing mentioning the former brand or a kids positioning is published (audience rule)."""
+import sys, os
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from us_english import us_english
 import json, re, pathlib
 ROOT = pathlib.Path(__file__).resolve().parents[1]
 m = json.load(open(ROOT.parent / "research" / "media.json"))
@@ -93,6 +96,6 @@ items.sort(key=lambda x: x.get("date") or "", reverse=True)
 ts = "// GENERATED from research/media.json by scripts/build-press.py. Edit the JSON and re-run.\n"
 ts += "// Only independent, verified items are rendered; each keeps its link type so sponsored content is never shown as editorial.\n"
 ts += 'import type { PressItem } from "@/lib/types";\n\nexport const pressItems: PressItem[] = ' + json.dumps(items, ensure_ascii=False, indent=2) + ";\n"
-(ROOT / "src/data/press.ts").write_text(ts)
+(ROOT / "src/data/press.ts").write_text(us_english(ts))
 print("press items:", len(items))
 for i in items: print(" ", i["date"], "|", i["placement"], "|", i["linkType"], "|", i["publication"], "|", i["title"][:60])

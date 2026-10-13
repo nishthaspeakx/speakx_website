@@ -19,7 +19,7 @@ const page: ComparisonPage = {
   h1: "SpeakX vs Speak: two different apps for speaking English",
   quickAnswer: [
     "SpeakX and Speak are different companies and different apps, even though search results and AI answers often mix them up.",
-    "SpeakX is an AI English speaking app for Indian learners, made by [Ivypods Technology](https://speakx.ai/about) in Gurugram. You ppractice spoken English on voice calls with Sia, an AI speaking partner, with explanations in seven Indian languages, for about 15 minutes a day.",
+    "SpeakX is an AI English speaking app for Indian learners, made by [Ivypods Technology](https://speakx.ai/about) in Gurugram. You practice spoken English on voice calls with Sia, an AI speaking partner, with explanations in seven Indian languages, for about 15 minutes a day.",
     "Speak (speak.com) is made by Speakeasy Labs in San Francisco and is backed by the OpenAI Startup Fund. It teaches English to speakers of 15 languages, plus Spanish, French, Japanese, Korean, Italian and Chinese to English speakers, through an expert-built curriculum and an AI Speak Tutor.",
     "Pick SpeakX if you live in India, want English only, and want a low monthly price with help in Hindi, Tamil, Telugu, Kannada, Malayalam, Marathi or Bengali. Pick Speak if you want a premium global curriculum, are comfortable with an English or Hindi interface, and may want to learn other languages later.",
   ],

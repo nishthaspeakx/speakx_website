@@ -26,7 +26,7 @@ export default function StickyCta({ pageSlug }: { pageSlug: string }) {
     >
       <div className="mx-auto flex max-w-md items-center justify-between gap-3">
         <div className="min-w-0">
-          <p className="truncate text-sm font-semibold text-ink">Ppractice speaking with Sia</p>
+          <p className="truncate text-sm font-semibold text-ink">Practice speaking with Sia</p>
           <p className="truncate text-xs text-muted">Free to start · 15 minutes a day</p>
         </div>
         <CtaButton href={href} label="Try SpeakX" location="sticky_mobile" params={{ page_slug: pageSlug }} />

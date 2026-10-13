@@ -293,7 +293,7 @@ const page: ComparisonPage = {
       description: "The wider comparison article covering Duolingo, Supernova, Stimuler and others.",
     },
     {
-      label: "A 15-minute routine to ppractice spoken English alone at home",
+      label: "A 15-minute routine to practice spoken English alone at home",
       href: "https://speakx.ai/blog/practice-spoken-english-alone-at-home",
       description: "Useful if you are deciding between a 15-minute and a 20-minute daily habit.",
     },
