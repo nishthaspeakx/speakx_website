@@ -54,10 +54,17 @@ EXCLUDE_URLS = {
     "https://www.bwdisrupt.com/article/ms-dhoni-invests-in-ai-powered-english-speaking-app-speakx-621764",
     "https://www.bwdisrupt.com/article/speakx-ai-raises-16-mn-to-expand-ai-english-platform-575415",
 }
+# Items the research register filed as sources-only that are genuinely about SpeakX and safe to show (promoted 2026-10-13).
+PROMOTE = {
+    "https://www.entrepreneurindia.com/blog/en/news/speakx-launches-esop-buyback-worth-usd-1-mn-for-employees.57979": "in-the-news",
+    "https://www.entrepreneurindia.com/blog/en/news/speakxai-plans-regional-language-expansion-and-ai-enhancements.57632": "in-the-news",
+    "https://sportzpower.com/speakx-brings-ms-dhoni-on-board-as-brand-ambassador/": "in-the-news",
+    "https://sportsmintmedia.com/ms-dhoni-backs-speakx-in-ai-learning-push/": "in-the-news",
+}
 items = []
 seen = set()
 for it in m["items"]:
-    place = it.get("recommended_placement")
+    place = PROMOTE.get(it["url"], it.get("recommended_placement"))
     if place not in ("as-seen-in", "in-the-news", "founder"): continue
     lt = LT.get(it.get("link_type")); ver = VER.get(it.get("verification_status"))
     if not lt or not ver: continue

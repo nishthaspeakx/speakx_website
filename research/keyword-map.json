@@ -1,0 +1,912 @@
+{
+  "meta": {
+    "project": "SpeakX comparison hub (/vs) + press",
+    "prepared": "2026-10-12",
+    "timezone": "IST",
+    "volume_source": "Semrush India DB, 12 Oct 2026, supplied by content team. Any keyword without a listed volume is marked 'not-available'. No volumes were invented.",
+    "serp_observation_method": "WebSearch tool (US-indexed web search, 12 Oct 2026) plus Bing HTML fetches. Google.co.in SERP features (AI Overview, PAA boxes) could not be rendered from this environment; 'paa_style_questions' are questions seen as page titles/FAQ headings in ranking results, not Google PAA boxes.",
+    "copy_rules_applied": [
+      "No 'best', '#1', 'most downloaded' stated as fact in title/meta/H1 (only inside quoted search queries or attributed statements).",
+      "No 'free trial' (trial costs ₹2; say 'free to start').",
+      "No kids / Yellow Class / Ivykids / Play package id in copy (Play URL allowed as href only).",
+      "Prices marked as of 2026-10-12, India, SpeakX website.",
+      "Speak (speak.com) is a different company from SpeakX; every Speak-related page disambiguates."
+    ]
+  },
+  "semrush_seed_keywords": [
+    {
+      "keyword": "english speaking app",
+      "volume": 49500,
+      "kd": 43,
+      "assigned_owner": "speakx.ai homepage + store listings (not /vs)"
+    },
+    {
+      "keyword": "spoken english app",
+      "volume": 27100,
+      "kd": 39,
+      "assigned_owner": "speakx.ai homepage (not /vs)"
+    },
+    {
+      "keyword": "english speaking practice",
+      "volume": 18100,
+      "kd": 57,
+      "assigned_owner": "supporting term across /vs pages; primary owner should be a product/feature page"
+    },
+    {
+      "keyword": "english learning app",
+      "volume": 12100,
+      "kd": 50,
+      "assigned_owner": "existing blog listicle (secondary) / homepage"
+    },
+    {
+      "keyword": "english language learning apps",
+      "volume": 12100,
+      "kd": 49,
+      "assigned_owner": "existing blog listicle (secondary)"
+    },
+    {
+      "keyword": "english conversation practice",
+      "volume": 9900,
+      "kd": 64,
+      "assigned_owner": "/vs/speakx-vs-duolingo (modifier: 'for conversation practice'); primary owner should be a feature page"
+    },
+    {
+      "keyword": "elsa speak",
+      "volume": 9900,
+      "kd": "not-available",
+      "intent": "navigational",
+      "assigned_owner": "none — do not target a competitor brand navigational term as primary; mention only on /vs/speakx-vs-elsa-speak"
+    },
+    {
+      "keyword": "best english learning app",
+      "volume": 8100,
+      "kd": 36,
+      "assigned_owner": "existing blog listicle"
+    },
+    {
+      "keyword": "ai se english kaise sikhe",
+      "volume": 5400,
+      "kd": 30,
+      "assigned_owner": "Hindi-language blog article (new; the old URL https://speakx.ai/blog/ai-se-english-kaise-sikhe is 404 and must never be linked). Out of /vs scope."
+    },
+    {
+      "keyword": "best english speaking app",
+      "volume": 4400,
+      "kd": 31,
+      "assigned_owner": "existing blog listicle"
+    },
+    {
+      "keyword": "ai english speaking",
+      "volume": 1600,
+      "kd": "not-available",
+      "assigned_owner": "homepage; /vs hub as secondary mention"
+    },
+    {
+      "keyword": "english bolne wala app",
+      "volume": 1300,
+      "kd": 29,
+      "assigned_owner": "Hindi-language landing/blog page (new). Out of /vs scope."
+    },
+    {
+      "keyword": "ai english speaking app",
+      "volume": "720-880",
+      "kd": 40,
+      "assigned_owner": "homepage (title already 'SpeakX, AI English Speaking App'); /vs hub secondary"
+    },
+    {
+      "keyword": "which app is best for english speaking",
+      "volume": 320,
+      "kd": "not-available",
+      "assigned_owner": "existing blog listicle (FAQ)"
+    },
+    {
+      "keyword": "best english speaking app in india",
+      "volume": 210,
+      "kd": 29,
+      "assigned_owner": "existing blog listicle (primary)"
+    },
+    {
+      "keyword": "is there any free english speaking app",
+      "volume": 30,
+      "kd": "not-available",
+      "assigned_owner": "existing blog listicle (FAQ) — answer with 'free to start', never 'free trial'"
+    }
+  ],
+  "cannibalisation_policy": {
+    "existing_article": "https://speakx.ai/blog/best-english-speaking-apps-india-speakx-vs-competitors",
+    "existing_article_status_2026_10_12": "HTTP 200. Title/H1: 'Best English Speaking Apps in India (2026): How SpeakX Compares with Duolingo, Supernova, Stimuler and Others'. H2s include quick comparison table, 'How SpeakX compares', 'How much does SpeakX cost?', FAQ (9 questions incl. 'Is SpeakX the same as the Speak app?', 'Who is Sia on SpeakX?'). Compares 12 apps.",
+    "article_keeps": [
+      "best english speaking app in india",
+      "best english speaking app",
+      "best english learning app",
+      "which app is best for english speaking",
+      "is there any free english speaking app",
+      "english learning app",
+      "english language learning apps"
+    ],
+    "hub_keeps": [
+      "speakx vs <competitor>",
+      "<competitor> vs speakx",
+      "<competitor> alternative(s) for Indian learners / for English speaking",
+      "speakx comparison"
+    ],
+    "differentiation": "Article = 'best apps' listicle intent (one page, many apps, ranked/tabled, FAQ). Hub = navigational/comparison intent (one page per pair, 'SpeakX vs X', deep feature-by-feature). Hub and /vs pages never use 'best ... apps in India' in title, H1 or H2; the article never adds 'SpeakX vs X' H2s beyond its existing short comparison section. Article links to each /vs page from its per-app rows; each /vs page links back to the article as 'see the full roundup'.",
+    "existing_article_fixes_suggested": [
+      "Add one internal link per compared app to the matching /vs page once live.",
+      "Keep the FAQ 'Is SpeakX the same as the Speak app?' but link it to /vs/speakx-vs-speak.",
+      "Confirm the page does not state '14 Indian languages' or '4.6+' anywhere (fetch summary showed 'Hindi and other Indian languages' — acceptable; state '7 Indian languages' explicitly)."
+    ]
+  },
+  "pages": [
+    {
+      "url": "/vs",
+      "role": "hub",
+      "primary_keyword": {
+        "keyword": "speakx vs",
+        "volume": "not-available",
+        "intent": "navigational / comparison"
+      },
+      "secondary_keywords": [
+        {
+          "keyword": "speakx comparison",
+          "volume": "not-available"
+        },
+        {
+          "keyword": "compare english speaking apps",
+          "volume": "not-available"
+        },
+        {
+          "keyword": "speakx alternatives compared",
+          "volume": "not-available"
+        },
+        {
+          "keyword": "ai english speaking app comparison",
+          "volume": "not-available",
+          "note": "head term 'ai english speaking app' 720-880 KD40 is owned by the homepage; hub uses the 'comparison' long-tail only"
+        },
+        {
+          "keyword": "english speaking practice app comparison india",
+          "volume": "not-available"
+        }
+      ],
+      "question_keywords": [
+        "How does SpeakX compare with other English speaking apps?",
+        "Which English speaking apps does SpeakX compare itself against?",
+        "Is SpeakX the same as Speak?",
+        "Which app explains English in Hindi and other Indian languages?",
+        "How much does SpeakX cost compared with other apps?"
+      ],
+      "search_intent": "Navigational-comparison: users who already know SpeakX (or a competitor) and want a head-to-head. Not the 'best apps' listicle intent (owned by the blog article).",
+      "serp_observations": {
+        "summary": "No 'SpeakX vs' hub exists from any party. Generic 'speakx vs' queries are hijacked by Speak (speak.com) comparison pages (speakshark.com/blog/speak-vs-duolingo, toolradar.com/compare/speak-vs-duolingo, lingrow.io, funfluen.com) and by SpeakX brand pages. Competitors that operate their own comparison/alternatives hubs: Supernova (getsupernova.ai/online-spoken-english-courses/english-learning-language-apps), MySivi (wordpress.mysivi.ai/mysivi-vs-supernova..., mysivi-vs-duolingo...), Stimuler (stimuler.tech/blog/speak-vs-stimuler-2026, elsa-speak-vs-stimuler..., cambly-vs-stimuler..., hellotalk-vs-stimuler), EngVarta (engvarta.com/engvarta-vs-speakx-indian-english-app-comparison/ — a competitor already ranks for a SpeakX head-to-head), Babbel (babbel.com/speak-ai-alternatives), TalkEasy (talk-easy.com/alternatives/*), SpeakShark, PracticeMe (practiceme.app/vs/*).",
+        "page_types_ranking": [
+          "competitor-owned vs pages",
+          "competitor-owned alternatives pages",
+          "third-party review blogs (speakshark, toolradar, lingrow, talk-easy)",
+          "directory listings (alternativeto.net, capterra.in, g2.com, slashdot)",
+          "app store listings"
+        ],
+        "urls_seen": [
+          "https://engvarta.com/engvarta-vs-speakx-indian-english-app-comparison/",
+          "https://speakshark.com/blog/speak-vs-duolingo",
+          "https://toolradar.com/compare/speak-vs-duolingo",
+          "https://www.getsupernova.ai/online-spoken-english-courses/english-learning-language-apps",
+          "https://wordpress.mysivi.ai/mysivi-vs-supernova-best-english-app-in-2026/",
+          "https://stimuler.tech/blog/speak-vs-stimuler-2026",
+          "https://www.babbel.com/speak-ai-alternatives",
+          "https://www.talk-easy.com/alternatives/stimuler"
+        ],
+        "paa_style_questions": [
+          "Is SpeakX the same as the Speak app?",
+          "Which is better for speaking, Duolingo or an AI tutor?",
+          "Free vs paid English speaking apps: which one?"
+        ]
+      },
+      "title_tag": "SpeakX vs Other English Speaking Apps | Compare",
+      "meta_description": "Compare SpeakX with Duolingo, ELSA Speak, Speak, Supernova, MySivi and Stimuler on speaking practice, Indian-language support, price and features.",
+      "h1": "SpeakX vs other English speaking apps: head-to-head comparisons",
+      "suggested_h2s": [
+        "How these comparisons were made (and what we did not verify)",
+        "SpeakX in one paragraph",
+        "SpeakX vs Duolingo",
+        "SpeakX vs ELSA Speak",
+        "SpeakX vs Speak (a different company)",
+        "SpeakX vs Supernova",
+        "SpeakX vs MySivi",
+        "SpeakX vs Stimuler",
+        "Compare by goal: interviews, office English, beginners, pronunciation",
+        "Frequently asked questions"
+      ],
+      "internal_link_targets": [
+        "/vs/speakx-vs-duolingo",
+        "/vs/speakx-vs-elsa-speak",
+        "/vs/speakx-vs-speak",
+        "/vs/speakx-vs-supernova",
+        "/vs/speakx-vs-mysivi",
+        "/vs/speakx-vs-stimuler",
+        "/press",
+        "https://speakx.ai/blog/best-english-speaking-apps-india-speakx-vs-competitors",
+        "https://speakx.ai/premium",
+        "https://speakx.ai/about"
+      ],
+      "cannibalisation_notes": "Must not carry 'best english speaking app(s) in india' in title/H1/H2 — that cluster stays with the blog article. Must not carry 'ai english speaking app' as primary — owned by homepage. Hub owns only the 'speakx vs' / 'speakx comparison' navigational cluster."
+    },
+    {
+      "url": "/vs/speakx-vs-supernova",
+      "role": "comparison",
+      "primary_keyword": {
+        "keyword": "speakx vs supernova",
+        "volume": "not-available",
+        "intent": "comparison"
+      },
+      "secondary_keywords": [
+        {
+          "keyword": "supernova english learning app alternative",
+          "volume": "not-available"
+        },
+        {
+          "keyword": "supernova vs speakx for english speaking",
+          "volume": "not-available"
+        },
+        {
+          "keyword": "supernova ai spoken english alternative",
+          "volume": "not-available"
+        },
+        {
+          "keyword": "supernova ai alternatives",
+          "volume": "not-available"
+        },
+        {
+          "keyword": "supernova ai vs speakx",
+          "volume": "not-available"
+        }
+      ],
+      "question_keywords": [
+        "Is Supernova AI or SpeakX better for spoken English practice?",
+        "Does SpeakX explain English in Hindi, Tamil, Telugu and Bengali like Supernova?",
+        "What is a good alternative to the Supernova English learning app?",
+        "How much does SpeakX cost compared with Supernova?",
+        "Which app has more real-life roleplays, SpeakX or Supernova?"
+      ],
+      "search_intent": "Comparison / alternative-seeking. Searchers are mostly Supernova users or prospects weighing another India-focused AI app.",
+      "serp_observations": {
+        "summary": "No SpeakX-vs-Supernova page exists anywhere (gap). Supernova owns a comparison page against 'other language learning apps'. MySivi owns 'MySivi vs Supernova'. Directory pages (alternativeto.net, apkpure 'similar') and a swadeshiapps.com review rank for 'Supernova alternatives'. 'Best Supernova alternatives' answers name Duolingo, Clapingo, ELSA Speak, Josh Talks, MySivi, Preply, Falou — SpeakX absent. republicworld.com 'initiatives' listicle appears (sponsored-style section; treat as non-independent).",
+        "page_types_ranking": [
+          "competitor-owned comparison page",
+          "directory alternatives pages",
+          "app store listings",
+          "independent/affiliate review (swadeshiapps.com)",
+          "competitor vs page (MySivi)"
+        ],
+        "urls_seen": [
+          "https://play.google.com/store/apps/details?id=live.gosupernova.app&hl=en_US",
+          "https://www.getsupernova.ai/online-spoken-english-courses/english-learning-language-apps",
+          "https://swadeshiapps.com/blog/supernova-ai-review",
+          "https://alternativeto.net/software/supernova-ai-spoken-english",
+          "https://apkpure.com/similar/live.gosupernova.app",
+          "https://wordpress.mysivi.ai/mysivi-vs-supernova-best-english-app-in-2026/",
+          "https://www.republicworld.com/initiatives/best-applications-to-learn-english-that-actually-work",
+          "https://apps.apple.com/app/id6447939054"
+        ],
+        "paa_style_questions": [
+          "Supernova AI: free, paid or safe?",
+          "Is Supernova AI free?",
+          "MySivi vs Supernova: which is better?"
+        ]
+      },
+      "title_tag": "SpeakX vs Supernova: English Speaking Apps Compared",
+      "meta_description": "SpeakX vs Supernova AI for spoken English: voice calls with Sia, 7 Indian languages, roleplays, ₹299/month after a ₹2 trial. See how the two apps differ.",
+      "h1": "SpeakX vs Supernova: which spoken English app fits you?",
+      "suggested_h2s": [
+        "SpeakX vs Supernova at a glance",
+        "How you practise speaking: voice calls with Sia vs Supernova's tutor",
+        "Indian-language explanations: 7 languages on SpeakX",
+        "Real-life roleplays and interview practice",
+        "Progress tracking: fluency, vocabulary, grammar, pronunciation",
+        "Pricing (as of 12 Oct 2026, India)",
+        "Who should pick Supernova, who should pick SpeakX",
+        "Frequently asked questions",
+        "Sources and what we verified"
+      ],
+      "internal_link_targets": [
+        "/vs",
+        "/vs/speakx-vs-mysivi",
+        "/vs/speakx-vs-stimuler",
+        "https://speakx.ai/premium",
+        "https://speakx.ai/blog/best-english-speaking-apps-india-speakx-vs-competitors"
+      ],
+      "cannibalisation_notes": "Only page allowed to target 'supernova' modifiers. Do not call the page 'best Supernova alternative' in title/H1 (rule + article overlap); 'alternative' appears in body/H2 only."
+    },
+    {
+      "url": "/vs/speakx-vs-mysivi",
+      "role": "comparison",
+      "primary_keyword": {
+        "keyword": "speakx vs mysivi",
+        "volume": "not-available",
+        "intent": "comparison"
+      },
+      "secondary_keywords": [
+        {
+          "keyword": "mysivi alternatives",
+          "volume": "not-available",
+          "note": "always pair with 'english speaking' in copy — bare query is ambiguous (SERP returns Missive/Mivi results)"
+        },
+        {
+          "keyword": "best mysivi alternative for spoken english",
+          "volume": "not-available",
+          "note": "use only as a quoted search phrase / FAQ, never as a factual 'best' claim"
+        },
+        {
+          "keyword": "mysivi vs speakx",
+          "volume": "not-available"
+        },
+        {
+          "keyword": "mysivi ai english speaking app alternative",
+          "volume": "not-available"
+        }
+      ],
+      "question_keywords": [
+        "What is a good alternative to MySivi for spoken English?",
+        "SpeakX or MySivi: which gives voice feedback during conversation?",
+        "Does MySivi or SpeakX explain in Hindi, Tamil, Telugu, Marathi and Bengali?",
+        "Which app is better for Indian learners who want AI conversation practice?",
+        "How does SpeakX pricing compare with MySivi?"
+      ],
+      "search_intent": "Comparison / alternative-seeking, low volume, high relevance (both India-focused AI apps).",
+      "serp_observations": {
+        "summary": "No SpeakX-vs-MySivi page exists (gap). MySivi aggressively publishes its own vs pages (vs Supernova, vs Duolingo) and listicles ('Best English Speaking Apps 2026: Free vs Paid', 'Top 10 AI-Powered Apps'). EngVarta's tag page ranks for 'SpeakX vs MySivi' and positions EngVarta as the alternative. Inc42 editorial coverage of MySivi ranks. 'best alternative to MySivi' SERP is polluted by Missive/Mivi — low query clarity.",
+        "page_types_ranking": [
+          "competitor-owned vs pages and blog listicles (MySivi)",
+          "competitor tag page (EngVarta)",
+          "app store listings",
+          "editorial (inc42)",
+          "Crunchbase profile"
+        ],
+        "urls_seen": [
+          "https://www.mysivi.ai/blog/best-english-speaking-apps-2026-free-vs-paid-mysivi",
+          "https://wordpress.mysivi.ai/mysivi-vs-duolingo-best-english-app-in-2026/",
+          "https://wordpress.mysivi.ai/mysivi-vs-supernova-best-english-app-in-2026/",
+          "https://engvarta.com/tag/ai-vs-human-english-tutor/",
+          "https://inc42.com/startups/how-mysivi-is-using-ai-to-help-people-become-proficient-in-spoken-english/",
+          "https://play.google.com/store/apps/details?id=com.practice.ninja_study&hl=en_IN",
+          "https://apps.apple.com/us/app/mysivi-ai-english-speaking-app/id1644736135",
+          "https://www.crunchbase.com/organization/speakify"
+        ],
+        "paa_style_questions": [
+          "Free vs paid English speaking apps: which one will rule?",
+          "AI vs human English tutor: which is better?"
+        ]
+      },
+      "title_tag": "SpeakX vs MySivi: Which Fits Your Spoken English Goal?",
+      "meta_description": "MySivi alternative? Compare SpeakX and MySivi on AI conversation practice, feedback, Indian-language explanations and pricing for Indian learners.",
+      "h1": "SpeakX vs MySivi: AI spoken English apps compared",
+      "suggested_h2s": [
+        "SpeakX vs MySivi at a glance",
+        "Talking to an AI: voice calls with Sia vs MySivi's practice",
+        "Feedback you get after speaking",
+        "Indian-language support",
+        "Roleplays for interviews, office and daily life",
+        "Pricing (as of 12 Oct 2026, India)",
+        "Looking for a MySivi alternative for spoken English? What to check",
+        "Frequently asked questions",
+        "Sources and what we verified"
+      ],
+      "internal_link_targets": [
+        "/vs",
+        "/vs/speakx-vs-supernova",
+        "/vs/speakx-vs-stimuler",
+        "https://speakx.ai/premium",
+        "https://speakx.ai/blog/best-english-speaking-apps-india-speakx-vs-competitors"
+      ],
+      "cannibalisation_notes": "Only page targeting 'mysivi'. 'Best MySivi alternative' phrasing lives in an H2/FAQ, never in title/H1."
+    },
+    {
+      "url": "/vs/speakx-vs-duolingo",
+      "role": "comparison",
+      "primary_keyword": {
+        "keyword": "speakx vs duolingo",
+        "volume": "not-available",
+        "intent": "comparison"
+      },
+      "secondary_keywords": [
+        {
+          "keyword": "duolingo alternative for english speaking in india",
+          "volume": "not-available"
+        },
+        {
+          "keyword": "duolingo vs speakx for conversation practice",
+          "volume": "not-available"
+        },
+        {
+          "keyword": "english conversation practice",
+          "volume": 9900,
+          "kd": 64,
+          "note": "modifier only ('for conversation practice'); do not expect to rank for the head term from a vs page"
+        },
+        {
+          "keyword": "duolingo for english speaking practice india",
+          "volume": "not-available"
+        },
+        {
+          "keyword": "is duolingo good for speaking english",
+          "volume": "not-available"
+        }
+      ],
+      "question_keywords": [
+        "Is SpeakX better than Duolingo for speaking English?",
+        "Is Duolingo enough to learn to speak English?",
+        "Which Duolingo alternative is made for Indian learners?",
+        "Does Duolingo have voice conversation practice?",
+        "Is SpeakX the same as the Speak app that competes with Duolingo?"
+      ],
+      "search_intent": "Comparison. Highest-awareness competitor; many searchers are Duolingo users who feel they cannot speak yet.",
+      "serp_observations": {
+        "summary": "SERP for 'SpeakX vs Duolingo' is entirely hijacked by 'Speak vs Duolingo' content (speak.com, speakshark, toolradar, funfluen, lingrow, androidpolice, androidauthority, Forbes) — search engines treat 'SpeakX' as a typo of 'Speak'. Page must disambiguate in the first 50 words and in the meta. 'Duolingo alternative ... India' SERP is global listicles (clozemaster, italki, lingrow, lingoly, polychat, practiceme, alternativeto) with weak India specificity — the 'in India' + 'Indian languages' angle is open. Bing (12 Oct 2026) returned only SpeakX brand pages for this query, including name-collision domains speak-x.app and speakx.ca.",
+        "page_types_ranking": [
+          "Speak-vs-Duolingo comparison blogs",
+          "Speak.com homepage",
+          "mainstream tech press (Forbes, Android Police, Android Authority)",
+          "Duolingo-alternatives listicles",
+          "Wikipedia"
+        ],
+        "urls_seen": [
+          "https://www.speak.com/",
+          "https://speakshark.com/blog/speak-vs-duolingo",
+          "https://toolradar.com/compare/speak-vs-duolingo",
+          "https://funfluen.com/learn/guides/speak-vs-duolingo-ai-language-learning/",
+          "https://lingrow.io/blog/duolingo-vs-speak-vs-lingrow",
+          "https://www.forbes.com/sites/rashishrivastava/2025/11/12/this-startup-is-racing-duolingo-to-replace-human-language-tutors-with-ai/",
+          "https://www.clozemaster.com/blog/duolingo-alternatives-for-english/",
+          "https://www.italki.com/en/blog/duolingo-alternatives",
+          "https://practiceme.app/blog/duolingo-alternatives",
+          "https://www.androidauthority.com/duolingo-speak-langugage-learning-3627905/"
+        ],
+        "paa_style_questions": [
+          "Speak vs Duolingo: which is better for speaking?",
+          "Duolingo vs Speak: which is better in 2026?",
+          "Which apps are better than Duolingo for speaking?"
+        ]
+      },
+      "title_tag": "SpeakX vs Duolingo for English Speaking in India",
+      "meta_description": "Duolingo alternative for English speaking in India: compare SpeakX's voice-call practice with Sia against Duolingo lessons, plus price and languages.",
+      "h1": "SpeakX vs Duolingo: which helps you speak English?",
+      "suggested_h2s": [
+        "First: SpeakX is not Speak",
+        "SpeakX vs Duolingo at a glance",
+        "Conversation practice: voice calls with Sia vs Duolingo exercises",
+        "Explanations in Hindi, Marathi, Bengali, Telugu, Tamil, Kannada, Malayalam",
+        "Interview, office and daily-life roleplays",
+        "Daily time and habit: about 15 minutes a day",
+        "Pricing (as of 12 Oct 2026, India)",
+        "Using Duolingo and SpeakX together",
+        "Frequently asked questions",
+        "Sources and what we verified"
+      ],
+      "internal_link_targets": [
+        "/vs",
+        "/vs/speakx-vs-speak",
+        "/vs/speakx-vs-elsa-speak",
+        "https://speakx.ai/premium",
+        "https://speakx.ai/blog/best-english-speaking-apps-india-speakx-vs-competitors"
+      ],
+      "cannibalisation_notes": "Blog article FAQ 'Is SpeakX better than Duolingo for speaking English?' should link here rather than expand. This page does not target 'best duolingo alternatives' (global listicle intent)."
+    },
+    {
+      "url": "/vs/speakx-vs-stimuler",
+      "role": "comparison",
+      "primary_keyword": {
+        "keyword": "speakx vs stimuler",
+        "volume": "not-available",
+        "intent": "comparison"
+      },
+      "secondary_keywords": [
+        {
+          "keyword": "stimuler alternatives",
+          "volume": "not-available"
+        },
+        {
+          "keyword": "stimuler vs speakx ai english speaking",
+          "volume": "not-available"
+        },
+        {
+          "keyword": "stimuler app alternative india",
+          "volume": "not-available"
+        },
+        {
+          "keyword": "ai english speaking app",
+          "volume": "720-880",
+          "kd": 40,
+          "note": "mention only; owned by homepage"
+        }
+      ],
+      "question_keywords": [
+        "What is a good Stimuler alternative for Indian learners?",
+        "SpeakX or Stimuler: which gives better speaking feedback?",
+        "Does Stimuler or SpeakX explain in Indian languages?",
+        "Which app is better for job interview English practice?",
+        "Is SpeakX useful for IELTS speaking practice?"
+      ],
+      "search_intent": "Comparison / alternative-seeking among AI-feedback apps; Stimuler audience skews IELTS and analytics-minded.",
+      "serp_observations": {
+        "summary": "No SpeakX-vs-Stimuler page exists (gap). Stimuler is the most prolific competitor in owned vs content (vs Speak, vs ELSA, vs Cambly, vs HelloTalk; '7 Best Duolingo Alternatives'). talk-easy.com runs an 'alternatives/stimuler' page; Medium reviews by a single author recur; Tracxn and CB Insights profiles rank. Bing for 'SpeakX vs Stimuler' returned only SpeakX brand pages.",
+        "page_types_ranking": [
+          "competitor-owned vs pages (stimuler.tech)",
+          "third-party alternatives page (talk-easy)",
+          "Medium reviews",
+          "company databases (Tracxn, CB Insights)",
+          "directory (alternativeto)"
+        ],
+        "urls_seen": [
+          "https://stimuler.tech/blog/speak-vs-stimuler-2026",
+          "https://stimuler.tech/blog/elsa-speak-vs-stimuler-which-ai-english-app-is-right-for-you",
+          "https://stimuler.tech/blog/cambly-vs-stimuler-which-app-actually-helps-you-speak-better",
+          "https://stimuler.tech/blog/7-best-duolingo-alternatives-for-english-fluency-2026",
+          "https://www.talk-easy.com/alternatives/stimuler",
+          "https://www.talk-easy.com/compare/talkeasy-vs-stimuler",
+          "https://medium.com/@emmamillerw1990/stimuler-app-review-can-ai-boost-your-english-speaking-2c6624d40d77",
+          "https://tracxn.com/d/companies/stimuler/__1Nxuzm2NInbBGjEcJEacsp-6K70lSzHfTO6UHCSZ_hw",
+          "https://alternativeto.net/software/stimuler/?p=4"
+        ],
+        "paa_style_questions": [
+          "Can AI boost your English speaking?",
+          "Speak vs Stimuler: which is right for you?",
+          "ELSA Speak vs Stimuler: which AI English app is right for you?"
+        ]
+      },
+      "title_tag": "SpeakX vs Stimuler: AI English Speaking Apps Compared",
+      "meta_description": "Stimuler alternative? See how SpeakX and Stimuler differ on AI conversation practice, feedback, Indian-language explanations, roleplays and price.",
+      "h1": "SpeakX vs Stimuler: AI English speaking practice compared",
+      "suggested_h2s": [
+        "SpeakX vs Stimuler at a glance",
+        "How practice works: voice calls with Sia vs Stimuler's speaking tasks",
+        "Feedback: fluency, vocabulary, grammar, pronunciation reports",
+        "Indian-language explanations",
+        "Interview and office roleplays",
+        "Pricing (as of 12 Oct 2026, India)",
+        "Choosing a Stimuler alternative: what to check",
+        "Frequently asked questions",
+        "Sources and what we verified"
+      ],
+      "internal_link_targets": [
+        "/vs",
+        "/vs/speakx-vs-elsa-speak",
+        "/vs/speakx-vs-speak",
+        "https://speakx.ai/premium",
+        "https://speakx.ai/blog/best-english-speaking-apps-india-speakx-vs-competitors"
+      ],
+      "cannibalisation_notes": "Only page targeting 'stimuler'. Avoid IELTS-specific claims about SpeakX unless verified; keep IELTS as an FAQ."
+    },
+    {
+      "url": "/vs/speakx-vs-elsa-speak",
+      "role": "comparison",
+      "primary_keyword": {
+        "keyword": "speakx vs elsa speak",
+        "volume": "not-available",
+        "intent": "comparison"
+      },
+      "secondary_keywords": [
+        {
+          "keyword": "elsa speak alternatives for indian learners",
+          "volume": "not-available"
+        },
+        {
+          "keyword": "english pronunciation vs conversation practice",
+          "volume": "not-available"
+        },
+        {
+          "keyword": "elsa speak alternative india",
+          "volume": "not-available"
+        },
+        {
+          "keyword": "elsa speak",
+          "volume": 9900,
+          "intent": "navigational",
+          "note": "mention only — never the primary; navigational brand term"
+        }
+      ],
+      "question_keywords": [
+        "Is ELSA Speak or SpeakX better for Indian learners?",
+        "Should I practise pronunciation or conversation first?",
+        "What are ELSA Speak alternatives that explain in Hindi?",
+        "Does SpeakX give pronunciation feedback?",
+        "How does ELSA Speak pricing compare with SpeakX in India?"
+      ],
+      "search_intent": "Comparison; pronunciation-focused users considering a conversation-first app. 'elsa speak' alone is navigational (9,900) and should not be chased.",
+      "serp_observations": {
+        "summary": "'ELSA Speak alternatives India' is owned by software directories (capterra.in, g2.com, alternativeto) and competitor pages (speakshark, talk-easy, engvarta x2, englishtalky, midoo.ai, practiceme). EngVarta ranks for both 'ELSA alternatives' and 'Speak vs ELSA'. No SpeakX-vs-ELSA page exists (gap). Pronunciation-vs-conversation framing is used by competitors (talk-easy, stimuler) and is open for SpeakX.",
+        "page_types_ranking": [
+          "software directories (Capterra India, G2)",
+          "competitor alternatives pages",
+          "review blogs",
+          "directory (alternativeto)"
+        ],
+        "urls_seen": [
+          "https://www.capterra.in/alternatives/1022863/elsa-speak",
+          "https://www.g2.com/products/elsa-speak/competitors/alternatives",
+          "https://speakshark.com/best-elsa-speak-alternatives",
+          "https://www.talk-easy.com/alternatives/elsa-speak",
+          "https://engvarta.com/speak-vs-elsa-speak-english-fluency-comparison/",
+          "https://englishtalky.com/best-elsa-speak-alternatives-in-2026-guide-for-english-learners/",
+          "https://www.midoo.ai/alternative/best-elsaspeak-alternatives",
+          "https://practiceme.app/alternatives/elsa-speak",
+          "https://play.google.com/store/apps/details?id=us.nobarriers.elsa&hl=en"
+        ],
+        "paa_style_questions": [
+          "What are the best ELSA Speak alternatives?",
+          "Speak vs ELSA Speak: honest comparison?",
+          "Is ELSA Speak good for conversation practice?"
+        ]
+      },
+      "title_tag": "SpeakX vs ELSA Speak: Pronunciation or Conversation?",
+      "meta_description": "ELSA Speak alternative for Indian learners: ELSA's pronunciation drills vs SpeakX's voice conversations with Sia, 7 Indian languages and ₹299/month.",
+      "h1": "SpeakX vs ELSA Speak: pronunciation drills vs conversation practice",
+      "suggested_h2s": [
+        "SpeakX vs ELSA Speak at a glance",
+        "Pronunciation practice vs conversation practice: what each app is built for",
+        "Pronunciation feedback inside SpeakX's progress report",
+        "Explanations in 7 Indian languages",
+        "Real-life roleplays: interviews, office, phone calls",
+        "Pricing (as of 12 Oct 2026, India)",
+        "ELSA Speak alternatives for Indian learners: what to check",
+        "Frequently asked questions",
+        "Sources and what we verified"
+      ],
+      "internal_link_targets": [
+        "/vs",
+        "/vs/speakx-vs-stimuler",
+        "/vs/speakx-vs-speak",
+        "https://speakx.ai/premium",
+        "https://speakx.ai/blog/best-english-speaking-apps-india-speakx-vs-competitors"
+      ],
+      "cannibalisation_notes": "Only page targeting 'elsa'. Do not create a separate 'pronunciation app' page that would compete with this H2 cluster."
+    },
+    {
+      "url": "/vs/speakx-vs-speak",
+      "role": "comparison + disambiguation",
+      "primary_keyword": {
+        "keyword": "speakx vs speak app",
+        "volume": "not-available",
+        "intent": "comparison / disambiguation"
+      },
+      "secondary_keywords": [
+        {
+          "keyword": "speak.com alternatives",
+          "volume": "not-available"
+        },
+        {
+          "keyword": "speak ai english tutor vs speakx",
+          "volume": "not-available"
+        },
+        {
+          "keyword": "is speakx the same as speak",
+          "volume": "not-available"
+        },
+        {
+          "keyword": "speak app alternative india",
+          "volume": "not-available"
+        },
+        {
+          "keyword": "speak app for english in india",
+          "volume": "not-available"
+        }
+      ],
+      "question_keywords": [
+        "Is SpeakX the same as Speak?",
+        "Is the Speak app available for learning English in India?",
+        "What are Speak.com alternatives for Indian learners?",
+        "Speak AI tutor vs SpeakX: which explains in Indian languages?",
+        "How do Speak and SpeakX prices compare in India?"
+      ],
+      "search_intent": "Disambiguation first (brand confusion is the dominant observed problem), then comparison.",
+      "serp_observations": {
+        "summary": "Speak (speak.com) ranks for SpeakX queries and vice versa; AI search summaries described 'Speak' when asked about 'SpeakX'. Babbel owns 'speak-ai-alternatives'; EngVarta, elispeak, aispeaklearn, practiceme and slashdot rank for Speak alternatives. Forbes/eMarketer cover Speak's unicorn status. Additional name collisions observed: speakx.ca, speak-x.app, SpeakPro AI, Speexx (Speexx newsroom ranked for 'SpeakX press awards').",
+        "page_types_ranking": [
+          "speak.com",
+          "competitor alternatives pages (Babbel, EngVarta, elispeak, practiceme)",
+          "directories (slashdot, alternativeto)",
+          "business press (Forbes, eMarketer)"
+        ],
+        "urls_seen": [
+          "https://www.speak.com/",
+          "https://www.babbel.com/speak-ai-alternatives",
+          "https://slashdot.org/software/p/Speak.com/alternatives",
+          "https://engvarta.com/best-speak-app-alternatives-for-english-fluency/",
+          "https://elispeak.com/alternatives/speak-app-alternative/",
+          "https://practiceme.app/vs/speak",
+          "https://www.emarketer.com/content/speak-reaches-unicorn-status-ai-language-tutoring--offering-lags-behind-duolingo",
+          "https://www.issen.com/blog/speak-competitors-alternatives/"
+        ],
+        "paa_style_questions": [
+          "Speak app review: is it worth it for English?",
+          "Best Speak app alternatives?",
+          "Is SpeakX the same as the Speak app?"
+        ]
+      },
+      "title_tag": "SpeakX vs Speak App: Different Apps, Compared",
+      "meta_description": "SpeakX and Speak (speak.com) are different companies. Compare the two AI English tutors on conversation practice, Indian-language support and price.",
+      "h1": "SpeakX vs Speak: two different apps for speaking English",
+      "suggested_h2s": [
+        "SpeakX and Speak are not the same company",
+        "SpeakX vs Speak at a glance",
+        "Who each app is built for",
+        "AI conversation practice: Sia voice calls vs Speak's AI tutor",
+        "Indian-language explanations",
+        "Pricing (as of 12 Oct 2026; India for SpeakX)",
+        "Speak.com alternatives for Indian learners: what to check",
+        "Frequently asked questions",
+        "Sources and what we verified"
+      ],
+      "internal_link_targets": [
+        "/vs",
+        "/vs/speakx-vs-duolingo",
+        "/vs/speakx-vs-elsa-speak",
+        "https://speakx.ai/about",
+        "https://speakx.ai/premium",
+        "https://speakx.ai/blog/best-english-speaking-apps-india-speakx-vs-competitors"
+      ],
+      "cannibalisation_notes": "Owns all 'speak app' / 'speak.com' modifiers and the disambiguation FAQ. The blog FAQ 'Is SpeakX the same as the Speak app?' should link here."
+    },
+    {
+      "url": "/press",
+      "role": "press & awards",
+      "primary_keyword": {
+        "keyword": "speakx press",
+        "volume": "not-available",
+        "intent": "navigational"
+      },
+      "secondary_keywords": [
+        {
+          "keyword": "speakx awards",
+          "volume": "not-available"
+        },
+        {
+          "keyword": "speakx news",
+          "volume": "not-available"
+        },
+        {
+          "keyword": "speakx et education excellence awards 2026",
+          "volume": "not-available"
+        },
+        {
+          "keyword": "speakx ms dhoni investor",
+          "volume": "not-available"
+        },
+        {
+          "keyword": "ivypods technology speakx",
+          "volume": "not-available"
+        }
+      ],
+      "question_keywords": [
+        "Which awards has SpeakX won?",
+        "Who founded SpeakX and which company makes it?",
+        "Is MS Dhoni an investor in SpeakX?",
+        "Where has SpeakX been covered in the press?",
+        "How do journalists contact SpeakX?"
+      ],
+      "search_intent": "Navigational / entity verification (journalists, partners, AI engines resolving the entity).",
+      "serp_observations": {
+        "summary": "'SpeakX press awards' query surfaced Speexx newsroom pages (brand collision). Entity information about SpeakX is currently answered by third parties: LinkedIn, Owler, Preqin, Tracxn, TheOrg ('speakX (formerly Yellow Class)'), startupintros, Inc42 pivot story, Elevation Capital perspective (which names the founder inconsistently and carries unverified stats: 2 lakh paid subscribers, $7M ARR, 20 people). speakx.ai/about does not state founding year or founder names (fetch 12 Oct 2026), so engines fall back to databases.",
+        "page_types_ranking": [
+          "company databases (Tracxn, Owler, Preqin, Crunchbase, TheOrg)",
+          "LinkedIn",
+          "investor blog (Elevation Capital)",
+          "editorial (Inc42)",
+          "speakx.ai homepage"
+        ],
+        "urls_seen": [
+          "https://speakx.ai/",
+          "https://speakx.ai/about",
+          "https://inc42.com/startups/a-timely-pivot-how-genai-allowed-speakx-to-find-a-new-edtech-mission/",
+          "https://www.elevationcapital.com/perspectives/speakx-building-india-largest-ai-language-learning-app",
+          "https://theorg.com/org/speakx-formerly-yellow-class/org-chart/arpit-mittal",
+          "https://tracxn.com/d/companies/speakx/__Fw1PYzB_LG5e1_815d4j4yITneR6DBNYf_o3F0OuGF8",
+          "https://www.owler.com/company/speakx",
+          "https://www.linkedin.com/in/arpitmittal4/",
+          "https://www.speexx.com/newsroom/"
+        ],
+        "paa_style_questions": [
+          "Who is the founder of SpeakX?",
+          "How much funding has SpeakX raised?",
+          "Is SpeakX formerly Yellow Class?"
+        ]
+      },
+      "title_tag": "SpeakX Press, News and Awards",
+      "meta_description": "Press coverage, awards and media resources for SpeakX, the AI English speaking app by Ivypods Technology, including ET Education Excellence Awards 2026.",
+      "h1": "SpeakX in the news: press coverage and awards",
+      "suggested_h2s": [
+        "About SpeakX (boilerplate for journalists)",
+        "Awards and recognition",
+        "Press coverage",
+        "Company facts: Ivypods Technology, Gurugram, founder Arpit Mittal",
+        "Brand assets and media contact",
+        "Frequently asked questions"
+      ],
+      "internal_link_targets": [
+        "/vs",
+        "https://speakx.ai/about",
+        "https://speakx.ai/",
+        "https://speakx.ai/contact-us"
+      ],
+      "cannibalisation_notes": "Does not overlap /about; /about = company story, /press = coverage + awards + boilerplate. Only verified awards (ET Education Excellence Awards 2026 — Excellence in Generative AI for Education); others listed on the homepage need verification before inclusion. Address the Yellow Class history only if the content team approves wording; otherwise omit (audience rule)."
+    },
+    {
+      "url": "https://speakx.ai/blog/best-english-speaking-apps-india-speakx-vs-competitors",
+      "role": "existing listicle article (not part of /vs build) — keeps the broad cluster",
+      "primary_keyword": {
+        "keyword": "best english speaking app in india",
+        "volume": 210,
+        "kd": 29,
+        "intent": "commercial-investigation / listicle"
+      },
+      "secondary_keywords": [
+        {
+          "keyword": "best english speaking app",
+          "volume": 4400,
+          "kd": 31
+        },
+        {
+          "keyword": "best english learning app",
+          "volume": 8100,
+          "kd": 36
+        },
+        {
+          "keyword": "english learning app",
+          "volume": 12100,
+          "kd": 50
+        },
+        {
+          "keyword": "english language learning apps",
+          "volume": 12100,
+          "kd": 49
+        },
+        {
+          "keyword": "which app is best for english speaking",
+          "volume": 320
+        },
+        {
+          "keyword": "is there any free english speaking app",
+          "volume": 30
+        }
+      ],
+      "question_keywords": [
+        "Which is the best English speaking app in India?",
+        "Which app is best for English speaking?",
+        "Is there any free English speaking app?",
+        "How much does SpeakX cost?"
+      ],
+      "search_intent": "Listicle / roundup intent.",
+      "serp_observations": {
+        "summary": "SERP is competitor-owned listicles: engvarta.com (ranks #1 across variants, self-declares EngVarta the best), talkdrill.com (x2), speakshark.com, simplienglish.com, thetuitionteacher.com, fastinfoclass.com; globally storylearning, alllanguageresources, lingtuitive, practiceme. SpeakX's article was not seen in the top results for these queries on 12 Oct 2026 (web search index).",
+        "urls_seen": [
+          "https://engvarta.com/best-english-speaking-apps-in-india/",
+          "https://www.talkdrill.com/blog/compare/best-english-speaking-apps/",
+          "https://speakshark.com/best-english-speaking-app-in-india",
+          "https://thetuitionteacher.com/blog/top-5-best-english-learning-apps-in-india/",
+          "https://www.fastinfoclass.com/blogs/english-speaking-apps-india/",
+          "https://storylearning.com/learn/english/english-tips/best-english-speaking-app"
+        ],
+        "paa_style_questions": [
+          "Which app is best for English speaking?",
+          "Best free English speaking apps?",
+          "Best English speaking app for job interview prep?"
+        ]
+      },
+      "title_tag": "(existing — keep) Best English Speaking Apps in India (2026): How SpeakX Compares with Duolingo, Supernova, Stimuler and Others",
+      "meta_description": "(existing — not changed by this plan)",
+      "h1": "(existing — keep)",
+      "suggested_h2s": [
+        "(existing — add one link per app row to the matching /vs page)"
+      ],
+      "internal_link_targets": [
+        "/vs",
+        "/vs/speakx-vs-duolingo",
+        "/vs/speakx-vs-supernova",
+        "/vs/speakx-vs-stimuler",
+        "/vs/speakx-vs-elsa-speak",
+        "/vs/speakx-vs-speak",
+        "/vs/speakx-vs-mysivi"
+      ],
+      "cannibalisation_notes": "Owner of all 'best ... app(s)' queries. The /vs hub and pages must never target these; they link here for the roundup."
+    }
+  ]
+}

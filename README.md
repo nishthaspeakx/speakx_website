@@ -34,7 +34,7 @@ npm run check                # typecheck + link/content QA script
 | `src/app/vs/[slug]/page.tsx` | Comparison page template (data-driven) |
 | `src/app/press/page.tsx` | Press, awards, founder and investors |
 | `src/app/sitemap.ts`, `robots.ts` | Generated sitemap and robots |
-| `research/` (repo root, one level up) | Research registers: competitors, media, awards, backlinks, keyword map, GEO audit, site audit |
+| `research/` | Research registers: competitors, media, awards, backlinks, keyword map, GEO audit, site audit |
 
 ## Adding a competitor
 

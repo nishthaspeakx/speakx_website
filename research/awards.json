@@ -1,0 +1,502 @@
+{
+  "checked": "2026-10-12",
+  "awards": [
+    {
+      "id": "et-eea-2026-genai",
+      "claimed_on_speakx_site": "The Economic Times — Excellence in Generative AI for Education (ET Education Excellence Awards 2026)",
+      "official_title": "Excellence in Generative AI for Education",
+      "awarding_org": "ET Education (The Economic Times, Times Internet) — Education Excellence Awards 2026, 3rd edition, part of ETEducation Annual Education Summit 2026",
+      "year": 2026,
+      "event_date": "2026-06-11",
+      "venue": "Yashobhoomi (IICC), New Delhi",
+      "category": "Excellence in Generative AI for Education",
+      "status": "winner",
+      "tier_or_medal": "GOLD",
+      "recipient": "company",
+      "recipient_name_as_listed": "SpeakX.AI",
+      "official_url": "https://education.economictimes.indiatimes.com/education-excellence-awards/winners-list",
+      "evidence_urls": [
+        {
+          "url": "https://education.economictimes.indiatimes.com/education-excellence-awards/winners-list",
+          "how_obtained": "fetched-200",
+          "note": "row 20 of 2026 winners table"
+        },
+        {
+          "url": "https://education.economictimes.indiatimes.com/education-excellence-awards",
+          "how_obtained": "fetched-200",
+          "note": "header: Education Excellence Awards 2026 | 11 Jun 2026 | Yashobhoomi (IICC), New Delhi | 3rd Edition"
+        },
+        {
+          "url": "https://globalpublicschool.org/global-public-school-honoured-at-the-economic-times-education-excellence-awards-2026/",
+          "how_obtained": "fetched-200",
+          "note": "independent winner confirms ceremony 11 June 2026 at Yashobhoomi"
+        },
+        {
+          "url": "https://www.prnewswire.com/in/news-releases/indias-education-revolution-takes-centre-stage-at-eteducation-annual-education-summit-2026-302774441.html",
+          "how_obtained": "fetched-200",
+          "note": "summit 11–12 June 2026 announcement"
+        }
+      ],
+      "evidence_quote": "Excellence in Generative AI for Education | SpeakX.AI | Education Excellence Awards 2026 | GOLD",
+      "verification_status": "verified-organiser-page",
+      "is_paid_or_pay_to_play_signal": "yes — organiser FAQ: 'A nomination processing fee is applicable… Awards are not guaranteed or assured'; non-refundable. Entry-guidelines page lists ENTRY FEES INR 27,000–29,000 + GST per entry (some tier labels appear copied from a marketing-awards template). Jury-driven two-level evaluation also stated. Source: https://education.economictimes.indiatimes.com/education-excellence-awards/award-faq and /award-guidelines (fetched 2026-10-12).",
+      "former_brand_name_used": false,
+      "notes": "Exact category wording on speakx.ai matches the organiser list. Site omits the medal tier (GOLD). Organiser lists the brand as 'SpeakX.AI'. 2024 winners list (education-excellence-awards2024/winners-list, fetched) contains no Yellow Class / SpeakX / Ivypods entry."
+    },
+    {
+      "id": "et-eea-2025-gamified",
+      "claimed_on_speakx_site": "The Economic Times — Best Personalised and Gamified Learning Experience (ET Education Excellence Awards 2025)",
+      "official_title": "Excellence in Gamified & Personalized Learning Solutions",
+      "awarding_org": "ET Education (The Economic Times) — Education Excellence Awards 2025, 2nd edition",
+      "year": 2025,
+      "event_date": "2025-06-19/20",
+      "venue": "The Leela Ambience Convention Hotel, Delhi",
+      "category": "Excellence in Gamified & Personalized Learning Solutions",
+      "status": "winner",
+      "tier_or_medal": "GOLD",
+      "recipient": "company",
+      "recipient_name_as_listed": "SpeakX",
+      "official_url": "https://education.economictimes.indiatimes.com/education-excellence-awards2025/winners-list",
+      "evidence_urls": [
+        {
+          "url": "https://education.economictimes.indiatimes.com/education-excellence-awards2025/winners-list",
+          "how_obtained": "fetched-200",
+          "note": "row 13"
+        }
+      ],
+      "evidence_quote": "Excellence in Gamified & Personalized Learning Solutions | SpeakX | GOLD",
+      "verification_status": "verified-organiser-page",
+      "is_paid_or_pay_to_play_signal": "yes — organiser FAQ: 'A nomination processing fee is applicable… Awards are not guaranteed or assured'; non-refundable. Entry-guidelines page lists ENTRY FEES INR 27,000–29,000 + GST per entry (some tier labels appear copied from a marketing-awards template). Jury-driven two-level evaluation also stated. Source: https://education.economictimes.indiatimes.com/education-excellence-awards/award-faq and /award-guidelines (fetched 2026-10-12). (fee pages read on the current microsite; 2025-specific FAQ pages were JS-rendered shells)",
+      "former_brand_name_used": false,
+      "notes": "WORDING MISMATCH: speakx.ai says 'Best Personalised and Gamified Learning Experience'; organiser category is 'Excellence in Gamified & Personalized Learning Solutions'. SpeakX was the sole (GOLD) winner in that category. Recommend using organiser wording."
+    },
+    {
+      "id": "et-eea-2025-emerging",
+      "claimed_on_speakx_site": "The Economic Times — Best Emerging Edtech Startup (ET Education Excellence Awards 2025)",
+      "official_title": "Outstanding Emerging EdTech Startup",
+      "awarding_org": "ET Education (The Economic Times) — Education Excellence Awards 2025, 2nd edition",
+      "year": 2025,
+      "event_date": "2025-06-19/20",
+      "venue": "The Leela Ambience Convention Hotel, Delhi",
+      "category": "Outstanding Emerging EdTech Startup",
+      "status": "winner",
+      "tier_or_medal": "BRONZE",
+      "recipient": "company",
+      "recipient_name_as_listed": "SpeakX",
+      "official_url": "https://education.economictimes.indiatimes.com/education-excellence-awards2025/winners-list",
+      "evidence_urls": [
+        {
+          "url": "https://education.economictimes.indiatimes.com/education-excellence-awards2025/winners-list",
+          "how_obtained": "fetched-200",
+          "note": "row 5: Bronze SpeakX; Silver Sambhuti Learning; Gold Notopedia"
+        }
+      ],
+      "evidence_quote": "Outstanding Emerging EdTech Startup | SpeakX | Education Excellence Awards 2025 | BRONZE",
+      "verification_status": "verified-organiser-page",
+      "is_paid_or_pay_to_play_signal": "yes — organiser FAQ: 'A nomination processing fee is applicable… Awards are not guaranteed or assured'; non-refundable. Entry-guidelines page lists ENTRY FEES INR 27,000–29,000 + GST per entry (some tier labels appear copied from a marketing-awards template). Jury-driven two-level evaluation also stated. Source: https://education.economictimes.indiatimes.com/education-excellence-awards/award-faq and /award-guidelines (fetched 2026-10-12).",
+      "former_brand_name_used": false,
+      "notes": "WORDING + TIER MISMATCH: site says 'Best Emerging Edtech Startup'; organiser category is 'Outstanding Emerging EdTech Startup' and SpeakX received BRONZE (Gold went to Notopedia). Copy must not imply 'best'/first place."
+    },
+    {
+      "id": "india-elite-2025-top25",
+      "claimed_on_speakx_site": "India Elite — Top 25 Visionary Edtech Startup of the Year (India Elite Education & Institutional Excellence Awards 2025)",
+      "official_title": null,
+      "awarding_org": "'India Elite Education & Institutional Excellence Awards & Conference 2025' — organiser identity and website NOT located",
+      "year": 2025,
+      "event_date": null,
+      "venue": null,
+      "category": "Top 25 Visionary Edtech Startup of the Year (as claimed)",
+      "status": "not-verified",
+      "tier_or_medal": null,
+      "recipient": "company",
+      "recipient_name_as_listed": null,
+      "official_url": null,
+      "evidence_urls": [
+        {
+          "url": "https://www.isst.co.in/2026/03/24/india-elite-education-institutional-excellence-awards-conference-2025/",
+          "how_obtained": "fetched-200",
+          "note": "another recipient's page confirms the 2025 event exists; no organiser URL"
+        },
+        {
+          "url": "https://rajagiri.edu/happenings/india-elite-education-institutional-excellence-awards",
+          "how_obtained": "fetched-200",
+          "note": "2024 edition recipient page; no organiser URL"
+        }
+      ],
+      "evidence_quote": null,
+      "verification_status": "claimed-on-speakx-site-only",
+      "is_paid_or_pay_to_play_signal": "unknown — only evidence of the programme is recipients' own announcement pages; no organiser site, jury or winners list found (pattern often associated with paid-recognition events)",
+      "former_brand_name_used": null,
+      "notes": "Needs SpeakX team to supply the organiser URL/certificate before use. Both India Elite items share this gap."
+    },
+    {
+      "id": "india-elite-2025-ai-language",
+      "claimed_on_speakx_site": "India Elite — Most Futuristic AI-Driven Language Learning Startup (2025)",
+      "official_title": null,
+      "awarding_org": "'India Elite Education & Institutional Excellence Awards & Conference 2025' — organiser identity and website NOT located",
+      "year": 2025,
+      "event_date": null,
+      "venue": null,
+      "category": "Most Futuristic AI-Driven Language Learning Startup (as claimed)",
+      "status": "not-verified",
+      "tier_or_medal": null,
+      "recipient": "company",
+      "recipient_name_as_listed": null,
+      "official_url": null,
+      "evidence_urls": [
+        {
+          "url": "https://www.isst.co.in/2026/03/24/india-elite-education-institutional-excellence-awards-conference-2025/",
+          "how_obtained": "fetched-200",
+          "note": "event existence only"
+        }
+      ],
+      "evidence_quote": null,
+      "verification_status": "claimed-on-speakx-site-only",
+      "is_paid_or_pay_to_play_signal": "unknown (see india-elite-2025-top25)",
+      "former_brand_name_used": null,
+      "notes": "Same organiser gap as above."
+    },
+    {
+      "id": "mint-tech4good-2024",
+      "claimed_on_speakx_site": "Mint — Best Use of AI for Education and Livelihood (Mint All About AI, Tech4Good Awards 2024)",
+      "official_title": "Best Use of AI for Education & Livelihoods (title as given in SpeakX's own press release)",
+      "awarding_org": "Mint (HT Media) with Salesforce — All About AI | Tech4Good Awards, inaugural edition",
+      "year": 2024,
+      "event_date": "2024-11-27",
+      "venue": "Jio World Centre, Mumbai",
+      "category": "Best Use of AI for Education & Livelihoods",
+      "status": "not-verified",
+      "tier_or_medal": "unknown (programme gives Gold and Silver per category; tier not stated anywhere found)",
+      "recipient": "company",
+      "recipient_name_as_listed": null,
+      "official_url": null,
+      "evidence_urls": [
+        {
+          "url": "https://aijourn.com/all-about-ai-tech4good-awards-expands-beyond-india-to-southeast-asia-to-honour-pioneers-redefining-ai-for-social-good/",
+          "how_obtained": "fetched-200",
+          "note": "confirms programme: Mint + Salesforce, 27 Nov 2024, Jio World Centre, 128 entries, jury, Gold/Silver — but names no 2024 winners"
+        },
+        {
+          "url": "https://www.apnnews.com/speakx-bags-the-best-use-of-ai-for-education-livelihoods-at-mints-all-about-ai-tech4good-awards-sponsored-by-salesforce/",
+          "how_obtained": "seen-in-search-results-only",
+          "note": "company press release on PR-distribution site; page returned 'under maintenance' when fetched"
+        }
+      ],
+      "evidence_quote": "SpeakX Bags the Best Use of AI for Education & Livelihoods at Mint's All About AI (press-release headline)",
+      "verification_status": "claimed-on-speakx-site-only",
+      "is_paid_or_pay_to_play_signal": "unknown — organiser describes a jury process; entry-fee terms not found",
+      "former_brand_name_used": false,
+      "notes": "Programme is real and jury-based, but no Mint/Salesforce winners page naming SpeakX was found; only a company-issued release. Site wording 'Education and Livelihood' vs release 'Education & Livelihoods'. Needs organiser/Mint source or event photo/certificate before publishing as verified."
+    },
+    {
+      "id": "etnow-bharat-growth-2026",
+      "claimed_on_speakx_site": "ET Now — Best Education Startup of the Year (ET Now Bharat Growth Summit 2026)",
+      "official_title": null,
+      "awarding_org": "ET Now / ET Edge (Times Group) — Bharat Growth Summit & Awards 2026",
+      "year": 2026,
+      "event_date": "2026-06-26",
+      "venue": "New Delhi",
+      "category": "Best Education Startup of the Year (as claimed)",
+      "status": "not-verified",
+      "tier_or_medal": null,
+      "recipient": "company",
+      "recipient_name_as_listed": null,
+      "official_url": null,
+      "evidence_urls": [
+        {
+          "url": "https://et-edge.com/conferences/bharat-growth-summit/",
+          "how_obtained": "fetched-200",
+          "note": "organiser page; 'Details Coming Soon'; no winners list"
+        },
+        {
+          "url": "https://www.startupmelas.in/startup-events-calendar/bharat-growth-summit-2026",
+          "how_obtained": "fetched-200",
+          "note": "event listing: Fri 26 June 2026, New Delhi; category list shown does not include an education-startup category"
+        },
+        {
+          "url": "https://desifounder.com/event/1h/Bharat_Growth_Summit_amp_Awards_2026",
+          "how_obtained": "fetched-200",
+          "note": "event listing"
+        }
+      ],
+      "evidence_quote": null,
+      "verification_status": "claimed-on-speakx-site-only",
+      "is_paid_or_pay_to_play_signal": "unknown — ET Edge awards programmes use nomination forms; fee terms not found for this event",
+      "former_brand_name_used": false,
+      "notes": "Event verified to exist on 26 June 2026; no organiser or press winners list found; the only category list found (third-party) lacks an education category."
+    },
+    {
+      "id": "entrepreneur-awards-2025",
+      "claimed_on_speakx_site": "Entrepreneur Awards — Best EdTech Startup of the Year (2025)",
+      "official_title": null,
+      "awarding_org": "Entrepreneur India Media Pvt. Ltd. — Entrepreneur Awards 2025 (assumed organiser)",
+      "year": 2025,
+      "event_date": null,
+      "venue": null,
+      "category": "Best EdTech Startup of the Year (as claimed)",
+      "status": "not-verified",
+      "tier_or_medal": null,
+      "recipient": "company",
+      "recipient_name_as_listed": null,
+      "official_url": "https://www.entrepreneurindia.com/2025/award-winners.php",
+      "evidence_urls": [
+        {
+          "url": "https://www.entrepreneurindia.com/2025/award-winners.php",
+          "how_obtained": "fetched-200",
+          "note": "official 2025 winners: 'Best Education Startup Of The Year: Physics Wallah'; 'Edtech Startup of the Year - Coding: Codeyoung'; SpeakX absent"
+        },
+        {
+          "url": "https://www.entrepreneurindia.com/award-winners.php",
+          "how_obtained": "fetched-200",
+          "note": "same list; SpeakX/Ivypods/Yellow Class/Arpit Mittal absent across 2023–2025"
+        }
+      ],
+      "evidence_quote": "Best Education Startup Of The Year : Physics Wallah (2025)",
+      "verification_status": "conflicting",
+      "is_paid_or_pay_to_play_signal": "unknown — organiser page offers 'Nominate for Award' alongside Exhibit/Sponsor packages; fee not shown",
+      "former_brand_name_used": false,
+      "notes": "The only organiser called 'Entrepreneur Awards' found (Entrepreneur India) lists a different winner for the education/edtech category in 2025 and does not list SpeakX in any category. Do NOT publish unless SpeakX supplies the certificate/organiser link (possibly a different organiser or a regional/sub-award)."
+    },
+    {
+      "id": "etedge-40u40-2025-arpit",
+      "claimed_on_speakx_site": "ET Edge — ET Edge 40 Under 40 — Arpit Mittal, Founder (2025)",
+      "official_title": null,
+      "awarding_org": "ET Edge (Times Group) — ET Edge 40 Under 40 (North edition 2025 is the likely edition: Roseate House, New Delhi, June 2025)",
+      "year": 2025,
+      "event_date": "2025-06 (North edition)",
+      "venue": "Roseate House, New Delhi",
+      "category": "40 Under 40 honouree (as claimed)",
+      "status": "not-verified",
+      "tier_or_medal": null,
+      "recipient": "founder",
+      "recipient_name_as_listed": null,
+      "official_url": null,
+      "evidence_urls": [
+        {
+          "url": "https://40-under-40.et-edge.com/north-edition-2025",
+          "how_obtained": "fetched-200",
+          "note": "edition page exists; no honouree list published on page"
+        },
+        {
+          "url": "https://40-under-40.et-edge.com/",
+          "how_obtained": "fetched-200",
+          "note": "programme root; editions 2025 North/South/West; nomination form; no honouree lists"
+        },
+        {
+          "url": "https://10times.com/e11h-hrhd-3rr0-1",
+          "how_obtained": "seen-in-search-results-only",
+          "note": "North edition June 2025 listing (fetch 403)"
+        },
+        {
+          "url": "https://startupmagazine.in/et-edge-40-under-40-south-edition-2025-to-spotlight-a-new-generation-of-visionary-leaders/",
+          "how_obtained": "seen-in-search-results-only",
+          "note": "selection 'by ET Edge in collaboration with Coherent Market Research' (snippet)"
+        }
+      ],
+      "evidence_quote": null,
+      "verification_status": "claimed-on-speakx-site-only",
+      "is_paid_or_pay_to_play_signal": "unknown — programme runs a nomination form; no fee text found on nomination page",
+      "former_brand_name_used": null,
+      "notes": "Programme and 2025 editions verified; honouree lists are not published online and no press item naming Arpit Mittal was found. Which edition (North/South/West) is unknown."
+    },
+    {
+      "id": "bw-40u40-2025-arpit",
+      "claimed_on_speakx_site": "BW Businessworld — BW 40 Under 40 — Arpit Mittal, Founder (2025)",
+      "official_title": null,
+      "awarding_org": "BW Businessworld (BW Disrupt / BW Education / other BW 40 Under 40 lists — which list is unknown)",
+      "year": 2025,
+      "event_date": null,
+      "venue": null,
+      "category": "40 Under 40 honouree (as claimed)",
+      "status": "not-verified",
+      "tier_or_medal": null,
+      "recipient": "founder",
+      "recipient_name_as_listed": null,
+      "official_url": null,
+      "evidence_urls": [
+        {
+          "url": "https://www.bwdisrupt.com/article/india-s-startup-titans-of-tomorrow-bw-disrupt-40-under-40-2025-winners-unveiled-573969",
+          "how_obtained": "seen-in-search-results-only",
+          "note": "BW Disrupt 40 Under 40 2025 winners article; all BW domains return 403 to fetch; search snippet of visible winners did not show Arpit Mittal"
+        },
+        {
+          "url": "https://www.businessworld.in/article/bw-businessworld-unveils-elite-list-of-top-40under40-in-education-508500",
+          "how_obtained": "seen-in-search-results-only",
+          "note": "BW Education 40Under40 list (year unknown); fetch 403"
+        }
+      ],
+      "evidence_quote": null,
+      "verification_status": "claimed-on-speakx-site-only",
+      "is_paid_or_pay_to_play_signal": "unknown",
+      "former_brand_name_used": null,
+      "notes": "Could not read any BW page (403). BW runs several distinct 40 Under 40 lists; SpeakX should state which (e.g., BW Disrupt 40 Under 40 2025) and provide the article URL."
+    },
+    {
+      "id": "elets-wes27-2023",
+      "claimed_on_speakx_site": "Elets — Best EdTech Provider of the Year (27th World Education Summit 2023)",
+      "official_title": null,
+      "awarding_org": "Elets Technomedia — 27th Elets World Education Summit, Putrajaya, Malaysia",
+      "year": 2023,
+      "event_date": "2023-10-02/03",
+      "venue": "Malaysia (The Everly Putrajaya per edition page)",
+      "category": "Best EdTech Provider of the Year (as claimed)",
+      "status": "not-verified",
+      "tier_or_medal": null,
+      "recipient": "company",
+      "recipient_name_as_listed": null,
+      "official_url": null,
+      "evidence_urls": [
+        {
+          "url": "https://wes.eletsonline.com/past-editions/",
+          "how_obtained": "fetched-200",
+          "note": "27th WES 2023 — Malaysia — October 2–3, 2023"
+        },
+        {
+          "url": "https://wes.eletsonline.com/awards-winners/",
+          "how_obtained": "fetched-200",
+          "note": "'previous winners' page: no Yellow Class / SpeakX / 'EdTech Provider of the Year'"
+        },
+        {
+          "url": "https://wes.eletsonline.com/world-education-summit-award-winners/",
+          "how_obtained": "fetched-200",
+          "note": "covers 19th/20th/22nd editions only; no match"
+        },
+        {
+          "url": "https://happyllama.analyticsindiamag.com/speaker/arpit-mittal/",
+          "how_obtained": "fetched-200",
+          "note": "founder speaker bio repeats claim: 'Best EdTech Provider of the Year' at 'Elts 27th World Education Summit'"
+        }
+      ],
+      "evidence_quote": "'Best EdTech Provider of the Year' at Elts 27th World Education Summit (founder bio)",
+      "verification_status": "claimed-on-speakx-site-only",
+      "is_paid_or_pay_to_play_signal": "unknown — Elets edition page links an 'Award Registration' page; fee not shown",
+      "former_brand_name_used": "unknown — Oct 2023 pre-dates the Nov 2023 rebrand, so any certificate may read 'Yellow Class'",
+      "notes": "Event verified; winner not found on any organiser winners page. Only sources are SpeakX's site and a founder-supplied speaker bio."
+    },
+    {
+      "id": "forbes-dgems-select200-2023",
+      "claimed_on_speakx_site": "Forbes India — Best Company, Select 200 (DGEMS 2023)",
+      "official_title": "DGEMS 2023 Select 200 (S200) — Forbes India in partnership with D Globalist",
+      "awarding_org": "D Globalist with Forbes India (Brand Connect / paid partnership)",
+      "year": 2023,
+      "event_date": "2023 (Forbes India Brand Connect article dated 7 July 2023)",
+      "venue": null,
+      "category": "Select 200 listing (as claimed: 'Best Company, Select 200')",
+      "status": "not-verified",
+      "tier_or_medal": null,
+      "recipient": "company",
+      "recipient_name_as_listed": null,
+      "official_url": "https://www.dglobalist.com/dgems-2023-s200-list",
+      "evidence_urls": [
+        {
+          "url": "https://www.dglobalist.com/dgems-2023-s200-list",
+          "how_obtained": "fetched-200",
+          "note": "organiser's 2023 S200 list renders other companies (Dista, Betterhalf, Aerostrovilos) but contains NO Yellow Class / SpeakX / Ivypods"
+        },
+        {
+          "url": "https://www.forbesindia.com/article/brand-connect/forbes-india-at-d-globalist-entrepreneur-mobility-summit-2023-presents-select-200-business-for-global-expansion/85517/1",
+          "how_obtained": "fetched-200",
+          "note": "labelled Brand Connect: 'equivalent to advertisements and are not written and produced by Forbes India journalists'"
+        },
+        {
+          "url": "https://in.linkedin.com/company/theyellowclass",
+          "how_obtained": "seen-in-search-results-only",
+          "note": "company LinkedIn snippet: 'showcased in the latest edition of Forbes India Magazine'"
+        },
+        {
+          "url": "https://happyllama.analyticsindiamag.com/speaker/arpit-mittal/",
+          "how_obtained": "fetched-200",
+          "note": "founder bio repeats 'Forbes India DGEMS 2023'"
+        }
+      ],
+      "evidence_quote": "Brand Connect… not written and produced by Forbes India journalists",
+      "verification_status": "conflicting",
+      "is_paid_or_pay_to_play_signal": "yes — Forbes India content is labelled Brand Connect (advertising); D Globalist invites participation via inquire@dglobalist.com; S200 is a sponsored 'visibility platform', not an editorial Forbes ranking",
+      "former_brand_name_used": "likely Yellow Class era (2023) — no listing found under either name",
+      "notes": "Organiser's own 2023 S200 list does not include the company under any name. 'Best Company' is not a DGEMS title. Recommend removing or rewording; at minimum never present as a Forbes editorial award."
+    }
+  ],
+  "press_logos_on_speakx_site": [
+    {
+      "logo_alt_or_name": "The Economic Times",
+      "hrefs": [
+        "https://entrepreneur.economictimes.indiatimes.com/news/funding/ms-dhoni-backs-ai-based-english-learning-platform-speakx/133677517",
+        "https://entrepreneur.economictimes.indiatimes.com/news/startups/revolutionizing-language-learning-how-speakx-is-transforming-english-education-with-ai/132072224"
+      ],
+      "type": "ET Entrepreneur (ET vertical) — funding news item fetched 200 (dated 2026-09-01); second 'startups' feature not fetched",
+      "note": "Site labels this 'ET Entrepreneur'"
+    },
+    {
+      "logo_alt_or_name": "Inc42",
+      "hrefs": [
+        "https://inc42.com/buzz/exclusive-ms-dhoni-joins-edtech-startup-speakxs-cap-table/"
+      ],
+      "type": "independent editorial (fetched 200, 2026-09-01, by Palak Sharma)"
+    },
+    {
+      "logo_alt_or_name": "Moneycontrol",
+      "hrefs": [
+        "https://www.moneycontrol.com/technology/speakx-app-wants-to-make-learning-english-more-useful-than-talking-to-chatgpt-article-14028161.html"
+      ],
+      "type": "independent editorial (fetched 200 via curl; datePublished 2026-09-11)"
+    },
+    {
+      "logo_alt_or_name": "VCCircle",
+      "hrefs": [
+        "https://www.vccircle.com/westbridgebacked-speakx-targets-4x-revenue-growth-in-fy27"
+      ],
+      "type": "independent editorial, premium/paywalled (fetched 200; datePublished 2026-04-30)"
+    },
+    {
+      "logo_alt_or_name": "TICE News",
+      "hrefs": [
+        "https://www.tice.news/know-this/from-small-town-dreams-to-global-classrooms-how-speakx-is-rewriting-indias-edtech-story-with-ai-11802352"
+      ],
+      "type": "feature (fetched 200, 2026-05-05); small outlet; reads editorial but sponsorship status unclear"
+    },
+    {
+      "logo_alt_or_name": "Republic World",
+      "hrefs": [
+        "https://www.republicworld.com/initiatives/from-completion-to-capability-how-speakx-turns-learning-into-real-usage"
+      ],
+      "type": "URL path '/initiatives/' indicates branded/partner content — treat as sponsored until confirmed (not fetched)"
+    },
+    {
+      "logo_alt_or_name": "Amar Ujala",
+      "hrefs": [
+        "https://www.amarujalabonus.com/news/why-skill-literacy-is-just-as-important-to-india-as-financial-literacy"
+      ],
+      "type": "amarujalabonus.com sub-brand; likely branded content (not fetched)"
+    },
+    {
+      "logo_alt_or_name": "Times of India",
+      "hrefs": [],
+      "type": "logo shown; no outbound link found in page HTML"
+    },
+    {
+      "logo_alt_or_name": "Mint",
+      "hrefs": [],
+      "type": "award logo (Tech4Good) — see awards"
+    },
+    {
+      "logo_alt_or_name": "Forbes India",
+      "hrefs": [],
+      "type": "award logo (DGEMS) — see awards; Brand Connect"
+    },
+    {
+      "logo_alt_or_name": "BW Businessworld",
+      "hrefs": [],
+      "type": "award logo (40 Under 40) — see awards"
+    }
+  ],
+  "open_questions": [
+    "speakx.ai homepage shows 'Rating: 4.6+'. Google Play (fetched 2026-10-12, hl=en_IN&gl=IN) shows ratingValue 4.53 (displayed 4.5), 92.9K reviews. SHARED-CONTEXT forbids '4.6+'. Flag to site owners.",
+    "ET 2025 wording: site says 'Best Personalised and Gamified Learning Experience' and 'Best Emerging Edtech Startup'; organiser says 'Excellence in Gamified & Personalized Learning Solutions' (GOLD) and 'Outstanding Emerging EdTech Startup' (BRONZE). Approve organiser wording + medal tiers.",
+    "Entrepreneur Awards 2025: organiser's official list names Physics Wallah/Codeyoung, not SpeakX. Which 'Entrepreneur Awards' is meant? Need certificate/URL.",
+    "Forbes India DGEMS Select 200 (2023): organiser's S200 list lacks the company under any name, and the Forbes content is paid Brand Connect. Recommend dropping or rewording.",
+    "India Elite (2 awards), Mint Tech4Good 2024, ET Now Bharat Growth Summit 2026, ET Edge 40 Under 40, BW 40 Under 40, Elets WES 2023: no organiser or independent confirmation found — all 'claimed-on-speakx-site-only'; need certificates/organiser links before publication.",
+    "ET Education Excellence Awards charge a non-refundable nomination processing fee (INR 27,000–29,000 + GST per entry per current guidelines) with a jury process. Decide whether to disclose 'jury-judged, paid-entry awards' context in the press section.",
+    "Awards from Oct 2023 or earlier (Elets, DGEMS) may have been issued under the former brand name; never surface that name in public copy.",
+    "Press logos: Republic World ('/initiatives/') and Amar Ujala ('amarujalabonus.com') links look like paid/branded placements; Times of India logo has no link. Consider separating 'As featured in' (editorial) from partner content."
+  ]
+}

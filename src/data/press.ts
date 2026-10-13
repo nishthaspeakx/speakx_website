@@ -52,6 +52,54 @@ export const pressItems: PressItem[] = [
     "placement": "in-the-news"
   },
   {
+    "publication": "Sportzpower",
+    "title": "SpeakX brings MS Dhoni on board as brand ambassador",
+    "url": "https://sportzpower.com/speakx-brings-ms-dhoni-on-board-as-brand-ambassador/",
+    "author": "SportzPower Team",
+    "date": "2026-09-07",
+    "category": "product",
+    "summary": "Campaign aimed at 'Urban Bharat', to be scaled to broadcast placements.",
+    "linkType": "independent-editorial",
+    "verification": "verified",
+    "placement": "in-the-news"
+  },
+  {
+    "publication": "SportsMint Media",
+    "title": "MS Dhoni backs SpeakX in AI learning push",
+    "url": "https://sportsmintmedia.com/ms-dhoni-backs-speakx-in-ai-learning-push/",
+    "author": "Aashay Khandelwal",
+    "date": "2026-09-07",
+    "category": "funding",
+    "summary": "Dhoni joins as strategic investor and ambassador; SpeakX has raised $20 Mn+ from WestBridge, Elevation and others.",
+    "linkType": "independent-editorial",
+    "verification": "verified",
+    "placement": "in-the-news"
+  },
+  {
+    "publication": "Branding in Asia",
+    "title": "MS Dhoni Tackles English-Speaking Hesitation in SpeakX Campaign",
+    "url": "https://www.brandinginasia.com/ms-dhoni-tackles-english-speaking-hesitation-in-speakx-campaign/",
+    "author": "BIA Staff",
+    "date": "2026-09-07",
+    "category": "campaign",
+    "summary": "Regional (APAC) ad-industry coverage of the Dhoni campaign; names ZeroFifty Mediaworks; quotes Dhoni: 'Confidence doesn't come from knowing more; it comes from putting yourself out there'.",
+    "linkType": "independent-editorial",
+    "verification": "verified",
+    "placement": "in-the-news"
+  },
+  {
+    "publication": "MxMIndia",
+    "title": "SpeakX appoints MS Dhoni as brand ambassador, launches new campaign",
+    "url": "https://www.mxmindia.com/marketing/speakx-appoints-ms-dhoni-as-brand-ambassador-launches-new-campaign/",
+    "author": "Our Staff",
+    "date": "2026-09-07",
+    "category": "campaign",
+    "summary": "Media/marketing trade coverage of the ambassador appointment and campaign launch.",
+    "linkType": "independent-editorial",
+    "verification": "verified",
+    "placement": "in-the-news"
+  },
+  {
     "publication": "MediaNews4U",
     "title": "SpeakX Brings MS Dhoni On Board as Brand Ambassador for Its 'Muh Khol, English Bol' Campaign",
     "url": "https://www.medianews4u.com/speakx-brings-ms-dhoni-on-board-as-brand-ambassador-for-its-muh-khol-english-bol-campaign/",
@@ -62,6 +110,18 @@ export const pressItems: PressItem[] = [
     "linkType": "independent-editorial",
     "verification": "verified",
     "placement": "in-the-news"
+  },
+  {
+    "publication": "afaqs!",
+    "title": "MS Dhoni joins SpeakX as brand ambassador",
+    "url": "https://www.afaqs.com/news/mktg/ms-dhoni-joins-speakx-as-brand-ambassador-12495076",
+    "author": "afaqs! news bureau",
+    "date": "2026-09-05",
+    "category": "campaign",
+    "summary": "afaqs reports Dhoni as investor-turned-brand-ambassador; 'Muh Khol, English Bol' digital video campaign by ZeroFifty Mediaworks, to be extended to broadcast; Dhoni appears inside the app at learner milestones.",
+    "linkType": "independent-editorial",
+    "verification": "verified",
+    "placement": "as-seen-in"
   },
   {
     "publication": "Indian Startup News",
@@ -134,6 +194,18 @@ export const pressItems: PressItem[] = [
     "linkType": "independent-editorial",
     "verification": "verified",
     "placement": "as-seen-in"
+  },
+  {
+    "publication": "Inc42 AI Summit 2026 (event speaker page)",
+    "title": "Speaker: Arpit Mittal, Founder & CEO, SpeakX - panel 'How Consumer AI Products Are Winning Distribution And Retention In India'",
+    "url": "https://events.inc42.com/ai-summit/",
+    "author": "Inc42 events",
+    "date": "2026-05-28",
+    "category": "founder-interview",
+    "summary": "Arpit Mittal listed as panellist (15:00-15:25) at Inc42 AI Summit, 28 May 2026, Sheraton Grand Whitefield, Bengaluru.",
+    "linkType": "investor-or-partner-listing",
+    "verification": "verified",
+    "placement": "founder"
   },
   {
     "publication": "TICE News",
@@ -218,6 +290,18 @@ export const pressItems: PressItem[] = [
     "linkType": "independent-editorial",
     "verification": "verified",
     "placement": "as-seen-in"
+  },
+  {
+    "publication": "Entrepreneur India (entrepreneurindia.com - Franchise India / Opportunity India)",
+    "title": "SpeakX Launches ESOP Buyback Worth USD 1 Mn for Employees",
+    "url": "https://www.entrepreneurindia.com/blog/en/news/speakx-launches-esop-buyback-worth-usd-1-mn-for-employees.57979",
+    "author": "Opportunity India Desk",
+    "date": "2025-11-27",
+    "category": "funding",
+    "summary": "ESOP buyback of USD 1 Mn; 15 of 20 employees benefit; follows USD 16 Mn pre-Series B.",
+    "linkType": "independent-editorial",
+    "verification": "verified",
+    "placement": "in-the-news"
   },
   {
     "publication": "HRKatha",
@@ -337,6 +421,18 @@ export const pressItems: PressItem[] = [
     "summary": "Search snippet: pivoted Jan 2024 from hobby classes to an AI-first language product, downsizing from ~200 to 20 staff; $16 Mn pre-Series B led by WestBridge.",
     "linkType": "independent-editorial",
     "verification": "partially-verified",
+    "placement": "in-the-news"
+  },
+  {
+    "publication": "Entrepreneur India (entrepreneurindia.com - Franchise India)",
+    "title": "SpeakX.ai Plans Regional Language Expansion and AI Enhancements",
+    "url": "https://www.entrepreneurindia.com/blog/en/news/speakxai-plans-regional-language-expansion-and-ai-enhancements.57632",
+    "author": "Opportunity India Desk",
+    "date": "2025-10",
+    "category": "funding",
+    "summary": "Funding-news rewrite focused on regional-language plans.",
+    "linkType": "independent-editorial",
+    "verification": "verified",
     "placement": "in-the-news"
   },
   {

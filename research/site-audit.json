@@ -1,0 +1,2532 @@
+{
+ "checked": "2026-10-12",
+ "method": "curl -I/-L (UA: desktop Chrome 129) + HTML parsing of saved responses; no JS rendering. All URLs below were fetched live on 2026-10-12 unless marked not-verified.",
+ "domains": [
+  {
+   "url": "https://speakx.ai/",
+   "status": 200,
+   "redirect_chain": [],
+   "final": "https://speakx.ai/",
+   "canonical_tag": "https://www.speakx.ai",
+   "meta_robots": "index, follow",
+   "hreflang": "none",
+   "robots_txt": "200, see robots_txt",
+   "sitemap_in_robots": "https://www.speakx.ai/sitemap.xml",
+   "server": "no Server header; x-powered-by: Next.js; IP 35.244.27.94 (AS396982 Google LLC)",
+   "hsts": "max-age=31536000; includeSubDomains",
+   "note": "Serving host in practice (all other hosts redirect or alias to content whose canonical says www.speakx.ai)."
+  },
+  {
+   "url": "https://www.speakx.ai/",
+   "status": 308,
+   "redirect_chain": [
+    "https://www.speakx.ai/ -> 308 -> https://speakx.ai"
+   ],
+   "final": "https://speakx.ai/",
+   "canonical_tag": "(redirects)",
+   "note": "www permanently redirects to non-www with HTTP 308 (Next.js-style). Same for every path tested: /premium, /blog, /blog/<comparison>, /speakx-logo.svg, /opengraph-image, /sitemap.xml."
+  },
+  {
+   "url": "http://speakx.ai/",
+   "status": 308,
+   "redirect_chain": [
+    "http://speakx.ai/ -> 308 -> https://speakx.ai"
+   ],
+   "final": "https://speakx.ai/"
+  },
+  {
+   "url": "http://www.speakx.ai/",
+   "status": 308,
+   "redirect_chain": [
+    "http://www.speakx.ai/ -> 308 -> https://www.speakx.ai",
+    "https://www.speakx.ai -> 308 -> https://speakx.ai"
+   ],
+   "final": "https://speakx.ai/",
+   "note": "two-hop chain"
+  },
+  {
+   "url": "https://www.speakx.com/",
+   "status": 200,
+   "redirect_chain": [],
+   "final": "https://www.speakx.com/",
+   "canonical_tag": "https://www.speakx.ai",
+   "server": "envoy; IP 34.47.197.6 (Google Cloud)",
+   "note": "ALIAS HOST: serves the full identical site (same etag yrm8n7n267drkv, same 642456-byte HTML) with cross-domain canonical to www.speakx.ai. Does NOT redirect. robots.txt identical, sitemap.xml served 200 (lists www.speakx.ai URLs)."
+  },
+  {
+   "url": "https://speakx.com/",
+   "status": 200,
+   "redirect_chain": [],
+   "final": "https://speakx.com/",
+   "canonical_tag": "https://www.speakx.ai",
+   "server": "envoy",
+   "note": "alias host, same as www.speakx.com"
+  },
+  {
+   "url": "http://speakx.com/",
+   "status": 301,
+   "redirect_chain": [
+    "http://speakx.com/ -> 301 -> https://speakx.com/"
+   ],
+   "final": "https://speakx.com/"
+  },
+  {
+   "url": "http://www.speakx.com/",
+   "status": 301,
+   "redirect_chain": [
+    "http://www.speakx.com/ -> 301 -> https://www.speakx.com/"
+   ],
+   "final": "https://www.speakx.com/"
+  },
+  {
+   "url": "https://www.speakx.in/",
+   "status": 200,
+   "redirect_chain": [],
+   "final": "https://www.speakx.in/",
+   "canonical_tag": "https://www.speakx.ai",
+   "server": "envoy; IP 34.47.197.6",
+   "note": "alias host, identical content, cross-domain canonical to www.speakx.ai; sitemap.xml 200"
+  },
+  {
+   "url": "https://speakx.in/",
+   "status": 200,
+   "redirect_chain": [],
+   "final": "https://speakx.in/",
+   "canonical_tag": "https://www.speakx.ai",
+   "server": "envoy",
+   "note": "alias host"
+  },
+  {
+   "url": "http://speakx.in/",
+   "status": 301,
+   "redirect_chain": [
+    "http://speakx.in/ -> 301 -> https://speakx.in/"
+   ],
+   "final": "https://speakx.in/"
+  },
+  {
+   "url": "http://www.speakx.in/",
+   "status": 301,
+   "redirect_chain": [
+    "http://www.speakx.in/ -> 301 -> https://www.speakx.in/"
+   ],
+   "final": "https://www.speakx.in/"
+  }
+ ],
+ "canonical_domain": "https://speakx.ai (non-www) is the only host that answers 200 and is the redirect target of www.speakx.ai; BUT every page's <link rel=canonical>, og:url, sitemap <loc>, robots.txt Sitemap line and JSON-LD @id/url all point at https://www.speakx.ai, which 308-redirects back to non-www. Canonical conflict CONFIRMED on homepage, /blog, /premium, /about and the comparison article. Recommendation for our build: emit canonical/og:url/sitemap/JSON-LD as https://speakx.ai/... (non-www) and keep www->non-www 308; or flip the redirect to non-www->www consistently. Do not mix.",
+ "canonical_conflict_verified": {
+  "comparison_page_canonical": "https://www.speakx.ai/blog/best-english-speaking-apps-india-speakx-vs-competitors",
+  "www_redirect": "https://www.speakx.ai/blog/best-english-speaking-apps-india-speakx-vs-competitors -> 308 -> https://speakx.ai/blog/best-english-speaking-apps-india-speakx-vs-competitors",
+  "homepage_canonical": "https://www.speakx.ai",
+  "homepage_og_url": "https://www.speakx.ai",
+  "homepage_og_image": "https://www.speakx.ai/opengraph-image (308 -> https://speakx.ai/opengraph-image)",
+  "organization_logo_in_jsonld": "https://www.speakx.ai/speakx-logo.svg (308 -> https://speakx.ai/speakx-logo.svg)",
+  "robots_sitemap_line": "https://www.speakx.ai/sitemap.xml (308 -> https://speakx.ai/sitemap.xml)",
+  "sitemap_locs": "all 43 <loc> entries use https://www.speakx.ai/...",
+  "status": "verified"
+ },
+ "robots_txt": {
+  "url": "https://speakx.ai/robots.txt",
+  "status": 200,
+  "content": "User-Agent: *\nAllow: /\nDisallow: /health\nDisallow: /ping\nDisallow: /pay/\nDisallow: /premium/success\nDisallow: /business/verify\nDisallow: /business/payment\nContent-Signal: ai-train=no, search=yes, ai-input=yes\n\nSitemap: https://www.speakx.ai/sitemap.xml",
+  "identical_on": [
+   "www.speakx.ai",
+   "speakx.com",
+   "www.speakx.com",
+   "speakx.in",
+   "www.speakx.in"
+  ]
+ },
+ "llms_txt": {
+  "url": "https://speakx.ai/llms.txt",
+  "status": 200,
+  "linked_from_html_header": "link: </llms.txt>; rel=\"describedby\"",
+  "note": "lists App Store + Play links, main pages, policies, business pages. Says 'free trial' on /premium line (conflicts with ₹2 trial)."
+ },
+ "sitemap": {
+  "url": "https://speakx.ai/sitemap.xml",
+  "requested_as": "https://www.speakx.ai/sitemap.xml -> 308 -> https://speakx.ai/sitemap.xml",
+  "status": 200,
+  "content_type": "application/xml",
+  "type": "single urlset (not an index)",
+  "url_count": 43,
+  "blog_post_count": 18,
+  "lastmod_all": "2026-10-12T05:18:30.949Z (same timestamp on every URL - generated at build/request time, not real lastmod)",
+  "other_sitemaps_probed_404": [
+   "/sitemap-0.xml",
+   "/sitemap_index.xml",
+   "/blog/sitemap.xml",
+   "/sitemap-blog.xml",
+   "/server-sitemap.xml"
+  ],
+  "urls": [
+   "https://www.speakx.ai",
+   "https://www.speakx.ai/about",
+   "https://www.speakx.ai/contact-us",
+   "https://www.speakx.ai/premium",
+   "https://www.speakx.ai/business",
+   "https://www.speakx.ai/business/signup",
+   "https://www.speakx.ai/business/about",
+   "https://www.speakx.ai/business/contact-us",
+   "https://www.speakx.ai/business/healthcare",
+   "https://www.speakx.ai/business/colleges",
+   "https://www.speakx.ai/business/demo",
+   "https://www.speakx.ai/business/teams",
+   "https://www.speakx.ai/terms-conditions",
+   "https://www.speakx.ai/privacy-policy",
+   "https://www.speakx.ai/refund-policy",
+   "https://www.speakx.ai/equal-rights-policy",
+   "https://www.speakx.ai/diversity-and-inclusion-policy",
+   "https://www.speakx.ai/user-data-deletion-policy",
+   "https://www.speakx.ai/business/b2b-terms-and-conditions",
+   "https://www.speakx.ai/business/b2b-privacy-policy",
+   "https://www.speakx.ai/business/b2b-refund-policy",
+   "https://www.speakx.ai/business/b2b-data-deletion-policy",
+   "https://www.speakx.ai/business/equal-rights-policy",
+   "https://www.speakx.ai/business/diversity-and-inclusion-policy",
+   "https://www.speakx.ai/blog",
+   "https://www.speakx.ai/blog/best-english-speaking-apps-india-speakx-vs-competitors",
+   "https://www.speakx.ai/blog/practice-spoken-english-alone-at-home",
+   "https://www.speakx.ai/blog/interview-questions-answers-english-freshers",
+   "https://www.speakx.ai/blog/100-simple-english-sentences-for-daily-use-with-hindi-meaning",
+   "https://www.speakx.ai/blog/how-to-improve-english-speaking-fluency-for-job-interviews-a-guide-for-indian-professionals",
+   "https://www.speakx.ai/blog/how-to-speak-english-fluently-for-village-people-in-bihar-a-7-day-confidence-framework",
+   "https://www.speakx.ai/blog/english-interview-questions-and-answers-for-corporate-professionals-a-speaking-confidence-guide",
+   "https://www.speakx.ai/blog/how-to-speak-english-fluently-in-parent-teacher-meetings-a-teachers-5-minute-daily-method",
+   "https://www.speakx.ai/blog/english-spelling-practice",
+   "https://www.speakx.ai/blog/english-grammar-sentence-structure",
+   "https://www.speakx.ai/blog/english-speaking-fluency",
+   "https://www.speakx.ai/blog/english-pronunciation-difficulty",
+   "https://www.speakx.ai/blog/english-grammar-tenses",
+   "https://www.speakx.ai/blog/how-to-speak-english-fluently",
+   "https://www.speakx.ai/blog/learning-english-with-an-ai-teacher-app-for-confident-speaking",
+   "https://www.speakx.ai/blog/how-a-personal-ai-teacher-app-improves-english-speaking-confidence",
+   "https://www.speakx.ai/blog/unlock-confident-english-speaking-your-guide-to-daily-practice-and-learning-the-basics",
+   "https://www.speakx.ai/blog/master-real-life-english-your-guide-to-confident-daily-conversation"
+  ]
+ },
+ "tech": {
+  "framework": "Next.js App Router (self.__next_f RSC payload, /_next/static/chunks/app/layout-*.js, app/page-*.js, app/not-found-*.js; x-powered-by: Next.js). Exact version not exposed; headers x-nextjs-prerender / x-nextjs-stale-time / x-nextjs-cache HIT and 'vary: rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch' indicate a recent Next 15.x build with static prerender + ISR (cache-control: s-maxage=31536000, stale-time 300).",
+  "version": "not-verified (likely 15.x)",
+  "rendering": "static prerender (x-nextjs-prerender: 1), HTML 642 KB on homepage",
+  "styling": "Tailwind CSS utility classes + shadcn/ui-style HSL CSS variables (--primary: 0 0% 9%, --accent, .dark scope) + custom --sx-* and --brand-* tokens; 4 CSS files under /_next/static/css/ (159e562bb6af72e3, 622aa3d775867331, 68efc361b43e7224, 9763d427522806dc)",
+  "fonts_loading": "next/font self-hosted woff2 under /_next/static/media/*.woff2 with preload (:HL entries); NO Google Fonts <link> (CSP allows fonts.googleapis.com but none used)",
+  "hosting": "speakx.ai A 35.244.27.94 (AS396982 Google LLC) - Google Cloud; speakx.com/.in A 34.47.197.6 (Google Cloud, 'server: envoy' => GKE/Cloud Run ingress). NOT Vercel (no x-vercel-* headers). NS: domaincontrol.com (GoDaddy DNS).",
+  "cdn_assets": "image.speakx.in -> d1ulaqqs06rb4j.cloudfront.net (CloudFront, origin 'UploadServer' = Google Cloud Storage); video.speakx.in -> d3nd01m009tf77.cloudfront.net",
+  "image_params": "image.speakx.in supports ?w=&fm=webp&q=&auto=format,compress query params (seen in blog)",
+  "og_image": "dynamic Next.js /opengraph-image route (1200x630 PNG)",
+  "icons": "/icon.png (192x192, Next metadata icon) and /apple-icon.png (180x180); /favicon.ico -> 404",
+  "security_headers": "HSTS, X-Frame-Options SAMEORIGIN, X-Content-Type-Options nosniff, Referrer-Policy strict-origin-when-cross-origin, Permissions-Policy camera=(), microphone=(self), geolocation=(); CSP is Report-Only (report-uri /api/csp-report)",
+  "csp_allowed_third_parties": [
+   "accounts.google.com/gsi (Google One Tap)",
+   "*.razorpay.com (checkout on /premium)",
+   "assets.calendly.com + calendly.com (business demo)",
+   "connect.facebook.net / facebook.com (Meta Pixel)",
+   "www.googletagmanager.com",
+   "snap.licdn.com / px.ads.linkedin.com (LinkedIn Insight)",
+   "*.clarity.ms + c.bing.com (Microsoft Clarity allowed, tag not found)",
+   "*.google-analytics.com / *.analytics.google.com",
+   "*.g.doubleclick.net",
+   "biz-api.speakx.com",
+   "api.ipify.org",
+   "www.youtube-nocookie.com",
+   "images.pexels.com",
+   "two AWS ECS endpoints (us-east-1, us-west-2)"
+  ],
+  "payments": "Razorpay (checkout flow on /premium; events 'b2c_checkout' in bundle)",
+  "html_lang": "en",
+  "hreflang": "none on any page checked"
+ },
+ "analytics": {
+  "ga4_measurement_id": {
+   "value": "G-Z36ZMHENFK",
+   "source": "default measurementId in JS chunk /_next/static/chunks/9235-99dd059efd1ce7fa.js (class GA4); events prefixed 'b2c_'",
+   "status": "verified in bundle; runtime load via client script (no gtag loader string in static HTML) - not observable with curl"
+  },
+  "gtm_container_id": {
+   "value": null,
+   "status": "not found in HTML or any of 21 JS chunks (googletagmanager.com only in CSP allow-list)"
+  },
+  "meta_pixel": {
+   "b2c_pixel_id": "1191395792230165",
+   "b2b_pixel_id": "851507887655950",
+   "source": "fbq('init') in homepage HTML + noscript <img src=facebook.com/tr?id=851507887655950>; class 'Facebook Pixel' in chunk 9235",
+   "status": "verified"
+  },
+  "linkedin_insight_partner_id": {
+   "value": "10860337",
+   "source": "chunk 9235 (window._linkedin_data_partner_ids; lintrk); events demo_requested/demo_booked (B2B)",
+   "status": "verified in bundle"
+  },
+  "microsoft_clarity": {
+   "value": null,
+   "status": "not-verified (allowed in CSP, no project id in HTML/JS)"
+  },
+  "google_ads": {
+   "value": null,
+   "status": "no AW- id found"
+  },
+  "mobile_attribution": {
+   "vendor": "Singular (sng.link)",
+   "link": "https://speakx.sng.link/Ed28z/npfq/4alj",
+   "status": "verified; no AppsFlyer/OneLink/Branch/Adjust found"
+  },
+  "other": "no Mixpanel/Amplitude/PostHog/Hotjar/CleverTap/MoEngage found; Google Identity Services (One Tap) allowed in CSP"
+ },
+ "brand": {
+  "name": "SpeakX",
+  "legal_name": "Ivypods Technology Pvt. Ltd. (CIN U80100HR2019PTC081913, Gurugram, Haryana; founded 2020 per schema)",
+  "tagline": {
+   "primary": "Muh Khol. English Bol.",
+   "where": "homepage H1 and closing H2; comparison article closing H2; article body: 'our motto'",
+   "secondary": "SpeakX | Aapka English Speaking Partner (hero subline)",
+   "og_alt": "SpeakX - AI English Speaking App for Confidence and Fluency",
+   "title_tag": "SpeakX, AI English Speaking App | Speak English Confidently",
+   "footer_line": "Practise speaking English out loud, about fifteen minutes a day.",
+   "store_tagline": "SpeakX: Learn Spoken English with MS Dhoni (Play/App Store description headline)",
+   "primary_cta_text": "Start speaking now"
+  },
+  "logo": [
+   {
+    "url": "https://speakx.ai/speakx-logo.svg",
+    "type": "image/svg+xml",
+    "size_bytes": 6612,
+    "viewBox": "0 0 1000 249.12",
+    "description": "Horizontal colour wordmark 'SpeakX' with X-mark glyph; fills #ff4d00 and gradient #ff4d00->#de2804",
+    "referenced_as": "Organization.logo = https://www.speakx.ai/speakx-logo.svg (www, redirects)",
+    "downloaded": "assets/speakx-logo.svg"
+   },
+   {
+    "url": "https://image.speakx.in/assets/blogs/best-english-speaking-apps-india/speakx-logo.png",
+    "type": "image/png",
+    "dimensions": "400x400",
+    "description": "square app-icon style logo used inside the comparison article",
+    "downloaded": "assets/speakx-logo-blog.png"
+   },
+   {
+    "url": "https://play-lh.googleusercontent.com/dl8yJ7uPf3U9tlpDH3S9bmQRMsM0Le_PDkcuuyDb5WwP0S7MTE4Dce9DRn5UUylGJAp8rE6wnLnU_JMX5kqb=s512",
+    "type": "image/png",
+    "dimensions": "512x512",
+    "description": "Google Play app icon (orange rounded square, white X glyph)",
+    "downloaded": "assets/play-app-icon-512.png"
+   },
+   {
+    "url": "https://speakx.ai/icon.png?0a2a7270d9a20253",
+    "type": "image/png",
+    "dimensions": "192x192",
+    "description": "site favicon / Next metadata icon",
+    "downloaded": "assets/favicon-icon-192.png"
+   },
+   {
+    "url": "https://speakx.ai/apple-icon.png?616c71372dfd42d4",
+    "type": "image/png",
+    "dimensions": "180x180",
+    "description": "apple-touch-icon",
+    "downloaded": "assets/apple-icon-180.png"
+   }
+  ],
+  "og_image": {
+   "url": "https://speakx.ai/opengraph-image",
+   "declared_as": "https://www.speakx.ai/opengraph-image",
+   "dimensions": "1200x630",
+   "type": "image/png",
+   "description": "Orange gradient (#ff4d00 family) card: white 'SpeakX' wordmark in text, subtitle 'AI English Speaking App for Confidence & Fluency', 'speakx.ai' bottom-left. Generated by Next.js opengraph-image route.",
+   "downloaded": "assets/og-image-home.png"
+  },
+  "colors": [
+   {
+    "hex": "#ff4d00",
+    "role": "brand primary / accent (--brand: 255 77 0; --text-brand-hl; logo fill; most-used hex: 65x in HTML, 23x in CSS)"
+   },
+   {
+    "hex": "#d04907",
+    "role": "brand hover / --sx-accent (--brand-hover: 208 73 7)"
+   },
+   {
+    "hex": "#a53a06",
+    "role": "brand pressed (--brand-press: 165 58 6)"
+   },
+   {
+    "hex": "#742c07",
+    "role": "brand deep / --text-brand-strong"
+   },
+   {
+    "hex": "#de2804",
+    "role": "logo gradient end; animated-gradient stop"
+   },
+   {
+    "hex": "#f4570f",
+    "role": "secondary orange (buttons/gradients)"
+   },
+   {
+    "hex": "#dd4a03",
+    "role": "orange variant"
+   },
+   {
+    "hex": "#ff6600",
+    "role": "gradient stop"
+   },
+   {
+    "hex": "#fff0e3",
+    "role": "brand tint (--brand-tint: 255 240 227)"
+   },
+   {
+    "hex": "#ffb890",
+    "role": "brand soft (--brand-soft: 255 184 144)"
+   },
+   {
+    "hex": "#fffaf5",
+    "role": "brand faint (--brand-faint)"
+   },
+   {
+    "hex": "#ffb61e",
+    "role": "brand gold (--brand-gold: 255 182 30)"
+   },
+   {
+    "hex": "#0a0b0f",
+    "role": "heading / text-primary (--sx-heading, --text-primary)"
+   },
+   {
+    "hex": "#4a4a5b",
+    "role": "body text (--sx-text)"
+   },
+   {
+    "hex": "#666673",
+    "role": "muted text (--sx-muted)"
+   },
+   {
+    "hex": "#eeeff4",
+    "role": "border (--sx-border)"
+   },
+   {
+    "hex": "#f7f8fa",
+    "role": "surface (--sx-surface)"
+   },
+   {
+    "hex": "#ffffff",
+    "role": "background (--sx-bg) / accent contrast"
+   },
+   {
+    "hex": "#16a34a",
+    "role": "success green (checks)"
+   },
+   {
+    "hex": "#191d23",
+    "role": "dark surface"
+   },
+   {
+    "hex": "#131a26",
+    "role": "dark surface 2"
+   },
+   {
+    "hex": "#dcdce4",
+    "role": "light grey border variant"
+   },
+   {
+    "hex": "#d14343",
+    "role": "error red"
+   }
+  ],
+  "css_tokens": {
+   "--sx-bg": "#ffffff",
+   "--sx-surface": "#f7f8fa",
+   "--sx-border": "#eeeff4",
+   "--sx-text": "#4a4a5b",
+   "--sx-muted": "#666673",
+   "--sx-heading": "#0a0b0f",
+   "--sx-accent": "#d04907",
+   "--sx-accent-contrast": "#ffffff",
+   "--sx-font": "var(--font-figtree),ui-sans-serif,system-ui,sans-serif",
+   "--sx-header-offset": "7rem",
+   "--brand": "255 77 0",
+   "--brand-hover": "208 73 7",
+   "--brand-press": "165 58 6",
+   "--brand-deep": "116 44 7",
+   "--brand-tint": "255 240 227",
+   "--brand-soft": "255 184 144",
+   "--brand-faint": "255 250 245",
+   "--brand-gold": "255 182 30"
+  },
+  "fonts": [
+   {
+    "family": "Figtree",
+    "usage": "primary UI/body/heading font (--font-figtree, .font-figtree, --sx-font); weights seen: 400-700 via font-variation",
+    "loading": "next/font self-hosted woff2 (e.g. /_next/static/media/de42cfb9a3b980ae-s.p.woff2); 'Figtree Fallback' metric-adjusted fallback"
+   },
+   {
+    "family": "Noto Sans Devanagari",
+    "usage": "Hindi/Marathi text (--font-noto-devanagari)",
+    "loading": "next/font"
+   },
+   {
+    "family": "Noto Sans Bengali",
+    "usage": "Bengali text",
+    "loading": "next/font"
+   },
+   {
+    "family": "Noto Sans Tamil",
+    "usage": "Tamil text",
+    "loading": "next/font"
+   },
+   {
+    "family": "Noto Sans Telugu",
+    "usage": "Telugu text",
+    "loading": "next/font"
+   },
+   {
+    "family": "Noto Sans Kannada",
+    "usage": "Kannada text",
+    "loading": "next/font"
+   },
+   {
+    "family": "Noto Sans Malayalam",
+    "usage": "Malayalam text",
+    "loading": "next/font"
+   },
+   {
+    "family": "ui-monospace stack",
+    "usage": ".font-mono",
+    "loading": "system"
+   }
+  ],
+  "google_fonts_link": "none (all fonts self-hosted via next/font)",
+  "homepage_sections_in_order": [
+   "Hero (video poster hero-poster-v2.jpg; H1 'Muh Khol. English Bol.'; subline 'SpeakX | Aapka English Speaking Partner'; CTA 'Start speaking now'; trustmark 'TRUSTED BY 1 CR+ LEARNERS')",
+   "Outcome stats ('In just 2 months, 4 out of 5 learners...'; 4 in 5 switch; 92% of what they say is English vs 45% week one; 8 weeks)",
+   "Use-cases: Job Interview / Higher Studies / Travel Abroad / Promotion / Family (usecase-*.jpg)",
+   "Languages: Hindi, Marathi, Bengali, Telugu, Tamil, Kannada, Malayalam (+English)",
+   "Testimonials 'The pause got shorter' (Ananya G. Student Nagpur; Rahul M. MBA Student Indore; ...)",
+   "Backed by: India Quotient (institutional) + angels MS Dhoni, Vidit Aatrey (Meesho), Kunal Bahl (Snapdeal), Varun Alagh (Mamaearth), Shyamal Anadkat (OpenAI), Ronnie Screwvala (upGrad); Dhoni cutout image alt 'MS Dhoni, SpeakX investor'",
+   "Recognised by (awards cards)",
+   "In the news (9 linked articles)",
+   "Final CTA 'Muh Khol. English Bol.' with Play/App Store badges (both -> sng.link)",
+   "Footer"
+  ],
+  "assets_downloaded": [
+   {
+    "file": "assets/speakx-logo.svg",
+    "source": "https://speakx.ai/speakx-logo.svg",
+    "shows": "horizontal SpeakX wordmark, orange"
+   },
+   {
+    "file": "assets/speakx-logo-blog.png",
+    "source": "https://image.speakx.in/assets/blogs/best-english-speaking-apps-india/speakx-logo.png",
+    "shows": "400x400 square SpeakX logo (icon + wordmark) used in blog"
+   },
+   {
+    "file": "assets/play-app-icon-512.png",
+    "source": "https://play-lh.googleusercontent.com/dl8yJ7uPf3U9tlpDH3S9bmQRMsM0Le_PDkcuuyDb5WwP0S7MTE4Dce9DRn5UUylGJAp8rE6wnLnU_JMX5kqb=s512",
+    "shows": "Google Play app icon 512x512"
+   },
+   {
+    "file": "assets/favicon-icon-192.png",
+    "source": "https://speakx.ai/icon.png?0a2a7270d9a20253",
+    "shows": "favicon 192x192"
+   },
+   {
+    "file": "assets/apple-icon-180.png",
+    "source": "https://speakx.ai/apple-icon.png?616c71372dfd42d4",
+    "shows": "apple touch icon 180x180"
+   },
+   {
+    "file": "assets/og-image-home.png",
+    "source": "https://speakx.ai/opengraph-image",
+    "shows": "1200x630 orange OG card with 'SpeakX' + 'AI English Speaking App for Confidence & Fluency' + 'speakx.ai'"
+   },
+   {
+    "file": "assets/trustmark-light.png",
+    "source": "https://image.speakx.in/assets/sx-website/home/trustmark-light.png",
+    "shows": "879x76 laurel badge text 'TRUSTED BY 1 CR+ LEARNERS' (light grey, for dark backgrounds)"
+   },
+   {
+    "file": "assets/trustmark-dark.png",
+    "source": "https://image.speakx.in/assets/sx-website/home/trustmark-dark.png",
+    "shows": "same trustmark, dark variant for light backgrounds"
+   },
+   {
+    "file": "assets/badge-google-play.png",
+    "source": "https://image.speakx.in/assets/sx-website/home/badge-google-play.png",
+    "shows": "919x272 'Get it on Google Play' badge"
+   },
+   {
+    "file": "assets/badge-app-store.png",
+    "source": "https://image.speakx.in/assets/sx-website/home/badge-app-store.png",
+    "shows": "919x272 'Download on the App Store' badge"
+   },
+   {
+    "file": "assets/hero-poster-v2.jpg",
+    "source": "https://image.speakx.in/assets/sx-website/home/hero-poster-v2.jpg",
+    "shows": "1574x968 cinematic evening cafe terrace with people talking (poster for hero video https://video.speakx.in/videos/hero/hero.mp4, 33s)"
+   },
+   {
+    "file": "assets/phone-hand.png",
+    "source": "https://image.speakx.in/assets/sx-website/home/phone-hand.png",
+    "shows": "760x1053 hand holding phone with blank white screen (frame for app UI overlay; pairs with phone-plate-top/bottom.png)"
+   },
+   {
+    "file": "assets/dhoni-cutout.png",
+    "source": "https://image.speakx.in/assets/sx-website/home/dhoni-cutout.png",
+    "shows": "872x1400 transparent cutout of MS Dhoni (alt on site: 'MS Dhoni, SpeakX investor')"
+   },
+   {
+    "file": "assets/comparison-cover-v3.jpg",
+    "source": "https://image.speakx.in/assets/blogs/best-english-speaking-apps-india/best-english-speaking-apps-india-cover-v3.jpg",
+    "shows": "1600x1000 OG/cover for the comparison article: 'BEST ENGLISH SPEAKING APPS 2026', SpeakX icon, phone with lesson map (India Gate, 'Reception' lesson, 'Talk with Sia'/'Start Lesson' buttons), Sia portrait in orange arch, chips 'vs Duolingo / vs Supernova / vs Stimuler', pill 'Talk with Sia'"
+   },
+   {
+    "file": "assets/sia-ai-english-tutor.jpg",
+    "source": "https://image.speakx.in/assets/blogs/best-english-speaking-apps-india/sia-ai-english-tutor.jpg",
+    "shows": "900x900 Sia avatar portrait (young Indian woman, long dark hair, light grey turtleneck, white background)"
+   },
+   {
+    "file": "assets/sia-listening-feedback.jpg",
+    "source": "https://image.speakx.in/assets/blogs/best-english-speaking-apps-india/sia-listening-feedback.jpg",
+    "shows": "900x900 Sia listening pose (alt: 'Sia from SpeakX listening during an English speaking practice session')"
+   },
+   {
+    "file": "assets/sia-15-minute-tip.jpg",
+    "source": "https://image.speakx.in/assets/blogs/best-english-speaking-apps-india/sia-15-minute-tip.jpg",
+    "shows": "660x660 Sia encouraging 15-min daily practice (alt text)"
+   },
+   {
+    "file": "assets/speakx-talk-with-sia-voice-call.jpg",
+    "source": "https://image.speakx.in/assets/blogs/best-english-speaking-apps-india/speakx-talk-with-sia-voice-call.jpg",
+    "shows": "598x1282 app screenshot: live voice call with Sia"
+   },
+   {
+    "file": "assets/speakx-lesson-map-apna-parichay.jpg",
+    "source": "https://image.speakx.in/assets/blogs/best-english-speaking-apps-india/speakx-lesson-map-apna-parichay.jpg",
+    "shows": "614x1276 app screenshot: lesson map in an Indian city, 'Apna parichay dena' self-introduction lesson"
+   },
+   {
+    "file": "assets/speakx-confidence-meter.jpg",
+    "source": "https://image.speakx.in/assets/blogs/best-english-speaking-apps-india/speakx-confidence-meter.jpg",
+    "shows": "604x1220 app screenshot: Confidence Meter (Shy->Super), Gurugram leaderboard, streak"
+   },
+   {
+    "file": "assets/play-screenshot-01.png",
+    "source": "https://play-lh.googleusercontent.com/UVSB_8onXoLjogse4rW764_7CuqKWMaESTgR6I7MtkaPuge1HclYAXEYc0q0Me8SSPIeIbCc2U80pmNg6maSQQ=w1080",
+    "shows": "1080x1920 Play screenshot 1: MS Dhoni thumbs-up in black SpeakX jacket, 'Speak English with Confidence - Feel the change in just 1 week'"
+   },
+   {
+    "file": "assets/play-screenshot-02.png",
+    "source": "https://play-lh.googleusercontent.com/gQaw38a0nnKpq4LbLF_O3khjETVAMOfCQFtuxWmoxRFJYThqi1pl69ob_QqmtK1a-hJc1GqzoanX9I7MdZFg7A=w1080",
+    "shows": "540x960 Play screenshot 2: 'Learn English in your language' onboarding picker listing English, Hindi (selected), Tamil, Telugu, Marathi, Kannada, Bengali, Urdu (NOTE: Urdu appears in-app; website/store copy says 7 languages - do not claim 8 without verification)"
+   }
+  ],
+  "other_homepage_image_urls": [
+   "https://image.speakx.in/assets/sx-website/home/usecase-job-interview.jpg",
+   "https://image.speakx.in/assets/sx-website/home/usecase-higher-studies.jpg",
+   "https://image.speakx.in/assets/sx-website/home/usecase-travel-abroad.jpg",
+   "https://image.speakx.in/assets/sx-website/home/usecase-promotion.jpg",
+   "https://image.speakx.in/assets/sx-website/home/usecase-family.jpg",
+   "https://image.speakx.in/assets/sx-website/home/phone-plate-top.png",
+   "https://image.speakx.in/assets/sx-website/home/phone-plate-bottom.png",
+   "https://image.speakx.in/assets/sx-website/home/final-cta.jpg",
+   "https://image.speakx.in/assets/sx-website/home/angel-ms-dhoni.jpg",
+   "https://image.speakx.in/assets/sx-website/home/angel-vidit-aatrey.jpg",
+   "https://image.speakx.in/assets/sx-website/home/angel-kunal-bahl.jpg",
+   "https://image.speakx.in/assets/sx-website/home/angel-varun-alagh.jpg",
+   "https://image.speakx.in/assets/sx-website/home/angel-shyamal-anadkat.jpg",
+   "https://image.speakx.in/assets/sx-website/home/ronnie-screwvala.jpeg",
+   "https://image.speakx.in/assets/sx-website/home/logo-economic-times.png",
+   "https://image.speakx.in/assets/sx-website/home/logo-mint.png",
+   "https://image.speakx.in/assets/sx-website/home/logo-bw-businessworld.png",
+   "https://image.speakx.in/assets/sx-website/home/logo-forbes-india.png",
+   "https://image.speakx.in/assets/sx-website/home/logo-inc42.svg",
+   "https://image.speakx.in/assets/sx-website/home/logo-tice.png",
+   "https://image.speakx.in/assets/sx-website/home/logo-amar-ujala.png",
+   "https://image.speakx.in/assets/premium/conversation_purple_2.webp",
+   "https://image.speakx.in/assets/premium/headphone_purple_2.webp",
+   "https://image.speakx.in/assets/premium/premium_icon_purple_1.webp",
+   "https://image.speakx.in/assets/MSD/checkout/dhoni_generic.webp",
+   "https://image.speakx.in/assets/sx-website/b2c/discount-ribbon.svg"
+  ],
+  "play_screenshot_urls_all": [
+   "https://play-lh.googleusercontent.com/UVSB_8onXoLjogse4rW764_7CuqKWMaESTgR6I7MtkaPuge1HclYAXEYc0q0Me8SSPIeIbCc2U80pmNg6maSQQ",
+   "https://play-lh.googleusercontent.com/gQaw38a0nnKpq4LbLF_O3khjETVAMOfCQFtuxWmoxRFJYThqi1pl69ob_QqmtK1a-hJc1GqzoanX9I7MdZFg7A",
+   "https://play-lh.googleusercontent.com/VCUJZo4aqvgtUWOosPH9_EKR3wn4Sz2zU5TaTFsjM2w1219-z7T7OGGENmK0aIFsHSz6lhMjq1itI2RIGxj5",
+   "https://play-lh.googleusercontent.com/f7Fh2aZnxvnsqakWL6hyltK4jnH1EOwwM9tOgQeMi4Nxj4WhQT6m6WWe-tO4KslHPJUh59G3VMn0uQ9xKS2IRg",
+   "https://play-lh.googleusercontent.com/Rb2xdh2Ki8zD59sg7kcnDDmPn_4O59o2d_4FcOCkwyuNtYqKjP9OCMg2bcZK3_p1JLZmAys81--_ymJq8pGjHw",
+   "https://play-lh.googleusercontent.com/72QKV5TSiPcjDsRMuuXIkUe11qnFuauTUOx0Rzu8yf9Ky9EnIICz7sE1HqNkiNglEMCZ4Qqsy8xSxndvzuN0ZA",
+   "https://play-lh.googleusercontent.com/xVXDsYARfI-V3l1Z6wYmKJ5ac5GCHEUM2RjtNK4OtZuF2SUHs73NJhjVVEnh-gJxHERlnrAhDXc-JT-CJaIZ"
+  ]
+ },
+ "install_links": {
+  "primary_cta_href": "https://speakx.sng.link/Ed28z/npfq/4alj",
+  "vendor": "Singular smart link (speakx.sng.link CNAME c.singular.net)",
+  "used_on": "homepage x6 (4x <a data-cta=\"primary\">Start speaking now</a>; Play badge anchor aria-label 'Get it on Google Play'; App Store badge anchor aria-label 'Download on the App Store' - both target=_blank rel=noopener noreferrer), /about, comparison article, and inside JS bundle (chunk 9235 x2)",
+  "redirect_behaviour": {
+   "desktop_chrome": "200 (Singular landing/fallback page)",
+   "android": "302 -> https://play.google.com/store/apps/details?hl=en&id=yellowclass.kids.live&referrer=singular_click_id%3D<uuid>",
+   "ios": "302 -> https://apps.apple.com/in/app/speakx-english-speaking-app/id6756059415?referrer=singular_click_id%3D<uuid>"
+  },
+  "google_play_url": "https://play.google.com/store/apps/details?id=yellowclass.kids.live",
+  "google_play_url_with_blog_utm": "https://play.google.com/store/apps/details?id=yellowclass.kids.live&referrer=utm_source%3Dblog%26utm_medium%3Dcompare%26utm_campaign%3Dbest-english-speaking-apps-india (used in comparison article)",
+  "app_store_url": "https://apps.apple.com/in/app/speakx-english-speaking-app/id6756059415",
+  "schema_downloadUrl": [
+   "https://play.google.com/store/apps/details?id=yellowclass.kids.live",
+   "https://apps.apple.com/in/app/speakx-english-speaking-app/id6756059415"
+  ],
+  "recommendation": "Use https://speakx.sng.link/Ed28z/npfq/4alj for all 'Start speaking now' / badge CTAs (matches site), optionally direct store URLs with a referrer=utm_source%3Dblog... param for attribution parity with the existing article. Never expose the package id in visible copy."
+ },
+ "pages": [
+  {
+   "url": "https://speakx.ai",
+   "sitemap_url": "https://www.speakx.ai",
+   "title": "SpeakX, AI English Speaking App | Speak English Confidently",
+   "h1": "Muh Khol. English Bol.",
+   "status": 200,
+   "canonical": "https://www.speakx.ai",
+   "meta_description": "Learn to speak English with AI. 15-minute daily conversations, instant feedback, taught in your own language. 1 crore+ downloads. Free to start.",
+   "robots": "index, follow",
+   "schema_types": [
+    "AggregateRating",
+    "BreadcrumbList",
+    "ContactPoint",
+    "ListItem",
+    "Offer",
+    "Organization",
+    "Person",
+    "PostalAddress",
+    "SoftwareApplication",
+    "VideoObject",
+    "WebSite"
+   ],
+   "topic_tags": [
+    "homepage"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "url": "https://speakx.ai/about",
+   "sitemap_url": "https://www.speakx.ai/about",
+   "title": "About Us | SpeakX",
+   "h1": "About Us",
+   "status": 200,
+   "canonical": "https://www.speakx.ai/about",
+   "meta_description": "SpeakX is an innovative AI-powered learning platform built to help adults master English communication with confidence and clarity.",
+   "robots": "index, follow",
+   "schema_types": [
+    "AboutPage",
+    "BreadcrumbList",
+    "ContactPoint",
+    "ListItem",
+    "Organization",
+    "Person",
+    "PostalAddress",
+    "WebSite"
+   ],
+   "topic_tags": [
+    "about"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "url": "https://speakx.ai/contact-us",
+   "sitemap_url": "https://www.speakx.ai/contact-us",
+   "title": "Contact Us | SpeakX",
+   "h1": "Get in Touch",
+   "status": 200,
+   "canonical": "https://www.speakx.ai/contact-us",
+   "meta_description": "Get in touch with SpeakX. Questions, suggestions, or just want to chat — we are just a message away.",
+   "robots": "index, follow",
+   "schema_types": [
+    "BreadcrumbList",
+    "ContactPage",
+    "ContactPoint",
+    "ListItem",
+    "LocalBusiness",
+    "Organization",
+    "Person",
+    "PostalAddress",
+    "WebSite"
+   ],
+   "topic_tags": [
+    "contact-us"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "url": "https://speakx.ai/premium",
+   "sitemap_url": "https://www.speakx.ai/premium",
+   "title": "SpeakX Premium, Start Your Free English Speaking Trial | SpeakX",
+   "h1": "SpeakX Premium: daily English speaking practice with instant feedback",
+   "status": 200,
+   "canonical": "https://www.speakx.ai/premium",
+   "meta_description": "Get daily AI speaking practice, instant feedback, and help in your own language. Start your SpeakX Premium free trial today.",
+   "robots": "index, follow",
+   "schema_types": [
+    "BreadcrumbList",
+    "ContactPoint",
+    "ListItem",
+    "Organization",
+    "Person",
+    "PostalAddress",
+    "WebSite"
+   ],
+   "topic_tags": [
+    "premium"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "url": "https://speakx.ai/business",
+   "sitemap_url": "https://www.speakx.ai/business",
+   "title": "SpeakX for Business - Corporate English Training | SpeakX",
+   "h1": "Transform your teams into confident English communicators.",
+   "status": 200,
+   "canonical": "https://www.speakx.ai/business",
+   "meta_description": "Transform your team's spoken English skills with SpeakX for Business. AI-powered corporate English training with measurable results.",
+   "robots": "index, follow",
+   "schema_types": [
+    "Answer",
+    "BreadcrumbList",
+    "ContactPoint",
+    "FAQPage",
+    "ListItem",
+    "Organization",
+    "Person",
+    "PostalAddress",
+    "Question",
+    "Service",
+    "WebSite"
+   ],
+   "topic_tags": [
+    "business"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "url": "https://speakx.ai/business/signup",
+   "sitemap_url": "https://www.speakx.ai/business/signup",
+   "title": "Sign up for SpeakX for Business | SpeakX",
+   "h1": "Welcome to SpeakX for Business",
+   "status": 200,
+   "canonical": "https://www.speakx.ai/business/signup",
+   "meta_description": "Set up SpeakX for your team — add your organisation details, choose a plan, and start AI-powered English training for your staff.",
+   "robots": "index, follow",
+   "schema_types": [
+    "BreadcrumbList",
+    "ContactPoint",
+    "ListItem",
+    "Organization",
+    "Person",
+    "PostalAddress",
+    "WebPage",
+    "WebSite"
+   ],
+   "topic_tags": [
+    "business"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "url": "https://speakx.ai/business/about",
+   "sitemap_url": "https://www.speakx.ai/business/about",
+   "title": "About SpeakX | SpeakX",
+   "h1": "Who are we?",
+   "status": 200,
+   "canonical": "https://www.speakx.ai/business/about",
+   "meta_description": "SpeakX is an AI-powered learning platform by Ivypods Technology that helps adults speak English with confidence. Meet our team, investors, and awards.",
+   "robots": "index, follow",
+   "schema_types": [
+    "AboutPage",
+    "BreadcrumbList",
+    "ContactPoint",
+    "ListItem",
+    "Organization",
+    "Person",
+    "PostalAddress",
+    "WebSite"
+   ],
+   "topic_tags": [
+    "business"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "url": "https://speakx.ai/business/contact-us",
+   "sitemap_url": "https://www.speakx.ai/business/contact-us",
+   "title": "Contact SpeakX for Business | SpeakX",
+   "h1": "Get in touch with us",
+   "status": 200,
+   "canonical": "https://www.speakx.ai/business/contact-us",
+   "meta_description": "Get in touch with the SpeakX for Business team. Send us your questions about corporate English training and we will get back to you.",
+   "robots": "index, follow",
+   "schema_types": [
+    "BreadcrumbList",
+    "ContactPage",
+    "ContactPoint",
+    "ListItem",
+    "LocalBusiness",
+    "Organization",
+    "Person",
+    "PostalAddress",
+    "WebSite"
+   ],
+   "topic_tags": [
+    "business"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "url": "https://speakx.ai/business/healthcare",
+   "sitemap_url": "https://www.speakx.ai/business/healthcare",
+   "title": "SpeakX for Business · Confident English at every shift | SpeakX",
+   "h1": "Confident English for Every Patient Interaction.",
+   "status": 200,
+   "canonical": "https://www.speakx.ai/business/healthcare",
+   "meta_description": "Voice-led English practice for hospital teams. Real scenarios, 25+ Indian languages, live dashboard.",
+   "robots": "index, follow",
+   "schema_types": [
+    "Answer",
+    "BreadcrumbList",
+    "ContactPoint",
+    "FAQPage",
+    "ListItem",
+    "Organization",
+    "Person",
+    "PostalAddress",
+    "Question",
+    "Service",
+    "WebSite"
+   ],
+   "topic_tags": [
+    "business"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "url": "https://speakx.ai/business/colleges",
+   "sitemap_url": "https://www.speakx.ai/business/colleges",
+   "title": "Prepare Students for Better Placements | SpeakX for Colleges & Institutes | SpeakX",
+   "h1": "Prepare Students for Better Placements.",
+   "status": 200,
+   "canonical": "https://www.speakx.ai/business/colleges",
+   "meta_description": "Give every student an AI coach to practise speaking and interview scenarios, while your Placement Cell sees practice and progress across every cohort.",
+   "robots": "index, follow",
+   "schema_types": [
+    "BreadcrumbList",
+    "ContactPoint",
+    "EducationalAudience",
+    "ListItem",
+    "Organization",
+    "Person",
+    "PostalAddress",
+    "Service",
+    "WebSite"
+   ],
+   "topic_tags": [
+    "business"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "url": "https://speakx.ai/business/demo",
+   "sitemap_url": "https://www.speakx.ai/business/demo",
+   "title": "Book a demo | SpeakX for Business | SpeakX",
+   "h1": "Book a demo",
+   "status": 200,
+   "canonical": "https://www.speakx.ai/business/demo",
+   "meta_description": "Book a 30-minute demo of SpeakX for Business. See the platform on your own scenarios, and pick a slot that suits your team. No payment details needed.",
+   "robots": "index, follow",
+   "schema_types": [
+    "BreadcrumbList",
+    "ContactPoint",
+    "ListItem",
+    "Organization",
+    "Person",
+    "PostalAddress",
+    "WebPage",
+    "WebSite"
+   ],
+   "topic_tags": [
+    "business"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "url": "https://speakx.ai/business/teams",
+   "sitemap_url": "https://www.speakx.ai/business/teams",
+   "title": "SpeakX for Business: English fluency for frontline teams | SpeakX",
+   "h1": "Better Communication. Stronger Teams.",
+   "status": 200,
+   "canonical": "https://www.speakx.ai/business/teams",
+   "meta_description": "SpeakX for Business helps frontline, customer-facing and backend teams speak to customers, colleagues and managers with greater clarity and confidence, through AI-powered practice of the conversations they actually face at work.",
+   "robots": "index, follow",
+   "schema_types": [
+    "BreadcrumbList",
+    "ContactPoint",
+    "ListItem",
+    "Organization",
+    "Person",
+    "PostalAddress",
+    "Service",
+    "WebSite"
+   ],
+   "topic_tags": [
+    "business"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "url": "https://speakx.ai/terms-conditions",
+   "sitemap_url": "https://www.speakx.ai/terms-conditions",
+   "title": "Terms & Conditions | SpeakX",
+   "h1": "Terms & Conditions",
+   "status": 200,
+   "canonical": "https://www.speakx.ai/terms-conditions",
+   "meta_description": "Read the Terms & Conditions for using SpeakX services.",
+   "robots": "index, follow",
+   "schema_types": [
+    "BreadcrumbList",
+    "ContactPoint",
+    "ListItem",
+    "Organization",
+    "Person",
+    "PostalAddress",
+    "WebSite"
+   ],
+   "topic_tags": [
+    "legal/policy"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "url": "https://speakx.ai/privacy-policy",
+   "sitemap_url": "https://www.speakx.ai/privacy-policy",
+   "title": "Privacy Policy | SpeakX",
+   "h1": "Privacy Policy",
+   "status": 200,
+   "canonical": "https://www.speakx.ai/privacy-policy",
+   "meta_description": "Learn how SpeakX collects, uses, and protects your personal information.",
+   "robots": "index, follow",
+   "schema_types": [
+    "BreadcrumbList",
+    "ContactPoint",
+    "ListItem",
+    "Organization",
+    "Person",
+    "PostalAddress",
+    "WebSite"
+   ],
+   "topic_tags": [
+    "legal/policy"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "url": "https://speakx.ai/refund-policy",
+   "sitemap_url": "https://www.speakx.ai/refund-policy",
+   "title": "Refund Policy | SpeakX",
+   "h1": "Refund Policy",
+   "status": 200,
+   "canonical": "https://www.speakx.ai/refund-policy",
+   "meta_description": "Understand the refund and cancellation policy for SpeakX subscriptions.",
+   "robots": "index, follow",
+   "schema_types": [
+    "BreadcrumbList",
+    "ContactPoint",
+    "ListItem",
+    "Organization",
+    "Person",
+    "PostalAddress",
+    "WebSite"
+   ],
+   "topic_tags": [
+    "legal/policy"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "url": "https://speakx.ai/equal-rights-policy",
+   "sitemap_url": "https://www.speakx.ai/equal-rights-policy",
+   "title": "Equal Rights Policy | SpeakX",
+   "h1": "Equal Rights Policy",
+   "status": 200,
+   "canonical": "https://www.speakx.ai/equal-rights-policy",
+   "meta_description": "SpeakX Equal Rights Policy.",
+   "robots": "index, follow",
+   "schema_types": [
+    "BreadcrumbList",
+    "ContactPoint",
+    "ListItem",
+    "Organization",
+    "Person",
+    "PostalAddress",
+    "WebSite"
+   ],
+   "topic_tags": [
+    "legal/policy"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "url": "https://speakx.ai/diversity-and-inclusion-policy",
+   "sitemap_url": "https://www.speakx.ai/diversity-and-inclusion-policy",
+   "title": "Diversity & Inclusion Policy | SpeakX",
+   "h1": "Diversity & Inclusion Policy",
+   "status": 200,
+   "canonical": "https://www.speakx.ai/diversity-and-inclusion-policy",
+   "meta_description": "SpeakX Diversity & Inclusion Policy.",
+   "robots": "index, follow",
+   "schema_types": [
+    "BreadcrumbList",
+    "ContactPoint",
+    "ListItem",
+    "Organization",
+    "Person",
+    "PostalAddress",
+    "WebSite"
+   ],
+   "topic_tags": [
+    "legal/policy"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "url": "https://speakx.ai/user-data-deletion-policy",
+   "sitemap_url": "https://www.speakx.ai/user-data-deletion-policy",
+   "title": "User Data Deletion Policy | SpeakX",
+   "h1": "User Data Deletion Policy",
+   "status": 200,
+   "canonical": "https://www.speakx.ai/user-data-deletion-policy",
+   "meta_description": "Learn how to request deletion of your personal data from SpeakX.",
+   "robots": "index, follow",
+   "schema_types": [
+    "BreadcrumbList",
+    "ContactPoint",
+    "ListItem",
+    "Organization",
+    "Person",
+    "PostalAddress",
+    "WebSite"
+   ],
+   "topic_tags": [
+    "legal/policy"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "url": "https://speakx.ai/business/b2b-terms-and-conditions",
+   "sitemap_url": "https://www.speakx.ai/business/b2b-terms-and-conditions",
+   "title": "Terms & Conditions | SpeakX Business",
+   "h1": "Terms & Conditions",
+   "status": 200,
+   "canonical": "https://www.speakx.ai/business/b2b-terms-and-conditions",
+   "meta_description": "B2B Terms & Conditions for SpeakX Business.",
+   "robots": "index, follow",
+   "schema_types": [
+    "BreadcrumbList",
+    "ContactPoint",
+    "ListItem",
+    "Organization",
+    "Person",
+    "PostalAddress",
+    "WebSite"
+   ],
+   "topic_tags": [
+    "business"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "url": "https://speakx.ai/business/b2b-privacy-policy",
+   "sitemap_url": "https://www.speakx.ai/business/b2b-privacy-policy",
+   "title": "Privacy Policy | SpeakX Business",
+   "h1": "Privacy Policy",
+   "status": 200,
+   "canonical": "https://www.speakx.ai/business/b2b-privacy-policy",
+   "meta_description": "B2B Privacy Policy for SpeakX Business.",
+   "robots": "index, follow",
+   "schema_types": [
+    "BreadcrumbList",
+    "ContactPoint",
+    "ListItem",
+    "Organization",
+    "Person",
+    "PostalAddress",
+    "WebSite"
+   ],
+   "topic_tags": [
+    "business"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "url": "https://speakx.ai/business/b2b-refund-policy",
+   "sitemap_url": "https://www.speakx.ai/business/b2b-refund-policy",
+   "title": "Refund Policy | SpeakX Business",
+   "h1": "Refund Policy",
+   "status": 200,
+   "canonical": "https://www.speakx.ai/business/b2b-refund-policy",
+   "meta_description": "B2B Refund Policy for SpeakX Business.",
+   "robots": "index, follow",
+   "schema_types": [
+    "BreadcrumbList",
+    "ContactPoint",
+    "ListItem",
+    "Organization",
+    "Person",
+    "PostalAddress",
+    "WebSite"
+   ],
+   "topic_tags": [
+    "business"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "url": "https://speakx.ai/business/b2b-data-deletion-policy",
+   "sitemap_url": "https://www.speakx.ai/business/b2b-data-deletion-policy",
+   "title": "Data Deletion Policy | SpeakX Business",
+   "h1": "Data Deletion Policy",
+   "status": 200,
+   "canonical": "https://www.speakx.ai/business/b2b-data-deletion-policy",
+   "meta_description": "B2B Data Deletion Policy for SpeakX Business.",
+   "robots": "index, follow",
+   "schema_types": [
+    "BreadcrumbList",
+    "ContactPoint",
+    "ListItem",
+    "Organization",
+    "Person",
+    "PostalAddress",
+    "WebSite"
+   ],
+   "topic_tags": [
+    "business"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "url": "https://speakx.ai/business/equal-rights-policy",
+   "sitemap_url": "https://www.speakx.ai/business/equal-rights-policy",
+   "title": "Equal Rights Policy | SpeakX Business",
+   "h1": "Equal Rights Policy",
+   "status": 200,
+   "canonical": "https://www.speakx.ai/business/equal-rights-policy",
+   "meta_description": "SpeakX Equal Rights Policy.",
+   "robots": "index, follow",
+   "schema_types": [
+    "BreadcrumbList",
+    "ContactPoint",
+    "ListItem",
+    "Organization",
+    "Person",
+    "PostalAddress",
+    "WebSite"
+   ],
+   "topic_tags": [
+    "business"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "url": "https://speakx.ai/business/diversity-and-inclusion-policy",
+   "sitemap_url": "https://www.speakx.ai/business/diversity-and-inclusion-policy",
+   "title": "Diversity & Inclusion Policy | SpeakX Business",
+   "h1": "Diversity & Inclusion Policy",
+   "status": 200,
+   "canonical": "https://www.speakx.ai/business/diversity-and-inclusion-policy",
+   "meta_description": "SpeakX Diversity & Inclusion Policy.",
+   "robots": "index, follow",
+   "schema_types": [
+    "BreadcrumbList",
+    "ContactPoint",
+    "ListItem",
+    "Organization",
+    "Person",
+    "PostalAddress",
+    "WebSite"
+   ],
+   "topic_tags": [
+    "business"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "url": "https://speakx.ai/blog",
+   "sitemap_url": "https://www.speakx.ai/blog",
+   "title": "Blog | SpeakX",
+   "h1": "Speak English with confidence.",
+   "status": 200,
+   "canonical": "https://www.speakx.ai/blog",
+   "meta_description": "Tips, insights, and stories to help you on your English learning journey.",
+   "robots": "index, follow",
+   "schema_types": [
+    "BreadcrumbList",
+    "ContactPoint",
+    "ListItem",
+    "Organization",
+    "Person",
+    "PostalAddress",
+    "WebSite"
+   ],
+   "topic_tags": [
+    "blog"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "url": "https://speakx.ai/blog/best-english-speaking-apps-india-speakx-vs-competitors",
+   "sitemap_url": "https://www.speakx.ai/blog/best-english-speaking-apps-india-speakx-vs-competitors",
+   "title": "Best English Speaking Apps in India in 2026 | SpeakX",
+   "h1": "Best English Speaking Apps in India (2026): How SpeakX Compares with Duolingo, Supernova, Stimuler and Others",
+   "status": 200,
+   "canonical": "https://www.speakx.ai/blog/best-english-speaking-apps-india-speakx-vs-competitors",
+   "meta_description": "Compare the best English speaking apps in India: SpeakX vs Duolingo, Supernova, Stimuler and more, for interviews, work and daily life.",
+   "robots": "index, follow",
+   "schema_types": [
+    "Article",
+    "BreadcrumbList",
+    "ContactPoint",
+    "ImageObject",
+    "ListItem",
+    "Organization",
+    "Person",
+    "PostalAddress",
+    "WebPage",
+    "WebSite"
+   ],
+   "topic_tags": [
+    "comparison",
+    "competitors",
+    "pricing",
+    "faq"
+   ],
+   "checked": "2026-10-12",
+   "published": "2026-10-09T17:29:54.606Z",
+   "listed_on_blog_index": true
+  },
+  {
+   "url": "https://speakx.ai/blog/practice-spoken-english-alone-at-home",
+   "sitemap_url": "https://www.speakx.ai/blog/practice-spoken-english-alone-at-home",
+   "title": "Practice Spoken English Alone at Home: 15-Min Routine | SpeakX",
+   "h1": "How to Practice Spoken English Alone at Home",
+   "status": 200,
+   "canonical": "https://www.speakx.ai/blog/practice-spoken-english-alone-at-home",
+   "meta_description": "Can you practice spoken English alone at home? Yes. Try these 5 solo methods and a 15-minute daily routine for Indian learners, no partner needed.",
+   "robots": "index, follow",
+   "schema_types": [
+    "Article",
+    "BreadcrumbList",
+    "ContactPoint",
+    "ImageObject",
+    "ListItem",
+    "Organization",
+    "Person",
+    "PostalAddress",
+    "WebPage",
+    "WebSite"
+   ],
+   "topic_tags": [
+    "daily English",
+    "self-practice",
+    "homemakers",
+    "beginners"
+   ],
+   "checked": "2026-10-12",
+   "published": "2026-09-25T10:11:30.473Z",
+   "listed_on_blog_index": true
+  },
+  {
+   "url": "https://speakx.ai/blog/interview-questions-answers-english-freshers",
+   "sitemap_url": "https://www.speakx.ai/blog/interview-questions-answers-english-freshers",
+   "title": "Interview Questions & Answers in English for Freshers | SpeakX",
+   "h1": "Interview Questions and Answers in English for Freshers: The Complete 2026 Guide",
+   "status": 200,
+   "canonical": "https://www.speakx.ai/blog/interview-questions-answers-english-freshers",
+   "meta_description": "30 interview questions and answers in English for freshers, with sample answers, role-specific questions, the English mistakes to avoid and a 7-day plan.",
+   "robots": "index, follow",
+   "schema_types": [
+    "Article",
+    "BreadcrumbList",
+    "ContactPoint",
+    "ImageObject",
+    "ListItem",
+    "Organization",
+    "Person",
+    "PostalAddress",
+    "WebPage",
+    "WebSite"
+   ],
+   "topic_tags": [
+    "job interview",
+    "freshers",
+    "career"
+   ],
+   "checked": "2026-10-12",
+   "published": "2026-09-15T11:30:00.000Z",
+   "listed_on_blog_index": true
+  },
+  {
+   "url": "https://speakx.ai/blog/100-simple-english-sentences-for-daily-use-with-hindi-meaning",
+   "sitemap_url": "https://www.speakx.ai/blog/100-simple-english-sentences-for-daily-use-with-hindi-meaning",
+   "title": "100 Simple English Sentences for Daily Use (Hindi) | SpeakX",
+   "h1": "100 simple English sentences for daily use, with Hindi meaning",
+   "status": 200,
+   "canonical": "https://www.speakx.ai/blog/100-simple-english-sentences-for-daily-use-with-hindi-meaning",
+   "meta_description": "100 simple English sentences for daily use with Hindi meaning, grouped by situation - greetings, home, work, shopping, travel - plus when to say each one.",
+   "robots": "index, follow",
+   "schema_types": [
+    "Article",
+    "BreadcrumbList",
+    "ContactPoint",
+    "ImageObject",
+    "ListItem",
+    "Organization",
+    "Person",
+    "PostalAddress",
+    "WebPage",
+    "WebSite"
+   ],
+   "topic_tags": [
+    "daily English",
+    "beginners",
+    "regional language",
+    "Hindi"
+   ],
+   "checked": "2026-10-12",
+   "published": "2026-09-07T21:30:00.000Z",
+   "listed_on_blog_index": true
+  },
+  {
+   "url": "https://speakx.ai/blog/how-to-improve-english-speaking-fluency-for-job-interviews-a-guide-for-indian-professionals",
+   "sitemap_url": "https://www.speakx.ai/blog/how-to-improve-english-speaking-fluency-for-job-interviews-a-guide-for-indian-professionals",
+   "title": "Improve English Speaking Fluency for Job Interviews | Free G | SpeakX",
+   "h1": "How to Improve English Speaking Fluency for Job Interviews: A Guide for Indian Professionals",
+   "status": 200,
+   "canonical": "https://www.speakx.ai/blog/how-to-improve-english-speaking-fluency-for-job-interviews-a-guide-for-indian-professionals",
+   "meta_description": "Master English speaking fluency for job interviews in 90 days. Learn anxiety management, sentence structure, and scenario drills—free tactics for Indian profess",
+   "robots": "index, follow",
+   "schema_types": [
+    "Article",
+    "BreadcrumbList",
+    "ContactPoint",
+    "ImageObject",
+    "ListItem",
+    "Organization",
+    "Person",
+    "PostalAddress",
+    "WebPage",
+    "WebSite"
+   ],
+   "topic_tags": [
+    "job interview",
+    "career",
+    "professionals",
+    "fluency"
+   ],
+   "checked": "2026-10-12",
+   "published": "2026-04-22T06:03:53.435Z",
+   "listed_on_blog_index": true
+  },
+  {
+   "url": "https://speakx.ai/blog/how-to-speak-english-fluently-for-village-people-in-bihar-a-7-day-confidence-framework",
+   "sitemap_url": "https://www.speakx.ai/blog/how-to-speak-english-fluently-for-village-people-in-bihar-a-7-day-confidence-framework",
+   "title": "Speak English Fluently in Bihar Villages: 7-Day Framework | SpeakX",
+   "h1": "How to Speak English Fluently for Village People in Bihar: A 7-Day Confidence Framework",
+   "status": 200,
+   "canonical": "https://www.speakx.ai/blog/how-to-speak-english-fluently-for-village-people-in-bihar-a-7-day-confidence-framework",
+   "meta_description": "Break shyness and speak English fluently in your Bihar village without leaving home. Learn the 7-day confidence framework designed for village technicians.",
+   "robots": "index, follow",
+   "schema_types": [
+    "Article",
+    "BreadcrumbList",
+    "ContactPoint",
+    "ImageObject",
+    "ListItem",
+    "Organization",
+    "Person",
+    "PostalAddress",
+    "WebPage",
+    "WebSite"
+   ],
+   "topic_tags": [
+    "beginners",
+    "regional language",
+    "rural",
+    "confidence"
+   ],
+   "checked": "2026-10-12",
+   "published": "2026-04-21T18:33:39.900Z",
+   "listed_on_blog_index": true
+  },
+  {
+   "url": "https://speakx.ai/blog/english-interview-questions-and-answers-for-corporate-professionals-a-speaking-confidence-guide",
+   "sitemap_url": "https://www.speakx.ai/blog/english-interview-questions-and-answers-for-corporate-professionals-a-speaking-confidence-guide",
+   "title": "English Interview Q&A: Speaking Confidence for Hindi-Medium | SpeakX",
+   "h1": "English Interview Questions and Answers for Corporate Professionals: A Speaking Confidence Guide",
+   "status": 200,
+   "canonical": "https://www.speakx.ai/blog/english-interview-questions-and-answers-for-corporate-professionals-a-speaking-confidence-guide",
+   "meta_description": "Master English interview questions with natural rhythm. 15 model answers + 3 daily micro-drills for corporate professionals. Download free PDF checklist.",
+   "robots": "index, follow",
+   "schema_types": [
+    "Article",
+    "BreadcrumbList",
+    "ContactPoint",
+    "ImageObject",
+    "ListItem",
+    "Organization",
+    "Person",
+    "PostalAddress",
+    "WebPage",
+    "WebSite"
+   ],
+   "topic_tags": [
+    "job interview",
+    "career",
+    "professionals",
+    "Hindi-medium"
+   ],
+   "checked": "2026-10-12",
+   "published": "2026-04-21T17:45:01.973Z",
+   "listed_on_blog_index": true
+  },
+  {
+   "url": "https://speakx.ai/blog/how-to-speak-english-fluently-in-parent-teacher-meetings-a-teachers-5-minute-daily-method",
+   "sitemap_url": "https://www.speakx.ai/blog/how-to-speak-english-fluently-in-parent-teacher-meetings-a-teachers-5-minute-daily-method",
+   "title": "Speak Fluently in Parent-Teacher Meetings: The Pre-Script Me | SpeakX",
+   "h1": "How to Speak English Fluently in Parent-Teacher Meetings: A Teacher's 5-Minute Daily Method",
+   "status": 200,
+   "canonical": "https://www.speakx.ai/blog/how-to-speak-english-fluently-in-parent-teacher-meetings-a-teachers-5-minute-daily-method",
+   "meta_description": "Stop fumbling words in parent meetings. Learn the Authority Freeze framework and 5-minute daily drill to speak confident English—even under pressure.",
+   "robots": "index, follow",
+   "schema_types": [
+    "Article",
+    "BreadcrumbList",
+    "ContactPoint",
+    "ImageObject",
+    "ListItem",
+    "Organization",
+    "Person",
+    "PostalAddress",
+    "WebPage",
+    "WebSite"
+   ],
+   "topic_tags": [
+    "homemakers",
+    "parents",
+    "teachers",
+    "roleplay"
+   ],
+   "checked": "2026-10-12",
+   "published": "2026-04-21T16:21:27.703Z",
+   "listed_on_blog_index": false
+  },
+  {
+   "url": "https://speakx.ai/blog/english-spelling-practice",
+   "sitemap_url": "https://www.speakx.ai/blog/english-spelling-practice",
+   "title": "English Spelling Practice — Everything You Need to Know | SpeakX",
+   "h1": "English Spelling Practice — Everything You Need to Know",
+   "status": 200,
+   "canonical": "https://www.speakx.ai/blog/english-spelling-practice",
+   "meta_description": "Learn why English Spelling Practice matters for your career, salary, and confidence. Practical steps and free tools for Indian professionals.",
+   "robots": "index, follow",
+   "schema_types": [
+    "Article",
+    "BreadcrumbList",
+    "ContactPoint",
+    "ImageObject",
+    "ListItem",
+    "Organization",
+    "Person",
+    "PostalAddress",
+    "WebPage",
+    "WebSite"
+   ],
+   "topic_tags": [
+    "beginners",
+    "spelling",
+    "writing"
+   ],
+   "checked": "2026-10-12",
+   "published": "2026-04-20T02:00:04.037Z",
+   "listed_on_blog_index": false
+  },
+  {
+   "url": "https://speakx.ai/blog/english-grammar-sentence-structure",
+   "sitemap_url": "https://www.speakx.ai/blog/english-grammar-sentence-structure",
+   "title": "Learn English Grammar Sentence Structure in 2026 — Easy Step | SpeakX",
+   "h1": "English Grammar Sentence Structure — Everything You Need to Know",
+   "status": 200,
+   "canonical": "https://www.speakx.ai/blog/english-grammar-sentence-structure",
+   "meta_description": "Learn why English Grammar Sentence Structure matters for your career, salary, and confidence. Practical steps and free tools for Indian professionals.",
+   "robots": "index, follow",
+   "schema_types": [
+    "Article",
+    "BreadcrumbList",
+    "ContactPoint",
+    "ImageObject",
+    "ListItem",
+    "Organization",
+    "Person",
+    "PostalAddress",
+    "WebPage",
+    "WebSite"
+   ],
+   "topic_tags": [
+    "grammar",
+    "beginners"
+   ],
+   "checked": "2026-10-12",
+   "published": "2026-04-17T04:26:52.897Z",
+   "listed_on_blog_index": false
+  },
+  {
+   "url": "https://speakx.ai/blog/english-speaking-fluency",
+   "sitemap_url": "https://www.speakx.ai/blog/english-speaking-fluency",
+   "title": "English Speaking Fluency — Everything You Need to Know | SpeakX",
+   "h1": "English Speaking Fluency: 4-Step Guide for Indian Professionals (2026)",
+   "status": 200,
+   "canonical": "https://www.speakx.ai/blog/english-speaking-fluency",
+   "meta_description": "Learn why English Speaking Fluency matters for your career, salary, and confidence. Practical steps and free tools for Indian professionals.",
+   "robots": "index, follow",
+   "schema_types": [
+    "Article",
+    "BreadcrumbList",
+    "ContactPoint",
+    "ImageObject",
+    "ListItem",
+    "Organization",
+    "Person",
+    "PostalAddress",
+    "WebPage",
+    "WebSite"
+   ],
+   "topic_tags": [
+    "fluency",
+    "professionals",
+    "daily English"
+   ],
+   "checked": "2026-10-12",
+   "published": "2026-04-16T02:00:06.779Z",
+   "listed_on_blog_index": false
+  },
+  {
+   "url": "https://speakx.ai/blog/english-pronunciation-difficulty",
+   "sitemap_url": "https://www.speakx.ai/blog/english-pronunciation-difficulty",
+   "title": "English Pronunciation Difficulty — Everything You Need to Kn | SpeakX",
+   "h1": "English Pronunciation Difficulty — Everything You Need to Know",
+   "status": 200,
+   "canonical": "https://www.speakx.ai/blog/english-pronunciation-difficulty",
+   "meta_description": "Learn why English Pronunciation Difficulty matters for your career, salary, and confidence. Practical steps and free tools for Indian professionals.",
+   "robots": "index, follow",
+   "schema_types": [
+    "Article",
+    "BreadcrumbList",
+    "ContactPoint",
+    "ImageObject",
+    "ListItem",
+    "Organization",
+    "Person",
+    "PostalAddress",
+    "WebPage",
+    "WebSite"
+   ],
+   "topic_tags": [
+    "pronunciation"
+   ],
+   "checked": "2026-10-12",
+   "published": "2026-04-15T11:16:58.908Z",
+   "listed_on_blog_index": false
+  },
+  {
+   "url": "https://speakx.ai/blog/english-grammar-tenses",
+   "sitemap_url": "https://www.speakx.ai/blog/english-grammar-tenses",
+   "title": "English Grammar Tenses: Complete Guide for Indian Learners ( | SpeakX",
+   "h1": "English Grammar Tenses — Everything You Need to Know",
+   "status": 200,
+   "canonical": "https://www.speakx.ai/blog/english-grammar-tenses",
+   "meta_description": "Learn why English Grammar Tenses matters for your career, salary, and confidence. Practical steps and free tools for Indian professionals.",
+   "robots": "index, follow",
+   "schema_types": [
+    "Article",
+    "BreadcrumbList",
+    "ContactPoint",
+    "ImageObject",
+    "ListItem",
+    "Organization",
+    "Person",
+    "PostalAddress",
+    "WebPage",
+    "WebSite"
+   ],
+   "topic_tags": [
+    "grammar"
+   ],
+   "checked": "2026-10-12",
+   "published": "2026-04-14T12:44:52.389Z",
+   "listed_on_blog_index": false
+  },
+  {
+   "url": "https://speakx.ai/blog/how-to-speak-english-fluently",
+   "sitemap_url": "https://www.speakx.ai/blog/how-to-speak-english-fluently",
+   "title": "How To Speak English Fluently — Complete Guide (2026) | SpeakX",
+   "h1": "How To Speak English Fluently — Complete Guide (2026)",
+   "status": 200,
+   "canonical": "https://www.speakx.ai/blog/how-to-speak-english-fluently",
+   "meta_description": "← Back to Blog How To Speak English Fluently — Complete Guide (2026) April 6, 2026 13 min read · · 12 min read · By Priya Sharma Introduction You know exac...",
+   "robots": "index, follow",
+   "schema_types": [
+    "Article",
+    "BreadcrumbList",
+    "ContactPoint",
+    "ImageObject",
+    "ListItem",
+    "Organization",
+    "Person",
+    "PostalAddress",
+    "WebPage",
+    "WebSite"
+   ],
+   "topic_tags": [
+    "fluency",
+    "daily English",
+    "beginners"
+   ],
+   "checked": "2026-10-12",
+   "published": "2026-04-06T15:44:16.719Z",
+   "listed_on_blog_index": false
+  },
+  {
+   "url": "https://speakx.ai/blog/learning-english-with-an-ai-teacher-app-for-confident-speaking",
+   "sitemap_url": "https://www.speakx.ai/blog/learning-english-with-an-ai-teacher-app-for-confident-speaking",
+   "title": "Learn English with an AI Teacher App for Daily Speaking Practice | SpeakX",
+   "h1": "Learning English with an AI Teacher App for Confident Speaking",
+   "status": 200,
+   "canonical": "https://www.speakx.ai/blog/learning-english-with-an-ai-teacher-app-for-confident-speaking",
+   "meta_description": "AI teacher app for daily speaking practice with instant pronunciation feedback and real-life scenarios. Build fluency and confidence through short sessions.",
+   "robots": "index, follow",
+   "schema_types": [
+    "Article",
+    "BreadcrumbList",
+    "ContactPoint",
+    "ListItem",
+    "Organization",
+    "Person",
+    "PostalAddress",
+    "WebPage",
+    "WebSite"
+   ],
+   "topic_tags": [
+    "AI teacher",
+    "product",
+    "confidence"
+   ],
+   "checked": "2026-10-12",
+   "published": "2026-02-13T09:18:39.225Z",
+   "listed_on_blog_index": false
+  },
+  {
+   "url": "https://speakx.ai/blog/how-a-personal-ai-teacher-app-improves-english-speaking-confidence",
+   "sitemap_url": "https://www.speakx.ai/blog/how-a-personal-ai-teacher-app-improves-english-speaking-confidence",
+   "title": "Learn English with an AI Teacher App for Daily Speaking Practice | SpeakX",
+   "h1": "How a Personal AI Teacher App Improves English Speaking Confidence",
+   "status": 200,
+   "canonical": "https://www.speakx.ai/blog/how-a-personal-ai-teacher-app-improves-english-speaking-confidence",
+   "meta_description": "Learn English with AI through daily speaking practice, real-life conversation scenarios, instant feedback, and personalized learning paths to build fluency and confidence.",
+   "robots": "index, follow",
+   "schema_types": [
+    "Article",
+    "BreadcrumbList",
+    "ContactPoint",
+    "ListItem",
+    "Organization",
+    "Person",
+    "PostalAddress",
+    "WebPage",
+    "WebSite"
+   ],
+   "topic_tags": [
+    "AI teacher",
+    "product",
+    "confidence"
+   ],
+   "checked": "2026-10-12",
+   "published": "2026-02-13T09:10:00.147Z",
+   "listed_on_blog_index": false
+  },
+  {
+   "url": "https://speakx.ai/blog/unlock-confident-english-speaking-your-guide-to-daily-practice-and-learning-the-basics",
+   "sitemap_url": "https://www.speakx.ai/blog/unlock-confident-english-speaking-your-guide-to-daily-practice-and-learning-the-basics",
+   "title": "Learn English Basics: Daily Practice Guide for Confident Speaking | SpeakX",
+   "h1": "Unlock Confident English Speaking: Your Guide to Daily Practice and Learning the Basics",
+   "status": 200,
+   "canonical": "https://www.speakx.ai/blog/unlock-confident-english-speaking-your-guide-to-daily-practice-and-learning-the-basics",
+   "meta_description": "Learn English basics with daily English learning strategies, real-life speaking practice, and online tools to build confidence and fluency step by step.",
+   "robots": "index, follow",
+   "schema_types": [
+    "Article",
+    "BreadcrumbList",
+    "ContactPoint",
+    "ListItem",
+    "Organization",
+    "Person",
+    "PostalAddress",
+    "WebPage",
+    "WebSite"
+   ],
+   "topic_tags": [
+    "beginners",
+    "daily English",
+    "basics"
+   ],
+   "checked": "2026-10-12",
+   "published": "2026-01-22T05:39:43.954Z",
+   "listed_on_blog_index": false
+  },
+  {
+   "url": "https://speakx.ai/blog/master-real-life-english-your-guide-to-confident-daily-conversation",
+   "sitemap_url": "https://www.speakx.ai/blog/master-real-life-english-your-guide-to-confident-daily-conversation",
+   "title": "Master Real-Life English: Daily Conversation App Guide for Confident Speaking | SpeakX",
+   "h1": "Master Real-Life English: Your Guide to Confident Daily Conversation",
+   "status": 200,
+   "canonical": "https://www.speakx.ai/blog/master-real-life-english-your-guide-to-confident-daily-conversation",
+   "meta_description": "Master real-life English with a daily English conversation app, practical speaking routines, English reading practice, and confidence-building strategies.",
+   "robots": "index, follow",
+   "schema_types": [
+    "Article",
+    "BreadcrumbList",
+    "ContactPoint",
+    "ListItem",
+    "Organization",
+    "Person",
+    "PostalAddress",
+    "WebPage",
+    "WebSite"
+   ],
+   "topic_tags": [
+    "daily English",
+    "real-life conversation",
+    "roleplay"
+   ],
+   "checked": "2026-10-12",
+   "published": "2026-01-22T05:24:42.793Z",
+   "listed_on_blog_index": false
+  },
+  {
+   "url": "https://speakx.ai/press",
+   "title": null,
+   "h1": null,
+   "status": 404,
+   "canonical": null,
+   "topic_tags": [
+    "probe"
+   ],
+   "note": "does not exist; do not link",
+   "checked": "2026-10-12"
+  },
+  {
+   "url": "https://speakx.ai/news",
+   "title": null,
+   "h1": null,
+   "status": 404,
+   "canonical": null,
+   "topic_tags": [
+    "probe"
+   ],
+   "note": "does not exist; do not link",
+   "checked": "2026-10-12"
+  },
+  {
+   "url": "https://speakx.ai/awards",
+   "title": null,
+   "h1": null,
+   "status": 404,
+   "canonical": null,
+   "topic_tags": [
+    "probe"
+   ],
+   "note": "does not exist; do not link",
+   "checked": "2026-10-12"
+  },
+  {
+   "url": "https://speakx.ai/media",
+   "title": null,
+   "h1": null,
+   "status": 404,
+   "canonical": null,
+   "topic_tags": [
+    "probe"
+   ],
+   "note": "does not exist; do not link",
+   "checked": "2026-10-12"
+  },
+  {
+   "url": "https://speakx.ai/careers",
+   "title": null,
+   "h1": null,
+   "status": 404,
+   "canonical": null,
+   "topic_tags": [
+    "probe"
+   ],
+   "note": "does not exist; do not link",
+   "checked": "2026-10-12"
+  },
+  {
+   "url": "https://speakx.ai/faq",
+   "title": null,
+   "h1": null,
+   "status": 404,
+   "canonical": null,
+   "topic_tags": [
+    "probe"
+   ],
+   "note": "does not exist; do not link",
+   "checked": "2026-10-12"
+  },
+  {
+   "url": "https://speakx.ai/pricing",
+   "title": null,
+   "h1": null,
+   "status": 404,
+   "canonical": null,
+   "topic_tags": [
+    "probe"
+   ],
+   "note": "does not exist; do not link",
+   "checked": "2026-10-12"
+  },
+  {
+   "url": "https://speakx.ai/download",
+   "title": null,
+   "h1": null,
+   "status": 404,
+   "canonical": null,
+   "topic_tags": [
+    "probe"
+   ],
+   "note": "does not exist; do not link",
+   "checked": "2026-10-12"
+  },
+  {
+   "url": "https://speakx.ai/app",
+   "title": null,
+   "h1": null,
+   "status": 404,
+   "canonical": null,
+   "topic_tags": [
+    "probe"
+   ],
+   "note": "does not exist; do not link",
+   "checked": "2026-10-12"
+  },
+  {
+   "url": "https://speakx.ai/blog/ai-se-english-kaise-sikhe",
+   "title": null,
+   "h1": null,
+   "status": 404,
+   "canonical": null,
+   "topic_tags": [
+    "probe"
+   ],
+   "note": "does not exist; do not link",
+   "checked": "2026-10-12"
+  },
+  {
+   "url": "https://speakx.ai/favicon.ico",
+   "title": null,
+   "h1": null,
+   "status": 404,
+   "canonical": null,
+   "topic_tags": [
+    "probe"
+   ],
+   "note": "does not exist; do not link",
+   "checked": "2026-10-12"
+  },
+  {
+   "url": "https://speakx.ai/manifest.json",
+   "title": null,
+   "h1": null,
+   "status": 404,
+   "canonical": null,
+   "topic_tags": [
+    "probe"
+   ],
+   "note": "does not exist; do not link",
+   "checked": "2026-10-12"
+  },
+  {
+   "url": "https://speakx.ai/sitemap_index.xml",
+   "title": null,
+   "h1": null,
+   "status": 404,
+   "canonical": null,
+   "topic_tags": [
+    "probe"
+   ],
+   "note": "does not exist; do not link",
+   "checked": "2026-10-12"
+  }
+ ],
+ "blog_index": {
+  "url": "https://speakx.ai/blog",
+  "status": 200,
+  "title": "Blog | SpeakX",
+  "h1": "Speak English with confidence.",
+  "posts_listed": 7,
+  "posts_in_sitemap": 18,
+  "pagination": "none found (no ?page=, no load-more markup in HTML)",
+  "orphaned_from_index": [
+   "https://speakx.ai/blog/how-to-speak-english-fluently-in-parent-teacher-meetings-a-teachers-5-minute-daily-method",
+   "https://speakx.ai/blog/english-spelling-practice",
+   "https://speakx.ai/blog/english-grammar-sentence-structure",
+   "https://speakx.ai/blog/english-speaking-fluency",
+   "https://speakx.ai/blog/english-pronunciation-difficulty",
+   "https://speakx.ai/blog/english-grammar-tenses",
+   "https://speakx.ai/blog/how-to-speak-english-fluently",
+   "https://speakx.ai/blog/learning-english-with-an-ai-teacher-app-for-confident-speaking",
+   "https://speakx.ai/blog/how-a-personal-ai-teacher-app-improves-english-speaking-confidence",
+   "https://speakx.ai/blog/unlock-confident-english-speaking-your-guide-to-daily-practice-and-learning-the-basics",
+   "https://speakx.ai/blog/master-real-life-english-your-guide-to-confident-daily-conversation"
+  ]
+ },
+ "comparison_article": {
+  "url": "https://speakx.ai/blog/best-english-speaking-apps-india-speakx-vs-competitors",
+  "status": 200,
+  "title": "Best English Speaking Apps in India in 2026 | SpeakX",
+  "meta_description": "Compare the best English speaking apps in India: SpeakX vs Duolingo, Supernova, Stimuler and more, for interviews, work and daily life.",
+  "canonical": "https://www.speakx.ai/blog/best-english-speaking-apps-india-speakx-vs-competitors",
+  "robots": "index, follow",
+  "hreflang": "none",
+  "og": {
+   "og:title": "Best English Speaking Apps in India in 2026",
+   "og:type": "article",
+   "og:url": "https://www.speakx.ai/blog/best-english-speaking-apps-india-speakx-vs-competitors",
+   "og:image": "https://image.speakx.in/assets/blogs/best-english-speaking-apps-india/best-english-speaking-apps-india-cover-v3.jpg (1200x675 declared; file is 1600x1000)",
+   "twitter:card": "summary_large_image",
+   "article:published_time": "2026-10-09T17:29:54.606Z",
+   "article:modified_time": "2026-10-09T17:35:39.020Z"
+  },
+  "byline": "By Nishtha Agarwal · Last updated: 9 October 2026 · 12 min read (index card says 17 min read; schema timeRequired PT17M)",
+  "schema_types": [
+   "Organization",
+   "WebSite",
+   "Article (author Person 'Nishtha Agarwal', wordCount 3212, inLanguage en-IN, isAccessibleForFree true)",
+   "BreadcrumbList (Home > Blog > article)"
+  ],
+  "schema_missing": [
+   "FAQPage (9 visible <details> FAQs but no FAQPage JSON-LD)",
+   "ItemList for the comparison table"
+  ],
+  "word_count_measured": 3490,
+  "outline": [
+   "H1 Best English Speaking Apps in India (2026): How SpeakX Compares with Duolingo, Supernova, Stimuler and Others",
+   "  (Quick answer box; 'Meet Sia' image; in-page TOC)",
+   "H2 What to look for in an English speaking app",
+   "H2 Best English speaking apps in India: quick comparison (table: App | Main focus | How you practise | Made for Indian learners? | Best for)",
+   "H2 How SpeakX compares with other spoken English apps",
+   "  H3 SpeakX vs Duolingo",
+   "  H3 SpeakX vs ELSA Speak",
+   "  H3 SpeakX vs Speak",
+   "  H3 SpeakX vs Cambly and Preply",
+   "  H3 SpeakX vs HelloTalk",
+   "  H3 SpeakX vs Praktika and Loora",
+   "  H3 SpeakX vs MySivi",
+   "  H3 SpeakX vs Stimuler",
+   "  H3 SpeakX vs EngVarta and Supernova",
+   "H2 Why Indian learners choose SpeakX for English speaking practice (6 numbered points)",
+   "  H3 Watch your confidence grow, not just your vocabulary",
+   "H2 Which English speaking app is right for you? (persona quotes: interview in two weeks / homemaker / freeze in office meetings / starting from zero / student placements / want a human teacher too)",
+   "H2 How much does SpeakX cost?",
+   "H2 Frequently asked questions (9)",
+   "H2 How we compared",
+   "H2 Muh Khol. English Bol. (closing CTA with store badges)"
+  ],
+  "competitors_covered": [
+   "Duolingo",
+   "ELSA Speak",
+   "Speak (speak.com)",
+   "Cambly",
+   "Preply",
+   "HelloTalk",
+   "Praktika",
+   "Loora",
+   "MySivi",
+   "Stimuler",
+   "EngVarta",
+   "Supernova"
+  ],
+  "comparison_table_rows": {
+   "SpeakX": "Spoken English for real-life situations | Voice calls with Sia (AI speaking partner), real-life roleplays, interview practice and instant feedback in 15-minute daily lessons | Yes. Explanations in Hindi and other Indian languages | Anyone who understands English but hesitates to speak it",
+   "Duolingo": "Many languages, game-style learning | Bite-sized lessons, streaks and rewards | Offers an English course for Hindi speakers | Building a daily habit and basic vocabulary",
+   "ELSA Speak": "Pronunciation and accent | AI scoring of individual sounds and words | Global app | Polishing specific sounds",
+   "Speak": "AI conversation tutor | Speaking drills and chats with AI | Global app | Conversation practice for learners worldwide",
+   "Cambly / Preply": "Live human tutors | Scheduled video lessons | Global tutor marketplaces | Learners who want a live teacher",
+   "HelloTalk": "Language exchange | Chatting with native speakers | Global community | Making friends across countries",
+   "Praktika / Loora": "AI conversation | Talking with AI characters | Global apps | Casual AI chat practice",
+   "MySivi": "AI English trainer with peer practice | AI trainer plus speaking with other learners | India-based | Combining AI and peer practice",
+   "Stimuler": "AI speaking coach with IELTS prep | Speaking on a topic (often for 60 seconds) and AI conversations, with detailed feedback reports | India-based, used globally | IELTS speaking practice and fluency feedback",
+   "EngVarta": "Live practice with English experts | Phone calls with human experts | India-based | Live call practice",
+   "Supernova": "Spoken English with an AI tutor | Step-by-step lessons: learn a sentence rule, translate lines from your own language, then speak with Nova, its AI tutor | India-based, with support in your native language | Learners who like a structured, translation-led method"
+  },
+  "claims_and_numbers": [
+   "More than 10 million downloads on Google Play",
+   "4.5★ rating from over 92,000 reviews on Google Play (as of September 2026)",
+   "SpeakX figures come from the SpeakX Google Play listing (25 September 2026)",
+   "15-minute daily lessons; 'Sia's tip: 15 minutes every day beats 2 hours once a week'",
+   "CEFR-aligned paths from Pre-A1 to advanced",
+   "Explanations in Hindi and other Indian languages",
+   "Roleplays: job interviews, office meetings, phone calls, parent-teacher meetings, shopping, family conversations",
+   "Confidence Meter: Shy -> Improving -> Good -> Strong -> Super; weekly city leaderboard; practice streak",
+   "Recognised at ET Education Excellence Awards incl. Excellence in Generative AI for Education (2026)",
+   "SpeakX Premium ₹299/month; new users can try 3 days for ₹2 (at the time of writing); free to download on Android and iPhone",
+   "Lesson example: 'Apna parichay dena' teaches 7 sentences; buttons 'Talk with Sia' / 'Start Lesson'",
+   "Made by Ivypods Technology in Gurugram; Speak (speak.com) is a different company",
+   "Apps compared via official website and app-store listing, checked September-October 2026"
+  ],
+  "faq": [
+   {
+    "q": "Which is the best English speaking app in India?",
+    "a": "It depends on your goal. If you want to speak English confidently in real situations... SpeakX is built exactly for that. Duolingo is good for vocabulary habits, ELSA Speak for focused pronunciation drills, and Cambly or Preply if you want a live human tutor."
+   },
+   {
+    "q": "Can I learn English speaking through Hindi on SpeakX?",
+    "a": "Yes. SpeakX explains lessons in Hindi and other Indian languages..."
+   },
+   {
+    "q": "Is SpeakX better than Duolingo for speaking English?",
+    "a": "Duolingo is a great habit-building app for many languages. SpeakX focuses only on spoken English for Indian learners... If speaking confidently is your main goal, SpeakX is the more focused choice."
+   },
+   {
+    "q": "Is SpeakX good for complete beginners?",
+    "a": "Yes. CEFR-aligned paths start from Pre-A1 with explanations in your own language, up to advanced."
+   },
+   {
+    "q": "Can SpeakX help me prepare for a job interview in English?",
+    "a": "Yes. Interview practice and roleplays, e.g. 'Tell me about yourself', with feedback."
+   },
+   {
+    "q": "Is SpeakX the same as the Speak app?",
+    "a": "No. SpeakX is an Indian English speaking app made by Ivypods Technology in Gurugram. Speak (speak.com) is a different company."
+   },
+   {
+    "q": "Who is Sia on SpeakX?",
+    "a": "Sia is SpeakX's AI speaking partner. You can talk with Sia on a voice call inside the app..."
+   },
+   {
+    "q": "How much does SpeakX cost?",
+    "a": "Free to download. Premium ₹299/month; new users can try it for 3 days for ₹2 (at the time of writing)."
+   },
+   {
+    "q": "How long does it take to improve my spoken English?",
+    "a": "Depends on start point and regularity; consistency matters more than long sessions; lessons ~15 minutes a day."
+   }
+  ],
+  "internal_links_out": [
+   "/",
+   "/about",
+   "/blog",
+   "/premium",
+   "/business",
+   "/contact-us",
+   "/privacy-policy",
+   "/refund-policy",
+   "/terms-conditions",
+   "/#languages",
+   "/#news",
+   "/#proof",
+   "/#usecases",
+   "/blog/100-simple-english-sentences-for-daily-use-with-hindi-meaning",
+   "/blog/english-interview-questions-and-answers-for-corporate-professionals-a-speaking-confidence-guide",
+   "/blog/english-pronunciation-difficulty",
+   "/blog/english-speaking-fluency",
+   "/blog/how-to-speak-english-fluently-in-parent-teacher-meetings-a-teachers-5-minute-daily-method",
+   "/blog/interview-questions-answers-english-freshers",
+   "/blog/learning-english-with-an-ai-teacher-app-for-confident-speaking"
+  ],
+  "external_links_out": [
+   "https://play.google.com/store/apps/details?id=yellowclass.kids.live&referrer=utm_source%3Dblog%26utm_medium%3Dcompare%26utm_campaign%3Dbest-english-speaking-apps-india",
+   "https://play.google.com/store/apps/details?id=yellowclass.kids.live",
+   "https://apps.apple.com/in/app/speakx-english-speaking-app/id6756059415",
+   "https://speakx.sng.link/Ed28z/npfq/4alj",
+   "https://www.coe.int/en/web/common-european-framework-reference-languages/level-descriptions"
+  ],
+  "images": [
+   "sia-ai-english-tutor.jpg",
+   "speakx-lesson-map-apna-parichay.jpg",
+   "speakx-talk-with-sia-voice-call.jpg",
+   "sia-listening-feedback.jpg",
+   "speakx-confidence-meter.jpg",
+   "sia-15-minute-tip.jpg",
+   "speakx-logo.png (all under https://image.speakx.in/assets/blogs/best-english-speaking-apps-india/ with ?w=&fm=webp&q=75&auto=format,compress)"
+  ],
+  "css_classes_used": "article uses .sx-article, .sx-answer (quick answer box), .sx-sia (Sia callout), .sx-table (min-width 720px), .sx-us (highlighted SpeakX row), .sx-phone (phone-frame screenshot), <details> FAQ"
+ },
+ "play_listing": {
+  "url": "https://play.google.com/store/apps/details?id=yellowclass.kids.live",
+  "status": 200,
+  "app_name": "SpeakX AI Learn Spoken English",
+  "developer": "SpeakX.ai (developer page /store/apps/dev?id=7008959433764210429; website https://speakx.ai; contact email contact@speakx.ai on listing)",
+  "rating": "4.5 (schema ratingValue 4.534283638000488)",
+  "review_count": "92,924 (shown as 92.9K reviews)",
+  "downloads_tier": "10M+",
+  "last_updated": "Oct 12, 2026",
+  "content_rating": "Rated for 3+",
+  "category": "Education",
+  "in_app_purchases": true,
+  "price": "Free (INR 0)",
+  "short_description": "Speak English with Sia, AI practice, progress reports and 7 Indian languages.",
+  "description_summary": "'SpeakX: Learn Spoken English with MS Dhoni'. Claim: 'By month 2, 4 out of 5 active learners speak English for 90%+ of their conversations.' Learn in your language: Hindi, Tamil, Telugu, Kannada, Malayalam, Marathi, Bengali. Practise with Sia (AI practice partner): speak daily, real-life conversations, learn from mistakes. Progress Report tracks Speaking, Fluency, Vocabulary, Grammar, Pronunciation, Practice. Situations: Job Interviews, Office & Promotions, Higher Studies, Travel, Everyday Conversations, Family & Social Life.",
+  "data_safety": "may share Location, Personal info and 3 other data types with third parties (per listing)",
+  "icon_url": "https://play-lh.googleusercontent.com/dl8yJ7uPf3U9tlpDH3S9bmQRMsM0Le_PDkcuuyDb5WwP0S7MTE4Dce9DRn5UUylGJAp8rE6wnLnU_JMX5kqb",
+  "screenshot_count": 7,
+  "note": "Package id yellowclass.kids.live is a legacy identifier - use only inside href, never in copy."
+ },
+ "app_store": {
+  "url": "https://apps.apple.com/in/app/speakx-english-speaking-app/id6756059415",
+  "status": 200,
+  "canonical": "https://apps.apple.com/in/app/speakx-english-speaking-app/id6756059415",
+  "app_name": "SpeakX: English Speaking App",
+  "subtitle": "English Learning App for All",
+  "developer": "Ivypods Technology Private Limited (https://apps.apple.com/in/developer/ivypods-technology-private-limited/id1547936194)",
+  "rating": "4.7",
+  "rating_count": 258,
+  "chart": "No. 110 in Education (India, at time of check)",
+  "age_rating": "4+",
+  "category": "Education",
+  "size": "167.9 MB",
+  "compatibility": "Requires iOS 15.0 or later; iPhone, iPad, iPod touch; Mac (Apple silicon) macOS 12+; Apple Vision visionOS 1.0+",
+  "languages": "English",
+  "price": "Free; In-App Purchases: SpeakX Premium Monthly ₹299, SpeakX Premium Monthly ₹99 (two IAP SKUs listed)",
+  "latest_version": "5.6.8 ('5 days ago' at check; 5.6.6 24 Sept, 5.6.4 23 Sept)",
+  "copyright": "© 2020 Ivypods Technology Pvt Ltd",
+  "description_headline": "SpeakX: Learn Spoken English with MS Dhoni",
+  "found_via": "llms.txt + Organization.sameAs + SoftwareApplication.downloadUrl on speakx.ai; verified 200",
+  "note": "₹99 Premium Monthly IAP SKU is listed on App Store; website says ₹299/month after ₹2 trial. Do not quote ₹99 without verification of what it is."
+ },
+ "reference_site": {
+  "hub": {
+   "url": "https://speakshark.com/vs",
+   "status": 200,
+   "framework": "Next.js App Router (/_next/static, __next_f)",
+   "title": "SpeakShark vs every alternative — honest comparisons | SpeakShark",
+   "meta_description": "Side-by-side comparisons of SpeakShark with ELSA Speak, Cambly, Duolingo, ChatGPT Voice, Gemini Live, Claude, Copilot, and other speaking practice tools. No affiliate spin.",
+   "canonical": "https://speakshark.com/vs",
+   "og_type": "website",
+   "robots_meta": "notranslate",
+   "word_count_whole_page": 4627,
+   "sections_in_order": [
+    "Breadcrumb Home > Comparisons",
+    "H1 'SpeakShark vs every alternative' + intro paragraph ('Honest side-by-side... No affiliate spin')",
+    "'How to read these' explainer: each page = quick verdict, side-by-side feature table, where each tool wins, FAQ",
+    "H2 'Apps built for language learning' (7 cards: ELSA Speak, Cambly, EngVarta, Duolingo, BoldVoice, Speak, TalkPal)",
+    "H2 'DIY with general AI assistants' (5 cards: ChatGPT, ChatGPT Voice, Google Gemini, Claude, Microsoft Copilot)",
+    "H2 'Done comparing? Try SpeakShark free' CTA block (No credit card, 3 free sessions/day) -> /signup 'Start speaking'",
+    "Footer with Resources: Comparisons (12), Best alternatives (5), Country guides (100), Best speaking apps 2026"
+   ],
+   "card_design": "Whole card is an <a href=\"/vs-<slug>\"> with class 'liquid-glass group block h-full p-6' (glass panel, hover glow). Inside: eyebrow <p> uppercase 11px tracking-wide category label (e.g. 'pronunciation drill app', 'human tutor video platform', 'general AI assistant'); <h3> 'SpeakShark vs X'; one-sentence verdict <p> ('X is the right pick if ...'); 'Read full comparison' link text with arrow svg.",
+   "url_pattern": "flat: /vs (hub) and /vs-<competitor-slug> (NOT /vs/<slug>)",
+   "schema": [
+    "WebSite + Organization + SoftwareApplication (@graph, with offers Free/$10/$69 and featureList)",
+    "ItemList 'SpeakShark comparison hub' numberOfItems 12 with ListItem url+name per comparison",
+    "BreadcrumbList Home > Comparisons"
+   ],
+   "sitemap": "https://speakshark.com/sitemap.xml 200, 1272 URLs, 12 /vs- pages + /vs hub"
+  },
+  "subpages_sampled": [
+   {
+    "url": "https://speakshark.com/vs-elsa-speak",
+    "status": 200,
+    "title": "SpeakShark vs ELSA Speak: Which Is Better in 2026? | SpeakShark",
+    "meta_description_len": 160,
+    "h1": "SpeakShark vs ELSA Speak — which is better in 2026?",
+    "word_count_whole_page": 6713,
+    "table_rows": 14,
+    "faq_count": 6
+   },
+   {
+    "url": "https://speakshark.com/vs-duolingo",
+    "status": 200,
+    "title": "SpeakShark vs Duolingo: Which Is Better in 2026? | SpeakShark",
+    "h1": "SpeakShark vs Duolingo — different jobs, different tools",
+    "word_count_whole_page": 6135,
+    "table_rows": 12,
+    "faq_count": 5
+   },
+   {
+    "url": "https://speakshark.com/vs-speak",
+    "status": 200,
+    "title": "SpeakShark vs Speak: Which Is Better in 2026? | SpeakShark",
+    "h1": "SpeakShark vs Speak — two AI tutors compared",
+    "word_count_whole_page": 6080,
+    "table_rows": 12,
+    "faq_count": 5
+   }
+  ],
+  "subpage_template": {
+   "title_pattern": "'SpeakShark vs {X}: Which Is Better in 2026? | SpeakShark' (title) ; H1 varies with a dash subtitle: 'SpeakShark vs {X} — {angle}'",
+   "meta_pattern": "~150-160 chars; names both products, lists compared dimensions (pricing, free tier, format), ends with 'which fits...'",
+   "sections_in_order": [
+    "Breadcrumb Home > Comparisons > {X}",
+    "H1 + 2-sentence framing paragraph",
+    "'Quick verdict' box: one sentence for X, one for SpeakShark",
+    "H2 '{A} vs {B} at a glance' - 2-column feature table (Feature | X | SpeakShark), 11-13 rows: Free tier, Paid pricing, Core practice format, Real-time pronunciation scoring, Phoneme-level corrections, Open-ended conversation, AI teacher personas, Accent targets, Role plays/scenarios, Progress tracking, Web vs mobile, etc. Uses ✓ marks and short phrases.",
+    "H2 'Where each one actually wins' -> H3 'Where X leads' (bullets) / H3 'Where X falls short' (bullets) / H3 'Where SpeakShark wins' (bullets)",
+    "H2 'Which one should you pick?' -> two 'Pick X if...' / 'Pick SpeakShark if...' paragraphs",
+    "H2 'Common questions about this comparison' -> 5-6 <details><summary> accordions (also emitted as FAQPage JSON-LD)",
+    "H2 'Compare SpeakShark to other alternatives' -> grid of links to all other /vs- pages with one-line category labels + 'See all comparisons' + link to 'Best X alternatives' roundup",
+    "H2 'Try SpeakShark free today' -> 'No credit card. 3 free sessions a day...' + 'Start speaking' button (/signup)",
+    "Footer"
+   ],
+   "cta_pattern": "Top nav 'Start Free' (/signup); sticky/inline 'Start speaking' (/signup); no app-store badges (web product). Every page ends with the same free-tier promise + single primary button.",
+   "schema_per_subpage": [
+    "WebSite",
+    "Organization",
+    "SoftwareApplication (SpeakShark, with offers)",
+    "WebPage (headline, primaryImageOfPage=/opengraph-image, breadcrumb, about:[SoftwareApplication SpeakShark, SoftwareApplication X])",
+    "FAQPage (5-6 Q&A)"
+   ],
+   "faq_markup": "native <details class=...><summary>Q<svg chevron/></summary><div><p>A</p></div></details>",
+   "tone": "'honest', concedes where competitor wins; competitor-specific angle (e.g. Vietnamese learners); pricing stated with '~' and 'varies by region'",
+   "dates": "no visible 'last updated' date on subpages; year in title",
+   "hreflang": "none",
+   "og_image": "not set on /vs or subpages (og:image absent; WebPage.primaryImageOfPage points to /opengraph-image)"
+  },
+  "note": "UX/IA inspiration only. SpeakShark is a web-first US$ product; do not copy claims or pricing."
+ },
+ "press_logos_on_site": [
+  {
+   "section": "Recognised by (homepage awards cards)",
+   "entries": [
+    {
+     "award": "Excellence in Generative AI for Education",
+     "organiser": "ET Education Excellence Awards 2026",
+     "logo": "logo-economic-times.png",
+     "linked_url": null
+    },
+    {
+     "award": "Best Personalised and Gamified Learning Experience (in Education)",
+     "organiser": "ET Education Excellence Awards 2025",
+     "logo": "logo-economic-times.png",
+     "linked_url": null
+    },
+    {
+     "award": "Top 25 Visionary Edtech Startup of the Year",
+     "organiser": "India Elite Education & Institutional Excellence Awards 2025",
+     "logo": "(text 'India Elite')",
+     "linked_url": null
+    },
+    {
+     "award": "Best Use of AI for Education and Livelihood",
+     "organiser": "Mint All About AI, Tech4Good Awards 2024",
+     "logo": "logo-mint.png",
+     "linked_url": null
+    },
+    {
+     "award": "Best Education Startup of the Year",
+     "organiser": "ET Now Bharat Growth Summit (ET Edge) 2026",
+     "logo": "(text 'ET Now')",
+     "linked_url": null
+    },
+    {
+     "award": "Best EdTech Startup of the Year",
+     "organiser": "Entrepreneur Awards 2025",
+     "logo": "logo-economic-times.png (ET Entrepreneur)",
+     "linked_url": null
+    },
+    {
+     "award": "ET Edge 40 Under 40 - Arpit Mittal, Founder",
+     "organiser": "ET Edge 2025",
+     "logo": "(text 'ET Edge')",
+     "linked_url": null
+    },
+    {
+     "award": "Best EdTech Provider of the Year",
+     "organiser": "Elets 27th World Education Summit 2023",
+     "logo": "(text 'Elets')",
+     "linked_url": null
+    },
+    {
+     "award": "Best Emerging Edtech Startup",
+     "organiser": "ET Education Excellence Awards 2025",
+     "logo": "logo-economic-times.png",
+     "linked_url": null
+    },
+    {
+     "award": "Most Futuristic (and Innovative) AI-Driven Language Learning Startup",
+     "organiser": "India Elite Education & Institutional Excellence Awards 2025",
+     "logo": "(text 'India Elite')",
+     "linked_url": null
+    },
+    {
+     "award": "BW 40 Under 40 - Arpit Mittal, Founder",
+     "organiser": "BW Businessworld 2025",
+     "logo": "logo-bw-businessworld.png",
+     "linked_url": null
+    },
+    {
+     "award": "Best Company, Select 200",
+     "organiser": "Forbes India DGEMS 2023",
+     "logo": "logo-forbes-india.png",
+     "linked_url": null
+    }
+   ],
+   "note": "Award cards carry NO outbound links on the homepage; all 12 are also listed in Organization.award JSON-LD. Organiser pages not verified by this audit."
+  },
+  {
+   "section": "In the news (homepage, 9 linked items)",
+   "entries": [
+    {
+     "publication": "Times of India (Education Times)",
+     "headline": "How English learning apps are helping first-generation learners",
+     "url": "https://www.educationtimes.com/news/how-english-learning-apps-are-helping-first-generation-learners/articleshow/134285453.cms",
+     "logo": "text label",
+     "flag": "New"
+    },
+    {
+     "publication": "Moneycontrol",
+     "headline": "SpeakX app wants to make learning English more useful than talking to ChatGPT",
+     "url": "https://www.moneycontrol.com/technology/speakx-app-wants-to-make-learning-english-more-useful-than-talking-to-chatgpt-article-14028161.html"
+    },
+    {
+     "publication": "ET Entrepreneur (Economic Times)",
+     "headline": "MS Dhoni backs AI-based English learning platform SpeakX",
+     "url": "https://entrepreneur.economictimes.indiatimes.com/news/funding/ms-dhoni-backs-ai-based-english-learning-platform-speakx/133677517",
+     "logo": "logo-economic-times.png"
+    },
+    {
+     "publication": "Inc42",
+     "headline": "Exclusive: MS Dhoni joins edtech startup SpeakX's cap table",
+     "url": "https://inc42.com/buzz/exclusive-ms-dhoni-joins-edtech-startup-speakxs-cap-table/",
+     "logo": "logo-inc42.svg"
+    },
+    {
+     "publication": "TICE News",
+     "headline": "From small town dreams to global classrooms: how SpeakX is rewriting India's edtech story with AI",
+     "url": "https://www.tice.news/know-this/from-small-town-dreams-to-global-classrooms-how-speakx-is-rewriting-indias-edtech-story-with-ai-11802352",
+     "logo": "logo-tice.png"
+    },
+    {
+     "publication": "VCCircle",
+     "headline": "WestBridge-backed SpeakX targets 4x revenue growth in FY27",
+     "url": "https://www.vccircle.com/westbridgebacked-speakx-targets-4x-revenue-growth-in-fy27"
+    },
+    {
+     "publication": "The Economic Times (ET Entrepreneur)",
+     "headline": "Revolutionizing language learning: How SpeakX is transforming English education with AI",
+     "url": "https://entrepreneur.economictimes.indiatimes.com/news/startups/revolutionizing-language-learning-how-speakx-is-transforming-english-education-with-ai/132072224",
+     "logo": "logo-economic-times.png"
+    },
+    {
+     "publication": "Republic World (Initiatives)",
+     "headline": "From completion to capability: How SpeakX turns learning into real usage",
+     "url": "https://www.republicworld.com/initiatives/from-completion-to-capability-how-speakx-turns-learning-into-real-usage",
+     "note": "URL path '/initiatives/' suggests branded/sponsored section - treat as not independent until verified"
+    },
+    {
+     "publication": "Amar Ujala",
+     "headline": "Why skill literacy is just as important to India as financial literacy",
+     "url": "https://www.amarujalabonus.com/news/why-skill-literacy-is-just-as-important-to-india-as-financial-literacy",
+     "logo": "logo-amar-ujala.png"
+    }
+   ],
+   "note": "Linked URLs copied from the homepage HTML; the articles themselves were NOT fetched in this audit (status not-verified). /about page repeats these under 'Sources > Press coverage' and 'Product and company records' (MCA CIN U80100HR2019PTC081913)."
+  },
+  {
+   "section": "Backed by",
+   "entries": [
+    "India Quotient (institutional, shown)",
+    "Organization.funder JSON-LD: WestBridge Capital, Elevation Capital, Goodwater Capital, India Quotient",
+    "Angels: MS Dhoni (Indian cricketer), Vidit Aatrey (Meesho), Kunal Bahl (Snapdeal), Varun Alagh (Mamaearth/Honasa), Shyamal Anadkat (Applied AI, OpenAI), Ronnie Screwvala (upGrad)"
+   ]
+  }
+ ],
+ "issues": [
+  {
+   "id": "I1",
+   "severity": "high",
+   "type": "canonical conflict",
+   "detail": "All canonical/og:url/sitemap/JSON-LD URLs use https://www.speakx.ai/... but www 308-redirects to https://speakx.ai/... Google will see canonical -> redirect -> non-www; signals split. Fix: generate canonicals, sitemap <loc>, robots Sitemap:, og:url, og:image, Organization.logo/url and BreadcrumbList items as https://speakx.ai/... (or reverse the redirect)."
+  },
+  {
+   "id": "I2",
+   "severity": "medium",
+   "type": "duplicate hosts",
+   "detail": "speakx.com, www.speakx.com, speakx.in, www.speakx.in all serve the full site with 200 (not a redirect). They carry a cross-domain canonical to www.speakx.ai, which mitigates but still wastes crawl budget and leaks link equity. Recommend 301 -> https://speakx.ai/$1 at the edge (envoy)."
+  },
+  {
+   "id": "I3",
+   "severity": "medium",
+   "type": "blog index coverage",
+   "detail": "Blog index lists only 7 of 18 posts; 11 posts (all pre-Sept-2026) are reachable only via sitemap/in-article links and have no pagination. Our hub should link to them explicitly where relevant."
+  },
+  {
+   "id": "I4",
+   "severity": "medium",
+   "type": "schema accuracy",
+   "detail": "Homepage SoftwareApplication.aggregateRating says ratingValue 4.6 / ratingCount 90000 while Google Play shows 4.5 / 92,924 and the content rule forbids '4.6+'. Our pages must use 4.5★ / 92.9K (Play, 2026-10-12) and must not copy the 4.6 figure."
+  },
+  {
+   "id": "I5",
+   "severity": "medium",
+   "type": "copy rule conflict on live site",
+   "detail": "/premium <title> 'Start Your Free English Speaking Trial' and meta description 'free trial'; llms.txt says 'the free trial'. Page body says trial is ₹2 for 3 days. Shared context forbids 'free trial'. Do not inherit this wording."
+  },
+  {
+   "id": "I6",
+   "severity": "low",
+   "type": "missing FAQPage schema",
+   "detail": "Comparison article has 9 <details> FAQs but no FAQPage JSON-LD; also no ItemList for the table. Our /vs pages should add FAQPage + ItemList (as speakshark does)."
+  },
+  {
+   "id": "I7",
+   "severity": "low",
+   "type": "duplicate titles",
+   "detail": "Two blog posts share the same <title> 'Learn English with an AI Teacher App for Daily Speaking Practice | SpeakX' (learning-english-with-an-ai-teacher-app-for-confident-speaking and how-a-personal-ai-teacher-app-improves-english-speaking-confidence)."
+  },
+  {
+   "id": "I8",
+   "severity": "low",
+   "type": "sitemap lastmod",
+   "detail": "Every sitemap <lastmod> is the same generation timestamp (2026-10-12T05:18:30.949Z) - not a real modification date; Google may ignore it."
+  },
+  {
+   "id": "I9",
+   "severity": "low",
+   "type": "missing files",
+   "detail": "/favicon.ico 404, /manifest.json 404 (Next metadata uses /icon.png so favicon works in modern browsers); no /press, /news, /awards, /media, /faq, /pricing pages exist (all 404) - the hub's press/awards section will be the first such page."
+  },
+  {
+   "id": "I10",
+   "severity": "low",
+   "type": "redirect chain",
+   "detail": "http://www.speakx.ai -> https://www.speakx.ai -> https://speakx.ai (2 hops). Minor."
+  },
+  {
+   "id": "I11",
+   "severity": "info",
+   "type": "hreflang",
+   "detail": "No hreflang anywhere; html lang=en, Article inLanguage en-IN. Keep consistent (lang=en, inLanguage en-IN)."
+  },
+  {
+   "id": "I12",
+   "severity": "info",
+   "type": "analytics",
+   "detail": "No GTM; GA4 G-Z36ZMHENFK, Meta pixels (b2c 1191395792230165 / b2b 851507887655950), LinkedIn 10860337 are loaded from the app bundle, so an integrated Next.js build must reuse the site's analytics provider component rather than adding its own tags."
+  },
+  {
+   "id": "I13",
+   "severity": "info",
+   "type": "known 404",
+   "detail": "https://speakx.ai/blog/ai-se-english-kaise-sikhe confirmed 404 - never link."
+  },
+  {
+   "id": "I14",
+   "severity": "info",
+   "type": "language count",
+   "detail": "Play screenshot shows 'Urdu' in the in-app native-language picker (8 options incl. English/Urdu) while all copy says 7 Indian languages. Stick to the verified 7."
+  },
+  {
+   "id": "I15",
+   "severity": "info",
+   "type": "App Store IAP",
+   "detail": "App Store lists two IAPs: 'SpeakX Premium Monthly ₹299' and 'SpeakX Premium Monthly ₹99'. Only ₹299/month is verified on the website; do not cite ₹99."
+  }
+ ]
+}

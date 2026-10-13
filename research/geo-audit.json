@@ -1,0 +1,259 @@
+{
+  "meta": {
+    "project": "SpeakX comparison hub — GEO (generative engine optimisation) baseline audit",
+    "date": "2026-10-12",
+    "timezone": "IST",
+    "method": "Each of 12 prompts was run through the platforms reachable from this environment. 'web search index' = the WebSearch tool (US-indexed web search; its summary paragraph is an aggregated snippet digest, not a consumer AI product). Bing, DuckDuckGo and Perplexity were attempted via HTTP fetch of their result pages. Nothing below is a fabricated AI answer; where a platform could not be reached it is recorded as not-accessible.",
+    "platform_accessibility": {
+      "web search index (WebSearch tool)": "accessible — titles/URLs/snippet digest recorded",
+      "Bing (www.bing.com/search HTML fetch)": "partially accessible — returned relevant organic results only for brand-containing queries ('SpeakX vs Duolingo', 'SpeakX vs Stimuler', 'AI conversation practice'); for most other prompts it served degraded, unrelated result sets (dictionary definitions of 'best', TTK Prestige, Amazon Seller Central, Windows File Explorer), consistent with bot-handling. No Copilot answer box or People-Also-Ask block was present in any fetched HTML. Degraded results are recorded as 'unreliable' and excluded from inclusion-rate maths.",
+      "DuckDuckGo (html.duckduckgo.com/html)": "not-accessible from this environment — every request returned a CAPTCHA ('Select all squares containing a duck'), 5/5 attempts",
+      "Perplexity (perplexity.ai/search?q=)": "not-accessible from this environment — HTTP 403 Forbidden, 2/2 attempts",
+      "ChatGPT search": "not-accessible from this environment — requires interactive session; not tested",
+      "Google AI Overviews (google.co.in)": "not-accessible from this environment — not rendered by available tools; not tested",
+      "Gemini": "not-accessible from this environment — not tested",
+      "Claude (claude.ai web search)": "not tested — the auditing agent is itself a Claude model; self-querying would not be an independent observation",
+      "Bing Copilot": "not-accessible — no Copilot panel in fetched Bing HTML"
+    },
+    "crawler_access": {
+      "robots_txt_url": "https://speakx.ai/robots.txt",
+      "robots_txt_http": 200,
+      "robots_txt_verbatim": "User-Agent: *\nAllow: /\nDisallow: /health\nDisallow: /ping\nDisallow: /pay/\nDisallow: /premium/success\nDisallow: /business/verify\nDisallow: /business/payment\nContent-Signal: ai-train=no, search=yes, ai-input=yes\n\nSitemap: https://www.speakx.ai/sitemap.xml",
+      "ai_crawlers": {
+        "GPTBot": "allowed (no specific rule; wildcard Allow: /)",
+        "ClaudeBot": "allowed (no specific rule)",
+        "anthropic-ai": "allowed (no specific rule)",
+        "PerplexityBot": "allowed (no specific rule)",
+        "Google-Extended": "allowed (no specific rule) — note Content-Signal ai-train=no expresses a training opt-out, but Google-Extended is the mechanism Google actually honours for Gemini training; if the team wants ai-train=no enforced for Google, add an explicit 'User-agent: Google-Extended / Disallow: /' block. If the team wants AI Overview/Gemini grounding, leave as is (AI Overviews use the normal Googlebot).",
+        "CCBot": "allowed (no specific rule)",
+        "OAI-SearchBot": "allowed (no specific rule)"
+      },
+      "content_signal_note": "Content-Signal: ai-train=no, search=yes, ai-input=yes (Cloudflare Content Signals Policy syntax). This permits search indexing and real-time AI answer grounding (ai-input=yes) while declining training use. It is advisory; only participating crawlers honour it.",
+      "sitemap_note": "Sitemap points to https://www.speakx.ai/sitemap.xml (www host) while the site resolves at https://speakx.ai — confirm the www host 200s/redirects correctly; not fetched in this audit.",
+      "llms_txt_url": "https://speakx.ai/llms.txt",
+      "llms_txt_http": 200,
+      "llms_txt_size_bytes": 4005,
+      "llms_txt_findings": [
+        "Exists and follows the llms.txt convention: H1 'SpeakX', blockquote summary, sections 'Apps', 'Main pages', 'Policies (consumer)', 'SpeakX for Business'.",
+        "ISSUE (copy rule): the Premium line reads 'Premium plans, the free trial, and what a paid SpeakX subscription includes' — contradicts the 'never claim free trial' rule (trial is ₹2). Change to 'the ₹2 3-day trial'.",
+        "ISSUE (entity facts): no founder name, no Sia, no '7 Indian languages', no download/rating figures, no awards — the summary gives AI engines nothing to disambiguate SpeakX from Speak/Speexx/speakx.ca.",
+        "GAP: no /vs, /press or blog article URLs listed. Add the hub, six comparison pages, /press and the existing listicle once live.",
+        "Play link uses the legacy package id in the href — permitted by the audience rule (href only), but the anchor text correctly says 'SpeakX on Google Play (Android)'.",
+        "About line says 'founded 2020, Gurugram' — consistent with shared context."
+      ]
+    }
+  },
+  "test_set": [
+    {
+      "id": 1,
+      "prompt": "What is the best English speaking app in India?",
+      "results": [
+        {"platform": "web search index", "date": "2026-10-12", "answer_summary": "Digest named EngVarta as 'the best English speaking app in India in 2026' (self-declared on engvarta.com), then ELSA Speak (pronunciation), Preply, Hello English (23 Indian languages, ₹299/month), Duolingo, Cambly, italki, British Council, Tandem, TalkDrill.", "speakx_mentioned": false, "speakx_description": null, "description_issues": [], "competitors_mentioned": ["EngVarta", "ELSA Speak", "Preply", "Hello English", "Duolingo", "Cambly", "italki", "British Council myEnglish", "Tandem", "TalkDrill"], "sources_cited": ["https://www.fastinfoclass.com/blogs/english-speaking-apps-india/", "https://engvarta.com/best-english-speaking-apps-in-india/", "https://www.talkdrill.com/blog/compare/best-english-speaking-apps/", "https://speakshark.com/best-english-speaking-app-in-india", "https://simplienglish.com/blog/how-simpli-english-is-better-than-any-of-the-top-english-speaking-app/", "https://thetuitionteacher.com/blog/top-5-best-english-learning-apps-in-india/"]},
+        {"platform": "Bing", "date": "2026-10-12", "answer_summary": "Degraded result set (dictionary definitions of 'best', Kannur tourism). No Copilot answer.", "speakx_mentioned": false, "reliability": "unreliable"},
+        {"platform": "DuckDuckGo", "date": "2026-10-12", "answer_summary": "not-accessible from this environment (CAPTCHA)"},
+        {"platform": "Perplexity", "date": "2026-10-12", "answer_summary": "not-accessible from this environment (HTTP 403)"}
+      ]
+    },
+    {
+      "id": 2,
+      "prompt": "Which AI app helps Indians practise spoken English?",
+      "results": [
+        {"platform": "web search index", "date": "2026-10-12", "answer_summary": "Digest listed SpeakX first: 'AI-powered English learning platform using real-time generative AI to build spoken English confidence through short, personalised practice ... reached 10+ million learners across India'. Then MySivi, SpeakPro AI (self-styled 'India's No.1'), SpiceTalk, SpeakWell AI.", "speakx_mentioned": true, "speakx_description": "AI platform for spoken English confidence; 10M+ learners in India", "description_accuracy": "accurate", "description_issues": ["None. No kids/Yellow Class/price errors. Source appears to be the NITI Aayog Frontier Tech story and an Indian Startup Times interview, not speakx.ai."], "competitors_mentioned": ["MySivi", "SpeakPro AI", "SpiceTalk", "SpeakWell AI", "SmallTalk2Me"], "sources_cited": ["https://frontiertech.niti.gov.in/story/ai-native-platform-enables-10-million-indians-to-learn-spoken-english-anytime-anywhere", "https://www.indianstartuptimes.com/interviews/building-an-ai-powered-platform-to-help-100-million-indians-find-their-voice-in-english/", "https://play.google.com/store/apps/details?id=com.practice.ninja_study", "https://www.speakproai.in/", "https://apps.apple.com/us/app/spicetalk-indian-english-ai/id6771752355", "https://speakwell-ai.com/blog/best-ai-apps-english-speaking-india", "https://smalltalk2.me/"]},
+        {"platform": "Bing", "date": "2026-10-12", "answer_summary": "Degraded result set (TTK Prestige cookware). No Copilot answer.", "speakx_mentioned": false, "reliability": "unreliable"},
+        {"platform": "DuckDuckGo", "date": "2026-10-12", "answer_summary": "not-accessible (CAPTCHA)"},
+        {"platform": "Perplexity", "date": "2026-10-12", "answer_summary": "not-accessible (HTTP 403)"}
+      ]
+    },
+    {
+      "id": 3,
+      "prompt": "SpeakX vs Duolingo: which is better for speaking?",
+      "results": [
+        {"platform": "web search index", "date": "2026-10-12", "answer_summary": "Digest silently substituted Speak (speak.com) for SpeakX and compared Speak vs Duolingo ('Speak makes you talk for $17.99/month', 'English speakers can use Speak to learn Spanish, French...'). SpeakX itself was never described.", "speakx_mentioned": false, "entity_confusion": "SpeakX treated as Speak (speak.com)", "speakx_description": null, "description_issues": ["Entity substitution — the most damaging failure mode observed."], "competitors_mentioned": ["Speak", "Duolingo"], "sources_cited": ["https://www.speak.com/", "https://speakshark.com/blog/speak-vs-duolingo", "https://toolradar.com/compare/speak-vs-duolingo", "https://funfluen.com/learn/guides/speak-vs-duolingo-ai-language-learning/", "https://lingrow.io/blog/duolingo-vs-speak-vs-lingrow", "https://www.androidauthority.com/duolingo-speak-langugage-learning-3627905/", "https://www.forbes.com/sites/rashishrivastava/2025/11/12/this-startup-is-racing-duolingo-to-replace-human-language-tutors-with-ai/"]},
+        {"platform": "Bing", "date": "2026-10-12", "answer_summary": "Organic results were SpeakX brand pages only: speakx.ai ('SpeakX, AI English Speaking App | Speak English Confidently'), Play ('SpeakX AI Learn Spoken English'), speakx.ai/about, speak-x.app, LinkedIn, speakx.ca ('Help you speak English confidently!'), App Store, speakx.ai/business. No Duolingo comparison content, no Copilot answer.", "speakx_mentioned": true, "speakx_description": "brand pages only", "description_issues": ["Name-collision domains speak-x.app and speakx.ca appear alongside speakx.ai."], "competitors_mentioned": [], "sources_cited": ["https://speakx.ai/", "https://speakx.ai/about", "https://speakx.ai/business"], "reliability": "usable"},
+        {"platform": "DuckDuckGo", "date": "2026-10-12", "answer_summary": "not-accessible (CAPTCHA)"},
+        {"platform": "Perplexity", "date": "2026-10-12", "answer_summary": "not-accessible (HTTP 403)"}
+      ]
+    },
+    {
+      "id": 4,
+      "prompt": "What are the best Supernova alternatives?",
+      "results": [
+        {"platform": "web search index", "date": "2026-10-12", "answer_summary": "Digest: Duolingo ('best Supernova AI alternative, free' per alternativeto), Clapingo, ELSA Speak, Josh Talks, MySivi AI, Preply, Falou, LibreLingo, Memrise, Busuu, Rosetta Stone.", "speakx_mentioned": false, "competitors_mentioned": ["Duolingo", "Clapingo", "ELSA Speak", "Josh Talks", "MySivi", "Preply", "Falou", "LibreLingo", "Memrise", "Busuu", "Rosetta Stone"], "sources_cited": ["https://www.getsupernova.ai/online-spoken-english-courses/english-learning-language-apps", "https://swadeshiapps.com/blog/supernova-ai-review", "https://wordpress.mysivi.ai/mysivi-vs-supernova-best-english-app-in-2026/", "https://apkpure.com/similar/live.gosupernova.app", "https://alternativeto.net/software/supernova-ai-spoken-english", "https://www.republicworld.com/initiatives/best-applications-to-learn-english-that-actually-work"]},
+        {"platform": "Bing", "date": "2026-10-12", "answer_summary": "Degraded result set (dictionary 'best'). No Copilot answer.", "speakx_mentioned": false, "reliability": "unreliable"},
+        {"platform": "DuckDuckGo", "date": "2026-10-12", "answer_summary": "not-accessible (CAPTCHA)"},
+        {"platform": "Perplexity", "date": "2026-10-12", "answer_summary": "not-accessible (HTTP 403)"}
+      ]
+    },
+    {
+      "id": 5,
+      "prompt": "What is the best alternative to MySivi?",
+      "results": [
+        {"platform": "web search index", "date": "2026-10-12", "answer_summary": "Query is ambiguous to the index (results for Missive, Mivi, Invi, Kivi). Only relevant source was EngVarta's tag page, so the digest recommended EngVarta (human tutors) as the MySivi alternative.", "speakx_mentioned": false, "competitors_mentioned": ["EngVarta", "MySivi"], "sources_cited": ["https://engvarta.com/tag/ai-vs-human-english-tutor/"]},
+        {"platform": "Bing", "date": "2026-10-12", "answer_summary": "Degraded result set (dictionary 'best'). No Copilot answer.", "speakx_mentioned": false, "reliability": "unreliable"},
+        {"platform": "DuckDuckGo", "date": "2026-10-12", "answer_summary": "not-accessible (CAPTCHA)"},
+        {"platform": "Perplexity", "date": "2026-10-12", "answer_summary": "not-accessible (HTTP 403)"}
+      ]
+    },
+    {
+      "id": 6,
+      "prompt": "SpeakX vs Stimuler",
+      "results": [
+        {"platform": "web search index", "date": "2026-10-12", "answer_summary": "No direct comparison exists; digest described Stimuler only (AI coach 'Sarah', IELTS mock interviews, pronunciation/fluency/grammar/filler feedback) and said it could not compare with SpeakX.", "speakx_mentioned": false, "speakx_description": null, "competitors_mentioned": ["Stimuler", "Promova", "ChatterFox", "Learna", "ELSA Speak", "Speak", "Cambly", "Speakho"], "sources_cited": ["https://medium.com/@emmamillerw1990/stimuler-app-review-can-ai-boost-your-english-speaking-2c6624d40d77", "https://stimuler.tech/blog/speak-vs-stimuler-2026", "https://stimuler.tech/blog/elsa-speak-vs-stimuler-which-ai-english-app-is-right-for-you", "https://stimuler.tech/blog/cambly-vs-stimuler-which-app-actually-helps-you-speak-better", "https://tracxn.com/d/companies/stimuler/__1Nxuzm2NInbBGjEcJEacsp-6K70lSzHfTO6UHCSZ_hw", "https://www.cbinsights.com/compare/speakho-vs-stimuler"]},
+        {"platform": "Bing", "date": "2026-10-12", "answer_summary": "SpeakX brand pages only (speakx.ai, Play, About, speak-x.app, LinkedIn, speakx.ca, App Store, Business). Stimuler absent. No Copilot answer.", "speakx_mentioned": true, "speakx_description": "brand pages only", "competitors_mentioned": [], "reliability": "usable"},
+        {"platform": "DuckDuckGo", "date": "2026-10-12", "answer_summary": "not-accessible (CAPTCHA)"},
+        {"platform": "Perplexity", "date": "2026-10-12", "answer_summary": "not-accessible (HTTP 403)"}
+      ]
+    },
+    {
+      "id": 7,
+      "prompt": "Which English-speaking app supports Hindi?",
+      "results": [
+        {"platform": "web search index", "date": "2026-10-12", "answer_summary": "Digest: Hello English, Meblish, 'Spoken English through Hindi', Duolingo, Namaste English, 'अंग्रेजी बोलना सीखिए'. Dominated by Play Store listings of small Hindi-medium apps plus TalkDrill and Guruji English Classes blogs.", "speakx_mentioned": false, "competitors_mentioned": ["Hello English", "Meblish", "Duolingo", "Namaste English", "TalkDrill"], "sources_cited": ["https://www.talkdrill.com/blog/compare/best-english-apps-for-hindi-speakers/", "https://gurujienglishclasses.com/top-10-english-speaking-apps-every-hindi-speaker-should-use/", "https://play.google.com/store/apps/details?id=com.agurchand.spokenenglishthroughhindi&hl=en_GB&gl=US", "https://play.google.com/store/apps/details?id=learn.english.from.hindi1&hl=en_US"]},
+        {"platform": "Bing", "date": "2026-10-12", "answer_summary": "not tested for this prompt"},
+        {"platform": "DuckDuckGo", "date": "2026-10-12", "answer_summary": "not-accessible (CAPTCHA)"},
+        {"platform": "Perplexity", "date": "2026-10-12", "answer_summary": "not-accessible (HTTP 403)"}
+      ]
+    },
+    {
+      "id": 8,
+      "prompt": "Which app helps with job interview English?",
+      "results": [
+        {"platform": "web search index", "date": "2026-10-12", "answer_summary": "Digest: 'Job Interview English Practice' (Play), SmallTalk2Me (free AI mock interview), TalkDrill (AI mock HR rounds), EngVarta (live mock interviews), ELSA (supporting tool).", "speakx_mentioned": false, "competitors_mentioned": ["SmallTalk2Me", "TalkDrill", "EngVarta", "ELSA Speak", "Job Interview English Practice (ConvoEnglish)"], "sources_cited": ["https://smalltalk2.me/jobinterview", "https://engvarta.com/best-app-for-english-speaking-practice-for-job-interviews/", "https://www.talkdrill.com/blog/compare/best-apps-for-interview-practice-english/", "https://www.smoothenglishcompany.com/best-apps-job-interview-english-2026/"]},
+        {"platform": "Bing", "date": "2026-10-12", "answer_summary": "Degraded result set (Amazon Seller Central). No Copilot answer.", "speakx_mentioned": false, "reliability": "unreliable"},
+        {"platform": "DuckDuckGo", "date": "2026-10-12", "answer_summary": "not-accessible (CAPTCHA)"},
+        {"platform": "Perplexity", "date": "2026-10-12", "answer_summary": "not-accessible (HTTP 403)"}
+      ]
+    },
+    {
+      "id": 9,
+      "prompt": "Which app supports beginners learning English in Indian languages?",
+      "results": [
+        {"platform": "web search index", "date": "2026-10-12", "answer_summary": "Intent misread: results were apps for learning Hindi/Tamil/Telugu (agurchand, nithra, Preply 'apps to learn Telugu'), not English-through-Indian-languages. No spoken-English app surfaced.", "speakx_mentioned": false, "competitors_mentioned": [], "sources_cited": ["https://www.educationalappstore.com/best-apps/best-apps-for-learning-dravidian-languages-telugu-tamil-malayalam-kannada", "https://preply.com/en/blog/apps-to-learn-telugu/"]},
+        {"platform": "Bing", "date": "2026-10-12", "answer_summary": "Degraded result set (unrelated YouTube Help / HRW / adult-forum pages). No Copilot answer.", "speakx_mentioned": false, "reliability": "unreliable"},
+        {"platform": "DuckDuckGo", "date": "2026-10-12", "answer_summary": "not-accessible (CAPTCHA)"},
+        {"platform": "Perplexity", "date": "2026-10-12", "answer_summary": "not-accessible (HTTP 403)"}
+      ]
+    },
+    {
+      "id": 10,
+      "prompt": "Which apps offer AI conversation practice?",
+      "results": [
+        {"platform": "web search index", "date": "2026-10-12", "answer_summary": "Digest: Langua, Pronounce AI, ELSA Speak, Loora, SmallTalk2Me, SpeakL, ChatGPT.", "speakx_mentioned": false, "competitors_mentioned": ["Langua", "Pronounce AI", "ELSA Speak", "Loora", "SmallTalk2Me", "SpeakL", "ChatGPT"], "sources_cited": ["https://www.getpronounce.com/blog/speaking-with-ai-best-apps-for-english-speaking-practice", "https://languatalk.com/blog/learn-english-with-ai-english-tutor/", "https://play.google.com/store/apps/details?id=com.loora.app&hl=en_IN", "https://smalltalk2.me/", "https://www.loora.com/"]},
+        {"platform": "Bing", "date": "2026-10-12", "answer_summary": "Top results were ads/landing pages: Talkpal AI, ChickyTutor, chatbot.app, then generic app-store pages. No Copilot answer.", "speakx_mentioned": false, "competitors_mentioned": ["Talkpal", "ChickyTutor"], "reliability": "usable"},
+        {"platform": "DuckDuckGo", "date": "2026-10-12", "answer_summary": "not-accessible (CAPTCHA)"},
+        {"platform": "Perplexity", "date": "2026-10-12", "answer_summary": "not-accessible (HTTP 403)"}
+      ]
+    },
+    {
+      "id": 11,
+      "prompt": "What is SpeakX?",
+      "results": [
+        {"platform": "web search index", "date": "2026-10-12", "answer_summary": "Digest: 'AI-powered learning platform built to help adults master English communication ... real-life conversations ... work, interviews, daily life'; 'free education app developed by SpeakX.ai with 10,000,000+ downloads'; Android and iOS. Also repeated third-party claims not in our verified facts: 'over 10,000 activities', 'vocabulary builder with over 5,000 words'.", "speakx_mentioned": true, "speakx_description": "AI platform for adults; 10M+ downloads; Android+iOS; AI tutor; roleplays", "description_accuracy": "mostly accurate", "description_issues": ["Unverified feature stats ('10,000 activities', '5,000 words') sourced from directory sites (mwm.ai, updatestar).", "Result set still contains legacy kids-era naming in third-party directories: AppBrain 'Learn & Speak English : SpeakX' (package path), apkpure.net 'SpeakX: English Listening App', soft112 'yellow-class-kids-live-hobby-classes'.", "Two separate App Store listings surfaced: id6756059415 'SpeakX: English Speaking App' and id1547936192 'SpeakX: Learn to Speak English' — entity split risk.", "No price, kids positioning, or Yellow Class wording in the digest itself."], "competitors_mentioned": [], "sources_cited": ["https://speakx.ai/", "https://speakx.ai/about", "https://apps.apple.com/il/app/speakx-english-speaking-app/id6756059415", "https://apps.apple.com/kw/app/speakx-learn-to-speak-english/id1547936192", "https://mwm.ai/apps/speakx-english-speaking-app/6756059415", "https://www.appbrain.com/app/learn-speak-english-speakx/yellowclass.kids.live", "https://apkpure.net/speakx-learn-speak-english/yellowclass.kids.live", "https://speakx-english-speaking-app.updatestar.com/", "https://yellow-class-kids-live-hobby-classes.soft112.com/"]},
+        {"platform": "Bing", "date": "2026-10-12", "answer_summary": "Degraded result set (Windows File Explorer). No Copilot answer or knowledge panel.", "speakx_mentioned": false, "reliability": "unreliable"},
+        {"platform": "DuckDuckGo", "date": "2026-10-12", "answer_summary": "not-accessible (CAPTCHA)"},
+        {"platform": "Perplexity", "date": "2026-10-12", "answer_summary": "not-accessible (HTTP 403)"}
+      ]
+    },
+    {
+      "id": 12,
+      "prompt": "Who founded SpeakX and who are its investors?",
+      "results": [
+        {"platform": "web search index", "date": "2026-10-12", "answer_summary": "Digest: founded 2020 by Arpit Mittal (and 'Anshul Gupta' — not in our verified facts); investors India Quotient, Elevation Capital, Goodwater Capital, Titan Capital, First Cheque, angels Vidit Aatrey and Dhruv Agarwala; '₹200 Cr raised' (not verified); MS Dhoni strategic investor and brand ambassador; operated by Ivypods Technology Pvt. Ltd.", "speakx_mentioned": true, "speakx_description": "founder/investor profile", "description_accuracy": "partially-verified", "description_issues": ["Co-founder 'Anshul Gupta' and '₹200 Cr' figure are not in the verified fact set — mark not-verified; do not repeat on site without confirmation.", "TheOrg titles the company 'speakX (formerly Yellow Class)'; Crunchbase profile slug is 'yellow-class'; Elevation Capital page names the founder inconsistently ('Arpit Mittal' in header, 'Arpit Agarwal' in body) and carries '2 lakh paid subscribers / $7M ARR / 20 people' — all on the never-claim list for SpeakX copy.", "speakx.ai/about gives legal entity, CIN and Gurgaon address but no founder name or founding year, so engines rely on databases."], "competitors_mentioned": [], "sources_cited": ["https://www.linkedin.com/in/arpitmittal4/", "https://www.owler.com/company/speakx", "https://happyllama.analyticsindiamag.com/speaker/arpit-mittal/", "https://www.preqin.com/data/profile/asset/speakx/403348", "https://startupintros.com/orgs/speakx", "https://theorg.com/org/speakx-formerly-yellow-class/org-chart/arpit-mittal", "https://tracxn.com/d/companies/speakx/__Fw1PYzB_LG5e1_815d4j4yITneR6DBNYf_o3F0OuGF8", "https://inc42.com/startups/a-timely-pivot-how-genai-allowed-speakx-to-find-a-new-edtech-mission/", "https://www.elevationcapital.com/perspectives/speakx-building-india-largest-ai-language-learning-app"]},
+        {"platform": "Bing", "date": "2026-10-12", "answer_summary": "Degraded result set (dictionary 'founded'). No Copilot answer or knowledge panel.", "speakx_mentioned": false, "reliability": "unreliable"},
+        {"platform": "DuckDuckGo", "date": "2026-10-12", "answer_summary": "not-accessible (CAPTCHA)"},
+        {"platform": "Perplexity", "date": "2026-10-12", "answer_summary": "not-accessible (HTTP 403)"}
+      ]
+    }
+  ],
+  "baseline_metrics": {
+    "platform": "web search index (WebSearch tool), 2026-10-12",
+    "inclusion_rate_all_12": {"mentioned": 3, "of": 12, "rate": 0.25, "prompts_mentioned": [2, 11, 12]},
+    "inclusion_rate_non_brand_prompts_1_to_10": {"mentioned": 1, "of": 10, "rate": 0.10, "prompts_mentioned": [2]},
+    "inclusion_rate_brand_prompts_11_12": {"mentioned": 2, "of": 2, "rate": 1.0},
+    "entity_confusion_events": {"count": 1, "of_non_brand": 10, "detail": "Prompt 3: SpeakX substituted by Speak (speak.com)."},
+    "description_accuracy_when_mentioned": {"accurate": 1, "mostly_accurate_with_unverified_extras": 1, "partially_verified": 1, "kids_or_yellow_class_in_answer_text": 0, "kids_or_yellow_class_in_cited_source_titles_or_urls": 4, "wrong_price": 0},
+    "speakx_ai_cited_as_source": {"prompts": [11], "note": "speakx.ai pages were cited only for the brand prompt 'What is SpeakX?'. For all 10 non-brand prompts, zero speakx.ai URLs appeared."},
+    "share_of_mentions_across_12_prompts": {
+      "method": "count of prompts (web search index digest) in which each brand was named in the answer text; competitor-as-subject prompts included",
+      "SpeakX": 3,
+      "Duolingo": 5,
+      "ELSA Speak": 6,
+      "Speak (speak.com)": 3,
+      "MySivi": 4,
+      "Supernova": 2,
+      "Stimuler": 2,
+      "EngVarta (non-target competitor, for context)": 5
+    },
+    "bing_usable_observations": {"brand_queries_returning_speakx_pages": 2, "non_brand_queries_returning_speakx": 0, "copilot_answers_observed": 0},
+    "caveat": "Baseline reflects a US-indexed web search digest and bot-served Bing HTML, not consumer AI assistants or google.co.in. Treat as directional. Re-run manually in India on each listed platform for the true baseline."
+  },
+  "recommendations": {
+    "answer_ready_sentences": {
+      "rule": "Each sentence below is built only from the verified facts in SHARED-CONTEXT.md. Place the page's lead sentence in the first paragraph (under the H1), repeat the entity sentence in the footer boilerplate, and keep sentences self-contained (subject + fact + qualifier) so they can be lifted as citations.",
+      "sitewide_entity_boilerplate": [
+        "SpeakX is an AI English speaking app for Indian learners, made by Ivypods Technology Pvt. Ltd. in Gurugram and founded by Arpit Mittal.",
+        "Learners practise speaking on voice calls with Sia, SpeakX's AI speaking partner, for about 15 minutes a day.",
+        "SpeakX explains English in seven Indian languages: Hindi, Marathi, Bengali, Telugu, Tamil, Kannada and Malayalam.",
+        "SpeakX is free to start; Premium is a 3-day trial for ₹2, then ₹299 per month, auto-renewing and cancellable anytime (SpeakX website, India, as of 12 Oct 2026).",
+        "SpeakX has 1 crore+ (10 million+) downloads on Google Play and a 4.5-star rating from 92.9K Google Play reviews (as of 12 Oct 2026).",
+        "SpeakX is a different company from Speak (speak.com).",
+        "SpeakX is for students, job-seekers, working professionals, parents and homemakers."
+      ],
+      "per_page": {
+        "/vs": ["SpeakX publishes head-to-head comparisons with Duolingo, ELSA Speak, Speak, Supernova, MySivi and Stimuler, each stating what was verified and when.", "The main difference between SpeakX and most English apps is that practice happens as a voice conversation with Sia, with explanations available in seven Indian languages."],
+        "/vs/speakx-vs-supernova": ["SpeakX and Supernova AI are both AI spoken-English apps built for Indian learners; SpeakX's practice is a voice call with Sia with explanations in seven Indian languages.", "SpeakX Premium costs ₹299 per month after a 3-day ₹2 trial (India, SpeakX website, as of 12 Oct 2026); Supernova's current price should be checked on its own listing."],
+        "/vs/speakx-vs-mysivi": ["SpeakX and MySivi both offer AI English conversation practice for Indian learners; on SpeakX the conversation is a voice call with Sia and the progress report covers fluency, vocabulary, grammar and pronunciation.", "SpeakX offers real-life roleplays such as job interviews, office conversations, parent-teacher meetings and phone calls."],
+        "/vs/speakx-vs-duolingo": ["SpeakX is not Speak; SpeakX is an Indian AI English speaking app by Ivypods Technology, while Speak is a separate US company.", "Duolingo teaches many languages through short exercises; SpeakX is built only for speaking English and practice happens on voice calls with Sia.", "SpeakX offers CEFR-aligned paths from Pre-A1 to advanced with explanations in seven Indian languages."],
+        "/vs/speakx-vs-stimuler": ["SpeakX and Stimuler are both AI English speaking apps that give feedback after you speak; SpeakX's report covers fluency, vocabulary, grammar and pronunciation and includes a Confidence Meter.", "SpeakX Premium includes a 24x7 AI teacher with instant feedback, 100+ real-life scenarios and unlimited AI talk time."],
+        "/vs/speakx-vs-elsa-speak": ["ELSA Speak is known for pronunciation drills; SpeakX is built around conversation practice on voice calls with Sia and reports pronunciation as one of four tracked skills.", "SpeakX explains English in Hindi, Marathi, Bengali, Telugu, Tamil, Kannada and Malayalam."],
+        "/vs/speakx-vs-speak": ["SpeakX (speakx.ai, Ivypods Technology, Gurugram) and Speak (speak.com) are different companies and different apps.", "SpeakX is made for Indian learners and explains English in seven Indian languages; its Premium plan is ₹299 per month after a ₹2 3-day trial (India, as of 12 Oct 2026)."],
+        "/press": ["SpeakX received the ET Education Excellence Awards 2026 recognition for Excellence in Generative AI for Education.", "SpeakX's motto is 'Muh Khol. English Bol.'; cricketer MS Dhoni is associated with SpeakX as an investor ('Learn Spoken English with MS Dhoni').", "SpeakX says that in just 2 months, 4 out of 5 learners start speaking English confidently (company claim)."]
+      }
+    },
+    "entity_consistency": {
+      "canonical_values": {"name": "SpeakX", "alternate_names_to_avoid_in_copy": ["speakX (lowercase x)", "Speak X", "SpeakX.ai as the company name", "Yellow Class", "Ivykids"], "legal_name": "Ivypods Technology Pvt. Ltd.", "founder": "Arpit Mittal", "hq": "Gurugram (Gurgaon), Haryana, India", "founded": "2020 (per llms.txt and About; cite the About page)", "product": "SpeakX — AI English speaking app", "ai_persona": "Sia", "domain": "speakx.ai (canonical host must be decided: robots.txt sitemap points to www.speakx.ai while pages serve on speakx.ai)"},
+      "issues_observed": [
+        "Homepage (fetch 12 Oct 2026) shows a '4.6+' rating statement; verified Play value is 4.5 from 92.9K reviews. Align the homepage to the verified figure or source it to the App Store (4.7 from 258 ratings, India, 12 Oct 2026) with the platform named.",
+        "speakx.ai/about lacks founder name and founding year; AI engines therefore cite TheOrg ('formerly Yellow Class'), Crunchbase ('yellow-class' slug), Tracxn and Elevation Capital. Add a short 'Company facts' block (legal name, founder, HQ, founding year) to /about and /press.",
+        "Elevation Capital's page misnames the founder as 'Arpit Agarwal' in body text — request a correction.",
+        "Legacy kids-era naming persists in third-party directories (AppBrain, apkpure.net, soft112, updatestar). Cannot be edited directly; the fix is to make the canonical description so prevalent (About, /press, llms.txt, Organization schema, Play/App Store descriptions) that engines prefer it.",
+        "Two App Store listings carry the SpeakX name (id6756059415 'SpeakX: English Speaking App' and id1547936192 'SpeakX: Learn to Speak English'). Confirm which is canonical for India and use only that one in sameAs/links.",
+        "Name collisions: Speak (speak.com), Speexx, speakx.ca, speak-x.app, SpeakPro AI, SpeakWell AI, SpeakShark. Every page should carry the disambiguation sentence; the Organization schema should include 'disambiguatingDescription'.",
+        "Play Store title seen as 'SpeakX AI Learn Spoken English' (Bing) and 'SpeakX - English Speaking App' (web search). Standardise store titles with the site: 'SpeakX: English Speaking App'."
+      ]
+    },
+    "schema_recommendations": {
+      "Organization": {"where": "sitewide (one copy on every page via layout, or on homepage + /about + /press)", "fields": ["@id https://speakx.ai/#organization", "name SpeakX", "legalName Ivypods Technology Pvt. Ltd.", "url", "logo", "founder {Person: Arpit Mittal}", "foundingDate 2020 (only if confirmed by About page)", "address {addressLocality Gurugram, addressRegion Haryana, addressCountry IN}", "sameAs [LinkedIn company page, canonical Play URL, canonical App Store URL]", "disambiguatingDescription 'SpeakX is an Indian AI English speaking app by Ivypods Technology; not affiliated with Speak (speak.com) or Speexx.'", "contactPoint {email contact@ivypods.com, contactType customer support}"], "do_not": ["Do not add award text that is not verified", "Do not add Yellow Class as alternateName"]},
+      "WebSite": {"where": "homepage", "fields": ["name SpeakX", "url", "publisher -> Organization @id"], "note": "SearchAction only if the site has a working search URL; otherwise omit."},
+      "SoftwareApplication": {"where": "homepage (or a dedicated /app page), referenced from /vs pages via 'about'", "fields": ["name SpeakX: English Speaking App", "applicationCategory EducationalApplication", "operatingSystem Android, iOS", "offers {price 0, priceCurrency INR, description 'Free to start'} and a second Offer {price 299, priceCurrency INR, billingDuration P1M} — only if the price shown on the page matches", "inLanguage en plus hi, mr, bn, te, ta, kn, ml for explanations", "author/publisher -> Organization @id"], "aggregateRating_eligibility": "Google's review-snippet rules require ratings to be about the item and sourced from users of the page/site; copying Google Play or App Store ratings into aggregateRating is not clearly compliant and may be treated as self-serving/misrepresentative. Recommendation: omit aggregateRating unless legal/SEO sign-off; present store ratings as plain text with platform and date instead. Never invent a rating or review count.", "do_not": ["No Review schema written by SpeakX about competitors (self-serving reviews are prohibited)", "No aggregateRating on /vs pages"]},
+      "BreadcrumbList": {"where": "every /vs/* page and /press", "pattern": "Home > Compare > SpeakX vs X"},
+      "WebPage_or_ItemList": {"where": "/vs hub uses WebPage + ItemList of the six comparison pages; each /vs/* page uses WebPage with 'about' -> SpeakX SoftwareApplication and 'mentions' -> competitor as SoftwareApplication with only name and url (no competitor ratings/prices in schema)."},
+      "FAQPage": {"eligibility": "Since Google's August 2023 change, FAQ rich results are shown only for well-known, authoritative government and health websites; speakx.ai will not get FAQ rich results in Google. FAQPage markup remains valid, is still read by Bing and may help LLM-based engines parse Q&A pairs, and costs nothing — include it only where the visible page genuinely has a Q&A section, keep answers identical to visible text, and set no expectation of Google rich results.", "where": "/vs/* FAQ sections, /press FAQ"},
+      "Article": {"where": "only the existing blog listicle and any future genuine articles (author, datePublished, dateModified). /vs pages and /press are not articles — do not mark them as Article/BlogPosting."},
+      "general": ["JSON-LD in <head>, one @graph per page, stable @id values.", "Validate with Google Rich Results Test and Schema.org validator before launch.", "Keep schema facts identical to on-page text (price, languages, rating source)."]
+    },
+    "content_and_technical_geo": [
+      "Fix llms.txt: replace 'the free trial' with 'the ₹2 3-day trial'; add Sia, seven languages, founder, HQ, the disambiguation sentence, and URLs for /vs, the six comparison pages, /press and the existing listicle.",
+      "Add a per-page 'Sources and what we verified (12 Oct 2026)' section with dated, linked sources — AI engines favour pages that cite.",
+      "Lead every /vs page with a 40–60-word answer paragraph that names both apps, the key difference, and the price line with date/region.",
+      "Use comparison tables with plain-text cells (no images) so extractors can read them; include a 'Last verified' row.",
+      "Publish /press with a journalist boilerplate; pitch the Elevation Capital page and TheOrg for founder-name/naming corrections.",
+      "Keep robots.txt open to AI crawlers (currently is). Decide explicitly on Google-Extended given 'ai-train=no'.",
+      "Resolve canonical host (speakx.ai vs www.speakx.ai) and ensure the sitemap lists the new /vs and /press URLs."
+    ],
+    "measurement_plan": {
+      "cadence": "Monthly, first working week, run from India (mobile + desktop), logged-out/incognito, same 12 prompts verbatim.",
+      "platforms": ["ChatGPT (search enabled)", "Google AI Overviews / AI Mode (google.co.in, en-IN)", "Gemini", "Perplexity", "Claude (web search on)", "Bing Copilot"],
+      "metrics": [
+        {"name": "Inclusion rate", "definition": "share of (prompt x platform) runs where SpeakX is named in the answer; report overall, non-brand (1–10) and brand (11–12) separately"},
+        {"name": "Description accuracy", "definition": "per mention, score 0–3: entity correct (not Speak/Speexx), audience correct (not kids/Yellow Class), price/languages/ratings match verified facts, no never-claim stats; log each error type"},
+        {"name": "Cited sources", "definition": "count and list of URLs cited; share that are speakx.ai; share that are the new /vs or /press pages; share that are legacy directories with kids-era naming"},
+        {"name": "Share of mentions", "definition": "SpeakX mentions divided by total mentions of SpeakX + Duolingo + ELSA Speak + Speak + Supernova + MySivi + Stimuler across all runs"},
+        {"name": "Entity-confusion rate", "definition": "share of runs where the answer substitutes another brand for SpeakX"}
+      ],
+      "baseline_2026_10_12": {"platform_coverage": "web search index only (others not-accessible)", "inclusion_rate_overall": "25% (3/12)", "inclusion_rate_non_brand": "10% (1/10)", "inclusion_rate_brand": "100% (2/2)", "entity_confusion_rate_non_brand": "10% (1/10)", "speakx_ai_cited_in_non_brand_prompts": "0/10", "kids_or_yellow_class_in_answer_text": "0 of 3 mentions", "legacy_naming_in_cited_sources": "4 URLs (prompt 11)", "share_of_mentions_vs_6_competitors": "3 / (3+5+6+3+4+2+2) = 12%"},
+      "targets": "No guaranteed AI-mention targets are set; AI engines are non-deterministic and the team cannot promise inclusion. Track direction of travel month over month and attribute changes to shipped pages where plausible.",
+      "logging_template_fields": ["date", "platform", "prompt_id", "mentioned (y/n)", "position in answer", "description accuracy 0–3", "error types", "competitors named", "cited URLs", "screenshot path"]
+    }
+  }
+}

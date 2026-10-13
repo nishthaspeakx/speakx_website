@@ -59,6 +59,9 @@ export const founder = {
   ],
   interviews: [
     { label: "Elevation Capital: SpeakX, building India's largest AI language learning app (founder conversation)", href: "https://www.elevationcapital.com/perspectives/speakx-building-india-largest-ai-language-learning-app" },
+    { label: "Elevation Capital 'Day One' on YouTube: Arpit Mittal on building SpeakX (video, Oct 2025)", href: "https://www.youtube.com/watch?v=vWqAY-dn-w0" },
+    { label: "Inc42 AI Summit 2026, Bengaluru: panel speaker on consumer AI (May 2026)", href: "https://events.inc42.com/ai-summit/" },
+    { label: "afaqs!: MS Dhoni joins SpeakX as brand ambassador (Sep 2026)", href: "https://www.afaqs.com/news/mktg/ms-dhoni-joins-speakx-as-brand-ambassador-12495076" },
     { label: "Inc42: A timely pivot, how GenAI allowed SpeakX to find a new edtech mission", href: "https://inc42.com/startups/a-timely-pivot-how-genai-allowed-speakx-to-find-a-new-edtech-mission/" },
     { label: "StartupTalky: Arpit Mittal on how SpeakX is cracking India's English-speaking puzzle", href: "https://startuptalky.com/arpit-mittal-speakx-shares-insights/" },
     { label: "Indian Startup Times: Building an AI-powered platform to help 100 million Indians find their voice", href: "https://www.indianstartuptimes.com/interviews/building-an-ai-powered-platform-to-help-100-million-indians-find-their-voice-in-english/" },

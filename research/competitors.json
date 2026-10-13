@@ -1,0 +1,1823 @@
+{
+  "checked": "2026-10-12",
+  "products": {
+    "speakx": {
+      "slug": "speakx",
+      "official_name": "SpeakX (Play: 'SpeakX AI Learn Spoken English'; App Store: 'SpeakX: English Speaking App')",
+      "company": "Ivypods Technology Private Limited",
+      "hq_country": "India (Gurugram)",
+      "official_website": "https://speakx.ai/",
+      "play_url": "https://play.google.com/store/apps/details?id=yellowclass.kids.live",
+      "app_store_url": "https://apps.apple.com/in/app/speakx-english-speaking-app/id6756059415",
+      "play_listing": {
+        "rating": "4.5 (4.534 raw)",
+        "review_count": "92,923",
+        "downloads_tier": "1Cr+ (10M+)",
+        "in_app_purchases": "₹99.00 – ₹300.00 per item",
+        "updated_on": "12 Oct 2026",
+        "developer_shown": "SpeakX.ai",
+        "checked": "2026-10-12",
+        "source": "https://play.google.com/store/apps/details?id=yellowclass.kids.live&hl=en_IN"
+      },
+      "app_store_listing": {
+        "rating": "4.7",
+        "review_count": "258 ratings (India storefront)",
+        "iap_examples": [
+          "SpeakX Premium Monthly ₹299",
+          "SpeakX Premium Monthly ₹99"
+        ],
+        "developer_shown": "Ivypods Technology Private Limited",
+        "checked": "2026-10-12",
+        "source": "https://apps.apple.com/in/app/speakx-english-speaking-app/id6756059415"
+      },
+      "founded_year": "Ivypods Technology copyright 2020 on App Store listing; SpeakX brand launch year not stated on official pages (third-party press says 2024) - partially-verified",
+      "one_line_official_description": "Paraphrase: AI English speaking practice app; 'Aapka English Speaking Partner' (speakx.ai).",
+      "teaching_method": "Conversational practice: learners talk daily (~15 min) with Sia, the AI speaking partner, in real-life roleplays; explanations start in the learner's Indian language and gradually shift to English; CEFR-mapped paths Pre-A1 to advanced; progress report on fluency, vocabulary, grammar, pronunciation.",
+      "dimensions": {
+        "primary_learning_objective": {
+          "value": "Spoken English confidence for Indian learners (job interviews, office, higher studies, travel, family/social).",
+          "evidence": "Play listing lists use cases: Job Interviews, Office & Promotions, Higher Studies, Travel, Everyday Conversations, Family & Social Life.",
+          "source": "https://play.google.com/store/apps/details?id=yellowclass.kids.live&hl=en_IN"
+        },
+        "target_learner": {
+          "value": "Indian young adults and adults: students, job-seekers, working professionals, parents, homemakers (never positioned as a kids' app).",
+          "evidence": "Homepage use cases (Job Interview, Higher Studies, Travel Abroad, Promotion, Family) and shared-context audience rule.",
+          "source": "https://speakx.ai/"
+        },
+        "suitability_for_indian_learners": {
+          "value": "yes",
+          "evidence": "Built for India: explanations in 7 Indian languages, INR pricing, Indian scenarios (parent-teacher meetings, interviews), MS Dhoni association.",
+          "source": "https://play.google.com/store/apps/details?id=yellowclass.kids.live&hl=en_IN"
+        },
+        "support_for_absolute_beginners": {
+          "value": "yes",
+          "evidence": "Play: 'You don't need perfect English to start'; CEFR paths begin at Pre-A1 (shared context); teaching begins in the learner's own language.",
+          "source": "https://play.google.com/store/apps/details?id=yellowclass.kids.live&hl=en_IN"
+        },
+        "support_for_indian_languages": {
+          "value": "yes",
+          "evidence": "Hindi, Tamil, Telugu, Kannada, Malayalam, Marathi, Bengali listed as supported learning languages on Play and App Store.",
+          "source": "https://play.google.com/store/apps/details?id=yellowclass.kids.live&hl=en_IN"
+        },
+        "hindi_guidance": {
+          "value": "yes",
+          "evidence": "Hindi is first in the supported-language list; homepage: 'teaches in your language and slowly moves the conversation across'.",
+          "source": "https://speakx.ai/"
+        },
+        "tamil_telugu_regional_support": {
+          "value": "yes",
+          "evidence": "Tamil, Telugu, Kannada, Malayalam, Marathi, Bengali explicitly listed.",
+          "source": "https://play.google.com/store/apps/details?id=yellowclass.kids.live&hl=en_IN"
+        },
+        "ai_conversation_practice": {
+          "value": "yes",
+          "evidence": "'Meet Sia, your AI English practice partner... Practise real-life conversations'; Premium: 'Unlimited talktime with AI 24x7'.",
+          "source": "https://speakx.ai/premium"
+        },
+        "structured_course_progression": {
+          "value": "yes",
+          "evidence": "CEFR paths Pre-A1 to advanced (shared context, verified by content team); 'Build confidence step by step' (Play).",
+          "source": "https://play.google.com/store/apps/details?id=yellowclass.kids.live&hl=en_IN"
+        },
+        "personalised_learning_plans": {
+          "value": "partial",
+          "evidence": "Progress report tells learners 'what to work on next'; a '24x7 AI Teacher that gives instant feedback' (Premium). An explicit personalised plan generator is not described on official pages.",
+          "source": "https://speakx.ai/premium"
+        },
+        "initial_proficiency_assessment": {
+          "value": "partial",
+          "evidence": "CEFR-mapped levels from Pre-A1 imply level placement, but a formal placement test is not described on the website or store listings.",
+          "source": "https://speakx.ai/"
+        },
+        "speaking_practice": {
+          "value": "yes",
+          "evidence": "Core product: 'Speak English every day' with Sia on voice calls; 'Practise speaking English out loud, about fifteen minutes a day'.",
+          "source": "https://speakx.ai/"
+        },
+        "real_life_roleplays": {
+          "value": "yes",
+          "evidence": "'100+ Real life speaking scenario practice' (Premium page); interviews, office, parent-teacher meetings, phone calls (shared context).",
+          "source": "https://speakx.ai/premium"
+        },
+        "job_interview_english": {
+          "value": "yes",
+          "evidence": "Play: 'Job Interviews - Speak with confidence in your next interview.'",
+          "source": "https://play.google.com/store/apps/details?id=yellowclass.kids.live&hl=en_IN"
+        },
+        "workplace_english": {
+          "value": "yes",
+          "evidence": "Play: 'Office & Promotions - Communicate better at work and prepare for your next opportunity.'",
+          "source": "https://play.google.com/store/apps/details?id=yellowclass.kids.live&hl=en_IN"
+        },
+        "everyday_english": {
+          "value": "yes",
+          "evidence": "Play: 'Everyday Conversations - Speak more easily with people around you.'",
+          "source": "https://play.google.com/store/apps/details?id=yellowclass.kids.live&hl=en_IN"
+        },
+        "family_social_conversations": {
+          "value": "yes",
+          "evidence": "Play: 'Family & Social Life - Communicate better and feel more confident in everyday situations.'",
+          "source": "https://play.google.com/store/apps/details?id=yellowclass.kids.live&hl=en_IN"
+        },
+        "education_student_use_cases": {
+          "value": "yes",
+          "evidence": "Play: 'Higher Studies - Improve your English for college, courses and studying abroad.'",
+          "source": "https://play.google.com/store/apps/details?id=yellowclass.kids.live&hl=en_IN"
+        },
+        "travel_english": {
+          "value": "yes",
+          "evidence": "Play: 'Travel - Feel more confident speaking English while travelling.'",
+          "source": "https://play.google.com/store/apps/details?id=yellowclass.kids.live&hl=en_IN"
+        },
+        "pronunciation_practice": {
+          "value": "yes",
+          "evidence": "Progress Report tracks Pronunciation; Play: 'Improve your speaking'.",
+          "source": "https://play.google.com/store/apps/details?id=yellowclass.kids.live&hl=en_IN"
+        },
+        "grammar_guidance": {
+          "value": "yes",
+          "evidence": "Progress Report tracks Grammar; AI teacher gives instant feedback.",
+          "source": "https://play.google.com/store/apps/details?id=yellowclass.kids.live&hl=en_IN"
+        },
+        "vocabulary_development": {
+          "value": "yes",
+          "evidence": "Progress Report tracks Vocabulary.",
+          "source": "https://play.google.com/store/apps/details?id=yellowclass.kids.live&hl=en_IN"
+        },
+        "ai_feedback": {
+          "value": "yes",
+          "evidence": "Premium: '24x7 AI Teacher that gives instant feedback'; 'Learn from your mistakes'.",
+          "source": "https://speakx.ai/premium"
+        },
+        "progress_tracking": {
+          "value": "yes",
+          "evidence": "'Know how you are improving with your Progress Report' - Speaking, Fluency, Vocabulary, Grammar, Pronunciation, Practice.",
+          "source": "https://play.google.com/store/apps/details?id=yellowclass.kids.live&hl=en_IN"
+        },
+        "gamification": {
+          "value": "yes",
+          "evidence": "Confidence Meter and city leaderboards (shared context, content-team verified); MS Dhoni motivation messaging (Play).",
+          "source": "https://play.google.com/store/apps/details?id=yellowclass.kids.live&hl=en_IN"
+        },
+        "free_tier": {
+          "value": "yes",
+          "evidence": "Free to download and start ('Get started' via Play/App Store); Premium unlocks unlimited AI talk time, 100+ scenarios. Do not call the ₹2 trial a 'free trial'.",
+          "source": "https://speakx.ai/premium"
+        },
+        "subscription_pricing": {
+          "value": "yes",
+          "evidence": "Premium: 3-day trial for ₹2, then ₹299/month, auto-renews, cancel anytime (speakx.ai/premium, India, web, as of 2026-10-12). App Store IN IAP shows 'SpeakX Premium Monthly ₹299' and a ₹99 SKU; Play IAP range ₹99–₹300.",
+          "source": "https://speakx.ai/premium"
+        },
+        "android": {
+          "value": "yes",
+          "evidence": "Google Play listing live, updated 12 Oct 2026.",
+          "source": "https://play.google.com/store/apps/details?id=yellowclass.kids.live&hl=en_IN"
+        },
+        "ios": {
+          "value": "yes",
+          "evidence": "App Store (India) listing 'SpeakX: English Speaking App', iPhone and iPad.",
+          "source": "https://apps.apple.com/in/app/speakx-english-speaking-app/id6756059415"
+        },
+        "web": {
+          "value": "no",
+          "evidence": "No web learning app is offered on speakx.ai; all CTAs go to Play/App Store.",
+          "source": "https://speakx.ai/"
+        },
+        "human_tutor_or_ai_only": {
+          "value": "AI only",
+          "evidence": "Sia is an AI speaking partner; Premium is a '24x7 AI Teacher'. No human tutoring offered on official pages.",
+          "source": "https://speakx.ai/premium"
+        },
+        "languages_taught": {
+          "value": "English only",
+          "evidence": "All listings describe English speaking only.",
+          "source": "https://play.google.com/store/apps/details?id=yellowclass.kids.live&hl=en_IN"
+        },
+        "interface_languages": {
+          "value": "English plus 7 Indian languages for instruction (Hindi, Tamil, Telugu, Kannada, Malayalam, Marathi, Bengali)",
+          "evidence": "Play: 'Start learning in the language you are most comfortable with. SpeakX supports: ...'. App Store 'Languages: English' refers to the store metadata language.",
+          "source": "https://play.google.com/store/apps/details?id=yellowclass.kids.live&hl=en_IN"
+        }
+      },
+      "key_strengths": [
+        "Voice-call conversation practice with an AI partner (Sia), with unlimited AI talk time on Premium (speakx.ai/premium).",
+        "Teaches in 7 Indian languages and shifts the conversation to English gradually (speakx.ai, Play listing).",
+        "India-specific roleplays: interviews, office, parent-teacher meetings, phone calls; 100+ scenarios on Premium.",
+        "Large Indian user base: 1Cr+ Play downloads, 4.5 rating from 92.9K reviews (Play, 12 Oct 2026).",
+        "Low, transparent INR pricing: ₹2 for a 3-day trial then ₹299/month (as of 2026-10-12)."
+      ],
+      "meaningful_limitations": [
+        "Teaches English only; no other target languages (unlike Duolingo/Speak/ELSA for multi-language learners).",
+        "No web/desktop version; mobile apps only.",
+        "No exam-specific IELTS/TOEFL band scoring described on official pages (Stimuler and ELSA offer this).",
+        "App Store (India) footprint is small and new (258 ratings) compared with the Play listing."
+      ],
+      "best_fit_learner_profile": "Indian adults who understand Hindi or another supported Indian language and want to actually speak English for interviews, work, studies, or family life, practising ~15 minutes a day on a phone. Suits hesitant beginners who want explanations in their own language and judgment-free voice practice.",
+      "where_competitor_may_be_better_than_speakx": "n/a (this is SpeakX).",
+      "notable_facts": [
+        {
+          "fact": "MS Dhoni announced as investor and brand ambassador on 1 Sep 2026 (amount undisclosed).",
+          "source": "https://www.deccanherald.com/technology/artificial-intelligence/ms-dhoni-invests-in-ai-powered-english-speaking-and-communication-platform-speakx-4131303",
+          "status": "partially-verified (seen in search results; page returned 403 to fetch)"
+        },
+        {
+          "fact": "Homepage lists awards: ET Excellence in Generative AI for Education (2026), ET Education Excellence Awards Best Personalised Learning (2025), Mint All About AI Award (2024), Forbes India Select 200 (2023).",
+          "source": "https://speakx.ai/",
+          "status": "2026 ET award verified by content team; others not-verified against organiser pages"
+        },
+        {
+          "fact": "Homepage names angel investors incl. MS Dhoni and founders from Meesho, Snapdeal, Mamaearth, upGrad; institutional investor India Quotient.",
+          "source": "https://speakx.ai/",
+          "status": "verified on homepage (company claim)"
+        },
+        {
+          "fact": "Outcome claim (attributed only): 'By month 2, 4 out of 5 active learners speak English for 90%+ of their conversations.'",
+          "source": "https://play.google.com/store/apps/details?id=yellowclass.kids.live&hl=en_IN",
+          "status": "company claim"
+        }
+      ],
+      "logo_url": "https://play-lh.googleusercontent.com/dl8yJ7uPf3U9tlpDH3S9bmQRMsM0Le_PDkcuuyDb5WwP0S7MTE4Dce9DRn5UUylGJAp8rE6wnLnU_JMX5kqb",
+      "logo_url_status": "HTTP 200 image/png (Play icon), checked 2026-10-12",
+      "brand_color_hex": "#FF4D00 (most frequent accent colour in speakx.ai markup)",
+      "one_line_card_description": "AI English speaking app for Indian learners; talk to Sia in 7 Indian languages, ~15 min a day.",
+      "one_meaningful_difference_vs_speakx": "n/a",
+      "identity_notes": "Play package id is a legacy id and must not appear in public copy (href use only). Older App Store app id1547936192 now returns 404 on US/IN storefronts; the current iOS app is id6756059415.",
+      "sources_checked": [
+        "https://speakx.ai/",
+        "https://speakx.ai/premium",
+        "https://play.google.com/store/apps/details?id=yellowclass.kids.live&hl=en_IN",
+        "https://apps.apple.com/in/app/speakx-english-speaking-app/id6756059415"
+      ],
+      "confidence": "high"
+    },
+    "supernova": {
+      "slug": "supernova",
+      "official_name": "Supernova AI: Spoken English (App Store: 'Supernova AI Spoken English')",
+      "company": "L8 Cones Interactive Private Limited (brand: Supernova)",
+      "hq_country": "India (Bengaluru, HSR Layout)",
+      "official_website": "https://www.getsupernova.ai/",
+      "play_url": "https://play.google.com/store/apps/details?id=live.gosupernova.app",
+      "app_store_url": "https://apps.apple.com/in/app/supernova-ai-spoken-english/id6447939054",
+      "play_listing": {
+        "rating": "4.7 (4.734 raw)",
+        "review_count": "289,513",
+        "downloads_tier": "10M+",
+        "in_app_purchases": "₹100.00 – ₹21,200.00 per item",
+        "updated_on": "17 Sep 2026",
+        "developer_shown": "24/7 Personal AI Tutor",
+        "checked": "2026-10-12",
+        "source": "https://play.google.com/store/apps/details?id=live.gosupernova.app&hl=en_IN"
+      },
+      "app_store_listing": {
+        "rating": "4.7",
+        "review_count": "37,408 ratings (India storefront)",
+        "iap_examples": [
+          "Supernova Premium ₹99",
+          "₹199",
+          "₹299",
+          "₹399",
+          "₹499",
+          "₹799",
+          "₹1,499",
+          "₹1,999"
+        ],
+        "developer_shown": "L8 Cones Interactive Private Limited",
+        "checked": "2026-10-12",
+        "source": "https://apps.apple.com/in/app/supernova-ai-spoken-english/id6447939054"
+      },
+      "founded_year": "2021 (Inc42/Tracxn company profiles; not stated on official site) - partially-verified",
+      "one_line_official_description": "Quote: 'The only app focused on making you SPEAK English' (getsupernova.ai).",
+      "teaching_method": "Structured step-by-step spoken-English course with ~20-minute daily personalised lessons: learn one sentence pattern, translate 100-300 short lines from your language, controlled AI chats with Nova, free speaking (extempore), spaced repetition on days 1/2/4/7/14/30. Explanations in Hindi and other Indian languages.",
+      "dimensions": {
+        "primary_learning_objective": {
+          "value": "Spoken English fluency for beginners, with grammar, vocabulary, listening and pronunciation support.",
+          "evidence": "Play: 'a spoken English app designed for beginners who want a clear, structured way to practise real communication'.",
+          "source": "https://play.google.com/store/apps/details?id=live.gosupernova.app&hl=en_IN"
+        },
+        "target_learner": {
+          "value": "Indian beginners and intermediate learners who prefer explanations in their mother tongue; site testimonials include parents of school children.",
+          "evidence": "App Store: 'learn to talk English easily in your mother tongue'; homepage testimonials.",
+          "source": "https://apps.apple.com/in/app/supernova-ai-spoken-english/id6447939054"
+        },
+        "suitability_for_indian_learners": {
+          "value": "yes",
+          "evidence": "Bengaluru company; explanations in Hindi, Tamil, Telugu, Bengali 'and more'; INR pricing; App Store tagline \"India's Top Spoken English Learning App\".",
+          "source": "https://apps.apple.com/in/app/supernova-ai-spoken-english/id6447939054"
+        },
+        "support_for_absolute_beginners": {
+          "value": "yes",
+          "evidence": "Play: 'Built for Beginners and Steady Progress'; 'A Structured English Speaking Course for Beginners'.",
+          "source": "https://play.google.com/store/apps/details?id=live.gosupernova.app&hl=en_IN"
+        },
+        "support_for_indian_languages": {
+          "value": "yes",
+          "evidence": "App Store: 'full support in Hindi, Tamil, Telugu, Bengali, and more'. ElevenLabs case study (Mar 2025) lists Hindi, Tamil, Telugu, Bengali, Marathi, Kannada, Gujarati, Punjabi, Odia, Assamese.",
+          "source": "https://apps.apple.com/in/app/supernova-ai-spoken-english/id6447939054"
+        },
+        "hindi_guidance": {
+          "value": "yes",
+          "evidence": "Play: 'Learn English in Hindi and Regional Languages'.",
+          "source": "https://play.google.com/store/apps/details?id=live.gosupernova.app&hl=en_IN"
+        },
+        "tamil_telugu_regional_support": {
+          "value": "yes",
+          "evidence": "Tamil, Telugu, Bengali named on App Store; Tamil-to-English translation praised in homepage testimonial.",
+          "source": "https://apps.apple.com/in/app/supernova-ai-spoken-english/id6447939054"
+        },
+        "ai_conversation_practice": {
+          "value": "yes",
+          "evidence": "Homepage: '24/7 practice with Nova, anytime'; 'Talk with Nova (Controlled)' and 'Speak Freely (Extempore)'.",
+          "source": "https://www.getsupernova.ai/"
+        },
+        "structured_course_progression": {
+          "value": "yes",
+          "evidence": "Play: 'step-by-step learning flow'; homepage describes Beginner to Advanced trajectory with spaced repetition.",
+          "source": "https://play.google.com/store/apps/details?id=live.gosupernova.app&hl=en_IN"
+        },
+        "personalised_learning_plans": {
+          "value": "yes",
+          "evidence": "Homepage: '20mins daily personalized lesson'; App Store: 'provides a personalized learning path'.",
+          "source": "https://www.getsupernova.ai/"
+        },
+        "initial_proficiency_assessment": {
+          "value": "partial",
+          "evidence": "App Store: 'our app adapts to your level'; a formal level test is not described on official pages (third-party reviews mention one).",
+          "source": "https://apps.apple.com/in/app/supernova-ai-spoken-english/id6447939054"
+        },
+        "speaking_practice": {
+          "value": "yes",
+          "evidence": "Core positioning: 'You learn a language by speaking it out loud'.",
+          "source": "https://www.getsupernova.ai/"
+        },
+        "real_life_roleplays": {
+          "value": "yes",
+          "evidence": "App Store: 'Engaging role-plays, AI-led conversations, and interactive speaking exercises'.",
+          "source": "https://apps.apple.com/in/app/supernova-ai-spoken-english/id6447939054"
+        },
+        "job_interview_english": {
+          "value": "yes",
+          "evidence": "Play: 'realistic situations such as introductions, interviews, and everyday conversations'.",
+          "source": "https://play.google.com/store/apps/details?id=live.gosupernova.app&hl=en_IN"
+        },
+        "workplace_english": {
+          "value": "partial",
+          "evidence": "Play: 'conversations for daily life, interviews, and work' - work scenarios mentioned, specific office roleplays not detailed officially.",
+          "source": "https://play.google.com/store/apps/details?id=live.gosupernova.app&hl=en_IN"
+        },
+        "everyday_english": {
+          "value": "yes",
+          "evidence": "Play: 'English Listening Practice with Everyday Speech', 'Vocabulary for Everyday Conversations'.",
+          "source": "https://play.google.com/store/apps/details?id=live.gosupernova.app&hl=en_IN"
+        },
+        "family_social_conversations": {
+          "value": "not-verified",
+          "evidence": "Not described on official website or store listings.",
+          "source": "https://play.google.com/store/apps/details?id=live.gosupernova.app&hl=en_IN"
+        },
+        "education_student_use_cases": {
+          "value": "partial",
+          "evidence": "Legacy site (app.gosupernova.live) markets a school-children course; the main app's listing does not detail student/academic scenarios.",
+          "source": "https://app.gosupernova.live/"
+        },
+        "travel_english": {
+          "value": "not-verified",
+          "evidence": "Not described on official website or store listings (third-party roundups mention travel roleplays).",
+          "source": "https://play.google.com/store/apps/details?id=live.gosupernova.app&hl=en_IN"
+        },
+        "pronunciation_practice": {
+          "value": "yes",
+          "evidence": "Play: 'Pronunciation Practice for Clear Speech' - sound clarity, stress, rhythm.",
+          "source": "https://play.google.com/store/apps/details?id=live.gosupernova.app&hl=en_IN"
+        },
+        "grammar_guidance": {
+          "value": "yes",
+          "evidence": "Play: 'Grammar Support for Accurate Speaking'; App Store: Miss Nova gives 'instant grammar corrections'.",
+          "source": "https://play.google.com/store/apps/details?id=live.gosupernova.app&hl=en_IN"
+        },
+        "vocabulary_development": {
+          "value": "yes",
+          "evidence": "Play: 'Vocabulary for Everyday Conversations'.",
+          "source": "https://play.google.com/store/apps/details?id=live.gosupernova.app&hl=en_IN"
+        },
+        "ai_feedback": {
+          "value": "yes",
+          "evidence": "App Store: 'Miss Nova provides instant grammar corrections, pronunciation help, and personalized feedback'.",
+          "source": "https://apps.apple.com/in/app/supernova-ai-spoken-english/id6447939054"
+        },
+        "progress_tracking": {
+          "value": "partial",
+          "evidence": "Homepage testimonial cites 'personalized progress tracking'; no official feature description of progress reports found.",
+          "source": "https://www.getsupernova.ai/"
+        },
+        "gamification": {
+          "value": "not-verified",
+          "evidence": "No streaks, badges or leaderboards described on official pages.",
+          "source": "https://play.google.com/store/apps/details?id=live.gosupernova.app&hl=en_IN"
+        },
+        "free_tier": {
+          "value": "yes",
+          "evidence": "Homepage: 'Get started for free today!'; Play/App Store: free download with in-app purchases.",
+          "source": "https://www.getsupernova.ai/"
+        },
+        "subscription_pricing": {
+          "value": "partial",
+          "evidence": "No public price list on getsupernova.ai. App Store (India) IAP SKUs 'Supernova Premium' range ₹99–₹1,999; Play IAP range ₹100–₹21,200 per item (as of 2026-10-12). Third-party figures (e.g. ₹499/month, ₹1,999/year) not used.",
+          "source": "https://apps.apple.com/in/app/supernova-ai-spoken-english/id6447939054"
+        },
+        "android": {
+          "value": "yes",
+          "evidence": "Google Play listing live, updated 17 Sep 2026.",
+          "source": "https://play.google.com/store/apps/details?id=live.gosupernova.app&hl=en_IN"
+        },
+        "ios": {
+          "value": "yes",
+          "evidence": "App Store (India) listing, iPhone.",
+          "source": "https://apps.apple.com/in/app/supernova-ai-spoken-english/id6447939054"
+        },
+        "web": {
+          "value": "not-verified",
+          "evidence": "app.gosupernova.live is a marketing page for a kids' spoken-English course, not a web learning app; no web learner product verified.",
+          "source": "https://app.gosupernova.live/"
+        },
+        "human_tutor_or_ai_only": {
+          "value": "AI only",
+          "evidence": "Nova / Miss Nova is the '24/7 AI Teacher'; no live human classes described for the app.",
+          "source": "https://apps.apple.com/in/app/supernova-ai-spoken-english/id6447939054"
+        },
+        "languages_taught": {
+          "value": "English only",
+          "evidence": "All listings describe spoken English.",
+          "source": "https://play.google.com/store/apps/details?id=live.gosupernova.app&hl=en_IN"
+        },
+        "interface_languages": {
+          "value": "English plus Indian-language explanations (Hindi, Tamil, Telugu, Bengali and more)",
+          "evidence": "App Store 'Languages: English' is store metadata; in-app explanations in Indian languages per listing.",
+          "source": "https://apps.apple.com/in/app/supernova-ai-spoken-english/id6447939054"
+        }
+      },
+      "key_strengths": [
+        "Highest Play rating in this set: 4.7 from 289.5K reviews, 10M+ downloads (Play, 12 Oct 2026).",
+        "Clear beginner-first structured course with a published method (pattern -> translation -> controlled chat -> free speaking -> spaced repetition).",
+        "Mother-tongue explanations in Hindi, Tamil, Telugu, Bengali and more; Bengaluru-based team.",
+        "24/7 AI tutor (Nova) with instant grammar and pronunciation corrections."
+      ],
+      "meaningful_limitations": [
+        "No public price list; in-app SKUs span ₹99–₹1,999 (App Store IN), so pricing is opaque to prospective buyers.",
+        "Family/social, travel and gamification features are not described on official pages.",
+        "Company funding data conflicts between databases (Inc42 $1.10M vs Tracxn $4.67M) and the site itself claims '7.5M paid users', which is unverified.",
+        "Brand name collides with unrelated 'Supernova' products and a legacy kids-course site under the same company."
+      ],
+      "best_fit_learner_profile": "Indian beginners who want a structured, lesson-by-lesson spoken-English course explained in Hindi or a South Indian language, with daily 20-minute practice and an always-on AI tutor. Good for learners who like a fixed curriculum more than open-ended conversation.",
+      "where_competitor_may_be_better_than_speakx": "Higher Play rating and more reviews (4.7 / 289.5K vs 4.5 / 92.9K); very explicit beginner curriculum with spaced repetition; official listings name Bengali plus Gujarati/Punjabi/Odia/Assamese support (per ElevenLabs case study), i.e., potentially broader Indian-language coverage.",
+      "notable_facts": [
+        {
+          "fact": "Founded 2021 by Maharishi R. B., Anirudh Coontoor and Nawin Krishna (Bengaluru).",
+          "source": "https://inc42.com/company/supernova-ai/",
+          "status": "partially-verified (third-party database)"
+        },
+        {
+          "fact": "Funding: Tracxn reports $4.67M over 2 rounds (Kae Capital, Lumikai, AdvantEdge; Series A Mar 2024); Inc42 profile shows $1.10M pre-seed. Conflicting.",
+          "source": "https://tracxn.com/d/companies/supernova/__SmzKy5ZZO3cyOxl1niTcZdlL2oKVSgRa14FSjuqWD9M",
+          "status": "conflicting"
+        },
+        {
+          "fact": "Homepage claims '7.5M paid users', 'Join 1 Crore+ learners', '4.8 Appstore rating' (IN storefront shows 4.7).",
+          "source": "https://www.getsupernova.ai/",
+          "status": "company claim, not-verified"
+        },
+        {
+          "fact": "ElevenLabs customer story (28 Mar 2025) says Supernova is 'priced under $5 per month' and lists 10 Indian explanation languages.",
+          "source": "https://elevenlabs.io/blog/supernova",
+          "status": "vendor case study"
+        }
+      ],
+      "logo_url": "https://play-lh.googleusercontent.com/TtwRWddQe4Kvrvyxqz3Akf7bb5eLK37k3STktfV90ZTQIkxCwGN_PcaKj5E024BF46MJd4whUvN3okrawiJP",
+      "logo_url_status": "HTTP 200 image/png (Play icon), checked 2026-10-12",
+      "brand_color_hex": "#8652FF (frequent accent in getsupernova.ai markup; secondary #85BD7A)",
+      "one_line_card_description": "Bengaluru-made structured spoken-English course with 24/7 AI tutor Nova; explains in Hindi, Tamil, Telugu.",
+      "one_meaningful_difference_vs_speakx": "Lesson-first curriculum (pattern, translation drills, spaced repetition) vs SpeakX's conversation-first voice calls with Sia.",
+      "identity_notes": "PRODUCT IDENTITY FLAG: 'Supernova' collides with supernova.io (design-system tool), supernova.app and other brands. The correct product is 'Supernova AI: Spoken English' by L8 Cones Interactive Pvt Ltd, Play id live.gosupernova.app, App Store id6447939054, site getsupernova.ai. The same company also operated 'Supernova for Kids' (app.gosupernova.live) - a kids' course site, not the comparison target.",
+      "sources_checked": [
+        "https://www.getsupernova.ai/",
+        "https://play.google.com/store/apps/details?id=live.gosupernova.app&hl=en_IN",
+        "https://apps.apple.com/in/app/supernova-ai-spoken-english/id6447939054",
+        "https://app.gosupernova.live/",
+        "https://inc42.com/company/supernova-ai/",
+        "https://elevenlabs.io/blog/supernova"
+      ],
+      "confidence": "medium-high (features, ratings verified; pricing and funding partially)"
+    },
+    "mysivi": {
+      "slug": "mysivi",
+      "official_name": "MySivi AI English Speaking App (formerly Sivi / Speakify)",
+      "company": "Ninjasalary, Inc. (App Store) / 'MySivi AI' developer name on Play; YC W22",
+      "hq_country": "India (Bengaluru); US-incorporated entity name on App Store",
+      "official_website": "https://www.mysivi.ai/",
+      "play_url": "https://play.google.com/store/apps/details?id=com.practice.ninja_study",
+      "app_store_url": "https://apps.apple.com/in/app/mysivi-ai-english-speaking-app/id1644736135",
+      "play_listing": {
+        "rating": "4.7 (4.650 raw)",
+        "review_count": "88,557",
+        "downloads_tier": "1Cr+ (10M+)",
+        "in_app_purchases": "₹100.00 – ₹21,200.00 per item",
+        "updated_on": "1 Oct 2026",
+        "developer_shown": "MySivi AI",
+        "checked": "2026-10-12",
+        "source": "https://play.google.com/store/apps/details?id=com.practice.ninja_study&hl=en_IN"
+      },
+      "app_store_listing": {
+        "rating": "4.7",
+        "review_count": "19,251 ratings (India storefront)",
+        "iap_examples": [
+          "1 Month ₹999",
+          "3 Months ₹1,999",
+          "1 year ₹4,999"
+        ],
+        "developer_shown": "Ninjasalary, Inc.",
+        "checked": "2026-10-12",
+        "source": "https://apps.apple.com/in/app/mysivi-ai-english-speaking-app/id1644736135"
+      },
+      "founded_year": "2022 (Y Combinator profile: Founded 2022, batch W22; Inc42: Sept 2022 as Speakify AI) - verified via YC page",
+      "one_line_official_description": "Quote (Play): 'Your Personalized English Speaking App to Improve English Fluency'.",
+      "teaching_method": "AI-coach conversation practice (topic-based chats, real-time tasks) with instant corrections, a structured guided lesson path, translations in Indian languages, gamified rewards, exam/interview practice; YC page also describes practising with humans (peer practice).",
+      "dimensions": {
+        "primary_learning_objective": {
+          "value": "Confident spoken English for interviews, classes and daily talk; exam prep (IELTS/TOEFL).",
+          "evidence": "Play: 'speak English confidently through real conversations and AI guidance'.",
+          "source": "https://play.google.com/store/apps/details?id=com.practice.ninja_study&hl=en_IN"
+        },
+        "target_learner": {
+          "value": "Indian beginners, students, professionals; copy mixes Hindi ('aur har conversation mein confidently English bole').",
+          "evidence": "Play 'Perfect For' list: beginners, students, professionals, exam/interview candidates, regional-language learners.",
+          "source": "https://play.google.com/store/apps/details?id=com.practice.ninja_study&hl=en_IN"
+        },
+        "suitability_for_indian_learners": {
+          "value": "yes",
+          "evidence": "Play: 'the perfect English learning app for Indian learners who prefer mastering English in their native language'; Hinglish copy; INR pricing.",
+          "source": "https://play.google.com/store/apps/details?id=com.practice.ninja_study&hl=en_IN"
+        },
+        "support_for_absolute_beginners": {
+          "value": "yes",
+          "evidence": "Play: 'Beginners who want to learn English speaking from scratch'.",
+          "source": "https://play.google.com/store/apps/details?id=com.practice.ninja_study&hl=en_IN"
+        },
+        "support_for_indian_languages": {
+          "value": "yes",
+          "evidence": "Play: 'Understand words in Hindi, Tamil, Telugu, Marathi, Bengali, Urdu, and more' (translation support).",
+          "source": "https://play.google.com/store/apps/details?id=com.practice.ninja_study&hl=en_IN"
+        },
+        "hindi_guidance": {
+          "value": "yes",
+          "evidence": "Hindi translation support plus Hindi/Hinglish copy in listing.",
+          "source": "https://play.google.com/store/apps/details?id=com.practice.ninja_study&hl=en_IN"
+        },
+        "tamil_telugu_regional_support": {
+          "value": "yes",
+          "evidence": "Tamil, Telugu, Marathi, Bengali, Urdu named for word translation.",
+          "source": "https://play.google.com/store/apps/details?id=com.practice.ninja_study&hl=en_IN"
+        },
+        "ai_conversation_practice": {
+          "value": "yes",
+          "evidence": "Play: 'topic-based chats and real-time tasks'; AI English coach 'listens to you, corrects mistakes'.",
+          "source": "https://play.google.com/store/apps/details?id=com.practice.ninja_study&hl=en_IN"
+        },
+        "structured_course_progression": {
+          "value": "yes",
+          "evidence": "Play: 'Structured English Learning Path - Follow a guided plan'.",
+          "source": "https://play.google.com/store/apps/details?id=com.practice.ninja_study&hl=en_IN"
+        },
+        "personalised_learning_plans": {
+          "value": "yes",
+          "evidence": "Play: 'personalized lessons', 'personalized feedback'.",
+          "source": "https://play.google.com/store/apps/details?id=com.practice.ninja_study&hl=en_IN"
+        },
+        "initial_proficiency_assessment": {
+          "value": "not-verified",
+          "evidence": "No placement/level test described on store listings; official website blocked to automated fetch (Vercel checkpoint, 429/403).",
+          "source": "https://play.google.com/store/apps/details?id=com.practice.ninja_study&hl=en_IN"
+        },
+        "speaking_practice": {
+          "value": "yes",
+          "evidence": "Core: 'English speaking practice app'.",
+          "source": "https://play.google.com/store/apps/details?id=com.practice.ninja_study&hl=en_IN"
+        },
+        "real_life_roleplays": {
+          "value": "partial",
+          "evidence": "Play: 'speak English fluently in real-life situations'; topic-based chats. Scenario roleplay catalogue not described.",
+          "source": "https://play.google.com/store/apps/details?id=com.practice.ninja_study&hl=en_IN"
+        },
+        "job_interview_english": {
+          "value": "yes",
+          "evidence": "Play: 'Boost confidence for IELTS, TOEFL, job interviews, and placements'.",
+          "source": "https://play.google.com/store/apps/details?id=com.practice.ninja_study&hl=en_IN"
+        },
+        "workplace_english": {
+          "value": "yes",
+          "evidence": "Play: 'Professionals who want to speak English fluently for workplace communication'.",
+          "source": "https://play.google.com/store/apps/details?id=com.practice.ninja_study&hl=en_IN"
+        },
+        "everyday_english": {
+          "value": "yes",
+          "evidence": "Play: 'Learners seeking an english speaking practice app for daily conversation'.",
+          "source": "https://play.google.com/store/apps/details?id=com.practice.ninja_study&hl=en_IN"
+        },
+        "family_social_conversations": {
+          "value": "partial",
+          "evidence": "Inc42 (Apr 2024) says discussion topics include family and relationships; not on current listing.",
+          "source": "https://inc42.com/startups/how-mysivi-is-using-ai-to-help-people-become-proficient-in-spoken-english/"
+        },
+        "education_student_use_cases": {
+          "value": "yes",
+          "evidence": "Play: 'Students studying for exams'; IELTS/TOEFL/placements.",
+          "source": "https://play.google.com/store/apps/details?id=com.practice.ninja_study&hl=en_IN"
+        },
+        "travel_english": {
+          "value": "partial",
+          "evidence": "Inc42 (Apr 2024) mentions 'trip planning' topics; not on current listing.",
+          "source": "https://inc42.com/startups/how-mysivi-is-using-ai-to-help-people-become-proficient-in-spoken-english/"
+        },
+        "pronunciation_practice": {
+          "value": "yes",
+          "evidence": "Play: 'pronunciation support for clearer spoken English'.",
+          "source": "https://play.google.com/store/apps/details?id=com.practice.ninja_study&hl=en_IN"
+        },
+        "grammar_guidance": {
+          "value": "yes",
+          "evidence": "Play: 'grammar improvements, and fluency tips'.",
+          "source": "https://play.google.com/store/apps/details?id=com.practice.ninja_study&hl=en_IN"
+        },
+        "vocabulary_development": {
+          "value": "partial",
+          "evidence": "Word translation into Indian languages implies vocabulary support; no dedicated vocabulary feature described.",
+          "source": "https://play.google.com/store/apps/details?id=com.practice.ninja_study&hl=en_IN"
+        },
+        "ai_feedback": {
+          "value": "yes",
+          "evidence": "Play: 'instant feedback', 'corrects mistakes'.",
+          "source": "https://play.google.com/store/apps/details?id=com.practice.ninja_study&hl=en_IN"
+        },
+        "progress_tracking": {
+          "value": "not-verified",
+          "evidence": "Not described on store listings.",
+          "source": "https://play.google.com/store/apps/details?id=com.practice.ninja_study&hl=en_IN"
+        },
+        "gamification": {
+          "value": "yes",
+          "evidence": "Play: 'Earn badges, streaks, and points'.",
+          "source": "https://play.google.com/store/apps/details?id=com.practice.ninja_study&hl=en_IN"
+        },
+        "free_tier": {
+          "value": "yes",
+          "evidence": "Play: 'Many features are available free'; Inc42 (2024) reported 30 minutes/day free.",
+          "source": "https://play.google.com/store/apps/details?id=com.practice.ninja_study&hl=en_IN"
+        },
+        "subscription_pricing": {
+          "value": "partial",
+          "evidence": "App Store (India) IAP: 1 Month ₹999, 3 Months ₹1,999, 1 year ₹4,999 (as of 2026-10-12); Play IAP range ₹100–₹21,200. Website pricing page could not be fetched (bot checkpoint).",
+          "source": "https://apps.apple.com/in/app/mysivi-ai-english-speaking-app/id1644736135"
+        },
+        "android": {
+          "value": "yes",
+          "evidence": "Play listing live, updated 1 Oct 2026.",
+          "source": "https://play.google.com/store/apps/details?id=com.practice.ninja_study&hl=en_IN"
+        },
+        "ios": {
+          "value": "yes",
+          "evidence": "App Store (India) listing, iPhone only.",
+          "source": "https://apps.apple.com/in/app/mysivi-ai-english-speaking-app/id1644736135"
+        },
+        "web": {
+          "value": "not-verified",
+          "evidence": "Website not fetchable; no web learner app verified.",
+          "source": "https://www.mysivi.ai/"
+        },
+        "human_tutor_or_ai_only": {
+          "value": "AI tutor plus peer practice (claimed)",
+          "evidence": "YC page: 'Practicing with AI English Tutor and Human is the fastest way'; Inc42 describes a peer-learning feature. No professional human tutors verified.",
+          "source": "https://www.ycombinator.com/companies/mysivi"
+        },
+        "languages_taught": {
+          "value": "English only",
+          "evidence": "Listings describe English speaking; third-party listings mentioning other languages were not confirmed.",
+          "source": "https://play.google.com/store/apps/details?id=com.practice.ninja_study&hl=en_IN"
+        },
+        "interface_languages": {
+          "value": "English with word translations in Hindi, Tamil, Telugu, Marathi, Bengali, Urdu and more",
+          "evidence": "App Store 'Languages: English'; Play describes translation support.",
+          "source": "https://play.google.com/store/apps/details?id=com.practice.ninja_study&hl=en_IN"
+        }
+      },
+      "key_strengths": [
+        "Large installed base: 1Cr+ Play downloads, 4.7 rating from 88.6K reviews (Play, 12 Oct 2026).",
+        "Explicit gamification (badges, streaks, points) and offline modules.",
+        "Exam and placement focus (IELTS, TOEFL, interviews) alongside everyday conversation.",
+        "Translation support in six-plus Indian languages including Urdu."
+      ],
+      "meaningful_limitations": [
+        "Official website and pricing page block automated access; public pricing only visible as App Store SKUs (₹999/month is notably higher than SpeakX's ₹299).",
+        "No progress report, placement test or scenario catalogue described on official listings.",
+        "Mostly chat/text-task oriented in listing copy; voice-call style practice is not explicit."
+      ],
+      "best_fit_learner_profile": "Indian students and early-career professionals who want a gamified, exam-aware English practice app with Hindi/Tamil/Telugu word translations, and who prefer a guided lesson path plus AI chat.",
+      "where_competitor_may_be_better_than_speakx": "Explicit IELTS/TOEFL prep positioning, Urdu translation support, offline modules and badge/streak gamification are described on its listing; comparable Play download tier.",
+      "notable_facts": [
+        {
+          "fact": "Y Combinator W22; founded 2022; Bengaluru; team size 10 (YC).",
+          "source": "https://www.ycombinator.com/companies/mysivi",
+          "status": "verified"
+        },
+        {
+          "fact": "Inc42 (24 Apr 2024): $500K YC funding; 1M+ downloads, 200K+ MAU, 30K paid users at the time; AI tutor named ARYA.",
+          "source": "https://inc42.com/startups/how-mysivi-is-using-ai-to-help-people-become-proficient-in-spoken-english/",
+          "status": "editorial, dated"
+        },
+        {
+          "fact": "YC founder note: 'We have raised minimal funding and our bank balance is more than our funding today.'",
+          "source": "https://www.ycombinator.com/companies/mysivi",
+          "status": "company claim"
+        }
+      ],
+      "logo_url": "https://play-lh.googleusercontent.com/ipiQK__CIMRdao056LCl8DXeobNXSSHzmOztxfnW9XGguQpshcWKSLMvnQX6ozRC0tOl4nyrtMV-FreR0cfn",
+      "logo_url_status": "HTTP 200 image/png (Play icon), checked 2026-10-12",
+      "brand_color_hex": "not-verified",
+      "one_line_card_description": "YC-backed Bengaluru AI English coach: guided lessons, badges, translations in Hindi, Tamil, Telugu, Urdu.",
+      "one_meaningful_difference_vs_speakx": "Positions for IELTS/TOEFL and placements with streak/badge gamification; SpeakX centres on voice-call roleplays with Sia.",
+      "identity_notes": "Rebranded from Sivi / Speakify AI; Play package com.practice.ninja_study; App Store developer 'Ninjasalary, Inc.'. 'Sivi' alone is ambiguous (there is an unrelated Sivi design tool).",
+      "sources_checked": [
+        "https://play.google.com/store/apps/details?id=com.practice.ninja_study&hl=en_IN",
+        "https://apps.apple.com/in/app/mysivi-ai-english-speaking-app/id1644736135",
+        "https://www.ycombinator.com/companies/mysivi",
+        "https://inc42.com/startups/how-mysivi-is-using-ai-to-help-people-become-proficient-in-spoken-english/",
+        "https://www.mysivi.ai/ (HTTP 429/403 bot checkpoint)"
+      ],
+      "confidence": "medium (listings verified; website unreachable)"
+    },
+    "duolingo": {
+      "slug": "duolingo",
+      "official_name": "Duolingo: Learn Languages (App Store: 'Duolingo: Language & Chess')",
+      "company": "Duolingo, Inc. (NASDAQ: DUOL)",
+      "hq_country": "United States (Pittsburgh, PA)",
+      "official_website": "https://www.duolingo.com/",
+      "play_url": "https://play.google.com/store/apps/details?id=com.duolingo",
+      "app_store_url": "https://apps.apple.com/in/app/duolingo-language-chess/id570060128",
+      "play_listing": {
+        "rating": "4.6 (4.591 raw)",
+        "review_count": "50,850,304",
+        "downloads_tier": "500M+",
+        "in_app_purchases": "₹19.00 - ₹19,900.00 per item",
+        "contains_ads": true,
+        "updated_on": "7 Oct 2026",
+        "developer_shown": "Duolingo",
+        "checked": "2026-10-12",
+        "source": "https://play.google.com/store/apps/details?id=com.duolingo&hl=en_IN"
+      },
+      "app_store_listing": {
+        "rating": "4.7",
+        "review_count": "208,698 ratings (India storefront)",
+        "languages": "English and 32 more incl. Hindi, Bengali, Kannada, Marathi, Punjabi, Tamil, Telugu, Urdu",
+        "developer_shown": "Duolingo",
+        "checked": "2026-10-12",
+        "source": "https://apps.apple.com/in/app/duolingo-language-chess/id570060128"
+      },
+      "founded_year": "2011 (widely reported; official press page did not render to fetch) - partially-verified",
+      "one_line_official_description": "Quote (Play): 'the fun, free app for learning 40+ languages through quick, bite-sized lessons'.",
+      "teaching_method": "Gamified bite-sized lessons (reading, writing, listening, speaking exercises) with streaks, XP, leagues and hearts; AI features (Roleplay, Video Call with Lily) in the Duolingo Max tier.",
+      "dimensions": {
+        "primary_learning_objective": {
+          "value": "General language learning across 40+ languages (plus math, music, chess); English is one course among many.",
+          "evidence": "Play description.",
+          "source": "https://play.google.com/store/apps/details?id=com.duolingo&hl=en_IN"
+        },
+        "target_learner": {
+          "value": "Global mass-market learners of all ages and levels; casual daily habit.",
+          "evidence": "Play: 'loved by hundreds of millions worldwide'.",
+          "source": "https://play.google.com/store/apps/details?id=com.duolingo&hl=en_IN"
+        },
+        "suitability_for_indian_learners": {
+          "value": "partial",
+          "evidence": "English courses exist for Hindi, Bengali, Tamil and Telugu speakers and the app UI supports Indian languages, but content is generic, not India-specific scenarios.",
+          "source": "https://apps.apple.com/in/app/duolingo-language-chess/id570060128"
+        },
+        "support_for_absolute_beginners": {
+          "value": "yes",
+          "evidence": "Courses start from zero; Play: 'fun lessons for all levels'.",
+          "source": "https://play.google.com/store/apps/details?id=com.duolingo&hl=en_IN"
+        },
+        "support_for_indian_languages": {
+          "value": "yes",
+          "evidence": "App Store lists Hindi, Bengali, Kannada, Marathi, Punjabi, Tamil, Telugu, Urdu among 33 app languages; English-for-Hindi-speakers course confirmed on Duolingo blog.",
+          "source": "https://apps.apple.com/in/app/duolingo-language-chess/id570060128"
+        },
+        "hindi_guidance": {
+          "value": "yes",
+          "evidence": "Duolingo blog (2020): 'English course for Hindi speakers'.",
+          "source": "https://blog.duolingo.com/language-learning-for-the-next-billion-duolingo-in-india/"
+        },
+        "tamil_telugu_regional_support": {
+          "value": "yes",
+          "evidence": "English courses for Tamil and Telugu speakers reported at launch (news coverage 2023); Tamil and Telugu listed as app languages on App Store.",
+          "source": "https://apps.apple.com/in/app/duolingo-language-chess/id570060128"
+        },
+        "ai_conversation_practice": {
+          "value": "partial",
+          "evidence": "Play: 'Practice real conversations with AI-powered features in Duolingo Max... Video Call & Roleplay' - paid Max tier only, limited course set.",
+          "source": "https://play.google.com/store/apps/details?id=com.duolingo&hl=en_IN"
+        },
+        "structured_course_progression": {
+          "value": "yes",
+          "evidence": "Unit/path based courses; 'Track your progress... learning goals'.",
+          "source": "https://play.google.com/store/apps/details?id=com.duolingo&hl=en_IN"
+        },
+        "personalised_learning_plans": {
+          "value": "partial",
+          "evidence": "Adaptive practice and personalised review exist, but no bespoke plan per learner goal is described on the listing.",
+          "source": "https://play.google.com/store/apps/details?id=com.duolingo&hl=en_IN"
+        },
+        "initial_proficiency_assessment": {
+          "value": "yes",
+          "evidence": "Placement test on starting a course (long-standing feature) - verified via product familiarity, not re-fetched; mark partially-verified.",
+          "source": "https://play.google.com/store/apps/details?id=com.duolingo&hl=en_IN"
+        },
+        "speaking_practice": {
+          "value": "partial",
+          "evidence": "Speaking exercises exist in lessons; open conversation only in Max (Roleplay/Video Call).",
+          "source": "https://play.google.com/store/apps/details?id=com.duolingo&hl=en_IN"
+        },
+        "real_life_roleplays": {
+          "value": "partial",
+          "evidence": "Roleplay is a Duolingo Max feature (Mar 2023 announcement) for selected courses.",
+          "source": "https://blog.duolingo.com/duolingo-max/"
+        },
+        "job_interview_english": {
+          "value": "not-verified",
+          "evidence": "No interview-specific scenarios described officially.",
+          "source": "https://play.google.com/store/apps/details?id=com.duolingo&hl=en_IN"
+        },
+        "workplace_english": {
+          "value": "not-verified",
+          "evidence": "No workplace-English track described officially.",
+          "source": "https://play.google.com/store/apps/details?id=com.duolingo&hl=en_IN"
+        },
+        "everyday_english": {
+          "value": "yes",
+          "evidence": "Courses cover everyday topics; Play: 'prepare for real conversations'.",
+          "source": "https://play.google.com/store/apps/details?id=com.duolingo&hl=en_IN"
+        },
+        "family_social_conversations": {
+          "value": "partial",
+          "evidence": "Family/social vocabulary units exist in courses; no dedicated roleplays described.",
+          "source": "https://play.google.com/store/apps/details?id=com.duolingo&hl=en_IN"
+        },
+        "education_student_use_cases": {
+          "value": "partial",
+          "evidence": "Play: 'learning another language for travel, school, career'; Duolingo for Schools exists (not fetched).",
+          "source": "https://play.google.com/store/apps/details?id=com.duolingo&hl=en_IN"
+        },
+        "travel_english": {
+          "value": "yes",
+          "evidence": "Play: 'Whether you're learning another language for travel...'.",
+          "source": "https://play.google.com/store/apps/details?id=com.duolingo&hl=en_IN"
+        },
+        "pronunciation_practice": {
+          "value": "partial",
+          "evidence": "Speaking exercises with speech recognition; no detailed pronunciation coaching described.",
+          "source": "https://play.google.com/store/apps/details?id=com.duolingo&hl=en_IN"
+        },
+        "grammar_guidance": {
+          "value": "partial",
+          "evidence": "Grammar taught implicitly; 'Explain My Answer' (Max) gives explanations.",
+          "source": "https://blog.duolingo.com/duolingo-max/"
+        },
+        "vocabulary_development": {
+          "value": "yes",
+          "evidence": "Core of lessons; App Store: 'build your vocabulary & grammar skills'.",
+          "source": "https://apps.apple.com/in/app/duolingo-language-chess/id570060128"
+        },
+        "ai_feedback": {
+          "value": "partial",
+          "evidence": "AI feedback in Max Roleplay/Video Call (Play: 'with AI feedback to help improve your language skills').",
+          "source": "https://play.google.com/store/apps/details?id=com.duolingo&hl=en_IN"
+        },
+        "progress_tracking": {
+          "value": "yes",
+          "evidence": "Play: 'Track your progress... playful rewards & achievements'.",
+          "source": "https://play.google.com/store/apps/details?id=com.duolingo&hl=en_IN"
+        },
+        "gamification": {
+          "value": "yes",
+          "evidence": "Streaks, hearts, leaderboards, achievements (Play, App Store).",
+          "source": "https://play.google.com/store/apps/details?id=com.duolingo&hl=en_IN"
+        },
+        "free_tier": {
+          "value": "yes",
+          "evidence": "Play: 'Every Duolingo language course is free' (with ads); Super Duolingo removes ads, unlimited hearts.",
+          "source": "https://play.google.com/store/apps/details?id=com.duolingo&hl=en_IN"
+        },
+        "subscription_pricing": {
+          "value": "not-verified",
+          "evidence": "Duolingo does not publish regional prices on public pages; Play IAP range ₹19–₹19,900 per item (India, 2026-10-12); Super Duolingo offers a 14-day free trial (Play). Third-party price lists not used.",
+          "source": "https://play.google.com/store/apps/details?id=com.duolingo&hl=en_IN"
+        },
+        "android": {
+          "value": "yes",
+          "evidence": "Play listing, 500M+ downloads.",
+          "source": "https://play.google.com/store/apps/details?id=com.duolingo&hl=en_IN"
+        },
+        "ios": {
+          "value": "yes",
+          "evidence": "App Store (India) listing, iPhone and iPad.",
+          "source": "https://apps.apple.com/in/app/duolingo-language-chess/id570060128"
+        },
+        "web": {
+          "value": "yes",
+          "evidence": "Play: 'Use Duolingo on the Web at https://www.duolingo.com'.",
+          "source": "https://play.google.com/store/apps/details?id=com.duolingo&hl=en_IN"
+        },
+        "human_tutor_or_ai_only": {
+          "value": "AI only",
+          "evidence": "No human tutoring; AI characters (Lily) in Max.",
+          "source": "https://blog.duolingo.com/duolingo-max/"
+        },
+        "languages_taught": {
+          "value": "40+ languages incl. English, Spanish, French, German, Japanese, Korean, Chinese, Hindi; plus Math, Music, Chess",
+          "evidence": "Play description list.",
+          "source": "https://play.google.com/store/apps/details?id=com.duolingo&hl=en_IN"
+        },
+        "interface_languages": {
+          "value": "33 app languages incl. English, Hindi, Bengali, Tamil, Telugu, Kannada, Marathi, Punjabi, Urdu",
+          "evidence": "App Store 'Languages' field.",
+          "source": "https://apps.apple.com/in/app/duolingo-language-chess/id570060128"
+        }
+      },
+      "key_strengths": [
+        "Massive scale and free access: 500M+ Play downloads, 4.6 from 50.9M reviews; every language course free (Play, 12 Oct 2026).",
+        "Best-in-class gamification and habit mechanics (streaks, leagues, achievements).",
+        "English courses available from Hindi, Bengali, Tamil and Telugu; UI in 33 languages incl. 8 Indian languages.",
+        "Web, iOS and Android; 58.7M DAU / 140.6M MAU in Q2 2026 (SEC filing)."
+      ],
+      "meaningful_limitations": [
+        "Speaking is a minor part of lessons; open conversation (Roleplay, Video Call) sits behind the Max tier and is not built for Indian job/office scenarios.",
+        "Generic global content, no India-specific interview/workplace roleplays or Indian-accent coaching described.",
+        "Free tier has ads and hearts limits; regional subscription prices are not public.",
+        "English is one of 40+ courses rather than the product's focus."
+      ],
+      "best_fit_learner_profile": "Casual learners who want a free, fun daily habit for vocabulary and grammar basics in any language, or those learning multiple languages. Less suited to Indian adults whose main goal is confident spoken English for work.",
+      "where_competitor_may_be_better_than_speakx": "Free forever tier, web access, far larger community, multi-language catalogue, and polished gamification; Indian-language UI in 8 languages (SpeakX: 7 explanation languages, English UI).",
+      "notable_facts": [
+        {
+          "fact": "Q2 2026: ~58.7M DAUs (+23% YoY) and 140.6M MAUs (SEC Form 10-Q / shareholder letter).",
+          "source": "https://www.sec.gov/Archives/edgar/data/0001562088/000162828026053603/duol-20260630.htm",
+          "status": "verified via search result from SEC filing"
+        },
+        {
+          "fact": "Duolingo Max launched 14 Mar 2023 with Roleplay and Explain My Answer; Video Call with Lily added later.",
+          "source": "https://blog.duolingo.com/duolingo-max/",
+          "status": "verified"
+        },
+        {
+          "fact": "Duolingo blog (Sep 2020): new learners in India +400% YoY; 'English course for Hindi speakers'.",
+          "source": "https://blog.duolingo.com/language-learning-for-the-next-billion-duolingo-in-india/",
+          "status": "verified"
+        },
+        {
+          "fact": "Play: Editor's Choice & 'Best of the Best' - Google Play.",
+          "source": "https://play.google.com/store/apps/details?id=com.duolingo&hl=en_IN",
+          "status": "company listing claim"
+        }
+      ],
+      "logo_url": "https://play-lh.googleusercontent.com/tw_coGKgk1K_zO-Ypf9zBKV1s-KT3dYN1MIUxIqtnbfmON5x_YmuoAr31gE4oSfJHNtA-aStTd-qe9R8S6NVyA",
+      "logo_url_status": "HTTP 200 image/png (Play icon), checked 2026-10-12",
+      "brand_color_hex": "#58CC02 (Duolingo's published brand green; not extracted from a fetched page - partially-verified)",
+      "one_line_card_description": "World's most downloaded education app: free gamified lessons in 40+ languages, English included.",
+      "one_meaningful_difference_vs_speakx": "Free multi-language lessons with light speaking; AI conversation only in paid Max, not India-specific like SpeakX.",
+      "identity_notes": "No ambiguity.",
+      "sources_checked": [
+        "https://play.google.com/store/apps/details?id=com.duolingo&hl=en_IN",
+        "https://apps.apple.com/in/app/duolingo-language-chess/id570060128",
+        "https://blog.duolingo.com/language-learning-for-the-next-billion-duolingo-in-india/",
+        "https://blog.duolingo.com/duolingo-max/",
+        "https://www.duolingo.com/ (JS-rendered, text not extractable)",
+        "https://press.duolingo.com/ (JS-rendered)"
+      ],
+      "confidence": "high on scale/platforms; medium on pricing and India-specific course details"
+    },
+    "stimuler": {
+      "slug": "stimuler",
+      "official_name": "Stimuler AI: English Fluency (App Store: 'Stimuler- English Speaking App')",
+      "company": "Stimuler Private Limited",
+      "hq_country": "India (Bengaluru per editorial coverage; official site does not state)",
+      "official_website": "https://stimuler.tech/",
+      "play_url": "https://play.google.com/store/apps/details?id=com.stimuler",
+      "app_store_url": "https://apps.apple.com/in/app/stimuler-english-speaking-app/id1627501632",
+      "play_listing": {
+        "rating": "4.6 (4.575 raw)",
+        "review_count": "217,562",
+        "downloads_tier": "1Cr+ (10M+)",
+        "in_app_purchases": "₹99.00 – ₹3,999.00 per item",
+        "updated_on": "8 Oct 2026",
+        "developer_shown": "Stimuler",
+        "checked": "2026-10-12",
+        "source": "https://play.google.com/store/apps/details?id=com.stimuler&hl=en_IN"
+      },
+      "app_store_listing": {
+        "rating": "4.7",
+        "review_count": "8,984 ratings (India storefront)",
+        "iap_examples": [
+          "Monthly ₹199",
+          "Monthly Subscription ₹299",
+          "Monthly Subscription ₹399",
+          "Annual ₹999",
+          "Annual Subscription ₹1,999",
+          "Annual 699 india ₹699",
+          "Annual 50 pct ₹499",
+          "weekly ₹149",
+          "Pro+ Monthly Base ₹399"
+        ],
+        "developer_shown": "Stimuler Private Limited",
+        "checked": "2026-10-12",
+        "source": "https://apps.apple.com/in/app/stimuler-english-speaking-app/id1627501632"
+      },
+      "founded_year": "2022 (Entrepreneur India, Apr 2025; YourStory) - partially-verified",
+      "one_line_official_description": "Quote (site): 'AI English Speaking Coach with Instant Feedback'.",
+      "teaching_method": "Voice-first: record 60-second impromptu speeches or chat with AI coach 'Sarah' on 100+ topics, get feedback in under 20-30 seconds on pronunciation, fluency, grammar, vocabulary, fillers, pace and tone; personalised practice plan; IELTS speaking band prediction and live video mock tests.",
+      "dimensions": {
+        "primary_learning_objective": {
+          "value": "English speaking fluency and IELTS speaking preparation for non-native speakers worldwide.",
+          "evidence": "Play: '#1 Global English Fluency App'; IELTS simulation features.",
+          "source": "https://play.google.com/store/apps/details?id=com.stimuler&hl=en_IN"
+        },
+        "target_learner": {
+          "value": "Intermediate learners, IELTS candidates, job-seekers and professionals in 200+ countries (India, LATAM, SEA).",
+          "evidence": "Play: 'community of over 2 million users from more than 200 countries'; funding news cites LATAM/SEA expansion.",
+          "source": "https://play.google.com/store/apps/details?id=com.stimuler&hl=en_IN"
+        },
+        "suitability_for_indian_learners": {
+          "value": "partial",
+          "evidence": "Indian founders, INR pricing, Google Play Best of 2023 India award; but no Indian-language explanations described - English-medium feedback.",
+          "source": "https://play.google.com/store/apps/details?id=com.stimuler&hl=en_IN"
+        },
+        "support_for_absolute_beginners": {
+          "value": "not-verified",
+          "evidence": "Listings target fluency improvement and IELTS; no beginner-from-scratch path described.",
+          "source": "https://play.google.com/store/apps/details?id=com.stimuler&hl=en_IN"
+        },
+        "support_for_indian_languages": {
+          "value": "not-verified",
+          "evidence": "No Hindi or regional-language instruction/translation described on site, Play or App Store (App Store Languages: English).",
+          "source": "https://apps.apple.com/in/app/stimuler-english-speaking-app/id1627501632"
+        },
+        "hindi_guidance": {
+          "value": "not-verified",
+          "evidence": "Not described on official pages.",
+          "source": "https://play.google.com/store/apps/details?id=com.stimuler&hl=en_IN"
+        },
+        "tamil_telugu_regional_support": {
+          "value": "not-verified",
+          "evidence": "Not described on official pages.",
+          "source": "https://play.google.com/store/apps/details?id=com.stimuler&hl=en_IN"
+        },
+        "ai_conversation_practice": {
+          "value": "yes",
+          "evidence": "Site: 'Chat on themes with Sarah!... 20+ exciting themes'; Play: 'over 100 diverse topics... personalized AI mentor'.",
+          "source": "https://stimuler.tech/"
+        },
+        "structured_course_progression": {
+          "value": "partial",
+          "evidence": "Play: 'Personalized Plan... video lessons... dedicated lessons'; a roadmap rather than a level-by-level course.",
+          "source": "https://play.google.com/store/apps/details?id=com.stimuler&hl=en_IN"
+        },
+        "personalised_learning_plans": {
+          "value": "yes",
+          "evidence": "Play: 'we create a unique personalized plan for your goals and speaking skill level'.",
+          "source": "https://play.google.com/store/apps/details?id=com.stimuler&hl=en_IN"
+        },
+        "initial_proficiency_assessment": {
+          "value": "yes",
+          "evidence": "60-second speech test gives instant scores and IELTS band; 'Evaluate Daily with speaking tests'.",
+          "source": "https://stimuler.tech/"
+        },
+        "speaking_practice": {
+          "value": "yes",
+          "evidence": "Impromptu speaking, chat and daily speaking tests.",
+          "source": "https://stimuler.tech/"
+        },
+        "real_life_roleplays": {
+          "value": "partial",
+          "evidence": "Site: 'scenario based practice'; blog lists 'IELTS / interview / workplace scenarios'. Scenario catalogue not detailed.",
+          "source": "https://stimuler.tech/"
+        },
+        "job_interview_english": {
+          "value": "partial",
+          "evidence": "Site extraction lists 'Interview practice scenarios'; blog: 'interview... scenarios'.",
+          "source": "https://stimuler.tech/blog/best-english-fluency-app"
+        },
+        "workplace_english": {
+          "value": "partial",
+          "evidence": "Blog: 'IELTS / interview / workplace scenarios'.",
+          "source": "https://stimuler.tech/blog/best-english-fluency-app"
+        },
+        "everyday_english": {
+          "value": "yes",
+          "evidence": "Play: 'engaging in everyday conversations with your personalized AI mentor'.",
+          "source": "https://play.google.com/store/apps/details?id=com.stimuler&hl=en_IN"
+        },
+        "family_social_conversations": {
+          "value": "partial",
+          "evidence": "Site: themes 'From family to hobbies to technology'.",
+          "source": "https://stimuler.tech/"
+        },
+        "education_student_use_cases": {
+          "value": "yes",
+          "evidence": "IELTS/TOEFL prep: 'over 60 complete IELTS practice tests' (Play); study-abroad positioning.",
+          "source": "https://play.google.com/store/apps/details?id=com.stimuler&hl=en_IN"
+        },
+        "travel_english": {
+          "value": "not-verified",
+          "evidence": "Not described on official pages.",
+          "source": "https://play.google.com/store/apps/details?id=com.stimuler&hl=en_IN"
+        },
+        "pronunciation_practice": {
+          "value": "yes",
+          "evidence": "Instant feedback on pronunciation; 'You mispronounced Horror - RETRY' demo on site.",
+          "source": "https://stimuler.tech/"
+        },
+        "grammar_guidance": {
+          "value": "yes",
+          "evidence": "Feedback on grammar; demo 'You scored 7.5 Band in Grammar'.",
+          "source": "https://stimuler.tech/"
+        },
+        "vocabulary_development": {
+          "value": "yes",
+          "evidence": "Feedback on vocabulary; Play: 'exercises on Pronunciation, Fluency, Grammar, Vocabulary'.",
+          "source": "https://play.google.com/store/apps/details?id=com.stimuler&hl=en_IN"
+        },
+        "ai_feedback": {
+          "value": "yes",
+          "evidence": "Play: 'real-time feedback... in under 20 seconds'; '360-Degree View' incl. fillers, rhythm, tone, pauses.",
+          "source": "https://play.google.com/store/apps/details?id=com.stimuler&hl=en_IN"
+        },
+        "progress_tracking": {
+          "value": "yes",
+          "evidence": "Play: 'immediate feedback on your IELTS band to track your progress'; blog mentions dashboard.",
+          "source": "https://play.google.com/store/apps/details?id=com.stimuler&hl=en_IN"
+        },
+        "gamification": {
+          "value": "not-verified",
+          "evidence": "No streaks/badges/leaderboards described officially.",
+          "source": "https://play.google.com/store/apps/details?id=com.stimuler&hl=en_IN"
+        },
+        "free_tier": {
+          "value": "yes",
+          "evidence": "Play: 'Stimuler has free features for everyone'; App Store: 'Stimuler is FREE for everyone' with premium 'Pro'.",
+          "source": "https://play.google.com/store/apps/details?id=com.stimuler&hl=en_IN"
+        },
+        "subscription_pricing": {
+          "value": "partial",
+          "evidence": "No price page on stimuler.tech (/pricing 404). Play/App Store copy: 'less than $5/month'. App Store (India) SKUs: Monthly ₹199/₹299/₹399, Annual ₹699/₹999/₹1,999, weekly ₹149 (as of 2026-10-12); Play IAP range ₹99–₹3,999.",
+          "source": "https://apps.apple.com/in/app/stimuler-english-speaking-app/id1627501632"
+        },
+        "android": {
+          "value": "yes",
+          "evidence": "Play listing, 1Cr+ downloads.",
+          "source": "https://play.google.com/store/apps/details?id=com.stimuler&hl=en_IN"
+        },
+        "ios": {
+          "value": "yes",
+          "evidence": "App Store (India) listing, iPhone and iPad.",
+          "source": "https://apps.apple.com/in/app/stimuler-english-speaking-app/id1627501632"
+        },
+        "web": {
+          "value": "not-verified",
+          "evidence": "No web learner app found on stimuler.tech.",
+          "source": "https://stimuler.tech/"
+        },
+        "human_tutor_or_ai_only": {
+          "value": "AI only",
+          "evidence": "AI coach Sarah; patented voice AI; no human tutors described.",
+          "source": "https://play.google.com/store/apps/details?id=com.stimuler&hl=en_IN"
+        },
+        "languages_taught": {
+          "value": "English only",
+          "evidence": "All listings describe English.",
+          "source": "https://play.google.com/store/apps/details?id=com.stimuler&hl=en_IN"
+        },
+        "interface_languages": {
+          "value": "English",
+          "evidence": "App Store 'Languages: English'; no other UI languages described.",
+          "source": "https://apps.apple.com/in/app/stimuler-english-speaking-app/id1627501632"
+        }
+      },
+      "key_strengths": [
+        "Fast, granular speech feedback (pronunciation, fluency, grammar, vocabulary, fillers, pace, tone) in under 20-30 seconds.",
+        "IELTS speaking focus: band prediction and live video mock tests with an AI interviewer; 60+ practice tests (Play).",
+        "Google Play Best of 2023 India, 'Best with AI' (as 'Stimuler- IELTS Speaking Coach') - official Google India blog.",
+        "Global footprint: 1Cr+ Play downloads, 4.6 from 217.6K reviews; users in 200+ countries."
+      ],
+      "meaningful_limitations": [
+        "No Indian-language explanations described; feedback and UI in English, which can be hard for absolute beginners.",
+        "No public price list; many overlapping App Store SKUs (₹149 weekly to ₹1,999 annual) make pricing opaque.",
+        "Scenario roleplays (interview/workplace) are only lightly described; core loop is speech analysis rather than guided conversation.",
+        "User-count claims vary across own channels (2M+ on Play, 12M+ on App Store, 13M+ on site)."
+      ],
+      "best_fit_learner_profile": "Intermediate English speakers, especially IELTS/TOEFL candidates and job-seekers, who can already form sentences and want precise, fast AI feedback to polish fluency, pronunciation and band score.",
+      "where_competitor_may_be_better_than_speakx": "IELTS band scoring and video mock tests; very detailed per-speech analytics (fillers, pace, tone); recognised by Google Play Best of 2023 India; serves global learners beyond India.",
+      "notable_facts": [
+        {
+          "fact": "Google Play Best of 2023 (India), category 'Best with AI', winner 'Stimuler- IELTS Speaking Coach'.",
+          "source": "https://blog.google/intl/en-in/products/platforms/google-plays-best-apps-and-games-of-2023-in-india/",
+          "status": "verified (Google India blog)"
+        },
+        {
+          "fact": "Raised USD 3.75M pre-Series A led by Lightspeed and SWC Global (Entrepreneur India, 30 Apr 2025); founders Akshay Akash (CEO), Ankit Kumar Pandey, Anesh Srivastav, Akshat Baranwal; 4M+ installs and 45K+ paying users at the time.",
+          "source": "https://india.entrepreneur.com/news-and-trends/stimuler-raises-usd-375-mn-funding-to-scale-voice-first/490839",
+          "status": "editorial"
+        },
+        {
+          "fact": "Founders listed in Forbes 30 Under 30 Asia 2026 (Consumer & Enterprise Tech) per IIT (BHU) Foundation post.",
+          "source": "https://www.iitbhufoundation.org/from-iit-bhu-to-forbes-30-under-30-the-stimuler-story/",
+          "status": "not-verified against Forbes"
+        },
+        {
+          "fact": "Site claims 13M+ downloads, 200+ countries, 4.8/5 rating.",
+          "source": "https://stimuler.tech/",
+          "status": "company claim"
+        }
+      ],
+      "logo_url": "https://play-lh.googleusercontent.com/iddvYfnXgP4_tkEaLduf9drCYnijJwTZFzo2FtIV61fg-54Mgmpm_O-cxsY8A_Ol0N6bEhc7JEARer6cInxQYQ",
+      "logo_url_status": "HTTP 200 image/png (Play icon), checked 2026-10-12",
+      "brand_color_hex": "#8D48FF / #542BFA (purple gradient in stimuler.tech markup; cyan #2BE1FA, mint #5DD9A5 accents)",
+      "one_line_card_description": "Voice-first AI English coach: 60-second speeches, instant feedback, IELTS band prediction. Free to start.",
+      "one_meaningful_difference_vs_speakx": "Speech-analysis and IELTS scoring in English only; SpeakX teaches via guided voice calls with explanations in 7 Indian languages.",
+      "identity_notes": "Earlier store names: 'Stimuler- IELTS Speaking Coach', 'Stimuler- IELTS Speaking Buddy'. Unrelated to 'Stimulus' brands.",
+      "sources_checked": [
+        "https://stimuler.tech/",
+        "https://play.google.com/store/apps/details?id=com.stimuler&hl=en_IN",
+        "https://apps.apple.com/in/app/stimuler-english-speaking-app/id1627501632",
+        "https://stimuler.tech/about",
+        "https://blog.google/intl/en-in/products/platforms/google-plays-best-apps-and-games-of-2023-in-india/",
+        "https://india.entrepreneur.com/news-and-trends/stimuler-raises-usd-375-mn-funding-to-scale-voice-first/490839",
+        "https://stimuler.tech/blog/best-english-fluency-app",
+        "https://www.stimuler.tech/pricing (404)"
+      ],
+      "confidence": "medium-high (features/ratings verified; pricing partial; HQ via editorial)"
+    },
+    "elsa_speak": {
+      "slug": "elsa-speak",
+      "official_name": "ELSA Speak: English Learning (App Store: 'ELSA Speak - English Learning')",
+      "company": "ELSA Corp",
+      "hq_country": "United States (California; site footer: Los Gatos, CA; operations office in Ho Chi Minh City, Vietnam)",
+      "official_website": "https://elsaspeak.com/en/",
+      "play_url": "https://play.google.com/store/apps/details?id=us.nobarriers.elsa",
+      "app_store_url": "https://apps.apple.com/in/app/elsa-speak-english-learning/id1083804886",
+      "play_listing": {
+        "rating": "4.2 (4.196 raw)",
+        "review_count": "1,013,190",
+        "downloads_tier": "1Cr+ (10M+)",
+        "in_app_purchases": "₹10.00 – ₹46,500.00 per item",
+        "updated_on": "5 Oct 2026",
+        "developer_shown": "ELSA Speak",
+        "checked": "2026-10-12",
+        "source": "https://play.google.com/store/apps/details?id=us.nobarriers.elsa&hl=en_IN"
+      },
+      "app_store_listing": {
+        "rating": "4.6",
+        "review_count": "15,649 ratings (India storefront)",
+        "iap_examples": [
+          "Monthly ₹499",
+          "3 months Elsa Pro ₹909",
+          "3 months Elsa Premium ₹1,189",
+          "1 Year Elsa Premium ₹3,449",
+          "1 year ₹3,599",
+          "1 year ₹12,900"
+        ],
+        "contains_ads": true,
+        "developer_shown": "Elsa Corp",
+        "checked": "2026-10-12",
+        "source": "https://apps.apple.com/in/app/elsa-speak-english-learning/id1083804886"
+      },
+      "founded_year": "2015 (founder Vu Van with Dr. Xavier Anguera; multiple press sources) - partially-verified",
+      "one_line_official_description": "Quote (site): '#1 AI English Speaking App for Fluency and Confidence' (company claim).",
+      "teaching_method": "Pronunciation-first AI coaching: speech recognition scores every syllable; personalised learning path from a pronunciation test; 8,000+ lessons; AI role-plays with specialised coaches (Workplace, Interviews, Dating, Meetings, Presentations); Speech Analyzer; bilingual mode for beginners; gamified lessons.",
+      "dimensions": {
+        "primary_learning_objective": {
+          "value": "English pronunciation, fluency and confident communication for professionals and learners; exam prep.",
+          "evidence": "Play: 'helps professionals and learners speak English with confidence'.",
+          "source": "https://play.google.com/store/apps/details?id=us.nobarriers.elsa&hl=en_IN"
+        },
+        "target_learner": {
+          "value": "Global non-native professionals, job seekers, students, travellers; strongest markets Vietnam, LATAM, Asia (site language menu).",
+          "evidence": "Pricing page 'Who is ELSA for?' lists Professionals, Job Seekers, Students, Travelers & Expats, Self-Learners.",
+          "source": "https://elsaspeak.com/en/elsa-subscription"
+        },
+        "suitability_for_indian_learners": {
+          "value": "partial",
+          "evidence": "Hindi is a supported display/translation language and INR pricing exists, but content is global and there is no Tamil/Telugu support.",
+          "source": "https://elsanow.freshdesk.com/en/support/solutions/articles/31000176417-change-the-display-language-and-enable-translations-"
+        },
+        "support_for_absolute_beginners": {
+          "value": "yes",
+          "evidence": "FAQ: 'I am a beginner, can I study with ELSA?' - yes, lessons from easy to difficult; pricing page: 'Bilingual Support... Explanations in your native language'.",
+          "source": "https://elsaspeak.com/en/faqs-en/"
+        },
+        "support_for_indian_languages": {
+          "value": "partial",
+          "evidence": "Hindi only (display language, translations and bilingual mode per help centre); no other Indian languages.",
+          "source": "https://elsanow.freshdesk.com/en/support/solutions/articles/31000176417-change-the-display-language-and-enable-translations-"
+        },
+        "hindi_guidance": {
+          "value": "yes",
+          "evidence": "Help centre lists Hindi among display and lesson-translation languages (seen via search snippet; article URL returned 404 on direct fetch - partially-verified).",
+          "source": "https://elsanow.freshdesk.com/en/support/solutions/articles/31000176417-change-the-display-language-and-enable-translations-"
+        },
+        "tamil_telugu_regional_support": {
+          "value": "no",
+          "evidence": "Help-centre language lists do not include Tamil or Telugu.",
+          "source": "https://elsanow.freshdesk.com/en/support/solutions/articles/31000176417-change-the-display-language-and-enable-translations-"
+        },
+        "ai_conversation_practice": {
+          "value": "yes",
+          "evidence": "Site: 'AI Conversation Practice: Interactive role-plays... with instant AI feedback'; Play: 'AI-driven Conversations & Open-ended Dialogues'.",
+          "source": "https://elsaspeak.com/en/"
+        },
+        "structured_course_progression": {
+          "value": "yes",
+          "evidence": "Play: 'custom learning pathways'; FAQ: lessons in 'planets' by level.",
+          "source": "https://elsaspeak.com/en/faqs-en/"
+        },
+        "personalised_learning_plans": {
+          "value": "yes",
+          "evidence": "Site: 'AI customizes every lesson and builds a learning path uniquely shaped by your level, goals, progress, preferred accent, and industry focus'.",
+          "source": "https://elsaspeak.com/en/"
+        },
+        "initial_proficiency_assessment": {
+          "value": "yes",
+          "evidence": "FAQ: 'Based on the results of your pronunciation test, Elsa also offers an individual learning path'.",
+          "source": "https://elsaspeak.com/en/faqs-en/"
+        },
+        "speaking_practice": {
+          "value": "yes",
+          "evidence": "Core product is speaking with speech recognition feedback.",
+          "source": "https://play.google.com/store/apps/details?id=us.nobarriers.elsa&hl=en_IN"
+        },
+        "real_life_roleplays": {
+          "value": "yes",
+          "evidence": "Site: five role-play coaches - Workplace, Interviews, Dating, Meetings, Presentations.",
+          "source": "https://elsaspeak.com/en/"
+        },
+        "job_interview_english": {
+          "value": "yes",
+          "evidence": "Play: 'practice job interviews, presentations, meetings'; Interviews coach.",
+          "source": "https://play.google.com/store/apps/details?id=us.nobarriers.elsa&hl=en_IN"
+        },
+        "workplace_english": {
+          "value": "yes",
+          "evidence": "Play: 'Career-Specific Focus'; Workplace and Meetings coaches; 'client calls'.",
+          "source": "https://play.google.com/store/apps/details?id=us.nobarriers.elsa&hl=en_IN"
+        },
+        "everyday_english": {
+          "value": "yes",
+          "evidence": "Play: 'having daily conversations'.",
+          "source": "https://play.google.com/store/apps/details?id=us.nobarriers.elsa&hl=en_IN"
+        },
+        "family_social_conversations": {
+          "value": "partial",
+          "evidence": "Dating coach and daily-conversation content; no family-specific scenarios described.",
+          "source": "https://elsaspeak.com/en/"
+        },
+        "education_student_use_cases": {
+          "value": "yes",
+          "evidence": "Play: exam prep for IELTS, TOEFL, TOEIC, EIKEN (Premium); ELSA for Schools.",
+          "source": "https://play.google.com/store/apps/details?id=us.nobarriers.elsa&hl=en_IN"
+        },
+        "travel_english": {
+          "value": "partial",
+          "evidence": "Pricing page lists 'Travelers & Expats' as an audience; travel scenarios not detailed.",
+          "source": "https://elsaspeak.com/en/elsa-subscription"
+        },
+        "pronunciation_practice": {
+          "value": "yes",
+          "evidence": "Flagship: 'correct pronunciation errors to every syllable' (FAQ); accent choices American/British/Australian.",
+          "source": "https://elsaspeak.com/en/faqs-en/"
+        },
+        "grammar_guidance": {
+          "value": "yes",
+          "evidence": "Play: 'Grammar coach'; 'English Grammar & Study Vocabulary'.",
+          "source": "https://play.google.com/store/apps/details?id=us.nobarriers.elsa&hl=en_IN"
+        },
+        "vocabulary_development": {
+          "value": "yes",
+          "evidence": "Play: 'Personalized English Study Sets'; career-specific vocabulary.",
+          "source": "https://play.google.com/store/apps/details?id=us.nobarriers.elsa&hl=en_IN"
+        },
+        "ai_feedback": {
+          "value": "yes",
+          "evidence": "Play: 'real-time feedback'; Speech Analyzer gives detailed reports.",
+          "source": "https://play.google.com/store/apps/details?id=us.nobarriers.elsa&hl=en_IN"
+        },
+        "progress_tracking": {
+          "value": "yes",
+          "evidence": "Play: 'Superior Quantitative Progress Tracking'; site: visual dashboards.",
+          "source": "https://play.google.com/store/apps/details?id=us.nobarriers.elsa&hl=en_IN"
+        },
+        "gamification": {
+          "value": "yes",
+          "evidence": "Play: 'interactive AI-powered games'; pricing page: 'Gamified Learning Experience'.",
+          "source": "https://elsaspeak.com/en/elsa-subscription"
+        },
+        "free_tier": {
+          "value": "yes",
+          "evidence": "FAQ: free version includes the Welcome planet and first 2 lessons of every topic; 7-day Premium trial (Play).",
+          "source": "https://elsaspeak.com/en/faqs-en/"
+        },
+        "subscription_pricing": {
+          "value": "partial",
+          "evidence": "Pricing page (elsaspeak.com/en/elsa-subscription) advertises '7 days free trial' but prices load dynamically; App Store (India) SKUs: Monthly ₹499, 3 months Pro ₹909, 1 Year Premium ₹3,449, 1 year ₹12,900 (as of 2026-10-12); Play IAP range ₹10–₹46,500.",
+          "source": "https://apps.apple.com/in/app/elsa-speak-english-learning/id1083804886"
+        },
+        "android": {
+          "value": "yes",
+          "evidence": "Play listing, 1Cr+ downloads, 1.01M reviews.",
+          "source": "https://play.google.com/store/apps/details?id=us.nobarriers.elsa&hl=en_IN"
+        },
+        "ios": {
+          "value": "yes",
+          "evidence": "App Store (India) listing, iPhone and iPad.",
+          "source": "https://apps.apple.com/in/app/elsa-speak-english-learning/id1083804886"
+        },
+        "web": {
+          "value": "partial",
+          "evidence": "Speech Analyzer web tool (speechanalyzer.elsaspeak.com) and 'ELSA on Web' exist; older FAQ says app cannot be used on PC. Help article on laptop version returned 404 to fetch.",
+          "source": "https://speechanalyzer.elsaspeak.com/"
+        },
+        "human_tutor_or_ai_only": {
+          "value": "AI only",
+          "evidence": "FAQ: 'there won't be any online classes or exchanges with native speakers/teachers'.",
+          "source": "https://elsaspeak.com/en/faqs-en/"
+        },
+        "languages_taught": {
+          "value": "English only",
+          "evidence": "All ELSA products teach English.",
+          "source": "https://elsaspeak.com/en/"
+        },
+        "interface_languages": {
+          "value": "English, Vietnamese, Japanese, Indonesian, Portuguese, Spanish, Chinese (Traditional/Simplified), Thai, Korean, French, German, Turkish, Hindi (per help centre via search snippet)",
+          "evidence": "Site language menu shows EN, Tiếng Việt, 日本語, Indonesia, Português, Español, 中文(台灣), ไทย; help centre adds Hindi, Korean, French, German, Turkish.",
+          "source": "https://elsaspeak.com/en/faqs-en/"
+        }
+      },
+      "key_strengths": [
+        "Deep pronunciation technology: syllable-level scoring, accent choice, Speech Analyzer with test-score predictions.",
+        "Role-play coaches for Workplace, Interviews, Meetings, Presentations; career-specific vocabulary; exam prep (IELTS/TOEFL/TOEIC).",
+        "Large global footprint: 1Cr+ Play downloads, 1.01M Play reviews; 92M+ downloads claimed; B2B/schools offerings (1,300+ organisations claimed).",
+        "Hindi display language and bilingual mode for beginners."
+      ],
+      "meaningful_limitations": [
+        "Lowest Play rating in this set (4.2 from 1.01M reviews, 12 Oct 2026).",
+        "Only Hindi among Indian languages; no Tamil, Telugu, Kannada, Malayalam, Marathi or Bengali.",
+        "Free tier is thin (first 2 lessons per topic); premium SKUs in India are complex (₹499/month to ₹12,900/year).",
+        "Oriented to pronunciation drills; voice-call style free conversation is a newer add-on rather than the core."
+      ],
+      "best_fit_learner_profile": "Intermediate professionals and exam candidates who want to fix pronunciation and accent with precise feedback, practise workplace/interview role-plays, and can work in English (or Hindi) UI.",
+      "where_competitor_may_be_better_than_speakx": "Pronunciation analytics at syllable level, accent selection, exam-prep (IELTS/TOEFL/TOEIC) tracks, web-based Speech Analyzer, and enterprise/school programmes.",
+      "notable_facts": [
+        {
+          "fact": "Founded 2015 by Vu Van (CEO) with speech scientist Xavier Anguera; Series C of $23M led by UOB Venture Management (press).",
+          "source": "https://peopleofcolorintech.com/articles/english-language-app-secures-23m-series-c-launches-personal-ai-tutor/",
+          "status": "editorial, partially-verified"
+        },
+        {
+          "fact": "Site claims 92M+ downloads, 90M+ learners, 4.9-star rating, 1,300+ organisations.",
+          "source": "https://elsaspeak.com/en/elsa-subscription",
+          "status": "company claim"
+        },
+        {
+          "fact": "Play listing: Honorable Mention, Fast Company World Changing Ideas 2020 (AI & Data); EdTech Digest Top 100 Influencers 2020.",
+          "source": "https://play.google.com/store/apps/details?id=us.nobarriers.elsa&hl=en_IN",
+          "status": "company listing claim"
+        }
+      ],
+      "logo_url": "https://play-lh.googleusercontent.com/FeJdCUKfEw7ABZCxecfOj8f44JMBjfwCgcF4vflsD3-UB5pyPkmw7Q4sKCsc4MlLOm3tNAuJ04waLoW__VL4Hio",
+      "logo_url_status": "HTTP 200 image/jpeg (Play icon), checked 2026-10-12; site favicon also 200: https://elsaspeak.com/wp-content/uploads/2021/07/cropped-ms-icon-310x310-1-192x192.png",
+      "brand_color_hex": "not-verified",
+      "one_line_card_description": "Global AI pronunciation coach with syllable-level feedback, role-play coaches and exam prep; Hindi UI.",
+      "one_meaningful_difference_vs_speakx": "Pronunciation-first drills with Hindi-only Indian support; SpeakX leads with voice-call roleplays in 7 Indian languages.",
+      "identity_notes": "ELSA = English Language Speech Assistant; Play package us.nobarriers.elsa; support domain elsanow.io.",
+      "sources_checked": [
+        "https://elsaspeak.com/en/",
+        "https://elsaspeak.com/en/elsa-subscription",
+        "https://elsaspeak.com/en/faqs-en/",
+        "https://play.google.com/store/apps/details?id=us.nobarriers.elsa&hl=en_IN",
+        "https://apps.apple.com/in/app/elsa-speak-english-learning/id1083804886",
+        "https://elsanow.freshdesk.com/en/support/solutions/articles/31000176417-change-the-display-language-and-enable-translations- (404 on fetch; content via search snippet)",
+        "https://elsanow.freshdesk.com/en/support/solutions/articles/31000177604-does-elsa-have-a-computer-laptop-version- (404 on fetch)",
+        "https://elsaspeak.com/en/pricing/ (404)"
+      ],
+      "confidence": "high on features; medium on interface-language list and HQ"
+    },
+    "speak": {
+      "slug": "speak",
+      "official_name": "Speak: Language Learning",
+      "company": "Speakeasy Labs, Inc.",
+      "hq_country": "United States (San Francisco)",
+      "official_website": "https://www.speak.com/",
+      "play_url": "https://play.google.com/store/apps/details?id=com.selabs.speak",
+      "app_store_url": "https://apps.apple.com/in/app/speak-language-learning/id1286609883",
+      "play_listing": {
+        "rating": "4.6 (4.584 raw)",
+        "review_count": "124,317",
+        "downloads_tier": "1Cr+ (10M+)",
+        "in_app_purchases": "₹1,199.00 – ₹26,000.00 per item",
+        "updated_on": "8 Oct 2026",
+        "developer_shown": "Speakeasy Labs",
+        "checked": "2026-10-12",
+        "source": "https://play.google.com/store/apps/details?id=com.selabs.speak&hl=en_IN"
+      },
+      "app_store_listing": {
+        "rating": "4.6",
+        "review_count": "192 ratings (India storefront)",
+        "iap_examples": [
+          "Monthly Subscription ₹1,949",
+          "Monthly Premium ₹2,299",
+          "Annual Subscription ₹4,999",
+          "Annual Premium ₹9,900",
+          "Annual Premium Plus ₹22,900"
+        ],
+        "languages": "English and 15 more incl. Hindi",
+        "developer_shown": "Speakeasy Labs",
+        "checked": "2026-10-12",
+        "source": "https://apps.apple.com/in/app/speak-language-learning/id1286609883"
+      },
+      "founded_year": "2016 (founders Connor Zwick, Andrew Hsu; press) - partially-verified",
+      "one_line_official_description": "Quote (site): 'An expert-crafted curriculum, personalized by AI.'",
+      "teaching_method": "'The Speak Method': Learn (expert-built lesson with a local teacher) -> Practice (repeat phrases aloud) -> Apply (open conversation with the AI Speak Tutor) with real-time pronunciation and phrasing feedback; Premium Plus adds 'Made for You' lessons and custom review.",
+      "dimensions": {
+        "primary_learning_objective": {
+          "value": "Speaking fluency in a new language (English for non-English speakers; Spanish/French/Japanese/Korean/Italian/Chinese for English speakers).",
+          "evidence": "Help centre language article.",
+          "source": "https://help.speak.com/en/articles/8880569-what-languages-can-i-learn-with-speak"
+        },
+        "target_learner": {
+          "value": "Global adult learners (13+), historically strongest in Korea, Japan, Taiwan; English course offered to Hindi speakers.",
+          "evidence": "Site regional versions (ko, jp, tw, hk, cn, es, pt-br, fr, de); help centre lists Hindi.",
+          "source": "https://help.speak.com/en/articles/8880569-what-languages-can-i-learn-with-speak"
+        },
+        "suitability_for_indian_learners": {
+          "value": "partial",
+          "evidence": "English course for Hindi speakers exists, but no other Indian languages, no India-specific scenarios, and India pricing (₹2,299/month Premium) is high.",
+          "source": "https://apps.apple.com/in/app/speak-language-learning/id1286609883"
+        },
+        "support_for_absolute_beginners": {
+          "value": "yes",
+          "evidence": "Play: 'Whether you're a beginner or an advanced learner, Speak caters to your individual needs'.",
+          "source": "https://play.google.com/store/apps/details?id=com.selabs.speak&hl=en_IN"
+        },
+        "support_for_indian_languages": {
+          "value": "partial",
+          "evidence": "Hindi only: 'I Speak' Hindi -> English course (help centre); Hindi among 16 App Store app languages.",
+          "source": "https://help.speak.com/en/articles/8880569-what-languages-can-i-learn-with-speak"
+        },
+        "hindi_guidance": {
+          "value": "yes",
+          "evidence": "Help centre: English offered for native speakers incl. Hindi.",
+          "source": "https://help.speak.com/en/articles/8880569-what-languages-can-i-learn-with-speak"
+        },
+        "tamil_telugu_regional_support": {
+          "value": "no",
+          "evidence": "Help-centre list has no Tamil/Telugu; App Store languages list none either.",
+          "source": "https://help.speak.com/en/articles/8880569-what-languages-can-i-learn-with-speak"
+        },
+        "ai_conversation_practice": {
+          "value": "yes",
+          "evidence": "Site: 'Real back-and-forth conversations with the Speak Tutor AI'.",
+          "source": "https://www.speak.com/"
+        },
+        "structured_course_progression": {
+          "value": "yes",
+          "evidence": "Site: expert-built curriculum; Play: 'comprehensive language learning curriculum'.",
+          "source": "https://play.google.com/store/apps/details?id=com.selabs.speak&hl=en_IN"
+        },
+        "personalised_learning_plans": {
+          "value": "yes",
+          "evidence": "Site: 'personalized by AI'; Premium Plus 'Made for You lessons'.",
+          "source": "https://www.speak.com/"
+        },
+        "initial_proficiency_assessment": {
+          "value": "not-verified",
+          "evidence": "No placement test described on fetched official pages.",
+          "source": "https://www.speak.com/"
+        },
+        "speaking_practice": {
+          "value": "yes",
+          "evidence": "Play: 'getting you speaking... out loud on day 1'.",
+          "source": "https://play.google.com/store/apps/details?id=com.selabs.speak&hl=en_IN"
+        },
+        "real_life_roleplays": {
+          "value": "yes",
+          "evidence": "Play: 'immersive speaking practice sessions that simulate real-life scenarios'.",
+          "source": "https://play.google.com/store/apps/details?id=com.selabs.speak&hl=en_IN"
+        },
+        "job_interview_english": {
+          "value": "not-verified",
+          "evidence": "Not described on fetched official pages.",
+          "source": "https://play.google.com/store/apps/details?id=com.selabs.speak&hl=en_IN"
+        },
+        "workplace_english": {
+          "value": "not-verified",
+          "evidence": "Not described on fetched official pages.",
+          "source": "https://play.google.com/store/apps/details?id=com.selabs.speak&hl=en_IN"
+        },
+        "everyday_english": {
+          "value": "yes",
+          "evidence": "Play: 'Learn real-life, essential phrases'.",
+          "source": "https://play.google.com/store/apps/details?id=com.selabs.speak&hl=en_IN"
+        },
+        "family_social_conversations": {
+          "value": "not-verified",
+          "evidence": "Not described on fetched official pages.",
+          "source": "https://play.google.com/store/apps/details?id=com.selabs.speak&hl=en_IN"
+        },
+        "education_student_use_cases": {
+          "value": "not-verified",
+          "evidence": "No exam/student track described.",
+          "source": "https://play.google.com/store/apps/details?id=com.selabs.speak&hl=en_IN"
+        },
+        "travel_english": {
+          "value": "partial",
+          "evidence": "Real-life scenario practice implies travel use; not explicitly listed.",
+          "source": "https://play.google.com/store/apps/details?id=com.selabs.speak&hl=en_IN"
+        },
+        "pronunciation_practice": {
+          "value": "yes",
+          "evidence": "Site: 'Pronunciation and phrasing feedback as you speak'.",
+          "source": "https://www.speak.com/"
+        },
+        "grammar_guidance": {
+          "value": "yes",
+          "evidence": "Play: 'real-time feedback on pronunciations, grammar, and much more'.",
+          "source": "https://play.google.com/store/apps/details?id=com.selabs.speak&hl=en_IN"
+        },
+        "vocabulary_development": {
+          "value": "yes",
+          "evidence": "Lessons teach essential phrases; custom review from mistakes (Premium Plus).",
+          "source": "https://www.speak.com/"
+        },
+        "ai_feedback": {
+          "value": "yes",
+          "evidence": "Play: 'analyzes your speech, providing valuable assessment on pronunciation, intonation, and fluency'.",
+          "source": "https://play.google.com/store/apps/details?id=com.selabs.speak&hl=en_IN"
+        },
+        "progress_tracking": {
+          "value": "yes",
+          "evidence": "Play: 'personalized progress tracking'.",
+          "source": "https://play.google.com/store/apps/details?id=com.selabs.speak&hl=en_IN"
+        },
+        "gamification": {
+          "value": "partial",
+          "evidence": "Site mentions streaks in Premium; no leaderboards/badges described.",
+          "source": "https://www.speak.com/"
+        },
+        "free_tier": {
+          "value": "partial",
+          "evidence": "7-day free trial (site); Play: 'free trial' then auto-renewing membership required for full access. No permanent free tier described.",
+          "source": "https://www.speak.com/"
+        },
+        "subscription_pricing": {
+          "value": "partial",
+          "evidence": "No public price page (speak.com/pricing 404; 'varies by region'). App Store (India) SKUs: Monthly Subscription ₹1,949, Monthly Premium ₹2,299, Annual Subscription ₹4,999, Annual Premium ₹9,900, Annual Premium Plus ₹22,900 (as of 2026-10-12); Play IAP range ₹1,199–₹26,000.",
+          "source": "https://apps.apple.com/in/app/speak-language-learning/id1286609883"
+        },
+        "android": {
+          "value": "yes",
+          "evidence": "Play listing, 1Cr+ downloads.",
+          "source": "https://play.google.com/store/apps/details?id=com.selabs.speak&hl=en_IN"
+        },
+        "ios": {
+          "value": "yes",
+          "evidence": "App Store (India) listing, iPhone and iPad.",
+          "source": "https://apps.apple.com/in/app/speak-language-learning/id1286609883"
+        },
+        "web": {
+          "value": "no",
+          "evidence": "Help centre: 'Speak is not available on desktop (PC)'.",
+          "source": "https://help.speak.com/en/articles/9334794-what-devices-and-operating-systems-does-the-speak-app-support"
+        },
+        "human_tutor_or_ai_only": {
+          "value": "AI only",
+          "evidence": "AI Speak Tutor; lesson videos feature teachers but no live human tutoring.",
+          "source": "https://www.speak.com/"
+        },
+        "languages_taught": {
+          "value": "English (for 15 native languages), Spanish, French, Japanese, Korean, Italian, Simplified Chinese (for English speakers)",
+          "evidence": "Help centre article.",
+          "source": "https://help.speak.com/en/articles/8880569-what-languages-can-i-learn-with-speak"
+        },
+        "interface_languages": {
+          "value": "English, French, German, Hindi, Indonesian, Italian, Japanese, Korean, Polish, Portuguese, Simplified Chinese, Spanish, Thai, Traditional Chinese, Turkish, Vietnamese",
+          "evidence": "App Store 'Languages' field.",
+          "source": "https://apps.apple.com/in/app/speak-language-learning/id1286609883"
+        }
+      },
+      "key_strengths": [
+        "Strong AI conversation tutor with real-time pronunciation and phrasing feedback; OpenAI partnership (site).",
+        "Expert-built curriculum with a clear Learn -> Practice -> Apply loop.",
+        "Multi-language: English for 15 native languages plus six other target languages.",
+        "Well funded: $78M Series C at $1B valuation (Nov 2024, press); 15M+ downloads claimed."
+      ],
+      "meaningful_limitations": [
+        "Expensive in India: Premium ₹2,299/month on the App Store (vs SpeakX ₹299); no permanent free tier, only a 7-day trial.",
+        "Indian-language support limited to Hindi; tiny India App Store footprint (192 ratings).",
+        "No web/desktop version.",
+        "No interview/workplace/exam tracks described on official pages."
+      ],
+      "best_fit_learner_profile": "Globally mobile, higher-income learners who want premium AI conversation practice and are comfortable with an English or Hindi interface; also English speakers learning Spanish, French, Japanese, Korean, Italian or Chinese.",
+      "where_competitor_may_be_better_than_speakx": "Teaches six other languages; OpenAI-partnered tutor with 'Made for You' lessons; broader global interface-language support (16 languages).",
+      "notable_facts": [
+        {
+          "fact": "Backed by OpenAI Startup Fund; formal OpenAI partnership (site).",
+          "source": "https://www.speak.com/",
+          "status": "verified on official site"
+        },
+        {
+          "fact": "$78M Series C led by Accel, Nov 2024, $1B valuation; total ~$162M raised (press/databases).",
+          "source": "https://www.unite.ai/speak-secures-78m-series-c-funding-at-1b-valuation-to-transform-ai-powered-language-learning/",
+          "status": "editorial, partially-verified"
+        },
+        {
+          "fact": "Site claims 15M+ downloads and 4.8 rating across stores.",
+          "source": "https://www.speak.com/",
+          "status": "company claim"
+        }
+      ],
+      "logo_url": "https://cdn.prod.website-files.com/61a88c135006e8345b005efd/6577ac86d3e376c4d5f8243e_logo.svg",
+      "logo_url_status": "HTTP 200 image/svg+xml (official site logo), checked 2026-10-12; Play icon alt: https://play-lh.googleusercontent.com/B8OICldFwhV66WnijbpJ0a5gvvMxs1yi9RksW2BeR70O2514ihdwge0_75r9bsKsYamBgEQ7R6Lq1wEauX_x4Q (200)",
+      "brand_color_hex": "not-verified",
+      "one_line_card_description": "OpenAI-backed language app with an AI tutor; English (incl. for Hindi speakers) plus six other languages.",
+      "one_meaningful_difference_vs_speakx": "Premium global tutor at ₹2,299/month with Hindi-only Indian support; SpeakX is ₹299/month in 7 Indian languages.",
+      "identity_notes": "Speak (speak.com, Speakeasy Labs) is a different company from SpeakX. Not to be confused with 'Speak AI' (speakai.co, transcription) or 'SpeakApp'.",
+      "sources_checked": [
+        "https://www.speak.com/",
+        "https://play.google.com/store/apps/details?id=com.selabs.speak&hl=en_IN",
+        "https://apps.apple.com/in/app/speak-language-learning/id1286609883",
+        "https://help.speak.com/en/articles/8880569-what-languages-can-i-learn-with-speak",
+        "https://help.speak.com/en/articles/9334794-what-devices-and-operating-systems-does-the-speak-app-support",
+        "https://www.speak.com/pricing (404)"
+      ],
+      "confidence": "high on features/platforms; medium on pricing (store SKUs only)",
+      "logo_url_play_icon": "https://play-lh.googleusercontent.com/B8OICldFwhV66WnijbpJ0a5gvvMxs1yi9RksW2BeR70O2514ihdwge0_75r9bsKsYamBgEQ7R6Lq1wEauX_x4Q=s512 (Google Play icon, used on the site because the website SVG is a wide wordmark)"
+    }
+  },
+  "dimension_keys": [
+    "primary_learning_objective",
+    "target_learner",
+    "suitability_for_indian_learners",
+    "support_for_absolute_beginners",
+    "support_for_indian_languages",
+    "hindi_guidance",
+    "tamil_telugu_regional_support",
+    "ai_conversation_practice",
+    "structured_course_progression",
+    "personalised_learning_plans",
+    "initial_proficiency_assessment",
+    "speaking_practice",
+    "real_life_roleplays",
+    "job_interview_english",
+    "workplace_english",
+    "everyday_english",
+    "family_social_conversations",
+    "education_student_use_cases",
+    "travel_english",
+    "pronunciation_practice",
+    "grammar_guidance",
+    "vocabulary_development",
+    "ai_feedback",
+    "progress_tracking",
+    "gamification",
+    "free_tier",
+    "subscription_pricing",
+    "android",
+    "ios",
+    "web",
+    "human_tutor_or_ai_only",
+    "languages_taught",
+    "interface_languages"
+  ],
+  "value_scale": [
+    "yes",
+    "partial",
+    "no",
+    "not-verified"
+  ],
+  "notes": [
+    "All Play figures are from the en_IN/gl=IN listing pages fetched 2026-10-12; ratings rounded to one decimal as displayed, raw value in parentheses.",
+    "App Store figures are from the India (in) storefront; IAP SKU prices are as listed on the storefront page and are not a commitment of current in-app offers.",
+    "Prices from third-party roundups were deliberately excluded. Where an official price page does not exist or did not render, subscription_pricing is 'partial' (store SKUs only) or 'not-verified'.",
+    "Free-text dimensions (primary_learning_objective, target_learner, human_tutor_or_ai_only, languages_taught, interface_languages, subscription_pricing descriptions) carry descriptive values rather than the 4-value scale.",
+    "SpeakX: never say 'free trial' (trial costs ₹2), never '14 Indian languages', never '4.6+ rating' (homepage shows '4.6+' but Play displays 4.5 - use Play). Use the Play URL only as an href.",
+    "Supernova identity: confirmed as 'Supernova AI: Spoken English' by L8 Cones Interactive Pvt Ltd (getsupernova.ai). Name collides with unrelated Supernova products; the company's legacy 'Supernova for Kids' site is not the comparison target.",
+    "MySivi website (mysivi.ai) blocks automated fetching (Vercel checkpoint 429/403); feature and pricing data come from Play/App Store listings, YC and Inc42.",
+    "Duolingo and Speak do not publish regional prices on public pages; Duolingo DAU/MAU from SEC filings via search results.",
+    "Funding figures for Supernova conflict across databases (Inc42 vs Tracxn) and are flagged 'conflicting'.",
+    "Logo URLs are Play Store icon CDN URLs (verified HTTP 200 on 2026-10-12) except Speak, where the official site SVG logo was used."
+  ]
+}

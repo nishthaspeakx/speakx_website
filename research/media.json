@@ -1,0 +1,3024 @@
+{
+  "checked": "2026-10-12",
+  "scope": "Public media inventory for SpeakX (Ivypods Technology Pvt Ltd, Gurugram; founder Arpit Mittal)",
+  "method": "WebSearch (62 queries) + WebFetch/curl verification of each candidate URL; HTTP status, byline, date, sponsor labels and SpeakX hyperlinks extracted from page HTML where reachable.",
+  "items": [
+    {
+      "publication": "Inc42",
+      "article_title": "Exclusive: MS Dhoni Joins Edtech Startup SpeakX's Cap Table",
+      "url": "https://inc42.com/buzz/exclusive-ms-dhoni-joins-edtech-startup-speakxs-cap-table/",
+      "url_source": "fetched-200",
+      "author": "Palak Sharma",
+      "date": "2026-09-01",
+      "category": "funding",
+      "key_verified_claim": "MS Dhoni joined SpeakX's cap table on undisclosed terms as part of a larger round planned for next year; Inc42 reports ~2 lakh active paid subscribers, FY26 revenue of INR 45 Cr with EBITDA profitability, and an FY27 projection of INR 70-80 Cr.",
+      "link_type": "independent-editorial",
+      "links_to_speakx": "no",
+      "is_syndication_of": null,
+      "verification_status": "verified",
+      "date_checked": "2026-10-12",
+      "recommended_placement": "as-seen-in",
+      "notes": "Flagship independent piece. Also states prior $16 Mn pre-Series B led by WestBridge and >$20 Mn raised to date; subscription INR 299/month; 'no human touchpoint' other than support."
+    },
+    {
+      "publication": "Inc42",
+      "article_title": "[Update] SpeakX Raises $16 Mn To Offer English Learning Course In Regional Languages",
+      "url": "https://inc42.com/buzz/speakx-raises-16-mn-to-offer-english-learning-course-in-regional-languages/",
+      "url_source": "fetched-200",
+      "author": "Palak Sharma",
+      "date": "2025-10-14",
+      "category": "funding",
+      "key_verified_claim": "SpeakX secured $16 Mn (~INR 142 Cr) in a pre-Series B round led by WestBridge Capital with Elevation Capital, Goodwater Capital, OpenAI's Shyamal Anadkat and upGrad's Ronnie Screwvala; 70% of learners are Hindi speakers and Telugu, Tamil, Marathi, Bengali launches were planned within a year.",
+      "link_type": "independent-editorial",
+      "links_to_speakx": "no",
+      "is_syndication_of": null,
+      "verification_status": "verified",
+      "date_checked": "2026-10-12",
+      "recommended_placement": "in-the-news",
+      "notes": "Inc42 had earlier reported the round in advance ('Months after Inc42 reported...')."
+    },
+    {
+      "publication": "Inc42",
+      "article_title": "A Timely Pivot: How GenAI Allowed SpeakX To Find A New Edtech Mission",
+      "url": "https://inc42.com/startups/a-timely-pivot-how-genai-allowed-speakx-to-find-a-new-edtech-mission/",
+      "url_source": "fetched-200",
+      "author": "Ankush Das",
+      "date": "2026-01-13",
+      "category": "founder-interview",
+      "key_verified_claim": "Long-form profile: ~140,000 paying subscribers in India at INR 299/month, profitable for over a year, 20-member team; Yellow Class (2020) pivoted to SpeakX in 2023 and co-founder Anshul Gupta stepped down, leaving Arpit Mittal as CEO.",
+      "link_type": "independent-editorial",
+      "links_to_speakx": "not-checked",
+      "is_syndication_of": null,
+      "verification_status": "verified",
+      "date_checked": "2026-10-12",
+      "recommended_placement": "as-seen-in",
+      "notes": "Strong founder-story source. Figures are self-reported to Inc42."
+    },
+    {
+      "publication": "Inc42",
+      "article_title": "Human-AI Hybrid: The New Reality For Indian Startups",
+      "url": "https://inc42.com/features/human-ai-hybrid-the-new-reality-for-indian-startups/",
+      "url_source": "fetched-200",
+      "author": "Ankush Das",
+      "date": "2026-01-07",
+      "category": "opinion/byline",
+      "key_verified_claim": "Feature cites SpeakX as an example of an automation-first edtech: a 20-member team with 'zero human touchpoint' in learning delivery, quoting Arpit Mittal.",
+      "link_type": "independent-editorial",
+      "links_to_speakx": "not-checked",
+      "is_syndication_of": null,
+      "verification_status": "verified",
+      "date_checked": "2026-10-12",
+      "recommended_placement": "sources-only",
+      "notes": "Mention within a broader feature, not a SpeakX article."
+    },
+    {
+      "publication": "Inc42",
+      "article_title": "Meet The 20 Startups Selected For Google's AI First Accelerator",
+      "url": "https://inc42.com/buzz/meet-the-20-startups-selected-for-googles-ai-first-accelerator/",
+      "url_source": "fetched-200",
+      "author": "Amit Singh & Palak Sharma",
+      "date": "2024-07-18",
+      "category": "product",
+      "key_verified_claim": "SpeakX (erstwhile Yellow Class) was one of 20 startups selected for the first cohort of Google for Startups Accelerator: AI First in India; the article notes the shift in focus from kids to adults and the 2021 $6 Mn Series A.",
+      "link_type": "independent-editorial",
+      "links_to_speakx": "not-checked",
+      "is_syndication_of": null,
+      "verification_status": "verified",
+      "date_checked": "2026-10-12",
+      "recommended_placement": "in-the-news",
+      "notes": "Supports the 'Google for Startups' logo on speakx.ai."
+    },
+    {
+      "publication": "Inc42",
+      "article_title": "Indian Startup ESOP Buybacks Unlocked Over $158 Mn In 2025",
+      "url": "https://inc42.com/buzz/indian-startups-esop-buybacks-employees-2025-review/",
+      "url_source": "fetched-200",
+      "author": "Ananya Upadhyaya",
+      "date": "2025-12-01",
+      "category": "funding",
+      "key_verified_claim": "Year-end review notes SpeakX's first $1 Mn ESOP buyback in Nov 2025 benefiting 15 of 20 team members.",
+      "link_type": "independent-editorial",
+      "links_to_speakx": "not-checked",
+      "is_syndication_of": null,
+      "verification_status": "verified",
+      "date_checked": "2026-10-12",
+      "recommended_placement": "sources-only",
+      "notes": "Mention within a roundup."
+    },
+    {
+      "publication": "Inc42",
+      "article_title": "Top 30 Funded Edtech Startups In Gurugram (2026)",
+      "url": "https://inc42.com/lists/top-30-funded-edtech-startups-in-gurugram-2026/",
+      "url_source": "fetched-200",
+      "author": "Inc42 Staff",
+      "date": "2026",
+      "category": "directory",
+      "key_verified_claim": "Lists SpeakX at #13 with $23.3 Mn total funding, founded 2020, pivoted from Yellow Class into spoken-English learning.",
+      "link_type": "directory-listing",
+      "links_to_speakx": "not-checked",
+      "is_syndication_of": null,
+      "verification_status": "verified",
+      "date_checked": "2026-10-12",
+      "recommended_placement": "sources-only",
+      "notes": ""
+    },
+    {
+      "publication": "Inc42 (company profile)",
+      "article_title": "speakX - A Funded Edtech Startup Based Out Of Gurugram",
+      "url": "https://inc42.com/company/speakx/",
+      "url_source": "fetched-200",
+      "author": "Inc42 Datalabs",
+      "date": "n/a",
+      "category": "directory",
+      "key_verified_claim": "Profile lists founders Anshul Gupta and Arpit Mittal, Gurugram HQ, $23.3 Mn across 4 rounds, last (undisclosed) round dated 2026-09-01.",
+      "link_type": "directory-listing",
+      "links_to_speakx": "no",
+      "is_syndication_of": null,
+      "verification_status": "verified",
+      "date_checked": "2026-10-12",
+      "recommended_placement": "sources-only",
+      "notes": "Description is STALE ('children... ivykids.in') - never use publicly."
+    },
+    {
+      "publication": "Moneycontrol",
+      "article_title": "SpeakX app wants to make learning English more useful than talking to ChatGPT",
+      "url": "https://www.moneycontrol.com/technology/speakx-app-wants-to-make-learning-english-more-useful-than-talking-to-chatgpt-article-14028161.html",
+      "url_source": "fetched-200",
+      "author": "MC Tech Desk",
+      "date": "2026-09-11",
+      "category": "product",
+      "key_verified_claim": "SpeakX has crossed one crore learners since its 2023 rebrand from Yellow Class; around half its users come from Tier-2/3 cities (Jaipur, Lucknow, Indore, Patna, Surat) and the company says 78% of potential customers are first-generation English learners.",
+      "link_type": "independent-editorial",
+      "links_to_speakx": "no",
+      "is_syndication_of": null,
+      "verification_status": "verified",
+      "date_checked": "2026-10-12",
+      "recommended_placement": "as-seen-in",
+      "notes": "No Brand Connect/sponsored label found in HTML. WebFetch is blocked for moneycontrol.com; verified via curl (HTTP 200). Targets 'Urban Bharat': young professionals, homemakers, small-business owners."
+    },
+    {
+      "publication": "Times of India - Education Times",
+      "article_title": "How English learning apps are helping first-generation learners",
+      "url": "https://www.educationtimes.com/news/how-english-learning-apps-are-helping-first-generation-learners/articleshow/134285453.cms",
+      "url_source": "fetched-200",
+      "author": "Rounak Bhat",
+      "date": "2026-09-17",
+      "category": "product",
+      "key_verified_claim": "Roundup on English-learning apps quoting Arpit Mittal; states SpeakX has 70% first-generation English learners among enrolled/potential learners and 82% with high intent to learn English.",
+      "link_type": "independent-editorial",
+      "links_to_speakx": "no",
+      "is_syndication_of": null,
+      "verification_status": "verified",
+      "date_checked": "2026-10-12",
+      "recommended_placement": "as-seen-in",
+      "notes": "Hosted on educationtimes.com (Times Group's Education Times); page title carries 'The Times of India'. Not a SpeakX-only article."
+    },
+    {
+      "publication": "ET Entrepreneur (Economic Times)",
+      "article_title": "MS Dhoni backs AI-based English learning platform SpeakX (page title: 'MS Dhoni Invests in AI-Powered English Learning Platform SpeakX')",
+      "url": "https://entrepreneur.economictimes.indiatimes.com/news/funding/ms-dhoni-backs-ai-based-english-learning-platform-speakx/133677517",
+      "url_source": "fetched-200",
+      "author": "Bhuvana Kamath",
+      "date": "2026-09-01",
+      "category": "funding",
+      "key_verified_claim": "Dhoni invested an undisclosed amount; company said it crossed 1 crore learners with 10 lakh subscribers added in the last six months and that four in five active learners speak English in over 90% of platform interactions.",
+      "link_type": "independent-editorial",
+      "links_to_speakx": "no",
+      "is_syndication_of": null,
+      "verification_status": "verified",
+      "date_checked": "2026-10-12",
+      "recommended_placement": "as-seen-in",
+      "notes": "No sponsored/Brand Connect label (the word 'Advertorial' appears only in the site navigation menu). Says 'Founded in 2024' and '16 languages' - conflicts with SHARED-CONTEXT (7 Indian languages)."
+    },
+    {
+      "publication": "ET Entrepreneur (Economic Times)",
+      "article_title": "Revolutionizing Language Learning: How SpeakX is Transforming English Education with AI (on-page headline: 'How SpeakX is using AI to rewrite the economics of language learning')",
+      "url": "https://entrepreneur.economictimes.indiatimes.com/news/startups/revolutionizing-language-learning-how-speakx-is-transforming-english-education-with-ai/132072224",
+      "url_source": "fetched-200",
+      "author": "Bhuvana Kamath",
+      "date": "2026-06-29",
+      "category": "founder-interview",
+      "key_verified_claim": "Interview-led feature on SpeakX replacing human-led instruction with AI tutors to serve Tier-II/III users affordably while keeping margins; founder quotes to ETEntrepreneur.",
+      "link_type": "independent-editorial",
+      "links_to_speakx": "no",
+      "is_syndication_of": null,
+      "verification_status": "verified",
+      "date_checked": "2026-10-12",
+      "recommended_placement": "as-seen-in",
+      "notes": "Editorial byline, no sponsored label found. URL slug/title tag differ from on-page H1."
+    },
+    {
+      "publication": "VCCircle",
+      "article_title": "WestBridge-backed SpeakX targets 4x revenue growth in FY27",
+      "url": "https://www.vccircle.com/westbridgebacked-speakx-targets-4x-revenue-growth-in-fy27",
+      "url_source": "fetched-200",
+      "author": "Aman Rawat",
+      "date": "2026-04-30",
+      "category": "funding",
+      "key_verified_claim": "SpeakX.ai is aiming for a fourfold jump in revenue in the financial year ending March 2027 (lede only; remainder is paywalled Premium).",
+      "link_type": "independent-editorial",
+      "links_to_speakx": "not-checked",
+      "is_syndication_of": null,
+      "verification_status": "partially-verified",
+      "date_checked": "2026-10-12",
+      "recommended_placement": "as-seen-in",
+      "notes": "HTTP 200 but Premium paywall; only the lede was readable. Treat detailed numbers as not verified."
+    },
+    {
+      "publication": "Deccan Herald",
+      "article_title": "MS Dhoni invests in AI-powered English-speaking and communication platform SpeakX",
+      "url": "https://www.deccanherald.com/technology/artificial-intelligence/ms-dhoni-invests-in-ai-powered-english-speaking-and-communication-platform-speakx-4131303",
+      "url_source": "fetched-200",
+      "author": "Uma Kannan",
+      "date": "2026-09-01",
+      "category": "funding",
+      "key_verified_claim": "Reports Dhoni's investment and ambassador role; SpeakX uses AI for situation-based English practice.",
+      "link_type": "independent-editorial",
+      "links_to_speakx": "no",
+      "is_syndication_of": null,
+      "verification_status": "verified",
+      "date_checked": "2026-10-12",
+      "recommended_placement": "as-seen-in",
+      "notes": "Mainstream daily; 'DH Brandspot' appears only in site nav, not on this story."
+    },
+    {
+      "publication": "Entrackr",
+      "article_title": "Edtech startup SpeakX raises $16 Mn led by WestBridge",
+      "url": "https://entrackr.com/news/edtech-startup-speakx-raises-16-mn-led-by-westbridge-10559891",
+      "url_source": "fetched-200",
+      "author": "Shashank Pathak",
+      "date": "2025-10-14",
+      "category": "funding",
+      "key_verified_claim": "$16 Mn round led by WestBridge with Elevation, Goodwater, Ronnie Screwvala and Shyamal Anadkat; prior funding of $7.3 Mn ($1.3 Mn seed led by India Quotient; $6 Mn Series A led by Elevation in 2021).",
+      "link_type": "independent-editorial",
+      "links_to_speakx": "no",
+      "is_syndication_of": null,
+      "verification_status": "verified",
+      "date_checked": "2026-10-12",
+      "recommended_placement": "in-the-news",
+      "notes": "Calls the round 'Series B' (others say pre-Series B). Description 'for children and young learners' is stale - do not reuse."
+    },
+    {
+      "publication": "Entrackr",
+      "article_title": "Edtech startup SpeakX announces $1 Mn ESOP buyback for 15 employees",
+      "url": "https://entrackr.com/snippets/edtech-startup-speakx-announces-1-mn-esop-buyback-for-15-employees-10810376",
+      "url_source": "fetched-200",
+      "author": "Shashank Pathak",
+      "date": "2025-11-25",
+      "category": "funding",
+      "key_verified_claim": "First ESOP buyback worth $1 Mn benefiting 15 of 20 employees; total raised to date $23.3 Mn.",
+      "link_type": "independent-editorial",
+      "links_to_speakx": "no",
+      "is_syndication_of": null,
+      "verification_status": "verified",
+      "date_checked": "2026-10-12",
+      "recommended_placement": "in-the-news",
+      "notes": ""
+    },
+    {
+      "publication": "Entrepreneur India (india.entrepreneur.com)",
+      "article_title": "SpeakX.ai Raises USD 16 Mn to Strengthen AI-Powered English Learning",
+      "url": "https://india.entrepreneur.com/news-and-trends/speakxai-raises-usd-16-mn-to-strengthen-ai-powered-english/498354",
+      "url_source": "fetched-200",
+      "author": "Entrepreneur Staff",
+      "date": "2025-10-15",
+      "category": "funding",
+      "key_verified_claim": "Company claims 1 Mn+ monthly learners, 200,000 paying subscribers, USD 7.5 Mn ARR and EBITDA-positive since April 2025 (~USD 150K monthly profit).",
+      "link_type": "independent-editorial",
+      "links_to_speakx": "no",
+      "is_syndication_of": null,
+      "verification_status": "verified",
+      "date_checked": "2026-10-12",
+      "recommended_placement": "in-the-news",
+      "notes": "Entrepreneur magazine's India licensee - distinct from entrepreneurindia.com (Franchise India)."
+    },
+    {
+      "publication": "Outlook Business",
+      "article_title": "SpeakX.ai Raises $16 Mn from WestBridge Capital, Eyes Regional-Language Expansion Amid Profitable Growth",
+      "url": "https://www.outlookbusiness.com/corporate/speakxai-raises-16-mn-from-westbridge-capital-eyes-regional-language-expansion-amid-profitable-growth",
+      "url_source": "fetched-200",
+      "author": "Outlook Start-Up Desk (curated by Shashank Bhatt)",
+      "date": "2025-10-16",
+      "category": "funding",
+      "key_verified_claim": "Reports ~200,000 paying subscribers, ~$7.5 Mn ARR, EBITDA-positive since April 2025, 35% month-three retention, and a target of INR 100 Cr annual EBITDA by 2026.",
+      "link_type": "independent-editorial",
+      "links_to_speakx": "no",
+      "is_syndication_of": null,
+      "verification_status": "verified",
+      "date_checked": "2026-10-12",
+      "recommended_placement": "in-the-news",
+      "notes": "Desk-curated; metrics are company-provided."
+    },
+    {
+      "publication": "YourStory",
+      "article_title": "Gen AI-driven English speaking platform SpeakX secures $16M in pre-Series B led by WestBridge",
+      "url": "https://yourstory.com/2025/10/gen-ai-english-speaking-speakx-funding-westbridge-elevation",
+      "url_source": "seen-in-search",
+      "author": "YourStory",
+      "date": "2025-10",
+      "category": "funding",
+      "key_verified_claim": "Search snippet: $16 Mn pre-Series B led by WestBridge with Elevation, Goodwater and angels; funds for AI, team and regional languages.",
+      "link_type": "independent-editorial",
+      "links_to_speakx": "not-checked",
+      "is_syndication_of": null,
+      "verification_status": "partially-verified",
+      "date_checked": "2026-10-12",
+      "recommended_placement": "in-the-news",
+      "notes": "URL seen verbatim in search results; fetch blocked by Cloudflare (403) - confirm live manually before publishing."
+    },
+    {
+      "publication": "YourStory",
+      "article_title": "This startup uses GenAI to help users fine-tune English speaking skills",
+      "url": "https://yourstory.com/2025/02/speakx-startup-genai-help-users-improve-english-skills",
+      "url_source": "seen-in-search",
+      "author": "YourStory",
+      "date": "2025-02",
+      "category": "founder-interview",
+      "key_verified_claim": "Search snippet: SpeakX had ~50,000 subscribers at the time, about half from Tier II/III cities in North India; began as Yellow Class before pivoting.",
+      "link_type": "independent-editorial",
+      "links_to_speakx": "not-checked",
+      "is_syndication_of": null,
+      "verification_status": "partially-verified",
+      "date_checked": "2026-10-12",
+      "recommended_placement": "in-the-news",
+      "notes": "Fetch blocked (403). Figures are Feb 2025 vintage."
+    },
+    {
+      "publication": "TICE News",
+      "article_title": "From Small Town Dreams to Global Classrooms: How SpeakX Is Rewriting India's EdTech Story with AI",
+      "url": "https://www.tice.news/know-this/from-small-town-dreams-to-global-classrooms-how-speakx-is-rewriting-indias-edtech-story-with-ai-11802352",
+      "url_source": "fetched-200",
+      "author": "Team TICE",
+      "date": "2026-05-05",
+      "category": "founder-interview",
+      "key_verified_claim": "Profile claims 200,000+ active paying subscribers, ~$7.5 Mn ARR, INR 299/month, EBITDA profitability, and names investors WestBridge, Elevation, Goodwater, India Quotient; cites founder's prior exits Edcited (CoCubes) and Roofpik (FastFox).",
+      "link_type": "independent-editorial",
+      "links_to_speakx": "no",
+      "is_syndication_of": null,
+      "verification_status": "verified",
+      "date_checked": "2026-10-12",
+      "recommended_placement": "in-the-news",
+      "notes": "No sponsored label, but tone is promotional. States 'INR 209.43 crore raised' and '2 million users' - both unverified and inconsistent with $23.3 Mn total elsewhere."
+    },
+    {
+      "publication": "Business Today",
+      "article_title": "Union Budget bets on 'Education to Employment and Enterprise' model as edtech sees AI-led skills boom",
+      "url": "https://www.businesstoday.in/union-budget/news/story/union-budget-bets-on-education-to-employment-and-enterprise-model-as-edtech-sees-ai-led-skills-boom-514225-2026-02-02",
+      "url_source": "fetched-200",
+      "author": "Aishwarya Panda",
+      "date": "2026-02-02",
+      "category": "opinion/byline",
+      "key_verified_claim": "Quotes Arpit Mittal (Founder & CEO, SpeakX.ai) welcoming the education-to-employment standing committee.",
+      "link_type": "independent-editorial",
+      "links_to_speakx": "no",
+      "is_syndication_of": null,
+      "verification_status": "verified",
+      "date_checked": "2026-10-12",
+      "recommended_placement": "in-the-news",
+      "notes": "Expert quote only."
+    },
+    {
+      "publication": "Business Today",
+      "article_title": "AI for a New India: Powering Progress, Driving Purpose",
+      "url": "https://www.businesstoday.in/opinion/columns/story/ai-for-a-new-india-powering-progress-driving-purpose-489613-2025-08-15",
+      "url_source": "fetched-200",
+      "author": "Arundhati Bhattacharya (column)",
+      "date": "2025-08-15",
+      "category": "opinion/byline",
+      "key_verified_claim": "Column cites SpeakX as a platform improving communication skills for professionals and job readiness.",
+      "link_type": "independent-editorial",
+      "links_to_speakx": "no",
+      "is_syndication_of": null,
+      "verification_status": "verified",
+      "date_checked": "2026-10-12",
+      "recommended_placement": "sources-only",
+      "notes": "Passing mention in a third-party opinion column."
+    },
+    {
+      "publication": "Analytics India Magazine (AIM)",
+      "article_title": "SpeakX Raises $16M Pre-Series B to Scale AI-Powered Spoken English Learning",
+      "url": "https://analyticsindiamag.com/ai-news-updates/speakx-raises-16m-pre-series-b-to-scale-ai-powered-spoken-english-learning/",
+      "url_source": "seen-in-search",
+      "author": "AIM",
+      "date": "2025-10",
+      "category": "funding",
+      "key_verified_claim": "Search snippet: pivoted Jan 2024 from hobby classes to an AI-first language product, downsizing from ~200 to 20 staff; $16 Mn pre-Series B led by WestBridge.",
+      "link_type": "independent-editorial",
+      "links_to_speakx": "not-checked",
+      "is_syndication_of": null,
+      "verification_status": "partially-verified",
+      "date_checked": "2026-10-12",
+      "recommended_placement": "in-the-news",
+      "notes": "HTTP 200 but article body is JS-rendered; content taken from search snippet."
+    },
+    {
+      "publication": "Indian Startup News",
+      "article_title": "AI-powered English learning startup SpeakX.ai raises Rs 142 crore from WestBridge, others",
+      "url": "https://indianstartupnews.com/funding/ai-powered-english-learning-startup-speakxai-raises-rs-142-crore-from-westbridge-others-10560120",
+      "url_source": "fetched-200",
+      "author": "ISN Team",
+      "date": "2025-10-14",
+      "category": "funding",
+      "key_verified_claim": "Reports INR 5 Cr monthly revenue, INR 1.5 Cr monthly profit, 200,000+ paying subscribers and 10 Mn+ users; platform runs on Google Gemini.",
+      "link_type": "independent-editorial",
+      "links_to_speakx": "no",
+      "is_syndication_of": null,
+      "verification_status": "verified",
+      "date_checked": "2026-10-12",
+      "recommended_placement": "in-the-news",
+      "notes": "Startup-news site; metrics company-provided."
+    },
+    {
+      "publication": "Indian Startup News",
+      "article_title": "Indian cricket icon MS Dhoni invests in SPEAKX; says, 'Learning English is not about learning another subject'",
+      "url": "https://indianstartupnews.com/funding/indian-cricket-icon-ms-dhoni-invests-in-speakx-says-learning-english-is-not-about-learning-another-subject-12483904",
+      "url_source": "fetched-200",
+      "author": "ISN Team",
+      "date": "2026-09-02",
+      "category": "funding",
+      "key_verified_claim": "Undisclosed Dhoni investment; 1 crore+ learners; 10 lakh subscribers added in six months.",
+      "link_type": "independent-editorial",
+      "links_to_speakx": "no",
+      "is_syndication_of": null,
+      "verification_status": "verified",
+      "date_checked": "2026-10-12",
+      "recommended_placement": "in-the-news",
+      "notes": "Largely follows the press release."
+    },
+    {
+      "publication": "StartupTalky",
+      "article_title": "Arpit Mittal on How SpeakX Is Cracking India's English-Speaking Puzzle with AI",
+      "url": "https://startuptalky.com/arpit-mittal-speakx-shares-insights/",
+      "url_source": "fetched-200",
+      "author": "Muskaan Kapoor",
+      "date": "2025-04-25",
+      "category": "founder-interview",
+      "key_verified_claim": "Q&A: 10 Mn+ downloads, 125,000+ paying monthly users, ~$4 Mn annual revenue and $1 Mn+ profit as of April 2025; selected for Google for Startups Accelerator (Apps).",
+      "link_type": "independent-editorial",
+      "links_to_speakx": "no",
+      "is_syndication_of": null,
+      "verification_status": "verified",
+      "date_checked": "2026-10-12",
+      "recommended_placement": "founder",
+      "notes": ""
+    },
+    {
+      "publication": "Indian Startup Times",
+      "article_title": "Building an AI-Powered Platform to Help 100 Million Indians Find Their Voice in English",
+      "url": "https://www.indianstartuptimes.com/interviews/building-an-ai-powered-platform-to-help-100-million-indians-find-their-voice-in-english/",
+      "url_source": "fetched-200",
+      "author": "Arushi Agarwal",
+      "date": "2026-09-21",
+      "category": "founder-interview",
+      "key_verified_claim": "Interview: 10 Mn learners, 200,000 paying subscribers, $7.5 Mn ARR; paid users average 13.7 minutes of daily speaking practice; 67% first-month retention.",
+      "link_type": "independent-editorial",
+      "links_to_speakx": "no",
+      "is_syndication_of": null,
+      "verification_status": "verified",
+      "date_checked": "2026-10-12",
+      "recommended_placement": "founder",
+      "notes": "Small outlet; figures self-reported."
+    },
+    {
+      "publication": "HRKatha",
+      "article_title": "SpeakX.ai launches $1 mn ESOP buyback for employees",
+      "url": "https://www.hrkatha.com/news/speakx-ai-launches-1-mn-esop-buyback-for-employees/",
+      "url_source": "fetched-200",
+      "author": "HRK News Bureau",
+      "date": "2025-11-26",
+      "category": "funding",
+      "key_verified_claim": "20-member team collectively holds 6% equity; ESOPs vest after two years with a 10-year validity.",
+      "link_type": "independent-editorial",
+      "links_to_speakx": "no",
+      "is_syndication_of": null,
+      "verification_status": "verified",
+      "date_checked": "2026-10-12",
+      "recommended_placement": "in-the-news",
+      "notes": "HR trade press, PR-based."
+    },
+    {
+      "publication": "Social Samosa",
+      "article_title": "SpeakX signs Mahindra Singh Dhoni as brand ambassador",
+      "url": "https://www.socialsamosa.com/industry-updates/speakx-mahindra-singh-dhoni-brand-ambassador-12503872",
+      "url_source": "fetched-200",
+      "author": "Social Samosa",
+      "date": "2026-09-07",
+      "category": "product",
+      "key_verified_claim": "SpeakX launched the digital video campaign 'Muh Khol, English Bol' with Dhoni as brand ambassador following his investment.",
+      "link_type": "independent-editorial",
+      "links_to_speakx": "no",
+      "is_syndication_of": null,
+      "verification_status": "verified",
+      "date_checked": "2026-10-12",
+      "recommended_placement": "in-the-news",
+      "notes": "Headline misspells 'Mahendra' as 'Mahindra'. Marketing trade press."
+    },
+    {
+      "publication": "MediaNews4U",
+      "article_title": "SpeakX Brings MS Dhoni On Board as Brand Ambassador for Its 'Muh Khol, English Bol' Campaign",
+      "url": "https://www.medianews4u.com/speakx-brings-ms-dhoni-on-board-as-brand-ambassador-for-its-muh-khol-english-bol-campaign/",
+      "url_source": "fetched-200",
+      "author": "MN4U Bureau",
+      "date": "2026-09-05",
+      "category": "product",
+      "key_verified_claim": "Campaign conceptualised with Mumbai agency ZeroFifty Mediaworks; Dhoni also appears inside the app at learner milestones.",
+      "link_type": "independent-editorial",
+      "links_to_speakx": "no",
+      "is_syndication_of": null,
+      "verification_status": "verified",
+      "date_checked": "2026-10-12",
+      "recommended_placement": "in-the-news",
+      "notes": "Marketing trade press."
+    },
+    {
+      "publication": "Adgully",
+      "article_title": "SPEAKX ropes in MS Dhoni as brand ambassador for new campaign",
+      "url": "https://www.adgully.com/post/20181/speakx-ropes-in-ms-dhoni-as-brand-ambassador-for-new-campaign",
+      "url_source": "seen-in-search",
+      "author": "Adgully Bureau",
+      "date": "2026-09",
+      "category": "product",
+      "key_verified_claim": "Campaign announcement (per search snippet).",
+      "link_type": "independent-editorial",
+      "links_to_speakx": "not-checked",
+      "is_syndication_of": null,
+      "verification_status": "partially-verified",
+      "date_checked": "2026-10-12",
+      "recommended_placement": "in-the-news",
+      "notes": "HTTP 200 but JS-rendered; body not extracted."
+    },
+    {
+      "publication": "Sportzpower",
+      "article_title": "SpeakX brings MS Dhoni on board as brand ambassador",
+      "url": "https://sportzpower.com/speakx-brings-ms-dhoni-on-board-as-brand-ambassador/",
+      "url_source": "fetched-200",
+      "author": "SportzPower Team",
+      "date": "2026-09-07",
+      "category": "product",
+      "key_verified_claim": "Campaign aimed at 'Urban Bharat', to be scaled to broadcast placements.",
+      "link_type": "independent-editorial",
+      "links_to_speakx": "no",
+      "is_syndication_of": null,
+      "verification_status": "verified",
+      "date_checked": "2026-10-12",
+      "recommended_placement": "sources-only",
+      "notes": "Sports-business trade; PR-based."
+    },
+    {
+      "publication": "SportsMint Media",
+      "article_title": "MS Dhoni backs SpeakX in AI learning push",
+      "url": "https://sportsmintmedia.com/ms-dhoni-backs-speakx-in-ai-learning-push/",
+      "url_source": "fetched-200",
+      "author": "Aashay Khandelwal",
+      "date": "2026-09-07",
+      "category": "funding",
+      "key_verified_claim": "Dhoni joins as strategic investor and ambassador; SpeakX has raised $20 Mn+ from WestBridge, Elevation and others.",
+      "link_type": "independent-editorial",
+      "links_to_speakx": "no",
+      "is_syndication_of": null,
+      "verification_status": "verified",
+      "date_checked": "2026-10-12",
+      "recommended_placement": "sources-only",
+      "notes": ""
+    },
+    {
+      "publication": "Amar Ujala Bonus",
+      "article_title": "Why Skill Literacy Is Just As Important To India As Financial Literacy",
+      "url": "https://www.amarujalabonus.com/news/why-skill-literacy-is-just-as-important-to-india-as-financial-literacy",
+      "url_source": "fetched-200",
+      "author": "Arpit Mittal (authored); page author 'Thebonus Digital Team'",
+      "date": "2026-04-28",
+      "category": "opinion/byline",
+      "key_verified_claim": "Founder-authored op-ed arguing India needs skill literacy anchored in communication alongside financial literacy.",
+      "link_type": "independent-editorial",
+      "links_to_speakx": "no",
+      "is_syndication_of": null,
+      "verification_status": "verified",
+      "date_checked": "2026-10-12",
+      "recommended_placement": "founder",
+      "notes": "Contributed op-ed, not reporting. Hosted on amarujalabonus.com (Amar Ujala's English digital brand 'Bonus'), not amarujala.com - label as 'Amar Ujala Bonus'."
+    },
+    {
+      "publication": "Republic World",
+      "article_title": "From Completion to Capability: How SpeakX Turns Learning into Real Usage",
+      "url": "https://www.republicworld.com/initiatives/from-completion-to-capability-how-speakx-turns-learning-into-real-usage",
+      "url_source": "fetched-200",
+      "author": "Initiative Desk",
+      "date": "2026-04-27",
+      "category": "opinion/byline",
+      "key_verified_claim": "Argues usage ('did the user actually use English today?') rather than completion is SpeakX's success metric; names AI mentor Sia.",
+      "link_type": "sponsored-or-branded",
+      "links_to_speakx": "no",
+      "is_syndication_of": null,
+      "verification_status": "verified",
+      "date_checked": "2026-10-12",
+      "recommended_placement": "sources-only",
+      "notes": "Published under the 'Initiatives' section with 'Initiative Desk' byline - a branded/partner-content section. Do not present as independent coverage."
+    },
+    {
+      "publication": "ANI (PNN)",
+      "article_title": "The Role of AI in Revolutionizing Language Learning: How SpeakX is Leading the Way",
+      "url": "https://www.aninews.in/news/business/the-role-of-ai-in-revolutionizing-language-learning-how-speakx-is-leading-the-way20240806164735/",
+      "url_source": "fetched-200",
+      "author": "PNN (paid newswire) / Arpit Mittal",
+      "date": "2024-08-06",
+      "category": "syndication",
+      "key_verified_claim": "Paid press release stating 50% of SpeakX learners come from Tier 2/3 cities.",
+      "link_type": "sponsored-or-branded",
+      "links_to_speakx": "no",
+      "is_syndication_of": null,
+      "verification_status": "verified",
+      "date_checked": "2026-10-12",
+      "recommended_placement": "exclude",
+      "notes": "Carries 'Disclaimer: The above press release has been provided by PNN. ANI will not be responsible...'. Content refers to 2024 kids-era positioning."
+    },
+    {
+      "publication": "Business Standard (ANI press releases)",
+      "article_title": "The Role of AI in Revolutionizing Language Learning: How SpeakX is Leading the Way",
+      "url": "https://www.business-standard.com/content/press-releases-ani/the-role-of-ai-in-revolutionizing-language-learning-how-speakx-is-leading-the-way-124080601315_1.html",
+      "url_source": "fetched-200",
+      "author": "PNN via ANI",
+      "date": "2024-08-06",
+      "category": "syndication",
+      "key_verified_claim": "Same PNN press release republished in Business Standard's press-release section.",
+      "link_type": "sponsored-or-branded",
+      "links_to_speakx": "no",
+      "is_syndication_of": "https://www.aninews.in/news/business/the-role-of-ai-in-revolutionizing-language-learning-how-speakx-is-leading-the-way20240806164735/",
+      "verification_status": "verified",
+      "date_checked": "2026-10-12",
+      "recommended_placement": "exclude",
+      "notes": "URL path '/content/press-releases-ani/' - not Business Standard editorial. Do not use the BS logo on the strength of this."
+    },
+    {
+      "publication": "The Indian Alert",
+      "article_title": "The Role of AI in Revolutionizing Language Learning: How SpeakX is Leading the Way",
+      "url": "https://theindianalert.com/the-role-of-ai-in-revolutionizing-language-learning-how-speakx-is-leading-the-way/",
+      "url_source": "seen-in-search",
+      "author": "PNN",
+      "date": "2024-08",
+      "category": "syndication",
+      "key_verified_claim": "Same PNN release.",
+      "link_type": "sponsored-or-branded",
+      "links_to_speakx": "not-checked",
+      "is_syndication_of": "https://www.aninews.in/news/business/the-role-of-ai-in-revolutionizing-language-learning-how-speakx-is-leading-the-way20240806164735/",
+      "verification_status": "not-verified",
+      "date_checked": "2026-10-12",
+      "recommended_placement": "exclude",
+      "notes": "Seen in search only."
+    },
+    {
+      "publication": "WebNewswire",
+      "article_title": "MS DHONI INVESTS IN SPEAKX, BACKING THE FUTURE OF AI-POWERED ENGLISH LEARNING IN INDIA",
+      "url": "https://www.webnewswire.com/2026/09/01/ms-dhoni-invests-in-speakx-backing-the-future-of-ai-powered-english-learning-in-india/",
+      "url_source": "fetched-200",
+      "author": "Correspondent (wire)",
+      "date": "2026-09-01",
+      "category": "syndication",
+      "key_verified_claim": "Canonical press-release text: launched 2024; 1 crore+ learners; 10 lakh subscribers in six months; 4 in 5 active learners use English in >90% of interactions; 16+ languages goal.",
+      "link_type": "sponsored-or-branded",
+      "links_to_speakx": "no",
+      "is_syndication_of": null,
+      "verification_status": "verified",
+      "date_checked": "2026-10-12",
+      "recommended_placement": "sources-only",
+      "notes": "Useful as the canonical PR text for the Dhoni announcement."
+    },
+    {
+      "publication": "Digital Terminal",
+      "article_title": "MS Dhoni Invests in SpeakX to Back AI-Powered English Learning in India",
+      "url": "https://digitalterminal.in/edutech/ms-dhoni-invests-in-speakx-to-back-ai-powered-english-learning-in-india",
+      "url_source": "fetched-200",
+      "author": "NDM News Network",
+      "date": "2026-09-02",
+      "category": "syndication",
+      "key_verified_claim": "Press-release rewrite of the Dhoni announcement.",
+      "link_type": "sponsored-or-branded",
+      "links_to_speakx": "no",
+      "is_syndication_of": "https://www.webnewswire.com/2026/09/01/ms-dhoni-invests-in-speakx-backing-the-future-of-ai-powered-english-learning-in-india/",
+      "verification_status": "verified",
+      "date_checked": "2026-10-12",
+      "recommended_placement": "sources-only",
+      "notes": ""
+    },
+    {
+      "publication": "Business News This Week",
+      "article_title": "MS Dhoni Invests in SpeakX, Backing AI-Powered English Learning in India",
+      "url": "https://businessnewsthisweek.com/technology/ms-dhoni-invests-in-speakx-backing-ai-powered-english-learning-in-india/",
+      "url_source": "fetched-200",
+      "author": "Neel Achary",
+      "date": "2026-09-01",
+      "category": "syndication",
+      "key_verified_claim": "Press-release republication.",
+      "link_type": "sponsored-or-branded",
+      "links_to_speakx": "no",
+      "is_syndication_of": "https://www.webnewswire.com/2026/09/01/ms-dhoni-invests-in-speakx-backing-the-future-of-ai-powered-english-learning-in-india/",
+      "verification_status": "verified",
+      "date_checked": "2026-10-12",
+      "recommended_placement": "exclude",
+      "notes": ""
+    },
+    {
+      "publication": "Technosports",
+      "article_title": "MS Dhoni Backs AI English Learning App SpeakX",
+      "url": "https://technosports.co.in/ms-dhoni-invests-in-ai-powered-english/",
+      "url_source": "fetched-200",
+      "author": "Reetam Bodhak",
+      "date": "2026-09-01",
+      "category": "syndication",
+      "key_verified_claim": "PR rewrite of the Dhoni announcement.",
+      "link_type": "sponsored-or-branded",
+      "links_to_speakx": "no (links to speakx.app - wrong domain)",
+      "is_syndication_of": "https://www.webnewswire.com/2026/09/01/ms-dhoni-invests-in-speakx-backing-the-future-of-ai-powered-english-learning-in-india/",
+      "verification_status": "verified",
+      "date_checked": "2026-10-12",
+      "recommended_placement": "exclude",
+      "notes": "Links to 'speakx.app' which is not a SpeakX property as far as we know."
+    },
+    {
+      "publication": "The Reelstars",
+      "article_title": "MS Dhoni Becomes SpeakX Brand Ambassador For English Learning Campaign",
+      "url": "https://www.thereelstars.com/tech/ms-dhoni-becomes-speakx-brand-ambassador-for-english-learning-campaign/",
+      "url_source": "fetched-200",
+      "author": "Team Reelstars",
+      "date": "2026-09-25",
+      "category": "product",
+      "key_verified_claim": "Campaign 'Muh Khol, English Bol' by ZeroFifty Mediaworks; Dhoni appears at learner milestones.",
+      "link_type": "sponsored-or-branded",
+      "links_to_speakx": "no",
+      "is_syndication_of": null,
+      "verification_status": "verified",
+      "date_checked": "2026-10-12",
+      "recommended_placement": "sources-only",
+      "notes": "Entertainment site; PR-based."
+    },
+    {
+      "publication": "ViEstories",
+      "article_title": "MS Dhoni Invests In AI-Powered English Speaking App SpeakX",
+      "url": "https://viestories.com/startupnews/ms-dhoni-invests-in-ai-powered-english-speaking-app-speakx-12480315",
+      "url_source": "fetched-200",
+      "author": "Ajay Kumar",
+      "date": "2026-09-01",
+      "category": "syndication",
+      "key_verified_claim": "PR-based report of Dhoni investment.",
+      "link_type": "sponsored-or-branded",
+      "links_to_speakx": "no",
+      "is_syndication_of": null,
+      "verification_status": "verified",
+      "date_checked": "2026-10-12",
+      "recommended_placement": "exclude",
+      "notes": ""
+    },
+    {
+      "publication": "ViEstories",
+      "article_title": "SpeakX raises $16 million from WestBridge, others",
+      "url": "https://viestories.com/funding-alert/speakx-raises-16-million-from-westbridge-others-10559446",
+      "url_source": "fetched-200",
+      "author": "Jitendra Swami",
+      "date": "2025-10-14",
+      "category": "funding",
+      "key_verified_claim": "Reports $66 Mn post-money valuation (up from $25 Mn in 2021) and ~70% Hindi-speaking learners.",
+      "link_type": "independent-editorial",
+      "links_to_speakx": "no",
+      "is_syndication_of": null,
+      "verification_status": "verified",
+      "date_checked": "2026-10-12",
+      "recommended_placement": "sources-only",
+      "notes": "Valuation figure is attributed to reports, not confirmed by the company."
+    },
+    {
+      "publication": "Arab Founders",
+      "article_title": "India-Based EdTech Startup SpeakX Raises $16M to Expand Generative AI-Powered English Learning Platform",
+      "url": "https://arabfounders.net/en/speakx-raises-16m-ai-english-learning/",
+      "url_source": "fetched-200",
+      "author": "Arab Founders (editorial)",
+      "date": "2025-10-15",
+      "category": "funding",
+      "key_verified_claim": "Repeats $66 Mn post-money, 1 Mn+ monthly learners, 200K paying subscribers, $7.5 Mn ARR, EBITDA-positive April 2025; Jan 2024 AI-native pivot.",
+      "link_type": "independent-editorial",
+      "links_to_speakx": "no",
+      "is_syndication_of": null,
+      "verification_status": "verified",
+      "date_checked": "2026-10-12",
+      "recommended_placement": "sources-only",
+      "notes": "Aggregator-style rewrite."
+    },
+    {
+      "publication": "CEO Vine",
+      "article_title": "SpeakX Raises $16 Million Pre-Series B Funding Led by WestBridge Capital",
+      "url": "https://www.ceovine.com/speakx-raises-16-million-pre-series-b",
+      "url_source": "fetched-200",
+      "author": "Team CEO VINE",
+      "date": "2025-10-15",
+      "category": "funding",
+      "key_verified_claim": "Total funding $23.3 Mn; aspiration of a $300-400 Mn India business within three years.",
+      "link_type": "independent-editorial",
+      "links_to_speakx": "no",
+      "is_syndication_of": null,
+      "verification_status": "verified",
+      "date_checked": "2026-10-12",
+      "recommended_placement": "exclude",
+      "notes": "Contains errors ('Founded in 2024 by Arpit Mittal')."
+    },
+    {
+      "publication": "Quatro Hive",
+      "article_title": "SpeakX raises $16 million from WestBridge, others, pivots to an English-learning app",
+      "url": "https://quatrohive.com/speakx-raises-16-million-from-westbridge-others-pivots-to-an-english-learning-app/",
+      "url_source": "fetched-200",
+      "author": "QH Editorial Team",
+      "date": "2025-10-14",
+      "category": "syndication",
+      "key_verified_claim": "Rewrite of the funding news.",
+      "link_type": "independent-editorial",
+      "links_to_speakx": "no",
+      "is_syndication_of": "https://entrackr.com/news/edtech-startup-speakx-raises-16-mn-led-by-westbridge-10559891",
+      "verification_status": "verified",
+      "date_checked": "2026-10-12",
+      "recommended_placement": "exclude",
+      "notes": "Headline mirrors Entrackr's framing."
+    },
+    {
+      "publication": "Deccan Founders",
+      "article_title": "AI-driven English Learning Startup SpeakX.ai Raises $16 Million Amid Edtech Slowdown",
+      "url": "https://deccanfounders.com/2025/15/news/ai-driven-english-learning-startup-speakx-ai-raises-16-million-amid-edtech-slowdown/",
+      "url_source": "fetched-200",
+      "author": "Deccan_Admin",
+      "date": "2025-10-15",
+      "category": "funding",
+      "key_verified_claim": "Reports INR 5 Cr monthly revenue and INR 1.5 Cr monthly profit; 90% smaller team after the 2023 pivot.",
+      "link_type": "independent-editorial",
+      "links_to_speakx": "no",
+      "is_syndication_of": null,
+      "verification_status": "verified",
+      "date_checked": "2026-10-12",
+      "recommended_placement": "exclude",
+      "notes": "Factual error: names founder as 'Anshul Mittal'."
+    },
+    {
+      "publication": "StartupTalky",
+      "article_title": "Daily Indian Funding Roundup & Key News - 1 September 2026 (incl. MS Dhoni Joins SpeakX)",
+      "url": "https://startuptalky.com/news/daily-indian-funding-roundup-key-news-1-september-2026/",
+      "url_source": "fetched-200",
+      "author": "Muskaan Kapoor",
+      "date": "2026-09-01",
+      "category": "syndication",
+      "key_verified_claim": "Roundup mention: Dhoni investment part of a larger round planned next year; ~200,000 active paid subscribers; FY26 revenue INR 45 Cr; FY27 projection INR 70-80 Cr.",
+      "link_type": "independent-editorial",
+      "links_to_speakx": "no",
+      "is_syndication_of": "https://inc42.com/buzz/exclusive-ms-dhoni-joins-edtech-startup-speakxs-cap-table/",
+      "verification_status": "verified",
+      "date_checked": "2026-10-12",
+      "recommended_placement": "sources-only",
+      "notes": "Figures mirror the Inc42 exclusive."
+    },
+    {
+      "publication": "YourStory (daily roundups)",
+      "article_title": "Startup news and updates: daily roundup (2024-09-27; 2025-10-14; 2026-09-01)",
+      "url": "https://yourstory.com/2026/09/startup-news-and-updates-daily-roundup-september-1-2026",
+      "url_source": "seen-in-search",
+      "author": "YourStory",
+      "date": "2026-09-01",
+      "category": "syndication",
+      "key_verified_claim": "Roundup mentions of SpeakX funding / Dhoni investment.",
+      "link_type": "independent-editorial",
+      "links_to_speakx": "not-checked",
+      "is_syndication_of": null,
+      "verification_status": "not-verified",
+      "date_checked": "2026-10-12",
+      "recommended_placement": "sources-only",
+      "notes": "Also https://yourstory.com/2025/10/startup-news-and-updates-daily-roundup-october-14-2025 and https://yourstory.com/2024/09/startup-news-and-updates-daily-roundup-sept-27-2024 (all seen in search; fetch blocked)."
+    },
+    {
+      "publication": "Dailyhunt",
+      "article_title": "Exclusive: MS Dhoni Joins Edtech Startup SpeakX's Cap Table (syndicated from Inc42)",
+      "url": "https://m.dailyhunt.in/news/india/english/inc42-epaper-inc/exclusive+ms+dhoni+joins+edtech+startup+speakxs+cap+table-newsid-n725268591",
+      "url_source": "fetched-200",
+      "author": "Inc42 via Dailyhunt",
+      "date": "2026-09",
+      "category": "syndication",
+      "key_verified_claim": "Verbatim syndication; page states 'This content has not been generated, created or edited by Dailyhunt. Publisher: Inc42'.",
+      "link_type": "independent-editorial",
+      "links_to_speakx": "no",
+      "is_syndication_of": "https://inc42.com/buzz/exclusive-ms-dhoni-joins-edtech-startup-speakxs-cap-table/",
+      "verification_status": "verified",
+      "date_checked": "2026-10-12",
+      "recommended_placement": "exclude",
+      "notes": "Duplicate of Inc42."
+    },
+    {
+      "publication": "Entrepreneur India (entrepreneurindia.com - Franchise India / Opportunity India)",
+      "article_title": "SpeakX Launches ESOP Buyback Worth USD 1 Mn for Employees",
+      "url": "https://www.entrepreneurindia.com/blog/en/news/speakx-launches-esop-buyback-worth-usd-1-mn-for-employees.57979",
+      "url_source": "fetched-200",
+      "author": "Opportunity India Desk",
+      "date": "2025-11-27",
+      "category": "funding",
+      "key_verified_claim": "ESOP buyback of USD 1 Mn; 15 of 20 employees benefit; follows USD 16 Mn pre-Series B.",
+      "link_type": "independent-editorial",
+      "links_to_speakx": "no",
+      "is_syndication_of": null,
+      "verification_status": "verified",
+      "date_checked": "2026-10-12",
+      "recommended_placement": "sources-only",
+      "notes": "entrepreneurindia.com is Franchise India's portal, NOT Entrepreneur magazine; don't conflate logos."
+    },
+    {
+      "publication": "Entrepreneur India (entrepreneurindia.com - Franchise India)",
+      "article_title": "SpeakX.ai Plans Regional Language Expansion and AI Enhancements",
+      "url": "https://www.entrepreneurindia.com/blog/en/news/speakxai-plans-regional-language-expansion-and-ai-enhancements.57632",
+      "url_source": "fetched-200",
+      "author": "Opportunity India Desk",
+      "date": "2025-10",
+      "category": "funding",
+      "key_verified_claim": "Funding-news rewrite focused on regional-language plans.",
+      "link_type": "independent-editorial",
+      "links_to_speakx": "no",
+      "is_syndication_of": null,
+      "verification_status": "verified",
+      "date_checked": "2026-10-12",
+      "recommended_placement": "sources-only",
+      "notes": ""
+    },
+    {
+      "publication": "Mediabrief",
+      "article_title": "SpeakX.ai announces $1M ESOP buyback for 15 employees under expanded ownership program",
+      "url": "https://mediabrief.com/speakx-ai-announces-1m-esop-buyback-for-15-employees-under-expanded-ownership-program/",
+      "url_source": "fetched-200",
+      "author": "mbdesk2",
+      "date": "2025-11-26",
+      "category": "syndication",
+      "key_verified_claim": "Press-release republication of the ESOP buyback.",
+      "link_type": "sponsored-or-branded",
+      "links_to_speakx": "no",
+      "is_syndication_of": null,
+      "verification_status": "verified",
+      "date_checked": "2026-10-12",
+      "recommended_placement": "exclude",
+      "notes": ""
+    },
+    {
+      "publication": "APN News",
+      "article_title": "SpeakX.ai Rolls Out $1 Mn ESOP Buyback for 15 Employees...",
+      "url": "https://www.apnnews.com/speakx-ai-rolls-out-1-mn-esop-buyback-for-15-employees-as-part-of-its-expanded-early-stage-ownership-program/",
+      "url_source": "seen-in-search",
+      "author": "APN (press network)",
+      "date": "2025-11",
+      "category": "syndication",
+      "key_verified_claim": "Press release.",
+      "link_type": "sponsored-or-branded",
+      "links_to_speakx": "not-checked",
+      "is_syndication_of": null,
+      "verification_status": "not-verified",
+      "date_checked": "2026-10-12",
+      "recommended_placement": "exclude",
+      "notes": "HTTP 200 but JS-rendered; body not extracted."
+    },
+    {
+      "publication": "SMEStreet",
+      "article_title": "SpeakX Joins Google Startups Accelerator for App Growth",
+      "url": "https://smestreet.in/technology/speakx-joins-google-startups-accelerator-for-app-growth-7292189",
+      "url_source": "fetched-200",
+      "author": "SMEStreet Edit Desk",
+      "date": "2024-10-08",
+      "category": "product",
+      "key_verified_claim": "SpeakX selected for Google for Startups Accelerator (Apps cohort of 20); at the time it reported 10,000+ paid subscribers monthly and ~USD 500K ARR within eight months.",
+      "link_type": "sponsored-or-branded",
+      "links_to_speakx": "no",
+      "is_syndication_of": null,
+      "verification_status": "verified",
+      "date_checked": "2026-10-12",
+      "recommended_placement": "sources-only",
+      "notes": "PR-based. Note the metrics are Oct 2024 vintage."
+    },
+    {
+      "publication": "CIOL (Spotlight)",
+      "article_title": "SpeakX Joins Google Accelerator to Transform English Learning with AI",
+      "url": "https://www.ciol.com/spotlight/speakx-joins-google-accelerator-to-transform-english-learning-with-ai-7307756",
+      "url_source": "fetched-200",
+      "author": "Manisha Sharma",
+      "date": "2024-10-11",
+      "category": "product",
+      "key_verified_claim": "Feature on SpeakX's Google Startups Accelerator selection and GenAI approach.",
+      "link_type": "sponsored-or-branded",
+      "links_to_speakx": "no",
+      "is_syndication_of": null,
+      "verification_status": "verified",
+      "date_checked": "2026-10-12",
+      "recommended_placement": "sources-only",
+      "notes": "Published in CIOL's 'Spotlight' section (typically partner/branded content) - flag."
+    },
+    {
+      "publication": "Elevation Capital (Perspectives podcast)",
+      "article_title": "SpeakX: Building India's Largest AI Language Learning App",
+      "url": "https://www.elevationcapital.com/perspectives/speakx-building-india-largest-ai-language-learning-app",
+      "url_source": "fetched-200",
+      "author": "Manish Advani (Principal, Elevation Capital) in conversation with Arpit Mittal",
+      "date": "2025-10-22",
+      "category": "podcast",
+      "key_verified_claim": "Investor podcast: 2 lakh+ paid subscribers, ~$7 Mn ARR, 20-person team; founder grew up in Haridwar and pivoted Yellow Class to SpeakX after a parent's story about embarrassment over spoken English.",
+      "link_type": "investor-or-partner-listing",
+      "links_to_speakx": "no",
+      "is_syndication_of": null,
+      "verification_status": "verified",
+      "date_checked": "2026-10-12",
+      "recommended_placement": "founder",
+      "notes": "Investor-produced; not independent. (WebFetch summary mis-rendered the guest's name as 'Arpit Agarwal' - the guest is Arpit Mittal.)"
+    },
+    {
+      "publication": "NITI Aayog Frontier Tech Hub",
+      "article_title": "AI-Native Platform Enables 10 Million Indians to Learn Spoken English Anytime, Anywhere",
+      "url": "https://frontiertech.niti.gov.in/story/ai-native-platform-enables-10-million-indians-to-learn-spoken-english-anytime-anywhere",
+      "url_source": "fetched-200",
+      "author": "NITI Aayog Frontier Tech Hub (curated story)",
+      "date": "n.d.",
+      "category": "directory",
+      "key_verified_claim": "Government innovation showcase: 10 Mn+ learners reached; ~50% of users from Tier-2/3 cities; innovation origin Haryana.",
+      "link_type": "directory-listing",
+      "links_to_speakx": "no",
+      "is_syndication_of": null,
+      "verification_status": "verified",
+      "date_checked": "2026-10-12",
+      "recommended_placement": "awards",
+      "notes": "A gov.in showcase is a credible trust signal (present as 'featured by NITI Aayog Frontier Tech Hub', not as an award). No date on page."
+    },
+    {
+      "publication": "Google India Blog",
+      "article_title": "Announcing the next cohort of Google for Startups Accelerator: AI First in India",
+      "url": "https://blog.google/intl/en-in/company-news/announcing-the-next-cohort-of-google-for-startups-accelerator-ai-first-in-india/",
+      "url_source": "fetched-200",
+      "author": "Farish CV",
+      "date": "2025-09-19",
+      "category": "directory",
+      "key_verified_claim": "SpeakX is NOT in this (2025) cohort; its AI First selection was the first cohort (Jul 2024, per Inc42).",
+      "link_type": "investor-or-partner-listing",
+      "links_to_speakx": "no",
+      "is_syndication_of": null,
+      "verification_status": "verified",
+      "date_checked": "2026-10-12",
+      "recommended_placement": "exclude",
+      "notes": "Recorded to prevent mis-citation."
+    },
+    {
+      "publication": "ET Education (Economic Times) - awards organiser",
+      "article_title": "Education Excellence Awards 2025 - Winners List",
+      "url": "https://education.economictimes.indiatimes.com/education-excellence-awards2025/winners-list",
+      "url_source": "fetched-200",
+      "author": "ETEducation",
+      "date": "2025",
+      "category": "award",
+      "key_verified_claim": "SpeakX listed as GOLD winner, 'Excellence in Gamified & Personalized Learning Solutions', and BRONZE, 'Outstanding Emerging EdTech Startup' (Education Excellence Awards 2025).",
+      "link_type": "award-organiser-listing",
+      "links_to_speakx": "no",
+      "is_syndication_of": null,
+      "verification_status": "verified",
+      "date_checked": "2026-10-12",
+      "recommended_placement": "awards",
+      "notes": "Exact category names differ from speakx.ai wording ('Best Personalised and Gamified Learning Experience'; 'Best Emerging Edtech Startup') - use the organiser's wording. WebFetch blocked; verified via curl."
+    },
+    {
+      "publication": "ET Education (Economic Times) - awards organiser",
+      "article_title": "Education Excellence Awards - Winners List (2026 edition)",
+      "url": "https://education.economictimes.indiatimes.com/education-excellence-awards/winners-list",
+      "url_source": "fetched-200",
+      "author": "ETEducation",
+      "date": "2026",
+      "category": "award",
+      "key_verified_claim": "'SpeakX.AI' listed as GOLD winner, 'Excellence in Generative AI for Education', Education Excellence Awards 2026.",
+      "link_type": "award-organiser-listing",
+      "links_to_speakx": "no",
+      "is_syndication_of": null,
+      "verification_status": "verified",
+      "date_checked": "2026-10-12",
+      "recommended_placement": "awards",
+      "notes": "Confirms the SHARED-CONTEXT recognition. The /education-excellence-awards2026/winners-list path returns 404; use this URL."
+    },
+    {
+      "publication": "APN News (press release)",
+      "article_title": "SpeakX Bags the Best Use of AI for Education & Livelihoods at Mint's All About AI | Tech4Good Awards (sponsored by Salesforce)",
+      "url": "https://www.apnnews.com/speakx-bags-the-best-use-of-ai-for-education-livelihoods-at-mints-all-about-ai-tech4good-awards-sponsored-by-salesforce/",
+      "url_source": "seen-in-search",
+      "author": "APN (press network)",
+      "date": "2024",
+      "category": "award",
+      "key_verified_claim": "Press release claiming the Mint All About AI | Tech4Good 2024 award 'Best Use of AI for Education & Livelihoods'.",
+      "link_type": "sponsored-or-branded",
+      "links_to_speakx": "not-checked",
+      "is_syndication_of": null,
+      "verification_status": "partially-verified",
+      "date_checked": "2026-10-12",
+      "recommended_placement": "awards",
+      "notes": "Only a company press release found; no Mint/organiser winners page located. Mark award as 'per company/press release' until an organiser source is found."
+    },
+    {
+      "publication": "Forbes India (Brand Connect)",
+      "article_title": "Forbes India at D Globalist Entrepreneur Mobility Summit 2023 presents Select 200 business for global expansion",
+      "url": "https://www.forbesindia.com/article/brand-connect/forbes-india-at-d-globalist-entrepreneur-mobility-summit-2023-presents-select-200-business-for-global-expansion/85517/1",
+      "url_source": "fetched-200",
+      "author": "Bhagwan Patil",
+      "date": "2023-07-07",
+      "category": "award",
+      "key_verified_claim": "Describes the DGEMS 2023 'Select 200' programme; SpeakX/Yellow Class is not named in the extracted article text.",
+      "link_type": "sponsored-or-branded",
+      "links_to_speakx": "no",
+      "is_syndication_of": null,
+      "verification_status": "not-verified",
+      "date_checked": "2026-10-12",
+      "recommended_placement": "sources-only",
+      "notes": "Explicitly labelled 'Brand Connect'. The D Globalist S200 list page (https://www.dglobalist.com/dgems-2023-s200-list) returned 200 but no SpeakX/Yellow Class in rendered HTML. 'Forbes India DGEMS 2023' claim remains unverified."
+    },
+    {
+      "publication": "Happy Llama 2026 (Analytics India Magazine event)",
+      "article_title": "Speaker: Arpit Mittal, Founder & CEO, SpeakX",
+      "url": "https://happyllama.analyticsindiamag.com/speaker/arpit-mittal/",
+      "url_source": "fetched-200",
+      "author": "AIM events",
+      "date": "2026-03-13",
+      "category": "founder-interview",
+      "key_verified_claim": "Speaker bio: founded SpeakX in 2023 after Edcited (2011, acquired by CoCubes) and Roofpik (2016, acquired by FastFox.com); event at Radisson Blu, Bangalore.",
+      "link_type": "investor-or-partner-listing",
+      "links_to_speakx": "no",
+      "is_syndication_of": null,
+      "verification_status": "verified",
+      "date_checked": "2026-10-12",
+      "recommended_placement": "founder",
+      "notes": "Bio contains stale/unverified claims ('$10 million from Elevation, IQ and Good Waters', 'HolonIQ Top 100', 'Indian Achiever's Award') - do not reuse those."
+    },
+    {
+      "publication": "Inc42",
+      "article_title": "Edtech Platform Yellow Class Raises $6 Mn Led By Elevation Capital",
+      "url": "https://inc42.com/buzz/edtech-platform-yellow-class-raises-6-mn-led-by-elevation-capital/",
+      "url_source": "fetched-200",
+      "author": "Chinmay Pratap Menon",
+      "date": "2021-08-17",
+      "category": "funding",
+      "key_verified_claim": "Yellow Class (founded June 2020 by Anshul Gupta and Arpit Mittal) raised $6 Mn Series A led by Elevation Capital.",
+      "link_type": "independent-editorial",
+      "links_to_speakx": "no",
+      "is_syndication_of": null,
+      "verification_status": "verified",
+      "date_checked": "2026-10-12",
+      "recommended_placement": "sources-only",
+      "notes": "FORMER BRAND - research only, never public copy."
+    },
+    {
+      "publication": "Free Press Journal",
+      "article_title": "Children's extracurricular ed-tech platform Yellow Class raises $6 mn in Series A led by Elevation Capital",
+      "url": "https://www.freepressjournal.in/business/childrens-extracurricular-ed-tech-platform-yellow-class-raises-6-mn-in-series-a-led-by-elevation-capital",
+      "url_source": "fetched-200",
+      "author": "FPJ Web Desk",
+      "date": "2021-08-17",
+      "category": "funding",
+      "key_verified_claim": "Series A participants: India Quotient, Titan Capital, First Cheque and angels incl. Vidit Aatrey (Meesho), Alok Mittal (Indifi), Vivekananda Hallekere (Bounce), Maninder Gulati and Abhinav Sinha (OYO), Dhruv Agarwala (PropTiger), Alvin Tse (Xiaomi); seed of $1.5 Mn in Nov 2020.",
+      "link_type": "independent-editorial",
+      "links_to_speakx": "no",
+      "is_syndication_of": null,
+      "verification_status": "verified",
+      "date_checked": "2026-10-12",
+      "recommended_placement": "sources-only",
+      "notes": "Former brand. Seed figure ($1.5 Mn) conflicts with $1.3 Mn reported by Adgully/EdTechReview/Entrackr."
+    },
+    {
+      "publication": "Daily Excelsior (PTI)",
+      "article_title": "Yellow Class raises USD 6 mn funding from Elevation Capital, India Quotient and others",
+      "url": "https://www.dailyexcelsior.com/news/archive/yellow-class-raises-usd-6-mn-funding-from-elevation-capital-india-quotient-and-others-2",
+      "url_source": "fetched-200",
+      "author": "PTI",
+      "date": "2021-08-18",
+      "category": "funding",
+      "key_verified_claim": "PTI copy of the Series A; >1 million children engaged by Aug 2021.",
+      "link_type": "independent-editorial",
+      "links_to_speakx": "no",
+      "is_syndication_of": null,
+      "verification_status": "verified",
+      "date_checked": "2026-10-12",
+      "recommended_placement": "sources-only",
+      "notes": "Former brand."
+    },
+    {
+      "publication": "Adgully",
+      "article_title": "Yellow Class secures $1.3 Mn Funding led by India Quotient",
+      "url": "https://www.adgully.com/yellow-class-secures-1-3-mn-funding-led-by-india-quotient-98621.html",
+      "url_source": "fetched-200",
+      "author": "Adgully Bureau",
+      "date": "2020-11",
+      "category": "funding",
+      "key_verified_claim": "$1.3 Mn pre-Series A led by India Quotient (Gagan Goyal quoted); founders Arpit Mittal and Anshul Gupta.",
+      "link_type": "independent-editorial",
+      "links_to_speakx": "no",
+      "is_syndication_of": null,
+      "verification_status": "verified",
+      "date_checked": "2026-10-12",
+      "recommended_placement": "sources-only",
+      "notes": "Former brand."
+    },
+    {
+      "publication": "EdTechReview",
+      "article_title": "Live Hobby Classes Provider Yellow Class Raises $1.3M in Pre-Series A Funding",
+      "url": "https://www.edtechreview.in/news/online-hobby-platform-for-kids-yellow-class-raises-1-3m-in-pre-series-funding/",
+      "url_source": "fetched-200",
+      "author": "Stephen Soulunii",
+      "date": "2020-11-25",
+      "category": "funding",
+      "key_verified_claim": "$1.3 Mn pre-Series A led by India Quotient with Titan Capital, angels and FirstCheque participating.",
+      "link_type": "independent-editorial",
+      "links_to_speakx": "no",
+      "is_syndication_of": null,
+      "verification_status": "verified",
+      "date_checked": "2026-10-12",
+      "recommended_placement": "sources-only",
+      "notes": "Former brand."
+    },
+    {
+      "publication": "BW People (Businessworld)",
+      "article_title": "Winning Stroke: In Interview With Arpit Mittal Co-Founder At Yellow Class",
+      "url": "https://bwpeople.businessworld.in/article/Winning-Stroke-In-Interview-With-Arpit-Mittal-Co-Founder-At-Yellow-Class-/09-03-2021-383384",
+      "url_source": "seen-in-search",
+      "author": "BW People",
+      "date": "2021-03-09",
+      "category": "founder-interview",
+      "key_verified_claim": "Early founder interview (Yellow Class era).",
+      "link_type": "independent-editorial",
+      "links_to_speakx": "not-checked",
+      "is_syndication_of": null,
+      "verification_status": "not-verified",
+      "date_checked": "2026-10-12",
+      "recommended_placement": "sources-only",
+      "notes": "Seen in search; fetch 403. Former brand."
+    },
+    {
+      "publication": "YouTube - All Grit podcast",
+      "article_title": "Arpit Mittal (Yellow Class) talks Startups & finding Problems worth Solving | All Grit E14",
+      "url": "https://www.youtube.com/watch?v=zAGqGfRFgbE",
+      "url_source": "fetched-200",
+      "author": "All Grit",
+      "date": "2021 (approx.)",
+      "category": "podcast",
+      "key_verified_claim": "Founder podcast episode from the Yellow Class era (title verified).",
+      "link_type": "video-or-podcast",
+      "links_to_speakx": "not-checked",
+      "is_syndication_of": null,
+      "verification_status": "partially-verified",
+      "date_checked": "2026-10-12",
+      "recommended_placement": "sources-only",
+      "notes": "Former brand; content not reviewed. (A separate video 'Happy Llama SF | Arpit Mittal, Partner at Threshold Ventures' is a DIFFERENT person - exclude.)"
+    },
+    {
+      "publication": "BW Disrupt",
+      "article_title": "SpeakX.ai Raises $16 Mn To Expand AI English Platform",
+      "url": "https://www.bwdisrupt.com/article/speakx-ai-raises-16-mn-to-expand-ai-english-platform-575415",
+      "url_source": "seen-in-search",
+      "author": "BW Disrupt",
+      "date": "2025-10",
+      "category": "funding",
+      "key_verified_claim": "Funding report (per search).",
+      "link_type": "independent-editorial",
+      "links_to_speakx": "not-checked",
+      "is_syndication_of": null,
+      "verification_status": "partially-verified",
+      "date_checked": "2026-10-12",
+      "recommended_placement": "in-the-news",
+      "notes": "Seen in search; site returns 403 to automated fetch - confirm live manually."
+    },
+    {
+      "publication": "BW Disrupt",
+      "article_title": "MS Dhoni Invests In AI-Powered English Speaking App SpeakX",
+      "url": "https://www.bwdisrupt.com/article/ms-dhoni-invests-in-ai-powered-english-speaking-app-speakx-621764",
+      "url_source": "seen-in-search",
+      "author": "BW Disrupt",
+      "date": "2026-09",
+      "category": "funding",
+      "key_verified_claim": "Dhoni investment report (per search).",
+      "link_type": "independent-editorial",
+      "links_to_speakx": "not-checked",
+      "is_syndication_of": null,
+      "verification_status": "partially-verified",
+      "date_checked": "2026-10-12",
+      "recommended_placement": "in-the-news",
+      "notes": "Seen in search; 403 to automated fetch."
+    },
+    {
+      "publication": "BW Disrupt",
+      "article_title": "Google Startup Accelerator Selects SpeakX",
+      "url": "https://www.bwdisrupt.com/article/google-startup-accelerator-selects-speakx-534616",
+      "url_source": "seen-in-search",
+      "author": "BW Disrupt",
+      "date": "2024-10",
+      "category": "product",
+      "key_verified_claim": "Accelerator selection (per search).",
+      "link_type": "independent-editorial",
+      "links_to_speakx": "not-checked",
+      "is_syndication_of": null,
+      "verification_status": "partially-verified",
+      "date_checked": "2026-10-12",
+      "recommended_placement": "sources-only",
+      "notes": "Seen in search; 403."
+    },
+    {
+      "publication": "Google Play",
+      "article_title": "SpeakX AI Learn Spoken English - Apps on Google Play",
+      "url": "https://play.google.com/store/apps/details?id=yellowclass.kids.live&hl=en_IN",
+      "url_source": "fetched-200",
+      "author": "Google Play",
+      "date": "live 2026-10-12",
+      "category": "directory",
+      "key_verified_claim": "Listing shows 4.5-star rating (4.53), 92.9K reviews and 10M+ downloads.",
+      "link_type": "directory-listing",
+      "links_to_speakx": "n/a",
+      "is_syndication_of": null,
+      "verification_status": "verified",
+      "date_checked": "2026-10-12",
+      "recommended_placement": "sources-only",
+      "notes": "Confirms SHARED-CONTEXT download/rating facts. Package id must not appear in public copy (href only)."
+    },
+    {
+      "publication": "Apple App Store (India)",
+      "article_title": "SpeakX: English Speaking App",
+      "url": "https://apps.apple.com/in/app/speakx-english-speaking-app/id6756059415",
+      "url_source": "fetched-200",
+      "author": "Apple",
+      "date": "live 2026-10-12",
+      "category": "directory",
+      "key_verified_claim": "India App Store listing shows 4.7 out of 5 from 258 ratings; in-app purchases listed at INR 299 and INR 99 (as of 2026-10-12, India, App Store).",
+      "link_type": "directory-listing",
+      "links_to_speakx": "n/a",
+      "is_syndication_of": null,
+      "verification_status": "verified",
+      "date_checked": "2026-10-12",
+      "recommended_placement": "sources-only",
+      "notes": "Older listing id1547936192 returned 404 on the US storefront."
+    },
+    {
+      "publication": "Tracxn",
+      "article_title": "SpeakX - Company Profile, Team, Funding, Competitors & Financials",
+      "url": "https://tracxn.com/d/companies/speakx/__Fw1PYzB_LG5e1_815d4j4yITneR6DBNYf_o3F0OuGF8",
+      "url_source": "seen-in-search",
+      "author": "Tracxn",
+      "date": "n/a",
+      "category": "directory",
+      "key_verified_claim": "Profile exists (legal entity Ivypods Technology Pvt Ltd).",
+      "link_type": "directory-listing",
+      "links_to_speakx": "n/a",
+      "is_syndication_of": null,
+      "verification_status": "partially-verified",
+      "date_checked": "2026-10-12",
+      "recommended_placement": "sources-only",
+      "notes": "Fetch rate-limited (403). Legal-entity page: https://tracxn.com/d/legal-entities/india/ivypods-technology-private-limited/__bwrQvyouzYyw332dNCxgylYzCBSa8Zczx03f5_THnpM"
+    },
+    {
+      "publication": "Crunchbase",
+      "article_title": "speakX - Crunchbase Company Profile & Funding",
+      "url": "https://www.crunchbase.com/organization/yellow-class",
+      "url_source": "seen-in-search",
+      "author": "Crunchbase",
+      "date": "n/a",
+      "category": "directory",
+      "key_verified_claim": "Profile under the legacy 'yellow-class' slug.",
+      "link_type": "directory-listing",
+      "links_to_speakx": "n/a",
+      "is_syndication_of": null,
+      "verification_status": "not-verified",
+      "date_checked": "2026-10-12",
+      "recommended_placement": "sources-only",
+      "notes": "403 (Cloudflare)."
+    },
+    {
+      "publication": "CB Insights",
+      "article_title": "SpeakX (formerly Yellow Class) - Products, Competitors, Financials",
+      "url": "https://www.cbinsights.com/company/yellow-class",
+      "url_source": "seen-in-search",
+      "author": "CB Insights",
+      "date": "n/a",
+      "category": "directory",
+      "key_verified_claim": "Search snippet: last raised $16M on 2025-10-14 ('Series A - II'), total $23.3M; founded 2019; Gurgaon.",
+      "link_type": "directory-listing",
+      "links_to_speakx": "n/a",
+      "is_syndication_of": null,
+      "verification_status": "partially-verified",
+      "date_checked": "2026-10-12",
+      "recommended_placement": "sources-only",
+      "notes": "Describes kids 5-15 (stale)."
+    },
+    {
+      "publication": "Preqin",
+      "article_title": "SpeakX Asset Profile",
+      "url": "https://www.preqin.com/data/profile/asset/speakx/403348",
+      "url_source": "fetched-200",
+      "author": "Preqin",
+      "date": "n/a",
+      "category": "directory",
+      "key_verified_claim": "Lists founders Arpit Mittal and Anshul Gupta, investors India Quotient, Elevation Capital, Vistra ITCL; founded 2019; Sept 2026 venture funding.",
+      "link_type": "directory-listing",
+      "links_to_speakx": "n/a",
+      "is_syndication_of": null,
+      "verification_status": "verified",
+      "date_checked": "2026-10-12",
+      "recommended_placement": "sources-only",
+      "notes": ""
+    },
+    {
+      "publication": "Startupintros",
+      "article_title": "speakX: Funding, Team & Investors",
+      "url": "https://startupintros.com/orgs/speakx",
+      "url_source": "fetched-200",
+      "author": "Startupintros",
+      "date": "n/a",
+      "category": "directory",
+      "key_verified_claim": "Directory page with unreliable data (lists 'Shruti Sinha' as co-founder and Tiger Global, Battery Ventures etc. as investors).",
+      "link_type": "directory-listing",
+      "links_to_speakx": "yes (https://www.speakx.ai)",
+      "is_syndication_of": null,
+      "verification_status": "conflicting",
+      "date_checked": "2026-10-12",
+      "recommended_placement": "exclude",
+      "notes": "Data contradicts all primary sources - do not cite."
+    },
+    {
+      "publication": "The Org",
+      "article_title": "Arpit Mittal - Founder and CEO at SpeakX",
+      "url": "https://theorg.com/org/speakx/org-chart/arpit-mittal",
+      "url_source": "fetched-200",
+      "author": "The Org",
+      "date": "n/a",
+      "category": "directory",
+      "key_verified_claim": "Career history listed: Evalueserve (2009), Inductis, Housing.com, EXL; based in Gurgaon.",
+      "link_type": "directory-listing",
+      "links_to_speakx": "n/a",
+      "is_syndication_of": null,
+      "verification_status": "partially-verified",
+      "date_checked": "2026-10-12",
+      "recommended_placement": "sources-only",
+      "notes": "Profile marked 'Unverified' by The Org."
+    },
+    {
+      "publication": "Inc42 (person page)",
+      "article_title": "Arpit Mittal",
+      "url": "https://inc42.com/person/arpitmittal4/",
+      "url_source": "seen-in-search",
+      "author": "Inc42",
+      "date": "n/a",
+      "category": "directory",
+      "key_verified_claim": "Person directory page.",
+      "link_type": "directory-listing",
+      "links_to_speakx": "n/a",
+      "is_syndication_of": null,
+      "verification_status": "not-verified",
+      "date_checked": "2026-10-12",
+      "recommended_placement": "sources-only",
+      "notes": "Seen in search only."
+    },
+    {
+      "publication": "Dealroom",
+      "article_title": "MS Dhoni backs AI English app SpeakX, now at 10M+ learners",
+      "url": "https://app.dealroom.co/news/note/ms-dhoni-backs-ai-english-app-speakx-now-at-10m-learners",
+      "url_source": "seen-in-search",
+      "author": "Dealroom",
+      "date": "2026-09",
+      "category": "directory",
+      "key_verified_claim": "Search snippet: Dhoni deal announced 2026-09-01, amount/round undisclosed; launched 2024; 16+ languages goal.",
+      "link_type": "directory-listing",
+      "links_to_speakx": "n/a",
+      "is_syndication_of": null,
+      "verification_status": "partially-verified",
+      "date_checked": "2026-10-12",
+      "recommended_placement": "sources-only",
+      "notes": "403 (Cloudflare)."
+    },
+    {
+      "publication": "Ministry of Education (X/Twitter)",
+      "article_title": "Arpit Mittal, CEO & Founder of SpeakX, shared his views during the Roundtable with Startup Founders (India AI Impact Summit run-up)",
+      "url": "https://x.com/EduMinOfIndia/status/2021908838639972436",
+      "url_source": "seen-in-search",
+      "author": "@EduMinOfIndia",
+      "date": "2026-02-12",
+      "category": "founder-interview",
+      "key_verified_claim": "Government post noting Arpit Mittal spoke at a startup-founders roundtable on AI for English communication skills.",
+      "link_type": "investor-or-partner-listing",
+      "links_to_speakx": "not-checked",
+      "is_syndication_of": null,
+      "verification_status": "partially-verified",
+      "date_checked": "2026-10-12",
+      "recommended_placement": "founder",
+      "notes": "Seen in search; not fetched."
+    },
+    {
+      "publication": "Benzatine",
+      "article_title": "Budget 2026 must focus on making 'AI compute easy, predictable, and scalable', says SpeakX.ai CEO Arpit Mittal",
+      "url": "https://benzatine.com/news-room/speakxais-ceo-advocates-for-strategic-ai-investments-in-indias-2026-budget",
+      "url_source": "fetched-200",
+      "author": "Benzatine",
+      "date": "2026-01/02",
+      "category": "opinion/byline",
+      "key_verified_claim": "Founder quote on Budget 2026 AI-compute expectations.",
+      "link_type": "independent-editorial",
+      "links_to_speakx": "no",
+      "is_syndication_of": null,
+      "verification_status": "verified",
+      "date_checked": "2026-10-12",
+      "recommended_placement": "sources-only",
+      "notes": "Small outlet."
+    },
+    {
+      "publication": "Education Excellence Magazine",
+      "article_title": "SpeakX Plans $15M Funding Round to Boost AI-Powered English Learning",
+      "url": "https://educationexcellencemagazine.com/news-detail/speakx-plans-15m-funding-round-to-boost-ai-powered-english-learning",
+      "url_source": "seen-in-search",
+      "author": "Education Excellence Magazine",
+      "date": "2025 (pre-Oct)",
+      "category": "funding",
+      "key_verified_claim": "Pre-announcement report that SpeakX planned a ~$15M round (per search).",
+      "link_type": "independent-editorial",
+      "links_to_speakx": "not-checked",
+      "is_syndication_of": null,
+      "verification_status": "not-verified",
+      "date_checked": "2026-10-12",
+      "recommended_placement": "exclude",
+      "notes": "HTTP 200 but JS-rendered; body not extracted."
+    },
+    {
+      "publication": "Punjab Kesari / Eastern Herald (ANI-VMPL advertorial)",
+      "article_title": "Top 6 New-Age Edtech Startups in India in 2026",
+      "url": "https://english.punjabkesari.com/business/top-6-new-age-edtech-startups-in-india-in-2026",
+      "url_source": "fetched-200",
+      "author": "ANI (VMPL)",
+      "date": "2026-10-09",
+      "category": "syndication",
+      "key_verified_claim": "Does NOT mention SpeakX (TopRankers, PW, Coachingkhojo, Classplus, CollegeDekho, ShikshaCoach). Carries 'ADVERTORIAL DISCLAIMER'.",
+      "link_type": "sponsored-or-branded",
+      "links_to_speakx": "no",
+      "is_syndication_of": null,
+      "verification_status": "verified",
+      "date_checked": "2026-10-12",
+      "recommended_placement": "exclude",
+      "notes": "Surfaced by search but irrelevant; recorded to avoid re-checking."
+    },
+    {
+      "publication": "EngVarta (competitor blog)",
+      "article_title": "EngVarta Vs SpeakX: Honest Indian English App Comparison (2026)",
+      "url": "https://engvarta.com/engvarta-vs-speakx-indian-english-app-comparison/",
+      "url_source": "fetched-200",
+      "author": "EngVarta",
+      "date": "2026",
+      "category": "product",
+      "key_verified_claim": "Competitor-authored comparison; describes SpeakX as 15-minute daily lessons with AI teacher 'Sia' in 7 Indian languages.",
+      "link_type": "organic-backlink-to-speakx",
+      "links_to_speakx": "not-checked",
+      "is_syndication_of": null,
+      "verification_status": "verified",
+      "date_checked": "2026-10-12",
+      "recommended_placement": "exclude",
+      "notes": "Competitor content - do not cite; useful only for competitive-intel register."
+    },
+    {
+      "publication": "TrueValue Infosoft",
+      "article_title": "Case Study: SpeakX",
+      "url": "https://www.truevalueinfosoft.com/speakx-ai-english-learning.html",
+      "url_source": "fetched-200",
+      "author": "TrueValue Infosoft",
+      "date": "n/a",
+      "category": "product",
+      "key_verified_claim": "Vendor marketing page presenting SpeakX as a 'case study'.",
+      "link_type": "organic-backlink-to-speakx",
+      "links_to_speakx": "not-checked",
+      "is_syndication_of": null,
+      "verification_status": "not-verified",
+      "date_checked": "2026-10-12",
+      "recommended_placement": "exclude",
+      "notes": "Unverified vendor relationship; do not cite."
+    },
+    {
+      "publication": "speakx.ai (company site)",
+      "article_title": "About SpeakX / Home - 'In the News' and 'Awards' sections",
+      "url": "https://speakx.ai/about",
+      "url_source": "fetched-200",
+      "author": "SpeakX",
+      "date": "live 2026-10-12",
+      "category": "directory",
+      "key_verified_claim": "Company site lists 9 press items (TOI Education Times, Moneycontrol, ET Entrepreneur x2, Inc42, TICE, VCCircle, Republic World, Amar Ujala) and 12 awards; investors shown: India Quotient (institutional) plus angels MS Dhoni, Vidit Aatrey, Kunal Bahl, Varun Alagh, Shyamal Anadkat, Ronnie Screwvala.",
+      "link_type": "outbound-citation-from-speakx",
+      "links_to_speakx": "yes (self)",
+      "is_syndication_of": null,
+      "verification_status": "verified",
+      "date_checked": "2026-10-12",
+      "recommended_placement": "sources-only",
+      "notes": "Site shows 'Rating 4.6+' (SHARED-CONTEXT says never claim 4.6+; Play shows 4.5). WestBridge/Elevation/Goodwater logos appear on /business/about rather than the investor list on /about."
+    },
+    {
+      "publication": "afaqs!",
+      "article_title": "MS Dhoni joins SpeakX as brand ambassador",
+      "url": "https://www.afaqs.com/news/mktg/ms-dhoni-joins-speakx-as-brand-ambassador-12495076",
+      "url_source": "fetched-200",
+      "author": "afaqs! news bureau",
+      "date": "2026-09-05",
+      "category": "campaign",
+      "key_verified_claim": "afaqs reports Dhoni as investor-turned-brand-ambassador; 'Muh Khol, English Bol' digital video campaign by ZeroFifty Mediaworks, to be extended to broadcast; Dhoni appears inside the app at learner milestones.",
+      "link_type": "independent-editorial",
+      "links_to_speakx": "no",
+      "is_syndication_of": null,
+      "verification_status": "verified",
+      "date_checked": "2026-10-13",
+      "recommended_placement": "as-seen-in",
+      "notes": "Top-tier ad/marketing trade title; no sponsor label; adult-learner framing. Strongest new campaign-coverage item."
+    },
+    {
+      "publication": "Branding in Asia",
+      "article_title": "MS Dhoni Tackles English-Speaking Hesitation in SpeakX Campaign",
+      "url": "https://www.brandinginasia.com/ms-dhoni-tackles-english-speaking-hesitation-in-speakx-campaign/",
+      "url_source": "fetched-200",
+      "author": "BIA Staff",
+      "date": "2026-09-07",
+      "category": "campaign",
+      "key_verified_claim": "Regional (APAC) ad-industry coverage of the Dhoni campaign; names ZeroFifty Mediaworks; quotes Dhoni: 'Confidence doesn't come from knowing more; it comes from putting yourself out there'.",
+      "link_type": "independent-editorial",
+      "links_to_speakx": "no",
+      "is_syndication_of": null,
+      "verification_status": "verified",
+      "date_checked": "2026-10-13",
+      "recommended_placement": "in-the-news",
+      "notes": "Fetched via WebFetch (HTTP 200); direct curl returned 403 (bot block). No sponsor label."
+    },
+    {
+      "publication": "Branding in Asia",
+      "article_title": "Friday Ad5: Competing With Plants, Sleeping Babies, and 16 Judgmental Dogs (weekly ad roundup)",
+      "url": "https://www.brandinginasia.com/friday-ad5-competing-with-plants-sleeping-babies-and-16-judgmental-dogs/",
+      "url_source": "fetched-200",
+      "author": "BIA Staff",
+      "date": "2026-09-12",
+      "category": "campaign",
+      "key_verified_claim": "SpeakX's 'Muh Khol, English Bol' film selected in BIA's weekly five-ads roundup (editorial pick).",
+      "link_type": "independent-editorial",
+      "links_to_speakx": "no",
+      "is_syndication_of": null,
+      "verification_status": "verified",
+      "date_checked": "2026-10-13",
+      "recommended_placement": "sources-only",
+      "notes": "Editorial selection signal for the campaign; mention within a roundup. Fetched via WebFetch; curl 403."
+    },
+    {
+      "publication": "MxMIndia",
+      "article_title": "SpeakX appoints MS Dhoni as brand ambassador, launches new campaign",
+      "url": "https://www.mxmindia.com/marketing/speakx-appoints-ms-dhoni-as-brand-ambassador-launches-new-campaign/",
+      "url_source": "fetched-200",
+      "author": "Our Staff",
+      "date": "2026-09-07",
+      "category": "campaign",
+      "key_verified_claim": "Media/marketing trade coverage of the ambassador appointment and campaign launch.",
+      "link_type": "independent-editorial",
+      "links_to_speakx": "no",
+      "is_syndication_of": null,
+      "verification_status": "verified",
+      "date_checked": "2026-10-13",
+      "recommended_placement": "in-the-news",
+      "notes": "Announcement-based; not labelled sponsored."
+    },
+    {
+      "publication": "Mediabrief",
+      "article_title": "MS Dhoni joins SpeakX as brand ambassador",
+      "url": "https://mediabrief.com/ms-dhoni-becomes-speakx-brand-ambassador/",
+      "url_source": "fetched-200",
+      "author": "MB Newsdesk",
+      "date": "2026-09-05",
+      "category": "campaign",
+      "key_verified_claim": "Announcement coverage: Dhoni brand ambassador after investment; campaign name and Dhoni quote.",
+      "link_type": "independent-editorial",
+      "links_to_speakx": "no",
+      "is_syndication_of": null,
+      "verification_status": "verified",
+      "date_checked": "2026-10-13",
+      "recommended_placement": "sources-only",
+      "notes": "Announcement rewrite, not labelled sponsored (unlike Mediabrief's ESOP item in media.json). Keep as a source, not a logo."
+    },
+    {
+      "publication": "Adgully",
+      "article_title": "SPEAKX welcomes MS DHONI as brand ambassador, urges India to 'MUH KHOL, ENGLISH BOL' in new campaign",
+      "url": "https://www.adgully.com/post/20177/speakx-welcomes-ms-dhoni-as-brand-ambassador-urges-india-to-muh-khol-english-bol-in-new-campaign",
+      "url_source": "fetched-200",
+      "author": "Adgully Bureau",
+      "date": "2026-09-05",
+      "category": "campaign",
+      "key_verified_claim": "Second Adgully post on the campaign (first, post 20181, already in media.json); quotes Arpit Mittal: 'Most Indians have studied English for years but often haven't had the space to practise speaking without fear of judgment.'",
+      "link_type": "independent-editorial",
+      "links_to_speakx": "no",
+      "is_syndication_of": null,
+      "verification_status": "verified",
+      "date_checked": "2026-10-13",
+      "recommended_placement": "sources-only",
+      "notes": "Near-duplicate of Adgully post 20181 already inventoried; use whichever is cited, not both."
+    },
+    {
+      "publication": "Education21",
+      "article_title": "MS DHONI invests in English speaking app, SPEAKX",
+      "url": "https://education21.in/ms-dhoni-invests-in-english-speaking-app-speakx/",
+      "url_source": "fetched-200",
+      "author": "Education21 staff (no named byline)",
+      "date": "2026-09-01",
+      "category": "syndication",
+      "key_verified_claim": "Verbatim reprint of the 1 Sept 2026 investment announcement (1 crore+ learners, 10 lakh subscribers in six months, Dhoni welcomes users in-app).",
+      "link_type": "sponsored-or-branded",
+      "links_to_speakx": "no",
+      "is_syndication_of": "https://www.webnewswire.com/2026/09/01/ms-dhoni-invests-in-speakx-backing-the-future-of-ai-powered-english-learning-in-india/",
+      "verification_status": "verified",
+      "date_checked": "2026-10-13",
+      "recommended_placement": "exclude",
+      "notes": "Small education-news site running the press release unedited; not labelled."
+    },
+    {
+      "publication": "Inc42",
+      "article_title": "WinZO's Many Fires, No More 10-Min Claims & More (weekly roundup; section 'How GenAI Pivot Lifted SpeakX')",
+      "url": "https://inc42.com/buzz/winzos-many-fires-no-more-10-min-claims-more/",
+      "url_source": "fetched-200",
+      "author": "Team Inc42",
+      "date": "2026-01-14",
+      "category": "funding",
+      "key_verified_claim": "Inc42 weekly roundup states SpeakX.ai pivoted from a hobby platform in 2023 to a conversational-AI platform that 'today teaches English to over 140K paying subscribers'.",
+      "link_type": "independent-editorial",
+      "links_to_speakx": "no",
+      "is_syndication_of": null,
+      "verification_status": "verified",
+      "date_checked": "2026-10-13",
+      "recommended_placement": "sources-only",
+      "notes": "Passing mention inside a roundup; uses 'formerly Yellow Class' in passing - cite the subscriber number only, never the former name. 140K (Jan 2026) vs ~2 lakh (Sept 2026, Inc42) is a time-series, not a conflict."
+    },
+    {
+      "publication": "Inc42 (lists)",
+      "article_title": "Top 30 Funded Edtech Startups In Delhi NCR 2026",
+      "url": "https://inc42.com/lists/top-30-funded-edtech-startups-in-delhi-ncr-2026/",
+      "url_source": "fetched-200",
+      "author": "Inc42 (no byline)",
+      "date": "2026",
+      "category": "directory",
+      "key_verified_claim": "Lists SpeakX with '$23.3M in funding'.",
+      "link_type": "directory-listing",
+      "links_to_speakx": "no",
+      "is_syndication_of": null,
+      "verification_status": "verified",
+      "date_checked": "2026-10-13",
+      "recommended_placement": "sources-only",
+      "notes": "Companion to the Gurugram list already inventoried; no kids framing in the SpeakX entry."
+    },
+    {
+      "publication": "Inc42 (company page)",
+      "article_title": "speakX Latest News 2026 - Funding, Financials & Updates",
+      "url": "https://inc42.com/company/speakx/latest/",
+      "url_source": "fetched-200",
+      "author": "Inc42",
+      "date": "n/a (live 2026-10-13)",
+      "category": "directory",
+      "key_verified_claim": "Auto-generated company news feed aggregating Inc42's SpeakX stories.",
+      "link_type": "directory-listing",
+      "links_to_speakx": "no",
+      "is_syndication_of": null,
+      "verification_status": "verified",
+      "date_checked": "2026-10-13",
+      "recommended_placement": "sources-only",
+      "notes": "Useful as a monitoring URL, not as a citation."
+    },
+    {
+      "publication": "CEOs of Bharat",
+      "article_title": "This AI Startup Just Raised ₹142 Crore to Teach India Spoken English - With Over 10 Million Users Already Talking",
+      "url": "https://ceosofbharat.com/this-ai-startup-just-raised-%E2%82%B9142-crore-to-teach-india-spoken-english-with-over-10-million-users-already-talking/",
+      "url_source": "fetched-200",
+      "author": "CEOSOFBHARAT",
+      "date": "2025-10-14",
+      "category": "funding",
+      "key_verified_claim": "Covers the ₹142 Cr / $16 Mn WestBridge-led round and claims 10 Mn+ users and '₹5 crore in monthly revenue'.",
+      "link_type": "independent-editorial",
+      "links_to_speakx": "no",
+      "is_syndication_of": null,
+      "verification_status": "partially-verified",
+      "date_checked": "2026-10-13",
+      "recommended_placement": "sources-only",
+      "notes": "Fetched via WebFetch (200); curl 403. The ₹5 Cr/month revenue figure is not corroborated by Inc42 (₹45 Cr FY26 ≈ ₹3.75 Cr/month) - treat as conflicting. Describes the YellowClass kids origin as history only; do not quote that passage."
+    },
+    {
+      "publication": "NewMarketPitch",
+      "article_title": "EdTech: what are the top startups now?",
+      "url": "https://newmarketpitch.com/blogs/news/edtech-top-startups",
+      "url_source": "fetched-200",
+      "author": "New Market Pitch (no byline)",
+      "date": "n.d. (2026)",
+      "category": "opinion/byline",
+      "key_verified_claim": "Analyst note on language learning: 'Preply and Speak are the two cleanest startup winners, with SpeakX as an emerging India-focused name'; 'SpeakX is worth watching because it targets English learning in India, a market where the job-outcome link is obvious.'",
+      "link_type": "independent-editorial",
+      "links_to_speakx": "no",
+      "is_syndication_of": null,
+      "verification_status": "verified",
+      "date_checked": "2026-10-13",
+      "recommended_placement": "sources-only",
+      "notes": "Independent third-party market commentary (useful for the /vs hub framing: SpeakX vs global 'Speak'). Page rate-limits WebFetch (429); verified via curl."
+    },
+    {
+      "publication": "StartupStag",
+      "article_title": "SpeakX Raises $16M to Expand AI English Learning",
+      "url": "https://startupstag.com/investments/speakx-raises-16m-for-ai-english-learning-expansion/",
+      "url_source": "seen-in-search-results-only",
+      "author": "unknown",
+      "date": "2025-10 (per search listing)",
+      "category": "funding",
+      "key_verified_claim": "Title only (from search results): funding coverage of the $16 Mn round.",
+      "link_type": "independent-editorial",
+      "links_to_speakx": "not-checked",
+      "is_syndication_of": null,
+      "verification_status": "not-verified",
+      "date_checked": "2026-10-13",
+      "recommended_placement": "exclude",
+      "notes": "Site did not respond to curl or WebFetch (connection failed). Do not cite until reachable."
+    },
+    {
+      "publication": "EdTechReview",
+      "article_title": "SpeakX Study Reveals Surging Demand for English Proficiency Across India",
+      "url": "https://www.edtechreview.in/research/speakx-study-reveals-surging-demand-for-english-proficiency-across-india/",
+      "url_source": "fetched-200",
+      "author": "Shalini Pathak",
+      "date": "2024-04-16",
+      "category": "product",
+      "key_verified_claim": "Reports SpeakX user-base findings: 36.9% want better social communication, 26.5% job-interview English, 20.7% office communication; 3.5 lakh customers onboarded in four months; 68% middle-income, 20% lower-income, 12% higher-income.",
+      "link_type": "independent-editorial",
+      "links_to_speakx": "no",
+      "is_syndication_of": null,
+      "verification_status": "verified",
+      "date_checked": "2026-10-13",
+      "recommended_placement": "sources-only",
+      "notes": "Research-section write-up of a company data release (not labelled press release). Says 'previously known as Yellow Class' - cite the demand statistics only. Use-cases are adult (jobs, office)."
+    },
+    {
+      "publication": "CXOToday (Media Coverage section)",
+      "article_title": "SpeakX Expands English Learning with Generative AI",
+      "url": "https://cxotoday.com/media-coverage/speakx-expands-english-learning-with-generative-ai/",
+      "url_source": "fetched-200",
+      "author": "CXOtoday News Desk",
+      "date": "2024-09-26",
+      "category": "syndication",
+      "key_verified_claim": "10,000+ monthly paid subscribers at ₹299/month, $500,000 ARR in under eight months; 50% of users from Tier 2/3 cities; 68% middle-income households; audience 'students, professionals, and job seekers'.",
+      "link_type": "sponsored-or-branded",
+      "links_to_speakx": "yes (https://speakx.ai)",
+      "is_syndication_of": "https://www.siliconindia.com/news/startups/speakx-surpasses-10000--paid-subscribers-monthly--achieves-500000-arr-in-under-8-months-nid-232028-cid-19.html",
+      "verification_status": "verified",
+      "date_checked": "2026-10-13",
+      "recommended_placement": "sources-only",
+      "notes": "PR reprint with a live hyperlink to speakx.ai (one of very few dofollow-candidate links found). No kids framing."
+    },
+    {
+      "publication": "CXOToday (Press Release section)",
+      "article_title": "SpeakX Gets Selected for Google Startup Accelerator",
+      "url": "https://cxotoday.com/media-coverage/speakx-gets-selected-for-google-startup-accelerator/",
+      "url_source": "fetched-200",
+      "author": "CXOtoday News Desk",
+      "date": "2024-09-28",
+      "category": "syndication",
+      "key_verified_claim": "SpeakX selected for Google for Startups Accelerator (Apps, India), cohort of 20; repeats 10,000 monthly paid subscribers / $500K ARR.",
+      "link_type": "sponsored-or-branded",
+      "links_to_speakx": "yes (Play Store link in body)",
+      "is_syndication_of": null,
+      "verification_status": "verified",
+      "date_checked": "2026-10-13",
+      "recommended_placement": "sources-only",
+      "notes": "Original URL /press-release/... 301-redirects to /media-coverage/...; the embedded Play link uses the package id - do not reproduce that URL in copy."
+    },
+    {
+      "publication": "SMEStreet (InFocus)",
+      "article_title": "SpeakX Expands English Learning with Generative AI",
+      "url": "https://smestreet.in/infocus/speakx-expands-english-learning-with-generative-ai-7095239",
+      "url_source": "fetched-200",
+      "author": "SMEStreet Edit Desk",
+      "date": "2024-09-26",
+      "category": "syndication",
+      "key_verified_claim": "Same 10,000 paid subscribers / $500K ARR / ₹299 release; quotes 'Only 8% of people in India speak English well'.",
+      "link_type": "sponsored-or-branded",
+      "links_to_speakx": "yes (https://speakx.ai)",
+      "is_syndication_of": null,
+      "verification_status": "verified",
+      "date_checked": "2026-10-13",
+      "recommended_placement": "sources-only",
+      "notes": "Second SMEStreet item (first, Oct 2024 accelerator piece, already inventoried). Contains a hyperlink to speakx.ai."
+    },
+    {
+      "publication": "SiliconIndia",
+      "article_title": "SpeakX Surpasses 10,000 Paid Subscribers Monthly & Achieves $500,000 ARR in Under 8 Months",
+      "url": "https://www.siliconindia.com/news/startups/speakx-surpasses-10000--paid-subscribers-monthly--achieves-500000-arr-in-under-8-months-nid-232028-cid-19.html",
+      "url_source": "fetched-200",
+      "author": "Press Release (labelled)",
+      "date": "2024-09-25",
+      "category": "syndication",
+      "key_verified_claim": "Earliest dated instance of the Sept 2024 traction release (10K paid subs/month, $500K ARR, ₹299/month, 50% Tier 2-3).",
+      "link_type": "sponsored-or-branded",
+      "links_to_speakx": "no",
+      "is_syndication_of": null,
+      "verification_status": "verified",
+      "date_checked": "2026-10-13",
+      "recommended_placement": "exclude",
+      "notes": "Byline literally 'Press Release'. Keep only as the origin record for the 2024 milestone."
+    },
+    {
+      "publication": "SiliconIndia",
+      "article_title": "SpeakX Gets selected for Google Startup Accelerator",
+      "url": "https://www.siliconindia.com/news/startups/speakx-gets-selected-for-google-startup-accelerator-nid-232333-cid-19.html",
+      "url_source": "fetched-200",
+      "author": "Press Release (labelled)",
+      "date": "2024-10-13",
+      "category": "syndication",
+      "key_verified_claim": "Google Startup Accelerator selection, cohort of 20, three-month programme.",
+      "link_type": "sponsored-or-branded",
+      "links_to_speakx": "no",
+      "is_syndication_of": null,
+      "verification_status": "verified",
+      "date_checked": "2026-10-13",
+      "recommended_placement": "exclude",
+      "notes": "Labelled press release."
+    },
+    {
+      "publication": "MarcaMoney",
+      "article_title": "SpeakX Gets Selected for Google Startup Accelerator",
+      "url": "https://www.marcamoney.com/speakx-gets-selected-for-google-startup-accelerator/",
+      "url_source": "fetched-200",
+      "author": "MarcaMoney",
+      "date": "2024-09-29",
+      "category": "syndication",
+      "key_verified_claim": "Reprint of the accelerator release (20 startups, 3 months, 10,000+ paid subscribers, $500K ARR).",
+      "link_type": "sponsored-or-branded",
+      "links_to_speakx": "no",
+      "is_syndication_of": null,
+      "verification_status": "verified",
+      "date_checked": "2026-10-13",
+      "recommended_placement": "exclude",
+      "notes": "Unlabelled PR reprint on a low-authority finance blog."
+    },
+    {
+      "publication": "Inc42 AI Summit 2026 (event speaker page)",
+      "article_title": "Speaker: Arpit Mittal, Founder & CEO, SpeakX - panel 'How Consumer AI Products Are Winning Distribution And Retention In India'",
+      "url": "https://events.inc42.com/ai-summit/",
+      "url_source": "fetched-200",
+      "author": "Inc42 events",
+      "date": "2026-05-28",
+      "category": "founder-interview",
+      "key_verified_claim": "Arpit Mittal listed as panellist (15:00-15:25) at Inc42 AI Summit, 28 May 2026, Sheraton Grand Whitefield, Bengaluru.",
+      "link_type": "investor-or-partner-listing",
+      "links_to_speakx": "no",
+      "is_syndication_of": null,
+      "verification_status": "verified",
+      "date_checked": "2026-10-13",
+      "recommended_placement": "founder",
+      "notes": "Invite-only Inc42 event; good founder-credibility line ('spoke at Inc42 AI Summit 2026'). Page is a live agenda and may change."
+    },
+    {
+      "publication": "Elevation Capital - YouTube (Day One podcast)",
+      "article_title": "SpeakX: Building India's Largest AI Language Learning App | Day One",
+      "url": "https://www.youtube.com/watch?v=vWqAY-dn-w0",
+      "url_source": "fetched-200",
+      "author": "Elevation Capital (YouTube channel @ElevationCap)",
+      "date": "2025-10-14",
+      "category": "podcast",
+      "key_verified_claim": "Video edition of the Elevation 'Day One' founder podcast with Arpit Mittal (title and upload date verified via YouTube oEmbed and page metadata).",
+      "link_type": "video-or-podcast",
+      "links_to_speakx": "not-checked",
+      "is_syndication_of": "https://www.elevationcapital.com/perspectives/speakx-building-india-largest-ai-language-learning-app",
+      "verification_status": "verified",
+      "date_checked": "2026-10-13",
+      "recommended_placement": "founder",
+      "notes": "Investor-produced. Embeddable video for the founder section; the web/transcript page is already in media.json. Video page text includes the former brand name - do not surface in captions."
+    },
+    {
+      "publication": "Elevation Capital (portfolio page)",
+      "article_title": "SpeakX - Elevation Capital portfolio",
+      "url": "https://www.elevationcapital.com/portfolio/speakx",
+      "url_source": "fetched-200",
+      "author": "Elevation Capital",
+      "date": "n/a (live 2026-10-13)",
+      "category": "directory",
+      "key_verified_claim": "Stage 'Invested Series A'; links to speakx.ai and to the Day One podcast.",
+      "link_type": "investor-or-partner-listing",
+      "links_to_speakx": "yes (https://www.speakx.ai, 2 links)",
+      "is_syndication_of": null,
+      "verification_status": "verified",
+      "date_checked": "2026-10-13",
+      "recommended_placement": "sources-only",
+      "notes": "Page copy says 'revolutionizing English learning for adults and children' - do NOT quote that line (audience rule). Ask Elevation to refresh the blurb."
+    },
+    {
+      "publication": "WestBridge Capital (portfolio page)",
+      "article_title": "SpeakX - WestBridge Capital",
+      "url": "https://westbridgecap.com/portfolio/speakx",
+      "url_source": "fetched-200",
+      "author": "WestBridge Capital",
+      "date": "n/a (live 2026-10-13)",
+      "category": "directory",
+      "key_verified_claim": "Lead investor's profile: 'AI tutor-led English learning platform offering bite-sized spoken English lessons powered by conversational AI'; founded 2020; founder Arpit Mittal; Gurgaon.",
+      "link_type": "investor-or-partner-listing",
+      "links_to_speakx": "yes (1 link)",
+      "is_syndication_of": null,
+      "verification_status": "verified",
+      "date_checked": "2026-10-13",
+      "recommended_placement": "sources-only",
+      "notes": "Investor copy calls SpeakX 'India's largest English-speaking app' with a 'leading share of new downloads' - investor claim, not independent; never restate as '#1'. Uses '(formerly Yellow Class)' - do not quote."
+    },
+    {
+      "publication": "Google Play (developer page)",
+      "article_title": "Android Apps by SpeakX.ai on Google Play",
+      "url": "https://play.google.com/store/apps/dev?id=7008959433764210429&hl=en",
+      "url_source": "fetched-200",
+      "author": "Google Play",
+      "date": "live 2026-10-13",
+      "category": "directory",
+      "key_verified_claim": "Developer page lists 'SpeakX AI Learn Spoken English': 4.5★, 92.9K reviews, 10M+ downloads, rated 3+, 'Speak English with Sia, AI practice, progress reports and 7 Indian languages'.",
+      "link_type": "directory-listing",
+      "links_to_speakx": "yes (developer website link)",
+      "is_syndication_of": null,
+      "verification_status": "verified",
+      "date_checked": "2026-10-13",
+      "recommended_placement": "sources-only",
+      "notes": "Clean developer-page URL (no package id) usable as a link href; the app listing itself is already inventoried."
+    },
+    {
+      "publication": "MWM.ai (app intelligence listing)",
+      "article_title": "SpeakX: English Speaking App - Education App",
+      "url": "https://mwm.ai/apps/speakx-english-speaking-app/6756059415",
+      "url_source": "fetched-200",
+      "author": "MWM",
+      "date": "2026-01-13",
+      "category": "directory",
+      "key_verified_claim": "Third-party scrape of the iOS listing.",
+      "link_type": "directory-listing",
+      "links_to_speakx": "no",
+      "is_syndication_of": null,
+      "verification_status": "verified",
+      "date_checked": "2026-10-13",
+      "recommended_placement": "sources-only",
+      "notes": "Low value; included for completeness only."
+    },
+    {
+      "publication": "EdTechStartups.org (directory)",
+      "article_title": "SpeakX (India) Funding",
+      "url": "https://www.edtechstartups.org/startup/speakx/",
+      "url_source": "fetched-200",
+      "author": "edtechstartups.org",
+      "date": "n/a (live 2026-10-13)",
+      "category": "directory",
+      "key_verified_claim": "Directory entry; title shows 'Funding: $18M' (search snippet showed '$7.2M') - inconsistent with Inc42's $23.3M total.",
+      "link_type": "directory-listing",
+      "links_to_speakx": "yes (1 link)",
+      "is_syndication_of": null,
+      "verification_status": "conflicting",
+      "date_checked": "2026-10-13",
+      "recommended_placement": "sources-only",
+      "notes": "Links to speakx.ai (backlink). Funding total is wrong/stale - do not cite."
+    },
+    {
+      "publication": "LinkedIn (company page)",
+      "article_title": "SpeakX.ai | LinkedIn",
+      "url": "https://in.linkedin.com/company/speakx",
+      "url_source": "fetched-200",
+      "author": "SpeakX.ai",
+      "date": "live 2026-10-13",
+      "category": "directory",
+      "key_verified_claim": "Company page, 41,227 followers at time of check; recent posts cover the Dhoni films screening.",
+      "link_type": "directory-listing",
+      "links_to_speakx": "not-checked",
+      "is_syndication_of": null,
+      "verification_status": "verified",
+      "date_checked": "2026-10-13",
+      "recommended_placement": "sources-only",
+      "notes": "Owned channel; search-engine snippets for this page still surface the old 'children aged 5-15' description from third-party caches - the live page's kids mentions are only in an event post. Worth asking the team to confirm the About text."
+    },
+    {
+      "publication": "Google for Startups (programme page)",
+      "article_title": "Google for Startups Accelerator: Apps (India) - cohort page",
+      "url": "https://startup.google.com/programs/accelerator/apps/india/",
+      "url_source": "seen-in-search-results-only",
+      "author": "Google",
+      "date": "2025 (July-November 2025 cohort per search snippet)",
+      "category": "directory",
+      "key_verified_claim": "Search snippet says SpeakX is listed in the Apps (India) cohort (kick-off July 2025, graduation November 2025).",
+      "link_type": "investor-or-partner-listing",
+      "links_to_speakx": "not-checked",
+      "is_syndication_of": null,
+      "verification_status": "not-verified",
+      "date_checked": "2026-10-13",
+      "recommended_placement": "sources-only",
+      "notes": "URL now 302-redirects to the generic accelerator page with no cohort list, so the listing could not be confirmed. The Google India blog cohort post is already inventoried."
+    }
+  ],
+  "funding_and_milestones": [
+    {
+      "date": "2020-06",
+      "event": "Yellow Class founded (Ivypods Technology Pvt Ltd, CIN U80100HR2019PTC081913, Gurugram) by Arpit Mittal and Anshul Gupta",
+      "amount": null,
+      "investors": [],
+      "sources": [
+        "https://inc42.com/buzz/edtech-platform-yellow-class-raises-6-mn-led-by-elevation-capital/",
+        "https://speakx.ai/about"
+      ],
+      "status": "verified",
+      "note": "Legal entity incorporated 2019 per CIN; brand launched June 2020. Former brand - research only."
+    },
+    {
+      "date": "2020-11",
+      "event": "Seed / pre-Series A",
+      "amount": "$1.3 Mn (PTI/FPJ say $1.5 Mn)",
+      "investors": [
+        "India Quotient (lead)",
+        "Titan Capital",
+        "FirstCheque",
+        "angels"
+      ],
+      "sources": [
+        "https://www.adgully.com/yellow-class-secures-1-3-mn-funding-led-by-india-quotient-98621.html",
+        "https://www.edtechreview.in/news/online-hobby-platform-for-kids-yellow-class-raises-1-3m-in-pre-series-funding/",
+        "https://entrackr.com/news/edtech-startup-speakx-raises-16-mn-led-by-westbridge-10559891",
+        "https://www.freepressjournal.in/business/childrens-extracurricular-ed-tech-platform-yellow-class-raises-6-mn-in-series-a-led-by-elevation-capital"
+      ],
+      "status": "conflicting",
+      "note": "Amount reported as $1.3 Mn (Adgully, EdTechReview, Entrackr) vs $1.5 Mn (FPJ, PTI)."
+    },
+    {
+      "date": "2021-08-17",
+      "event": "Series A",
+      "amount": "$6 Mn",
+      "investors": [
+        "Elevation Capital (lead)",
+        "India Quotient",
+        "Titan Capital",
+        "First Cheque",
+        "Vidit Aatrey",
+        "Alok Mittal",
+        "Vivekananda Hallekere",
+        "Maninder Gulati",
+        "Abhinav Sinha",
+        "Dhruv Agarwala",
+        "Alvin Tse"
+      ],
+      "sources": [
+        "https://inc42.com/buzz/edtech-platform-yellow-class-raises-6-mn-led-by-elevation-capital/",
+        "https://www.freepressjournal.in/business/childrens-extracurricular-ed-tech-platform-yellow-class-raises-6-mn-in-series-a-led-by-elevation-capital"
+      ],
+      "status": "verified",
+      "note": "Post-money reportedly $25 Mn (ViEstories/Arab Founders, unconfirmed)."
+    },
+    {
+      "date": "2023 / 2024-01",
+      "event": "Pivot and rebrand from Yellow Class to SpeakX (AI spoken-English); team reduced to ~20; co-founder Anshul Gupta stepped down",
+      "amount": null,
+      "investors": [],
+      "sources": [
+        "https://inc42.com/startups/a-timely-pivot-how-genai-allowed-speakx-to-find-a-new-edtech-mission/",
+        "https://inc42.com/buzz/speakx-raises-16-mn-to-offer-english-learning-course-in-regional-languages/",
+        "https://entrepreneur.economictimes.indiatimes.com/news/funding/ms-dhoni-backs-ai-based-english-learning-platform-speakx/133677517"
+      ],
+      "status": "conflicting",
+      "note": "Dates vary by outlet: 'rebranded 2023' (Inc42 Jan 2026, Moneycontrol), 'pivoted January 2024' (Inc42 Oct 2025, Arab Founders, AIM), 'founded 2023' (ET Entrepreneur Jun 2026, Happy Llama bio), 'founded/launched 2024' (ET Entrepreneur Sep 2026, press release). Recommend: 'rebranded as SpeakX in 2023; AI-first app relaunched in 2024'."
+    },
+    {
+      "date": "2024-07",
+      "event": "Selected for first cohort, Google for Startups Accelerator: AI First (India)",
+      "amount": null,
+      "investors": [],
+      "sources": [
+        "https://inc42.com/buzz/meet-the-20-startups-selected-for-googles-ai-first-accelerator/"
+      ],
+      "status": "verified",
+      "note": ""
+    },
+    {
+      "date": "2024-08-06",
+      "event": "PNN paid press release via ANI (kids-era positioning)",
+      "amount": null,
+      "investors": [],
+      "sources": [
+        "https://www.aninews.in/news/business/the-role-of-ai-in-revolutionizing-language-learning-how-speakx-is-leading-the-way20240806164735/"
+      ],
+      "status": "verified",
+      "note": "Sponsored - do not cite as coverage."
+    },
+    {
+      "date": "2024-10",
+      "event": "Selected for Google for Startups Accelerator (Apps) cohort of 20; reported 10,000+ paid subscribers/month and ~$500K ARR",
+      "amount": null,
+      "investors": [],
+      "sources": [
+        "https://smestreet.in/technology/speakx-joins-google-startups-accelerator-for-app-growth-7292189",
+        "https://startuptalky.com/arpit-mittal-speakx-shares-insights/"
+      ],
+      "status": "verified",
+      "note": "PR-based."
+    },
+    {
+      "date": "2025-04",
+      "event": "EBITDA-positive (per company)",
+      "amount": "~$150K monthly profit",
+      "investors": [],
+      "sources": [
+        "https://india.entrepreneur.com/news-and-trends/speakxai-raises-usd-16-mn-to-strengthen-ai-powered-english/498354",
+        "https://www.outlookbusiness.com/corporate/speakxai-raises-16-mn-from-westbridge-capital-eyes-regional-language-expansion-amid-profitable-growth"
+      ],
+      "status": "verified (company-stated)",
+      "note": ""
+    },
+    {
+      "date": "2025-10-14",
+      "event": "Pre-Series B",
+      "amount": "$16 Mn (~INR 142 Cr); total raised $23.3 Mn",
+      "investors": [
+        "WestBridge Capital (lead)",
+        "Elevation Capital",
+        "Goodwater Capital",
+        "Shyamal Anadkat (OpenAI)",
+        "Ronnie Screwvala (upGrad)"
+      ],
+      "sources": [
+        "https://inc42.com/buzz/speakx-raises-16-mn-to-offer-english-learning-course-in-regional-languages/",
+        "https://entrackr.com/news/edtech-startup-speakx-raises-16-mn-led-by-westbridge-10559891",
+        "https://india.entrepreneur.com/news-and-trends/speakxai-raises-usd-16-mn-to-strengthen-ai-powered-english/498354"
+      ],
+      "status": "verified",
+      "note": "Company metrics at announcement: 1 Mn+ monthly learners, 200,000 paying subscribers, $7.5 Mn ARR. Post-money $66 Mn reported by ViEstories/Arab Founders only (unconfirmed)."
+    },
+    {
+      "date": "2025-11-25",
+      "event": "First ESOP buyback",
+      "amount": "$1 Mn for 15 of 20 employees; team holds 6% equity",
+      "investors": [],
+      "sources": [
+        "https://entrackr.com/snippets/edtech-startup-speakx-announces-1-mn-esop-buyback-for-15-employees-10810376",
+        "https://www.hrkatha.com/news/speakx-ai-launches-1-mn-esop-buyback-for-employees/"
+      ],
+      "status": "verified",
+      "note": ""
+    },
+    {
+      "date": "FY2026 (Apr 2025-Mar 2026)",
+      "event": "Revenue INR 45 Cr, EBITDA profitable; FY27 projection INR 70-80 Cr",
+      "amount": "INR 45 Cr revenue",
+      "investors": [],
+      "sources": [
+        "https://inc42.com/buzz/exclusive-ms-dhoni-joins-edtech-startup-speakxs-cap-table/"
+      ],
+      "status": "verified (company-stated to Inc42)",
+      "note": "VCCircle (2026-04-30) reports a 4x FY27 revenue target - paywalled, not reconciled with Inc42's 70-80 Cr figure."
+    },
+    {
+      "date": "2026-09-01",
+      "event": "MS Dhoni joins as strategic investor and brand ambassador; part of a larger round planned for 2027",
+      "amount": "undisclosed",
+      "investors": [
+        "MS Dhoni"
+      ],
+      "sources": [
+        "https://inc42.com/buzz/exclusive-ms-dhoni-joins-edtech-startup-speakxs-cap-table/",
+        "https://entrepreneur.economictimes.indiatimes.com/news/funding/ms-dhoni-backs-ai-based-english-learning-platform-speakx/133677517",
+        "https://www.deccanherald.com/technology/artificial-intelligence/ms-dhoni-invests-in-ai-powered-english-speaking-and-communication-platform-speakx-4131303"
+      ],
+      "status": "verified",
+      "note": "Company metrics at announcement: 1 crore+ learners; 10 lakh subscribers added in prior six months; 4 in 5 active learners use English in >90% of interactions."
+    },
+    {
+      "date": "2026-09-05",
+      "event": "'Muh Khol, English Bol' campaign launched with Dhoni; agency ZeroFifty Mediaworks",
+      "amount": null,
+      "investors": [],
+      "sources": [
+        "https://www.medianews4u.com/speakx-brings-ms-dhoni-on-board-as-brand-ambassador-for-its-muh-khol-english-bol-campaign/",
+        "https://www.socialsamosa.com/industry-updates/speakx-mahindra-singh-dhoni-brand-ambassador-12503872"
+      ],
+      "status": "verified",
+      "note": ""
+    },
+    {
+      "date": "2025",
+      "event": "ET Education Excellence Awards 2025: GOLD 'Excellence in Gamified & Personalized Learning Solutions'; BRONZE 'Outstanding Emerging EdTech Startup'",
+      "amount": null,
+      "investors": [],
+      "sources": [
+        "https://education.economictimes.indiatimes.com/education-excellence-awards2025/winners-list"
+      ],
+      "status": "verified",
+      "note": "Use organiser wording."
+    },
+    {
+      "date": "2026",
+      "event": "ET Education Excellence Awards 2026: GOLD 'Excellence in Generative AI for Education' (listed as SpeakX.AI)",
+      "amount": null,
+      "investors": [],
+      "sources": [
+        "https://education.economictimes.indiatimes.com/education-excellence-awards/winners-list"
+      ],
+      "status": "verified",
+      "note": ""
+    },
+    {
+      "date": "2024",
+      "event": "Mint All About AI | Tech4Good Awards: 'Best Use of AI for Education & Livelihoods'",
+      "amount": null,
+      "investors": [],
+      "sources": [
+        "https://www.apnnews.com/speakx-bags-the-best-use-of-ai-for-education-livelihoods-at-mints-all-about-ai-tech4good-awards-sponsored-by-salesforce/"
+      ],
+      "status": "partially-verified",
+      "note": "Only a company press release found; no organiser page."
+    },
+    {
+      "date": "n.d.",
+      "event": "Featured by NITI Aayog Frontier Tech Hub ('AI-Native Platform Enables 10 Million Indians...')",
+      "amount": null,
+      "investors": [],
+      "sources": [
+        "https://frontiertech.niti.gov.in/story/ai-native-platform-enables-10-million-indians-to-learn-spoken-english-anytime-anywhere"
+      ],
+      "status": "verified",
+      "note": "Showcase, not an award."
+    },
+    {
+      "date": "various",
+      "event": "UNVERIFIED award claims on speakx.ai: ET Now Bharat Growth Summit 2026 'Best Education Startup of the Year'; ET Edge 2026 'Best EdTech Startup of the Year'; Entrepreneur Awards 2025 'Best EdTech Startup of the Year'; India Elite Education & Institutional Excellence Awards 2025 (x2); Elets 27th World Education Summit 2023 'Best EdTech Provider of the Year'; Forbes India DGEMS 2023 Select 200; ET Edge 40 Under 40 2025 and BW 40 Under 40 2025 (Arpit Mittal)",
+      "amount": null,
+      "investors": [],
+      "sources": [
+        "https://speakx.ai/"
+      ],
+      "status": "not-verified",
+      "note": "No organiser winners page found for any of these. ET Edge 40U40 West 2025 page fetched - no Arpit Mittal; entrepreneurindia.com 2025 winners page fetched - no SpeakX (but that organiser may not be the one meant); dglobalist S200 list rendered without SpeakX/Yellow Class."
+    }
+  ],
+  "founder": {
+    "name": "Arpit Mittal",
+    "role": "Founder & CEO, SpeakX (Ivypods Technology Pvt Ltd), Gurugram",
+    "facts": [
+      {
+        "fact": "Co-founded Yellow Class in June 2020 with Anshul Gupta; Gupta later stepped down and Mittal became CEO after the pivot to SpeakX.",
+        "sources": [
+          "https://inc42.com/buzz/edtech-platform-yellow-class-raises-6-mn-led-by-elevation-capital/",
+          "https://inc42.com/startups/a-timely-pivot-how-genai-allowed-speakx-to-find-a-new-edtech-mission/"
+        ],
+        "status": "verified"
+      },
+      {
+        "fact": "Grew up in Haridwar; attended an English-medium school but struggled with speaking confidence - the personal origin story for SpeakX.",
+        "sources": [
+          "https://www.elevationcapital.com/perspectives/speakx-building-india-largest-ai-language-learning-app"
+        ],
+        "status": "verified (investor podcast)"
+      },
+      {
+        "fact": "Prior ventures: Edcited (2011; acquired by CoCubes, 2015) and Roofpik (2016; acquired by FastFox.com, 2018).",
+        "sources": [
+          "https://happyllama.analyticsindiamag.com/speaker/arpit-mittal/",
+          "https://www.tice.news/know-this/from-small-town-dreams-to-global-classrooms-how-speakx-is-rewriting-indias-edtech-story-with-ai-11802352",
+          "https://bwdisrupt.businessworld.in/article/Renting-Platform-FastFox-com-Acquires-Roofpik-com-/22-05-2018-149884"
+        ],
+        "status": "partially-verified (BW Disrupt 2018 URL seen in search, not fetched)"
+      },
+      {
+        "fact": "Earlier career: Evalueserve (2009), Inductis, Housing.com, EXL.",
+        "sources": [
+          "https://theorg.com/org/speakx/org-chart/arpit-mittal"
+        ],
+        "status": "not-verified (The Org profile is marked unverified)"
+      },
+      {
+        "fact": "Runs SpeakX with a ~20-person team and no human-led instruction.",
+        "sources": [
+          "https://inc42.com/features/human-ai-hybrid-the-new-reality-for-indian-startups/",
+          "https://inc42.com/startups/a-timely-pivot-how-genai-allowed-speakx-to-find-a-new-edtech-mission/"
+        ],
+        "status": "verified"
+      },
+      {
+        "fact": "Speaker at Happy Llama 2026 (AIM, Bangalore, 13 Mar 2026); participated in a Ministry of Education startup-founders roundtable (12 Feb 2026).",
+        "sources": [
+          "https://happyllama.analyticsindiamag.com/speaker/arpit-mittal/",
+          "https://x.com/EduMinOfIndia/status/2021908838639972436"
+        ],
+        "status": "verified / partially-verified"
+      },
+      {
+        "fact": "Bylines/op-eds: Amar Ujala Bonus (Apr 2026); Republic World 'Initiatives' (Apr 2026, branded section); YourStory author page exists (titles not retrievable).",
+        "sources": [
+          "https://www.amarujalabonus.com/news/why-skill-literacy-is-just-as-important-to-india-as-financial-literacy",
+          "https://www.republicworld.com/initiatives/from-completion-to-capability-how-speakx-turns-learning-into-real-usage",
+          "https://yourstory.com/author/arpitmittal"
+        ],
+        "status": "verified / partially-verified"
+      },
+      {
+        "fact": "Claimed recognitions ET Edge 40 Under 40 (2025) and BW 40 Under 40 (2025).",
+        "sources": [
+          "https://speakx.ai/"
+        ],
+        "status": "not-verified"
+      }
+    ]
+  },
+  "search_log": [
+    {
+      "query": "SpeakX AI English speaking app Arpit Mittal",
+      "results_count": 9
+    },
+    {
+      "query": "MS Dhoni SpeakX investment edtech",
+      "results_count": 9
+    },
+    {
+      "query": "SpeakX funding WestBridge India Quotient",
+      "results_count": 10
+    },
+    {
+      "query": "\"SpeakX\" Ivypods Technology",
+      "results_count": 10
+    },
+    {
+      "query": "\"SpeakX\" awards 2025 2026 edtech English",
+      "results_count": 10
+    },
+    {
+      "query": "VCCircle WestBridge-backed SpeakX fourfold revenue growth FY27",
+      "results_count": 10
+    },
+    {
+      "query": "TICE News SpeakX small town dreams global classrooms",
+      "results_count": 9
+    },
+    {
+      "query": "Times of India Education Times \"English learning apps\" \"first-generation learners\" SpeakX",
+      "results_count": 9
+    },
+    {
+      "query": "Republic World SpeakX \"From completion to capability\"",
+      "results_count": 9
+    },
+    {
+      "query": "Amar Ujala SpeakX skill literacy financial literacy Arpit Mittal",
+      "results_count": 10
+    },
+    {
+      "query": "Economic Times \"Revolutionizing language learning\" SpeakX AI English education",
+      "results_count": 9
+    },
+    {
+      "query": "ET Entrepreneur \"MS Dhoni backs\" AI-based English learning platform SpeakX",
+      "results_count": 9
+    },
+    {
+      "query": "SpeakX Yellow Class rebrand Ivypods Arpit Mittal",
+      "results_count": 10
+    },
+    {
+      "query": "SpeakX Moneycontrol English learning app ChatGPT Arpit Mittal",
+      "results_count": 9
+    },
+    {
+      "query": "site:vccircle.com SpeakX",
+      "results_count": 9
+    },
+    {
+      "query": "site:economictimes.indiatimes.com SpeakX",
+      "results_count": 10
+    },
+    {
+      "query": "site:livemint.com SpeakX English",
+      "results_count": 9
+    },
+    {
+      "query": "site:forbesindia.com SpeakX",
+      "results_count": 9
+    },
+    {
+      "query": "site:business-standard.com SpeakX",
+      "results_count": 9
+    },
+    {
+      "query": "site:financialexpress.com SpeakX",
+      "results_count": 9
+    },
+    {
+      "query": "site:businesstoday.in SpeakX",
+      "results_count": 9
+    },
+    {
+      "query": "site:cnbctv18.com SpeakX",
+      "results_count": 9
+    },
+    {
+      "query": "site:timesofindia.indiatimes.com SpeakX",
+      "results_count": 10
+    },
+    {
+      "query": "site:hindustantimes.com SpeakX English app",
+      "results_count": 9
+    },
+    {
+      "query": "site:indianexpress.com SpeakX",
+      "results_count": 10
+    },
+    {
+      "query": "site:amarujala.com SpeakX",
+      "results_count": 9
+    },
+    {
+      "query": "site:jagran.com SpeakX",
+      "results_count": 9
+    },
+    {
+      "query": "site:eletsonline.com SpeakX",
+      "results_count": 9
+    },
+    {
+      "query": "site:businessworld.in SpeakX OR \"Arpit Mittal\"",
+      "results_count": 9
+    },
+    {
+      "query": "SpeakX Arpit Mittal YouTube interview podcast",
+      "results_count": 10
+    },
+    {
+      "query": "ET Now Bharat Growth Summit 2026 \"Best Education Startup\" SpeakX",
+      "results_count": 9
+    },
+    {
+      "query": "Entrepreneur India Awards 2025 \"Best EdTech Startup\" SpeakX",
+      "results_count": 10
+    },
+    {
+      "query": "\"Arpit Mittal\" \"40 under 40\" BW OR \"ET Edge\" SpeakX",
+      "results_count": 10
+    },
+    {
+      "query": "SpeakX Elevation Capital Series A Yellow Class $6 million 2021",
+      "results_count": 9
+    },
+    {
+      "query": "site:inc42.com SpeakX",
+      "results_count": 9
+    },
+    {
+      "query": "site:yourstory.com SpeakX",
+      "results_count": 10
+    },
+    {
+      "query": "site:entrackr.com SpeakX",
+      "results_count": 9
+    },
+    {
+      "query": "site:moneycontrol.com SpeakX",
+      "results_count": 9
+    },
+    {
+      "query": "Mint \"Tech4Good\" awards 2024 \"SpeakX\" \"Best Use of AI\"",
+      "results_count": 10
+    },
+    {
+      "query": "Elets World Education Summit 2023 \"Best EdTech Provider\" SpeakX OR \"Yellow Class\"",
+      "results_count": 10
+    },
+    {
+      "query": "Forbes India DGEMS 2023 \"Select 200\" SpeakX OR \"Yellow Class\" OR Ivypods",
+      "results_count": 10
+    },
+    {
+      "query": "HolonIQ \"Top 100\" edtech India SpeakX OR \"Yellow Class\"",
+      "results_count": 10
+    },
+    {
+      "query": "Google for Startups Accelerator India SpeakX AI First cohort",
+      "results_count": 9
+    },
+    {
+      "query": "ET Education Excellence Awards 2026 winners \"Generative AI\" SpeakX",
+      "results_count": 10
+    },
+    {
+      "query": "SpeakX Dhoni \"Muh Khol\" campaign afaqs OR exchange4media OR \"Campaign India\" OR adgully",
+      "results_count": 9
+    },
+    {
+      "query": "SpeakX ESOP buyback $1 million 15 employees",
+      "results_count": 10
+    },
+    {
+      "query": "Yellow Class seed funding India Quotient 2020 Arpit Mittal Anshul Gupta",
+      "results_count": 9
+    },
+    {
+      "query": "SpeakX Google Gemini case study English learning India",
+      "results_count": 9
+    },
+    {
+      "query": "SpeakX धोनी इंग्लिश ऐप निवेश",
+      "results_count": 9
+    },
+    {
+      "query": "\"India Elite Education\" awards 2025 SpeakX \"Visionary Edtech\"",
+      "results_count": 10
+    },
+    {
+      "query": "SpeakX Arpit Mittal podcast Spotify OR \"Apple Podcasts\" English learning AI founder",
+      "results_count": 9
+    },
+    {
+      "query": "\"SpeakX\" Ivypods Yellow Class news 2024 pivot English kids AI Inc42 OR ET OR Moneycontrol",
+      "results_count": 9
+    },
+    {
+      "query": "\"speakx.ai\" -site:speakx.ai English AI app India review OR interview 2026",
+      "results_count": 9
+    },
+    {
+      "query": "SpeakX WestBridge funding Economic Times OR Mint OR \"Business Standard\" October 2025 $16 million",
+      "results_count": 10
+    },
+    {
+      "query": "yourstory.com Arpit Mittal SpeakX byline article English speaking India AI",
+      "results_count": 9
+    },
+    {
+      "query": "\"ET Edge\" \"40 under 40\" 2025 \"Arpit Mittal\"",
+      "results_count": 9
+    },
+    {
+      "query": "\"BW 40 under 40\" 2025 \"Arpit Mittal\" SpeakX",
+      "results_count": 10
+    },
+    {
+      "query": "education.economictimes.indiatimes.com \"Education Excellence Awards\" 2026 winners list SpeakX",
+      "results_count": 9
+    },
+    {
+      "query": "Yellow Class layoffs 2023 Arpit Mittal pivot Inc42 OR Entrackr OR Moneycontrol",
+      "results_count": 10
+    },
+    {
+      "query": "SpeakX Economic Times \"economictimes.indiatimes.com/tech\" OR \"ET Prime\" OR \"ET Rise\" English learning app Dhoni OR WestBridge",
+      "results_count": 9
+    },
+    {
+      "query": "SpeakX India AI Impact Summit 2026 Arpit Mittal",
+      "results_count": 9
+    },
+    {
+      "query": "\"SpeakX\" Dainik Bhaskar OR \"Navbharat Times\" OR \"Zee Business\" OR \"News18\" धोनी अंग्रेजी",
+      "results_count": 9
+    },
+    {
+      "query": "\"Arpit Mittal\" SpeakX YouTube \"founder\" interview 2025 OR 2026 AI English",
+      "results_count": 9
+    },
+    {
+      "query": "SpeakX \"Muh Khol English Bol\" campaign Dhoni"
+    },
+    {
+      "query": "SpeakX Dhoni ad film TVC campaign afaqs"
+    },
+    {
+      "query": "SpeakX Dhoni campaign exchange4media OR \"Campaign India\" OR BestMediaInfo"
+    },
+    {
+      "query": "SpeakX Dhoni Storyboard18 OR \"Marketing Mind\" OR \"Brand Equity\" English learning app"
+    },
+    {
+      "query": "SpeakX news October 2026"
+    },
+    {
+      "query": "स्पीकएक्स धोनी अंग्रेजी ऐप"
+    },
+    {
+      "query": "SpeakX धोनी निवेश इंग्लिश स्पीकिंग ऐप"
+    },
+    {
+      "query": "site:bhaskar.com SpeakX OR स्पीकएक्स"
+    },
+    {
+      "query": "site:navbharattimes.indiatimes.com SpeakX धोनी"
+    },
+    {
+      "query": "site:livehindustan.com SpeakX OR स्पीकएक्स धोनी"
+    },
+    {
+      "query": "site:economictimes.indiatimes.com SpeakX Dhoni English"
+    },
+    {
+      "query": "site:hrworld.economictimes.indiatimes.com OR site:brandequity.economictimes.indiatimes.com SpeakX"
+    },
+    {
+      "query": "site:education.economictimes.indiatimes.com SpeakX OR \"Arpit Mittal\""
+    },
+    {
+      "query": "site:peoplematters.in OR site:edtechreview.in SpeakX"
+    },
+    {
+      "query": "\"Arpit Mittal\" SpeakX podcast"
+    },
+    {
+      "query": "\"Arpit Mittal\" SpeakX speaker TechSparks OR Nasscom OR \"Soonicorns\" OR \"India AI\""
+    },
+    {
+      "query": "\"Deepank Agarwal\" SpeakX"
+    },
+    {
+      "query": "SpeakX Gemini Google case study English learning app India"
+    },
+    {
+      "query": "SpeakX app review AI English speaking honest review 2026"
+    },
+    {
+      "query": "SpeakX edtech report RedSeer OR Tracxn OR HolonIQ OR IBEF OR Blume English learning"
+    },
+    {
+      "query": "SpeakX \"Arpit Mittal\" Mint OR livemint English learning AI"
+    },
+    {
+      "query": "SpeakX \"Arpit Mittal\" \"Financial Express\" OR \"Business Standard\" OR \"Hindustan Times\" 2026"
+    },
+    {
+      "query": "SpeakX Dhoni News18 OR \"India Today\" OR NDTV OR \"Zee Business\" English app invest"
+    },
+    {
+      "query": "SpeakX Dhoni \"Times of India\" OR \"Indian Express\" OR Firstpost OR ABP"
+    },
+    {
+      "query": "site:inc42.com SpeakX 2026"
+    },
+    {
+      "query": "site:entrackr.com SpeakX 2026"
+    },
+    {
+      "query": "site:yourstory.com SpeakX 2026 Dhoni OR Arpit"
+    },
+    {
+      "query": "SpeakX \"Arpit Mittal\" CNBC OR \"ET Now\" OR \"Forbes India\" OR \"Fortune India\" 2026"
+    },
+    {
+      "query": "SpeakX \"Arpit Mittal\" ETHRWorld OR HRKatha OR \"People Matters\" OR \"BW People\" 2026"
+    },
+    {
+      "query": "SpeakX Careers360 OR Shiksha OR ScooNews OR \"Education World\" OR \"Elets\" OR \"BW Education\" English app"
+    },
+    {
+      "query": "SpeakX Dhoni Lokmat OR Eenadu OR Sakshi OR Dinamalar OR Anandabazar OR Mathrubhumi English app"
+    },
+    {
+      "query": "धोनी इंग्लिश सीखने वाले ऐप में निवेश SpeakX जागरण OR भास्कर OR \"अमर उजाला\""
+    },
+    {
+      "query": "\"SpeakX\" \"Arpit Mittal\" YouTube interview founder English AI 2026"
+    },
+    {
+      "query": "\"Arpit Mittal\" SpeakX Spotify OR \"Apple Podcasts\" episode"
+    },
+    {
+      "query": "SpeakX award 2026 edtech \"Arpit Mittal\" OR SpeakX winner"
+    },
+    {
+      "query": "SpeakX \"Google Play\" \"Best of 2025\" OR \"Best of 2024\" OR \"Users' Choice\" India app"
+    },
+    {
+      "query": "SpeakX NITI Aayog frontier tech English AI Arpit Mittal"
+    },
+    {
+      "query": "SpeakX siliconindia OR \"CXOToday\" OR \"TechCircle\" OR \"The Tech Portal\" English AI app"
+    },
+    {
+      "query": "SpeakX vs Duolingo India English speaking app comparison blog"
+    },
+    {
+      "query": "SpeakX Dhoni ZeroFifty Mediaworks campaign"
+    },
+    {
+      "query": "\"Business Today\" \"Arpit Mittal\" SpeakX budget 2026 AI compute"
+    },
+    {
+      "query": "SpeakX B2B English learning product hospitality pharma healthcare launch"
+    },
+    {
+      "query": "\"SpeakX\" \"The Hindu\" OR \"BusinessLine\" OR \"Scroll\" OR \"The Print\" OR \"The Week\" English speaking app"
+    },
+    {
+      "query": "\"SpeakX\" Dhoni \"Campaign India\" OR campaignindia.in"
+    },
+    {
+      "query": "\"SpeakX\" Dhoni exchange4media OR e4m brand ambassador English"
+    },
+    {
+      "query": "\"SpeakX\" Dhoni \"Storyboard18\" OR \"marketingmind\" OR \"bestmediainfo\" OR \"impactonnet\""
+    },
+    {
+      "query": "\"SpeakX\" Dhoni brandequity economictimes OR \"ET BrandEquity\""
+    },
+    {
+      "query": "SpeakX \"Muh Khol\" Dhoni YouTube ad video"
+    },
+    {
+      "query": "\"SpeakX\" Google for Startups Accelerator \"AI First\" 2025 cohort English learning Moneycontrol OR YourStory OR Entrackr"
+    },
+    {
+      "query": "\"SpeakX\" \"ET Education Excellence Awards\" 2026 \"Generative AI\" winner coverage"
+    },
+    {
+      "query": "\"SpeakX\" Hans India OR \"Telangana Today\" OR \"Sakshi Post\" OR \"DT Next\" OR \"New Indian Express\" OR Edexlive"
+    },
+    {
+      "query": "\"SpeakX\" \"Deccan Chronicle\" OR \"The Telegraph\" OR \"Tribune\" OR \"Free Press Journal\" Dhoni English app 2026"
+    },
+    {
+      "query": "\"SpeakX\" app review YouTube Hindi \"SpeakX app\" review honest"
+    },
+    {
+      "query": "\"SpeakX\" reddit review English speaking app India worth it"
+    },
+    {
+      "query": "\"SpeakX\" \"Arpit Mittal\" LinkedIn article OR newsletter edtech 2026 English speaking"
+    },
+    {
+      "query": "\"SpeakX\" \"Anshul Gupta\" OR \"Deepank\" interview CTO SpeakX AI voice"
+    },
+    {
+      "query": "\"SpeakX\" \"The Ken\" OR \"Morning Context\" OR \"ET Prime\" edtech English AI"
+    },
+    {
+      "query": "\"SpeakX\" Dhoni Telugu OR Tamil OR Marathi OR Bengali news ఇంగ్లీష్ OR ஆங்கிலம் OR इंग्रजी"
+    },
+    {
+      "query": "businesstoday.in \"SpeakX\" \"AI compute easy, predictable, and scalable\" Budget 2026"
+    },
+    {
+      "query": "\"SpeakX\" \"ET Now\" \"Bharat Growth Summit\" 2026 winners education startup"
+    },
+    {
+      "query": "\"SpeakX\" \"Entrepreneur Awards 2025\" OR \"Entrepreneur India Awards\" winners edtech"
+    },
+    {
+      "query": "\"SpeakX\" HolonIQ \"India\" \"EdTech 100\" OR \"Top 100\""
+    },
+    {
+      "query": "\"स्पीकएक्स\" OR \"स्पीक एक्स\" \"अर्पित मित्तल\" OR धोनी"
+    },
+    {
+      "query": "धोनी ने अंग्रेजी सिखाने वाले AI ऐप में किया निवेश SpeakX"
+    },
+    {
+      "query": "\"SpeakX\" धोनी News18 OR \"Aaj Tak\" OR \"ABP\" OR \"Zee\" OR \"Jagran\" हिंदी"
+    },
+    {
+      "query": "\"SpeakX\" Dhoni Marathi लोकमत OR \"इंग्रजी ॲप\" OR \"धोनीची गुंतवणूक\""
+    },
+    {
+      "query": "\"SpeakX\" ধোনি ইংরেজি অ্যাপ OR ధోని ఇంగ్లీష్ యాప్ OR தோனி ஆங்கிலம் செயலி"
+    },
+    {
+      "query": "\"SpeakX\" Dhoni Sportskeeda OR Crictracker OR InsideSport OR Sportstar OR \"Cricket Addictor\" investment"
+    },
+    {
+      "query": "\"SpeakX\" Dhoni \"Startup Story\" OR StartupLanes OR \"Business Upturn\" OR Techstory OR \"Startup Pedia\" OR \"The Startup Lab\""
+    },
+    {
+      "query": "\"SpeakX\" \"Sia\" AI speaking partner launch news"
+    },
+    {
+      "query": "\"SpeakX\" \"1 crore\" OR \"10 million\" learners milestone 2026 news English app"
+    },
+    {
+      "query": "\"SpeakX\" Inc42 Plus OR Datalabs edtech funding report 2025 OR 2026"
+    },
+    {
+      "query": "\"Arpit Mittal\" SpeakX speaker \"Inc42\" OR \"TiE\" OR \"Google for Startups\" OR \"ET Soonicorns\" OR \"TechSparks\" 2025 OR 2026 event"
+    },
+    {
+      "query": "Elevation Capital Perspectives podcast SpeakX Arpit Mittal Spotify OR YouTube OR \"Apple Podcasts\""
+    },
+    {
+      "query": "\"SpeakX\" Mint \"Tech4Good\" 2024 winners livemint \"All About AI\""
+    },
+    {
+      "query": "\"SpeakX\" \"Forbes India\" 2025 OR 2026 edtech English AI"
+    },
+    {
+      "query": "\"SpeakX\" Hindustan Times OR \"HT Brand Studio\" OR \"HT Tech\" English speaking AI app"
+    },
+    {
+      "query": "\"SpeakX\" economictimes \"WestBridge\" OR \"Dhoni\" OR \"ESOP\" tech news"
+    },
+    {
+      "query": "\"SpeakX\" Dhoni \"Outlook\" OR \"Fortune India\" OR \"Financial Express\" OR \"Business Standard\" OR \"NDTV Profit\" invests English app"
+    },
+    {
+      "query": "\"SpeakX\" YouTube review channel \"SpeakX\" app \"Dhoni\" OR \"AI English\" 2026 video"
+    },
+    {
+      "query": "\"SpeakX\" Tracxn \"Soonicorn\" OR \"Minicorn\" OR \"Emerging Startups\" report India edtech"
+    },
+    {
+      "query": "\"SpeakX\" \"ScooNews\" OR \"EducationWorld\" OR \"Digital Learning\" eletsonline OR \"BW Education\" OR \"India Today Education\""
+    },
+    {
+      "query": "\"SpeakX\" \"Google for Startups\" OR \"Google Play\" OR \"Android\" case study OR blog SpeakX.ai India developer story"
+    },
+    {
+      "query": "\"SpeakX\" news September 2026 OR October 2026 English app -Dhoni"
+    },
+    {
+      "query": "site:businesstoday.in \"Arpit Mittal\" SpeakX"
+    },
+    {
+      "query": "\"Yellow Class\" OR \"SpeakX\" HolonIQ \"South Asia EdTech 100\" 2023 OR 2024"
+    },
+    {
+      "query": "\"SpeakX\" \"Shyamal Anadkat\" OR \"Ronnie Screwvala\" angel English learning Mint OR \"Economic Times\" OR \"Business Standard\""
+    },
+    {
+      "query": "\"SpeakX\" Dhoni \"Lighthouse Insights\" OR \"Social Ketchup\" OR \"Marketing Moves\" OR \"Passionate in Marketing\" OR \"Indian Television\" OR indiantelevision.com"
+    },
+    {
+      "query": "\"Arpit Mittal\" SpeakX \"Josh Talks\" OR TEDx OR \"fireside\" OR \"keynote\" English AI founder video"
+    },
+    {
+      "query": "\"SpeakX\" \"Google Cloud\" OR \"Gemini\" OR \"Sarvam\" OR \"ElevenLabs\" OR \"OpenAI\" partnership OR \"powered by\" English learning India"
+    },
+    {
+      "query": "\"SpeakX\" \"EdTech Digest\" OR \"eLearning Industry\" OR \"EdSurge\" OR \"The PIE News\" India English AI"
+    },
+    {
+      "query": "\"SpeakX\" Dhoni \"Zee Business\" OR \"ET Now\" OR \"CNBC-TV18\" OR \"Times Now\" video English learning app investment"
+    },
+    {
+      "query": "\"SpeakX\" Dhoni ad \"Muh Khol English Bol\" review OR reaction OR \"ad of the week\" OR \"campaign spotlight\""
+    },
+    {
+      "query": "\"SpeakX\" OR \"speakx.ai\" Arpit Mittal \"Startup Stories\" OR \"Backstage with Millionaires\" OR \"Think School\" OR \"Raj Shamani\" OR \"Ranveer\""
+    },
+    {
+      "query": "\"SpeakX\" Google for Startups Accelerator India cohort page startup.google.com OR \"Google for Startups\" blog SpeakX"
+    },
+    {
+      "query": "\"SpeakX\" \"India Quotient\" OR \"WestBridge\" OR \"Goodwater\" portfolio page"
+    },
+    {
+      "query": "\"SpeakX\" Dhoni dailyhunt OR \"news syndication\" afaqs OR Inc42 OR \"Social Samosa\" 2026"
+    },
+    {
+      "query": "\"SpeakX\" \"ET Education\" \"Education Excellence Awards 2026\" press OR coverage \"Generative AI\" Economic Times education"
+    },
+    {
+      "query": "\"SpeakX\" Dhoni \"Hindustan Times\" OR \"HT\" OR \"Mint\" OR \"Economic Times\" September 2026 brand ambassador English learning"
+    },
+    {
+      "query": "Business Today Budget 2026 expectations AI startups \"compute credits\" \"import duties\" GPUs \"SpeakX\" OR \"Arpit Mittal\""
+    }
+  ],
+  "open_questions": [
+    "No independent coverage found on Mint/Livemint editorial, Forbes India editorial, Financial Express, CNBC-TV18, Hindustan Times, Indian Express, Dainik Jagran, Amar Ujala (Hindi main site), or Elets - site-restricted searches returned nothing. Business Standard appears only via a PNN press release.",
+    "Nine speakx.ai award claims (ET Now Bharat Growth Summit 2026, ET Edge 2026 Best EdTech Startup, Entrepreneur Awards 2025, India Elite Education Awards 2025 x2, Elets WES 2023, Forbes India DGEMS 2023, ET Edge 40U40 2025, BW 40U40 2025) could not be matched to any organiser winners page. Ask the SpeakX team for certificates/organiser links before publishing.",
+    "Mint Tech4Good 2024 award is supported only by a company press release (APN News) - organiser page not found.",
+    "Founding/pivot date is inconsistent across outlets (2023 rebrand vs Jan 2024 pivot vs 'founded 2024'). Agree one canonical phrasing with the content team.",
+    "Language count conflicts: press release/ET Entrepreneur/Dealroom say '16 languages' or '16+ languages'; SHARED-CONTEXT and EngVarta say 7 Indian languages. Use the SHARED-CONTEXT figure.",
+    "speakx.ai shows 'Rating 4.6+' while Google Play shows 4.5 (4.53) - SHARED-CONTEXT forbids 4.6+.",
+    "YourStory (3 articles + author page), BW Disrupt (3 articles), BW People, Tracxn, Crunchbase, Dealroom, Adgully, AIM, APN News, Education Excellence Magazine could not be fully fetched (Cloudflare/403/JS). URLs were seen verbatim in search results; confirm live status manually before use.",
+    "VCCircle article is paywalled; only the lede ('fourfold jump in revenue in FY ending March 2027') is verified. Reconcile with Inc42's INR 70-80 Cr FY27 projection.",
+    "Post-money valuation of $66 Mn (vs $25 Mn in 2021) appears only in ViEstories/Arab Founders - not confirmed by the company or Tier-1 media.",
+    "TICE News states 'INR 209.43 crore raised' and '2 million users' - inconsistent with $23.3 Mn total and other user metrics.",
+    "The Elevation Capital podcast WebFetch summary rendered the guest as 'Arpit Agarwal'; the guest is Arpit Mittal - worth a manual listen before quoting.",
+    "No SpeakX-era YouTube interview or third-party podcast was located (only the Elevation Capital podcast and a 2021 Yellow Class-era 'All Grit' episode). A 'Happy Llama SF | Arpit Mittal, Partner at Threshold Ventures' video is a different person.",
+    "Several directory/stale listings (Inc42 company page, CB Insights, Entrackr description, ANI 2024 release) still describe a kids' product - never reuse those descriptions.",
+    "Web search budget for this session was exhausted (200 queries); a few long-tail checks (afaqs/exchange4media coverage, Hindi dailies, ET Now video) remain unsearched."
+  ],
+  "additions_2026_10_13": {
+    "count": 29,
+    "excluded_legacy": [
+      {
+        "url": "https://theorg.com/org/speakx-formerly-yellow-class/org-chart/arpit-mittal",
+        "title": "Arpit Mittal - Founder And CEO at speakX (formerly Yellow Class) | The Org",
+        "reason": "Uses the former brand name in the page title/URL slug (redirects to /person/arpit-mittal). A clean The Org URL is already in media.json."
+      },
+      {
+        "url": "https://www.cbinsights.com/compare/imagiobox-vs-yellow-class",
+        "title": "Compare imagiobox vs SpeakX (CB Insights)",
+        "reason": "CB Insights comparison pages describe SpeakX as English learning 'for children aged 5-15' and use the yellow-class slug - legacy kids positioning."
+      },
+      {
+        "url": "https://www.cbinsights.com/compare/stone-sapphire-private-limited-vs-yellow-class",
+        "title": "Compare Stone Sapphire vs SpeakX (CB Insights)",
+        "reason": "Same as above - kids positioning and former-brand slug."
+      },
+      {
+        "url": "https://apps.apple.com/us/app/id1547936192",
+        "title": "SpeakX: Learn to Speak English (legacy App Store listing)",
+        "reason": "Legacy listing id1547936192 (also seen as /bw/ storefront) now returns 404; superseded by id6756059415."
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=Pjm5VhPvhxo",
+        "title": "Speakx App Kaise Use Kare !! Speakx Learn To Speak English !! Speakx App Review",
+        "reason": "Hindi how-to video using the legacy 'Learn To Speak English' app name; YouTube oEmbed returns 'Unauthorized' (video private/removed), so it cannot be verified or embedded."
+      },
+      {
+        "url": "https://apps.apple.com/ec/app/speakx/id6503629066",
+        "title": "SpeakX (Ecuador App Store, id6503629066)",
+        "reason": "Appeared in search results; different app id and storefront, likely an unrelated app with the same name - not verified, excluded to avoid mis-attribution."
+      }
+    ],
+    "could_not_access": [
+      "Business Today 'Budget 2026 must focus on making AI compute easy, predictable, and scalable' - Arpit Mittal quote is attributed to Business Today by Benzatine and search snippets, but no businesstoday.in URL could be located (only the Feb 2026 Union Budget piece already inventoried).",
+      "YourStory: author page https://yourstory.com/author/arpitmittal and two 2024 articles (/2024/11/ai-coaches-reshaping-education-real-time-feedback, /2024/10/revolutionising-indias-entrepreneurial-landscape) plus the 19 Feb 2025 daily roundup all return 403 (Cloudflare) to curl and WebFetch - possible founder bylines, unverified.",
+      "Medium (Emerge EdTech Insights) 'The future of language learning' - Cloudflare 403; may mention SpeakX.",
+      "PitchBook profile https://pitchbook.com/profiles/company/454358-71 and Crunchbase person page https://www.crunchbase.com/person/arpit-mittal - 403 bot blocks.",
+      "theindiabizz.com 'SpeakX Raises $16 Mn Funding Led by WestBridge Capital' - 404.",
+      "Hindi and regional-language press (Dainik Bhaskar, Amar Ujala main site, Jagran, Navbharat Times, Live Hindustan, Lokmat, Eenadu/Sakshi, Dinamalar, Anandabazar, Mathrubhumi, Vijaya Karnataka): 9 Devanagari/Bengali/Telugu/Tamil/Marathi queries returned no SpeakX items.",
+      "Mainline business press (ET Tech/ET BrandEquity/ET HRWorld/ET Education, Mint, Business Standard editorial, Financial Express, Hindustan Times, Indian Express, CNBC-TV18, NDTV Profit, Forbes India editorial, Fortune India, The Hindu/BusinessLine, Scroll, The Print): no new editorial hits beyond what media.json holds.",
+      "Campaign India, Exchange4media, Storyboard18, Marketing Mind, BestMediaInfo, Impact: no SpeakX/Dhoni campaign story surfaced (searched by name and by campaign slogan).",
+      "HolonIQ South Asia EdTech 100 (2022, 2023, 2024, 2025): SpeakX/Yellow Class/Ivypods not found on the 2022 or 2025 pages fetched; 2023/2024 pages not fetched - the 'HolonIQ Top 100' claim remains unverified.",
+      "Google Play 'Best of' and App Store 'featured' awards: no evidence found."
+    ]
+  }
+}

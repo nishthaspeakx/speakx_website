@@ -1,0 +1,737 @@
+{
+  "checked": "2026-10-12",
+  "investors": [
+    {
+      "name": "MS Dhoni (Mahendra Singh Dhoni)",
+      "type": "individual / strategic investor and brand ambassador",
+      "rounds": [
+        "undisclosed strategic investment announced 2026-09-01 (described as part of a larger round planned for next year)"
+      ],
+      "amount": "undisclosed",
+      "verification_status": "verified-independent",
+      "company_stated_vs_independent": "deal announced by company; reported independently by Inc42 (exclusive), ET Entrepreneur, Deccan Herald, Moneycontrol",
+      "sources": [
+        {
+          "url": "https://inc42.com/buzz/exclusive-ms-dhoni-joins-edtech-startup-speakxs-cap-table/",
+          "how_obtained": "fetched-200",
+          "note": "2026-09-01; 'strategic investor and brand ambassador'; terms undisclosed; part of larger round planned next year"
+        },
+        {
+          "url": "https://entrepreneur.economictimes.indiatimes.com/news/funding/ms-dhoni-backs-ai-based-english-learning-platform-speakx/133677517",
+          "how_obtained": "fetched-200",
+          "note": "2026-09-01; 'Financial details of the funding round were undisclosed'"
+        },
+        {
+          "url": "https://www.deccanherald.com/business/ms-dhoni-invests-in-ai-powered-english-speaking-and-communication-platform-speakx-4131303",
+          "how_obtained": "fetched-200",
+          "note": "datePublished 2026-09-01"
+        },
+        {
+          "url": "https://www.moneycontrol.com/technology/speakx-app-wants-to-make-learning-english-more-useful-than-talking-to-chatgpt-article-14028161.html",
+          "how_obtained": "fetched-200",
+          "note": "2026-09-11; Dhoni 'has joined SpeakX cap table'"
+        },
+        {
+          "url": "https://digitalterminal.in/edutech/ms-dhoni-invests-in-speakx-to-back-ai-powered-english-learning-in-india",
+          "how_obtained": "fetched-200",
+          "note": "2026-09-02"
+        },
+        {
+          "url": "https://www.webnewswire.com/2026/09/01/ms-dhoni-invests-in-speakx-backing-the-future-of-ai-powered-english-learning-in-india/",
+          "how_obtained": "fetched-200",
+          "note": "company press release, 2026-09-01"
+        }
+      ],
+      "publishable_statement": "MS Dhoni invested in SpeakX in September 2026 as a strategic investor and brand ambassador; the amount was not disclosed (Inc42, ET Entrepreneur, 1 Sep 2026)."
+    },
+    {
+      "name": "WestBridge Capital",
+      "type": "institutional (lead, pre-Series B)",
+      "rounds": [
+        "$16M pre-Series B, October 2025 (lead)"
+      ],
+      "amount": "$16M round (≈₹142 crore)",
+      "verification_status": "verified-independent",
+      "company_stated_vs_independent": "independently reported (Entrackr, Entrepreneur India) and listed on WestBridge's own portfolio page",
+      "sources": [
+        {
+          "url": "https://westbridgecap.com/portfolio/speakx",
+          "how_obtained": "fetched-200",
+          "note": "portfolio entry: 'SpeakX (formerly Yellow Class), founded in 2020… AI tutor-led English learning platform'; year 2025"
+        },
+        {
+          "url": "https://www.westbridgecap.com/portfolio",
+          "how_obtained": "fetched-200",
+          "note": "SpeakX listed, Year 2025"
+        },
+        {
+          "url": "https://entrackr.com/news/edtech-startup-speakx-raises-16-mn-led-by-westbridge-10559891",
+          "how_obtained": "fetched-200",
+          "note": "2025-10-14"
+        },
+        {
+          "url": "https://india.entrepreneur.com/news-and-trends/speakxai-raises-usd-16-mn-to-strengthen-ai-powered-english/498354",
+          "how_obtained": "fetched-200",
+          "note": "2025-10-15; 'Pre-Series B'"
+        },
+        {
+          "url": "https://cxotechbot.com/SpeakX-ai-Bags-142-Crore-to-Expand-Regional-Reach-and-Strengthen-AI-Capabilities",
+          "how_obtained": "fetched-200",
+          "note": "₹142 crore ≈ $16M"
+        },
+        {
+          "url": "https://www.lexology.com/library/detail.aspx?g=c66465cc-e8e7-4b07-9a4e-c5bd109ceb93",
+          "how_obtained": "seen-in-search-results-only",
+          "note": "JSA advised WestBridge on investment in Ivypods Technology Pvt Ltd (fetch returned 404)"
+        }
+      ],
+      "publishable_statement": "WestBridge Capital led SpeakX's $16 million pre-Series B round in October 2025 (Entrackr, 14 Oct 2025); SpeakX appears in WestBridge's portfolio."
+    },
+    {
+      "name": "India Quotient",
+      "type": "institutional (lead, seed/pre-Series A)",
+      "rounds": [
+        "$1.3M pre-Series A/seed, November 2020 (lead)",
+        "participated in $6M Series A, August 2021"
+      ],
+      "amount": "$1.3M (₹10 crore) seed round",
+      "verification_status": "verified-independent",
+      "company_stated_vs_independent": "independently reported (Adgully, EdTechReview 2020; YourStory 2021) and listed on India Quotient's portfolio page",
+      "sources": [
+        {
+          "url": "https://www.indiaquotient.in/portfolio",
+          "how_obtained": "fetched-200",
+          "note": "portfolio entry id 'speakx' linking to speakx.ai; description 'Learning platform for kids'; 'Who's in Charge? Arpit Mittal'"
+        },
+        {
+          "url": "https://archive.adgully.com/yellow-class-secures-1-3-mn-funding-led-by-india-quotient-98621.html",
+          "how_obtained": "fetched-200",
+          "note": "2020-11-26; $1.3M (INR 10 Cr) pre-Series A led by India Quotient"
+        },
+        {
+          "url": "https://www.edtechreview.in/news/online-hobby-platform-for-kids-yellow-class-raises-1-3m-in-pre-series-funding/",
+          "how_obtained": "fetched-200",
+          "note": "2020-11-25"
+        },
+        {
+          "url": "https://yourstory.com/2021/08/funding-alert-yellow-class-raises-6million-seriesa-investment-elevation-capital",
+          "how_obtained": "fetched-200",
+          "note": "2021-08-18; says seed was $1.5M Nov 2020 (CONFLICT with $1.3M)"
+        }
+      ],
+      "publishable_statement": "India Quotient led the company's first institutional round in November 2020 and lists SpeakX in its portfolio.",
+      "note": "Portfolio page description ('Learning platform for kids') is outdated; do not quote it — audience rule."
+    },
+    {
+      "name": "Elevation Capital",
+      "type": "institutional (lead, Series A; participated pre-Series B)",
+      "rounds": [
+        "$6M Series A, August 2021 (lead)",
+        "participated in $16M pre-Series B, Oct 2025"
+      ],
+      "amount": "$6M Series A",
+      "verification_status": "verified-independent",
+      "company_stated_vs_independent": "independently reported (YourStory, Free Press Journal 2021; Entrackr 2025) and Elevation's own SpeakX perspective page",
+      "sources": [
+        {
+          "url": "https://yourstory.com/2021/08/funding-alert-yellow-class-raises-6million-seriesa-investment-elevation-capital",
+          "how_obtained": "fetched-200",
+          "note": "2021-08-18"
+        },
+        {
+          "url": "https://www.freepressjournal.in/business/childrens-extracurricular-ed-tech-platform-yellow-class-raises-6-mn-in-series-a-led-by-elevation-capital",
+          "how_obtained": "fetched-200",
+          "note": "2021-08-17; company founded June 2020 by Anshul Gupta and Arpit Mittal"
+        },
+        {
+          "url": "https://www.elevationcapital.com/perspectives/speakx-building-india-largest-ai-language-learning-app",
+          "how_obtained": "fetched-200",
+          "note": "2025-10-22, by Manish Advani (Principal, Elevation Capital)"
+        },
+        {
+          "url": "https://entrackr.com/news/edtech-startup-speakx-raises-16-mn-led-by-westbridge-10559891",
+          "how_obtained": "fetched-200",
+          "note": "participation in 2025 round"
+        }
+      ],
+      "publishable_statement": "Elevation Capital led the $6 million Series A in August 2021 and participated in the 2025 round."
+    },
+    {
+      "name": "Goodwater Capital",
+      "type": "institutional",
+      "rounds": [
+        "participated in $16M pre-Series B, Oct 2025"
+      ],
+      "amount": null,
+      "verification_status": "verified-independent",
+      "company_stated_vs_independent": "independently reported",
+      "sources": [
+        {
+          "url": "https://entrackr.com/news/edtech-startup-speakx-raises-16-mn-led-by-westbridge-10559891",
+          "how_obtained": "fetched-200"
+        },
+        {
+          "url": "https://india.entrepreneur.com/news-and-trends/speakxai-raises-usd-16-mn-to-strengthen-ai-powered-english/498354",
+          "how_obtained": "fetched-200"
+        }
+      ],
+      "publishable_statement": "Goodwater Capital participated in the October 2025 round (Entrackr)."
+    },
+    {
+      "name": "Titan Capital; First Cheque",
+      "type": "institutional/angel funds",
+      "rounds": [
+        "participated in $6M Series A, Aug 2021"
+      ],
+      "amount": null,
+      "verification_status": "verified-independent",
+      "company_stated_vs_independent": "independently reported",
+      "sources": [
+        {
+          "url": "https://yourstory.com/2021/08/funding-alert-yellow-class-raises-6million-seriesa-investment-elevation-capital",
+          "how_obtained": "fetched-200"
+        },
+        {
+          "url": "https://www.freepressjournal.in/business/childrens-extracurricular-ed-tech-platform-yellow-class-raises-6-mn-in-series-a-led-by-elevation-capital",
+          "how_obtained": "fetched-200"
+        }
+      ],
+      "publishable_statement": "Titan Capital and First Cheque participated in the 2021 Series A (YourStory)."
+    },
+    {
+      "name": "Tidal Capital",
+      "type": "institutional",
+      "rounds": [
+        "unspecified (named among backers in Sep 2026 coverage)"
+      ],
+      "amount": null,
+      "verification_status": "verified-independent (single source)",
+      "company_stated_vs_independent": "reported by Inc42 only",
+      "sources": [
+        {
+          "url": "https://inc42.com/buzz/exclusive-ms-dhoni-joins-edtech-startup-speakxs-cap-table/",
+          "how_obtained": "fetched-200",
+          "note": "'backed by… Elevation Capital, Goodwater Capital, Tidal Capital, and Ronnie Screwvala'"
+        }
+      ],
+      "publishable_statement": "Inc42 (Sep 2026) names Tidal Capital among SpeakX's backers."
+    },
+    {
+      "name": "Ronnie Screwvala (upGrad co-founder)",
+      "type": "angel",
+      "rounds": [
+        "$16M pre-Series B, Oct 2025"
+      ],
+      "amount": null,
+      "verification_status": "verified-independent",
+      "company_stated_vs_independent": "independently reported",
+      "sources": [
+        {
+          "url": "https://entrackr.com/news/edtech-startup-speakx-raises-16-mn-led-by-westbridge-10559891",
+          "how_obtained": "fetched-200"
+        },
+        {
+          "url": "https://india.entrepreneur.com/news-and-trends/speakxai-raises-usd-16-mn-to-strengthen-ai-powered-english/498354",
+          "how_obtained": "fetched-200"
+        }
+      ],
+      "publishable_statement": "Angel participant in the Oct 2025 round."
+    },
+    {
+      "name": "Shyamal Anadkat (OpenAI, Applied AI)",
+      "type": "angel",
+      "rounds": [
+        "$16M pre-Series B, Oct 2025"
+      ],
+      "amount": null,
+      "verification_status": "verified-independent",
+      "company_stated_vs_independent": "independently reported",
+      "sources": [
+        {
+          "url": "https://entrackr.com/news/edtech-startup-speakx-raises-16-mn-led-by-westbridge-10559891",
+          "how_obtained": "fetched-200"
+        },
+        {
+          "url": "https://india.entrepreneur.com/news-and-trends/speakxai-raises-usd-16-mn-to-strengthen-ai-powered-english/498354",
+          "how_obtained": "fetched-200"
+        }
+      ],
+      "publishable_statement": "Angel participant in the Oct 2025 round."
+    },
+    {
+      "name": "Kunal Bahl and Rohit Bansal (Snapdeal co-founders)",
+      "type": "angels",
+      "rounds": [
+        "$1.3M pre-Series A, Nov 2020"
+      ],
+      "amount": null,
+      "verification_status": "verified-independent",
+      "company_stated_vs_independent": "independently reported (2020)",
+      "sources": [
+        {
+          "url": "https://archive.adgully.com/yellow-class-secures-1-3-mn-funding-led-by-india-quotient-98621.html",
+          "how_obtained": "fetched-200"
+        },
+        {
+          "url": "https://www.edtechreview.in/news/online-hobby-platform-for-kids-yellow-class-raises-1-3m-in-pre-series-funding/",
+          "how_obtained": "fetched-200"
+        }
+      ],
+      "publishable_statement": "Kunal Bahl participated as an angel in the company's Nov 2020 round (Adgully)."
+    },
+    {
+      "name": "Vidit Aatrey (Meesho co-founder & CEO)",
+      "type": "angel",
+      "rounds": [
+        "$6M Series A, Aug 2021"
+      ],
+      "amount": null,
+      "verification_status": "verified-independent",
+      "company_stated_vs_independent": "independently reported (2021)",
+      "sources": [
+        {
+          "url": "https://yourstory.com/2021/08/funding-alert-yellow-class-raises-6million-seriesa-investment-elevation-capital",
+          "how_obtained": "fetched-200"
+        },
+        {
+          "url": "https://www.freepressjournal.in/business/childrens-extracurricular-ed-tech-platform-yellow-class-raises-6-mn-in-series-a-led-by-elevation-capital",
+          "how_obtained": "fetched-200"
+        }
+      ],
+      "publishable_statement": "Vidit Aatrey participated as an angel in the 2021 Series A (YourStory)."
+    },
+    {
+      "name": "Varun Alagh (Mamaearth co-founder & CEO)",
+      "type": "angel (claimed)",
+      "rounds": [],
+      "amount": null,
+      "verification_status": "claimed-on-speakx-site-only",
+      "company_stated_vs_independent": "company site only",
+      "sources": [
+        {
+          "url": "https://speakx.ai/",
+          "how_obtained": "fetched-200",
+          "note": "listed among backers"
+        }
+      ],
+      "publishable_statement": "Not publishable without a third-party source."
+    },
+    {
+      "name": "Other 2020/2021 angels (Alok Mittal, Maninder Gulati, Abhinav Sinha, Vivekananda Hallekere, Dhruv Agarwala, Alvin/Alwin Tse, Pallav Pandey, Harpreet Singh Grover, Vibhore Goyal)",
+      "type": "angels",
+      "rounds": [
+        "Nov 2020 and/or Aug 2021"
+      ],
+      "amount": null,
+      "verification_status": "verified-independent",
+      "company_stated_vs_independent": "independently reported",
+      "sources": [
+        {
+          "url": "https://archive.adgully.com/yellow-class-secures-1-3-mn-funding-led-by-india-quotient-98621.html",
+          "how_obtained": "fetched-200"
+        },
+        {
+          "url": "https://yourstory.com/2021/08/funding-alert-yellow-class-raises-6million-seriesa-investment-elevation-capital",
+          "how_obtained": "fetched-200"
+        }
+      ],
+      "publishable_statement": "Named in 2020–2021 funding coverage; low relevance to current brand."
+    }
+  ],
+  "funding_rounds": [
+    {
+      "round": "Pre-Series A / seed",
+      "date": "2020-11",
+      "amount": "$1.3M (₹10 crore) — YourStory/FPJ (2021) say $1.5M",
+      "lead": "India Quotient",
+      "others": "Snapdeal founders and other angels",
+      "brand_at_time": "former brand (do not use publicly)",
+      "verification_status": "verified-independent (amount conflicting: $1.3M vs $1.5M)",
+      "sources": [
+        {
+          "url": "https://archive.adgully.com/yellow-class-secures-1-3-mn-funding-led-by-india-quotient-98621.html",
+          "how_obtained": "fetched-200",
+          "note": "2020-11-26"
+        },
+        {
+          "url": "https://www.edtechreview.in/news/online-hobby-platform-for-kids-yellow-class-raises-1-3m-in-pre-series-funding/",
+          "how_obtained": "fetched-200",
+          "note": "2020-11-25"
+        },
+        {
+          "url": "https://yourstory.com/2021/08/funding-alert-yellow-class-raises-6million-seriesa-investment-elevation-capital",
+          "how_obtained": "fetched-200",
+          "note": "$1.5M seed Nov 2020"
+        }
+      ]
+    },
+    {
+      "round": "Series A",
+      "date": "2021-08-17/18",
+      "amount": "$6M",
+      "lead": "Elevation Capital",
+      "others": "India Quotient, Titan Capital, First Cheque, angels incl. Vidit Aatrey",
+      "brand_at_time": "former brand",
+      "verification_status": "verified-independent",
+      "sources": [
+        {
+          "url": "https://yourstory.com/2021/08/funding-alert-yellow-class-raises-6million-seriesa-investment-elevation-capital",
+          "how_obtained": "fetched-200"
+        },
+        {
+          "url": "https://www.freepressjournal.in/business/childrens-extracurricular-ed-tech-platform-yellow-class-raises-6-mn-in-series-a-led-by-elevation-capital",
+          "how_obtained": "fetched-200"
+        }
+      ]
+    },
+    {
+      "round": "Pre-Series B",
+      "date": "2025-10-14",
+      "amount": "$16M (≈₹142 crore)",
+      "lead": "WestBridge Capital",
+      "others": "Elevation Capital, Goodwater Capital; angels Ronnie Screwvala, Shyamal Anadkat",
+      "brand_at_time": "SpeakX",
+      "verification_status": "verified-independent",
+      "sources": [
+        {
+          "url": "https://entrackr.com/news/edtech-startup-speakx-raises-16-mn-led-by-westbridge-10559891",
+          "how_obtained": "fetched-200",
+          "note": "2025-10-14; total raised to date $23.3M"
+        },
+        {
+          "url": "https://india.entrepreneur.com/news-and-trends/speakxai-raises-usd-16-mn-to-strengthen-ai-powered-english/498354",
+          "how_obtained": "fetched-200",
+          "note": "2025-10-15"
+        },
+        {
+          "url": "https://cxotechbot.com/SpeakX-ai-Bags-142-Crore-to-Expand-Regional-Reach-and-Strengthen-AI-Capabilities",
+          "how_obtained": "fetched-200",
+          "note": "2025-10-14; ₹142 crore"
+        },
+        {
+          "url": "https://westbridgecap.com/portfolio/speakx",
+          "how_obtained": "fetched-200"
+        }
+      ]
+    },
+    {
+      "round": "Strategic investment (MS Dhoni)",
+      "date": "2026-09-01",
+      "amount": "undisclosed",
+      "lead": null,
+      "others": "MS Dhoni",
+      "brand_at_time": "SpeakX",
+      "verification_status": "verified-independent",
+      "sources": [
+        {
+          "url": "https://inc42.com/buzz/exclusive-ms-dhoni-joins-edtech-startup-speakxs-cap-table/",
+          "how_obtained": "fetched-200"
+        },
+        {
+          "url": "https://entrepreneur.economictimes.indiatimes.com/news/funding/ms-dhoni-backs-ai-based-english-learning-platform-speakx/133677517",
+          "how_obtained": "fetched-200"
+        }
+      ]
+    },
+    {
+      "round": "TOTAL disclosed funding",
+      "date": "as of 2026-10-12",
+      "amount": "≈$23.3M computed from disclosed rounds (Entrackr, Oct 2025); Inc42 (Sep 2026): 'over $20 Mn till date'; TICE (May 2026): '₹209.43 crore' total raised",
+      "lead": null,
+      "others": null,
+      "brand_at_time": null,
+      "verification_status": "verified-independent (figures vary by source; Dhoni amount undisclosed)",
+      "sources": [
+        {
+          "url": "https://entrackr.com/news/edtech-startup-speakx-raises-16-mn-led-by-westbridge-10559891",
+          "how_obtained": "fetched-200"
+        },
+        {
+          "url": "https://inc42.com/buzz/exclusive-ms-dhoni-joins-edtech-startup-speakxs-cap-table/",
+          "how_obtained": "fetched-200"
+        },
+        {
+          "url": "https://www.tice.news/know-this/from-small-town-dreams-to-global-classrooms-how-speakx-is-rewriting-indias-edtech-story-with-ai-11802352",
+          "how_obtained": "fetched-200"
+        }
+      ]
+    }
+  ],
+  "milestones": [
+    {
+      "metric": "Google Play downloads",
+      "value": "1Cr+ (10M+) Downloads",
+      "date": "2026-10-12",
+      "source": {
+        "url": "https://play.google.com/store/apps/details?id=yellowclass.kids.live&hl=en_IN&gl=IN",
+        "how_obtained": "fetched-200"
+      },
+      "attribution": "platform-displayed (Google Play)",
+      "verification_status": "verified-independent"
+    },
+    {
+      "metric": "Google Play rating / reviews",
+      "value": "ratingValue 4.534 (displayed 4.5★), 92.9K reviews (page also shows a 90.7K token)",
+      "date": "2026-10-12",
+      "source": {
+        "url": "https://play.google.com/store/apps/details?id=yellowclass.kids.live&hl=en_IN&gl=IN",
+        "how_obtained": "fetched-200"
+      },
+      "attribution": "platform-displayed",
+      "verification_status": "verified-independent",
+      "note": "speakx.ai shows '4.6+' — not supported"
+    },
+    {
+      "metric": "Learners reached",
+      "value": "1 crore+ learners; 10 lakh subscribers added in last six months",
+      "date": "2026-09-01",
+      "source": {
+        "url": "https://entrepreneur.economictimes.indiatimes.com/news/funding/ms-dhoni-backs-ai-based-english-learning-platform-speakx/133677517",
+        "how_obtained": "fetched-200"
+      },
+      "attribution": "company-stated ('The company on Tuesday said…')",
+      "verification_status": "verified-independent-report-of-company-claim"
+    },
+    {
+      "metric": "Active paid subscribers",
+      "value": "~200,000 (2 lakh)",
+      "date": "2025-10 to 2026-09",
+      "source": {
+        "url": "https://inc42.com/buzz/exclusive-ms-dhoni-joins-edtech-startup-speakxs-cap-table/",
+        "how_obtained": "fetched-200"
+      },
+      "attribution": "company-stated (founder to Inc42); also Entrepreneur India Oct 2025, Elevation Oct 2025, TICE May 2026",
+      "verification_status": "verified-independent-report-of-company-claim",
+      "note": "SHARED-CONTEXT says never claim '2 lakh+ paying subscribers' as fact — attribute if used at all"
+    },
+    {
+      "metric": "Monthly paid retention",
+      "value": "~30%",
+      "date": "2026-09-01",
+      "source": {
+        "url": "https://inc42.com/buzz/exclusive-ms-dhoni-joins-edtech-startup-speakxs-cap-table/",
+        "how_obtained": "fetched-200"
+      },
+      "attribution": "company-stated",
+      "verification_status": "verified-independent-report-of-company-claim"
+    },
+    {
+      "metric": "Revenue FY26",
+      "value": "₹45 crore",
+      "date": "2026-09-01",
+      "source": {
+        "url": "https://inc42.com/buzz/exclusive-ms-dhoni-joins-edtech-startup-speakxs-cap-table/",
+        "how_obtained": "fetched-200"
+      },
+      "attribution": "company-stated",
+      "verification_status": "verified-independent-report-of-company-claim"
+    },
+    {
+      "metric": "Revenue target FY27",
+      "value": "₹70–80 crore (Inc42, Sep 2026) vs 'fourfold jump in revenue in FY ending March 2027' (VCCircle, 30 Apr 2026)",
+      "date": "2026-04-30 / 2026-09-01",
+      "source": {
+        "url": "https://www.vccircle.com/westbridgebacked-speakx-targets-4x-revenue-growth-in-fy27",
+        "how_obtained": "fetched-200",
+        "note": "premium article; only standfirst visible: 'aiming for a fourfold jump in revenue in the financial year ending March 2027'"
+      },
+      "attribution": "company-stated targets",
+      "verification_status": "conflicting",
+      "note": "₹45 Cr→₹70–80 Cr is ~1.6–1.8x, not 4x; VCCircle's base-year/definition unknown (paywalled). Do not state '4x' without attribution and date."
+    },
+    {
+      "metric": "EBITDA profitability",
+      "value": "EBITDA-positive since April 2025; 'profitable in FY26'",
+      "date": "2025-10-15 / 2026-09-01",
+      "source": {
+        "url": "https://india.entrepreneur.com/news-and-trends/speakxai-raises-usd-16-mn-to-strengthen-ai-powered-english/498354",
+        "how_obtained": "fetched-200"
+      },
+      "attribution": "company-stated",
+      "verification_status": "verified-independent-report-of-company-claim"
+    },
+    {
+      "metric": "ARR (Oct 2025)",
+      "value": "$7.5M ARR; 1M+ monthly learners",
+      "date": "2025-10-15",
+      "source": {
+        "url": "https://india.entrepreneur.com/news-and-trends/speakxai-raises-usd-16-mn-to-strengthen-ai-powered-english/498354",
+        "how_obtained": "fetched-200"
+      },
+      "attribution": "company-stated",
+      "verification_status": "verified-independent-report-of-company-claim"
+    },
+    {
+      "metric": "Earlier metrics (Apr 2025)",
+      "value": "10M+ downloads; 125,000+ paying monthly users; ~$4M annual revenue; $1M+ profit",
+      "date": "2025-04-25",
+      "source": {
+        "url": "https://startuptalky.com/arpit-mittal-speakx-shares-insights/",
+        "how_obtained": "fetched-200"
+      },
+      "attribution": "founder-stated in Q&A interview",
+      "verification_status": "verified-independent-report-of-company-claim"
+    },
+    {
+      "metric": "Rebrand date",
+      "value": "Yellow Class → SpeakX pivot/rebrand: November 2023 (Inc42); 'launched in 2024' (company PR); 'Founded in 2024' (ET Entrepreneur); 'founded 2020' (WestBridge, Entrackr); 'founded 2023' (Entrepreneur India)",
+      "date": "various",
+      "source": {
+        "url": "https://inc42.com/buzz/exclusive-ms-dhoni-joins-edtech-startup-speakxs-cap-table/",
+        "how_obtained": "fetched-200"
+      },
+      "attribution": "mixed",
+      "verification_status": "conflicting",
+      "note": "Recommend: 'Ivypods Technology was founded in 2020; SpeakX launched in 2024' or avoid a founding year. Never mention former brand publicly."
+    },
+    {
+      "metric": "Outcome claim",
+      "value": "'four in five active learners speak English in more than 90 per cent of their interactions on the platform'",
+      "date": "2026-09-01",
+      "source": {
+        "url": "https://entrepreneur.economictimes.indiatimes.com/news/funding/ms-dhoni-backs-ai-based-english-learning-platform-speakx/133677517",
+        "how_obtained": "fetched-200"
+      },
+      "attribution": "company-stated",
+      "verification_status": "verified-independent-report-of-company-claim",
+      "note": "Different from the site's '4 out of 5 learners start speaking English confidently in 2 months' — keep attributed"
+    },
+    {
+      "metric": "Google for Startups Accelerator",
+      "value": "Selected for Google for Startups Accelerator: Apps programme",
+      "date": "2025-04-25",
+      "source": {
+        "url": "https://startuptalky.com/arpit-mittal-speakx-shares-insights/",
+        "how_obtained": "fetched-200"
+      },
+      "attribution": "founder-stated",
+      "verification_status": "verified-independent-report-of-company-claim"
+    }
+  ],
+  "founder": {
+    "name": "Arpit Mittal",
+    "title": "Founder & CEO, SpeakX (Ivypods Technology Pvt Ltd), Gurugram",
+    "linkedin_url": {
+      "url": "https://www.linkedin.com/in/arpitmittal4/",
+      "how_obtained": "seen-in-search-results-only"
+    },
+    "education": [
+      {
+        "fact": "Alumnus of VIT (Vellore Institute of Technology)",
+        "source": {
+          "url": "https://inc42.com/person/arpitmittal4/",
+          "how_obtained": "fetched-200",
+          "note": "'Founder and CEO at SpeakX | Ex - Housing.com | Alumni- VIT'"
+        },
+        "verification_status": "verified-independent (directory profile)"
+      },
+      {
+        "fact": "B.Tech Electrical, VIT",
+        "source": {
+          "url": "https://theorg.com/org/speakx-formerly-yellow-class/org-chart/arpit-mittal",
+          "how_obtained": "seen-in-search-results-only",
+          "note": "search snippet; fetched page showed only EXL, Housing.com, Evalueserve"
+        },
+        "verification_status": "partially-verified"
+      }
+    ],
+    "prior_roles": [
+      {
+        "fact": "Housing.com (early team; search snippets say Co-Founder & CTO)",
+        "source": {
+          "url": "https://inc42.com/person/arpitmittal4/",
+          "how_obtained": "fetched-200",
+          "note": "'Ex - Housing.com'"
+        },
+        "verification_status": "verified-independent (role title not verified)"
+      },
+      {
+        "fact": "Founded Edcited (2011), ed-tech, 'Top 10 startups in the APAC region' at RISE Conference; acquired by CoCubes in 2015",
+        "source": {
+          "url": "https://happyllama.analyticsindiamag.com/speaker/arpit-mittal/",
+          "how_obtained": "fetched-200",
+          "note": "speaker bio, Happy Llama 2026 (AIM), 13 Mar 2026, Bengaluru"
+        },
+        "verification_status": "partially-verified (self-supplied speaker bio; repeated by TICE May 2026)"
+      },
+      {
+        "fact": "Roofpik (2016), 'TripAdvisor for real estate', 'Startup of the Year' by Entrepreneur.com; acquired by Fastfox.com",
+        "source": {
+          "url": "https://happyllama.analyticsindiamag.com/speaker/arpit-mittal/",
+          "how_obtained": "fetched-200"
+        },
+        "verification_status": "partially-verified (self-supplied bio; TICE spells it 'Roofik')"
+      },
+      {
+        "fact": "Earlier analyst roles at EXL / Evalueserve (Inductis)",
+        "source": {
+          "url": "https://theorg.com/org/speakx-formerly-yellow-class/org-chart/arpit-mittal",
+          "how_obtained": "fetched-200",
+          "note": "lists EXL, Housing.com, Evalueserve"
+        },
+        "verification_status": "partially-verified"
+      },
+      {
+        "fact": "Co-founded the predecessor company (June 2020) with Anshul Gupta (then CEO); grew up in Haridwar",
+        "source": {
+          "url": "https://www.freepressjournal.in/business/childrens-extracurricular-ed-tech-platform-yellow-class-raises-6-mn-in-series-a-led-by-elevation-capital",
+          "how_obtained": "fetched-200"
+        },
+        "verification_status": "verified-independent (Haridwar: Elevation Capital page, fetched)"
+      }
+    ],
+    "public_interviews_and_appearances": [
+      {
+        "url": "https://startuptalky.com/arpit-mittal-speakx-shares-insights/",
+        "how_obtained": "fetched-200",
+        "note": "Q&A interview, 2025-04-25"
+      },
+      {
+        "url": "https://www.moneycontrol.com/technology/speakx-app-wants-to-make-learning-english-more-useful-than-talking-to-chatgpt-article-14028161.html",
+        "how_obtained": "fetched-200",
+        "note": "editorial feature with founder quotes, 2026-09-11"
+      },
+      {
+        "url": "https://www.tice.news/know-this/from-small-town-dreams-to-global-classrooms-how-speakx-is-rewriting-indias-edtech-story-with-ai-11802352",
+        "how_obtained": "fetched-200",
+        "note": "feature, 2026-05-05"
+      },
+      {
+        "url": "https://www.elevationcapital.com/perspectives/speakx-building-india-largest-ai-language-learning-app",
+        "how_obtained": "fetched-200",
+        "note": "investor podcast/perspective, 2025-10-22 (summary rendered founder's name as 'Arpit Agarwal' — verify before citing)"
+      },
+      {
+        "url": "https://happyllama.analyticsindiamag.com/speaker/arpit-mittal/",
+        "how_obtained": "fetched-200",
+        "note": "speaker, Happy Llama 2026, 13 Mar 2026"
+      },
+      {
+        "url": "https://x.com/EduMinOfIndia/status/2021908838639972436",
+        "how_obtained": "seen-in-search-results-only",
+        "note": "Ministry of Education post: Arpit Mittal spoke at Roundtable with Startup Founders on AI and English communication"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=zAGqGfRFgbE",
+        "how_obtained": "seen-in-search-results-only",
+        "note": "podcast: 'Arpit Mittal talks Startups & finding Problems worth Solving'"
+      },
+      {
+        "url": "https://inc42.com/person/arpitmittal4/",
+        "how_obtained": "fetched-200",
+        "note": "Inc42 Datalabs profile stub"
+      }
+    ],
+    "notes": "Founder bio claims (Edcited/Roofpik exits, RISE Top-10, Entrepreneur.com Startup of the Year) come from a self-supplied speaker bio; treat as 'as stated by the founder' unless independently sourced. Co-founder name in third-party aggregators varies (Anshul Gupta in 2020–21 press; 'Shruti Sinha' in one directory) — use only Anshul Gupta if needed, and avoid naming the predecessor brand."
+  },
+  "open_questions": [
+    "Seed amount conflict: $1.3M (Adgully/EdTechReview, Nov 2020) vs $1.5M (YourStory/FPJ, Aug 2021).",
+    "Total funding varies: ~$23.3M (Entrackr computation), 'over $20 Mn' (Inc42), ₹209.43 Cr (TICE). Suggest 'over $20 million in disclosed funding' with attribution.",
+    "FY27 growth target: Inc42 (₹70–80 Cr vs ₹45 Cr FY26) conflicts with VCCircle's 'fourfold' headline (paywalled). Do not publish '4x' as fact.",
+    "Founding/launch year varies across sources (2020 / 2023 / Nov 2023 / 2024). Avoid a single unqualified year in public copy.",
+    "Angels listed on speakx.ai but not independently sourced: Varun Alagh. Kunal Bahl and Vidit Aatrey are sourced only to 2020–2021 rounds of the predecessor company.",
+    "India Quotient portfolio description still reads 'Learning platform for kids' — do not quote (audience rule).",
+    "Tracxn, Crunchbase, Dealroom, BW Disrupt, YourStory (2025), Lexology pages returned 403/404; Ivypods legal-entity filings not checked.",
+    "Dhoni investment amount and round structure undisclosed; Inc42 says it is part of a larger round planned for 2027 — re-check before publication."
+  ]
+}
