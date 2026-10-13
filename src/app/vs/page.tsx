@@ -170,7 +170,7 @@ export default async function HubPage() {
       <section className="bg-ink py-16 text-white">
         <Container className="text-center">
           <p className="text-xs font-semibold uppercase tracking-[0.18em] text-accent">{SITE.tagline}</p>
-          <h2 className="mt-3 text-3xl font-extrabold sm:text-4xl">Knowing English is one thing. Speaking it confidently is another.</h2>
+          <h2 className="mt-3 text-3xl font-extrabold text-white sm:text-4xl">Knowing English is one thing. Speaking it confidently is another.</h2>
           <p className="mx-auto mt-4 max-w-xl text-white/75">Practise out loud with Sia for 15 minutes a day. Free to start; Premium is a ₹2 three-day trial, then ₹299 a month on the SpeakX website.</p>
           <div className="mt-8 flex flex-wrap justify-center gap-3">
             <CtaButton href={install("final")} label="Start Speaking with SpeakX" location="final" variant="accent" size="lg" params={{ page_slug: "vs" }} />
