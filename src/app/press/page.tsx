@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import Image from "next/image";
 import Breadcrumbs from "@/components/Breadcrumbs";
 import Container from "@/components/Container";
 import Section from "@/components/Section";
@@ -100,7 +101,11 @@ export default function PressPage() {
       </Section>
 
       <Section tone="soft" eyebrow="Meet the founder" title={founder.name}>
-        <div className="grid gap-8 lg:grid-cols-[1fr_1fr]">
+        <div className="grid gap-8 lg:grid-cols-[320px_1fr_1fr]">
+          <figure className="mx-auto w-full max-w-[320px] lg:mx-0">
+            <Image src="/images/founder-arpit-mittal.webp" alt="Arpit Mittal, founder and CEO of SpeakX" width={800} height={1000} sizes="(min-width: 1024px) 320px, 80vw" className="w-full rounded-3xl border border-line object-cover shadow-[0_30px_60px_-30px_rgba(10,11,15,0.35)]" />
+            <figcaption className="mt-2 text-xs text-muted">Arpit Mittal, Founder and CEO, SpeakX (Ivypods Technology)</figcaption>
+          </figure>
           <div className="prose-vs space-y-4 text-[15px]">{founder.bio.map((p) => <p key={p}>{p}</p>)}</div>
           <div>
             <h3 className="font-bold">Interviews and talks</h3>
