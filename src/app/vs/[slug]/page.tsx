@@ -15,6 +15,7 @@ import PageView from "@/components/PageView";
 import StickyCta from "@/components/StickyCta";
 import TrackedLink from "@/components/TrackedLink";
 import PressStrip from "@/components/PressStrip";
+import BackToHub from "@/components/BackToHub";
 import { comparisonIndex, getComparison } from "@/data/comparisons";
 import { products, speakx } from "@/data/products";
 import { SITE, absoluteUrl, withAttribution } from "@/lib/site";
@@ -93,6 +94,7 @@ export default async function ComparisonPageRoute({ params }: Params) {
     <>
       <PageView slug={slug} competitor={competitor.slug} />
       <JsonLd data={[organizationSchema(), websiteSchema(), articleSchema, faqSchema]} />
+      <BackToHub />
 
       {/* Hero */}
       <div className="bg-[radial-gradient(ellipse_at_top_left,var(--brand-soft),transparent_60%)]">
@@ -263,6 +265,7 @@ export default async function ComparisonPageRoute({ params }: Params) {
       </section>
 
       <Container className="py-12">
+        <Link href="/vs" className="mb-6 inline-flex items-center gap-2 font-semibold text-brand-dark hover:text-brand-hover"><span aria-hidden="true">←</span> Back to all comparisons</Link>
         <Sources sources={page.sources} lastVerified={page.lastVerified} />
       </Container>
       <StickyCta pageSlug={slug} />

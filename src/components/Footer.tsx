@@ -8,7 +8,7 @@ export default function Footer() {
     <footer className="border-t border-line bg-surface-2 py-12 text-sm">
       <Container className="grid gap-10 md:grid-cols-4">
         <div className="md:col-span-1">
-          <p className="font-display text-lg font-bold text-ink">SpeakX</p>
+          <Link href="/vs" className="font-display text-lg font-bold text-ink hover:text-brand-dark">SpeakX comparison hub</Link>
           <p className="mt-2 text-ink-soft">{SITE.tagline}</p>
           <p className="mt-4 text-xs leading-relaxed text-muted">
             SpeakX is made by {SITE.legalName}, Gurugram. Speak (speak.com) is a different company.

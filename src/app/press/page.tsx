@@ -5,6 +5,7 @@ import Section from "@/components/Section";
 import JsonLd from "@/components/JsonLd";
 import TrackedLink from "@/components/TrackedLink";
 import PageView from "@/components/PageView";
+import BackToHub from "@/components/BackToHub";
 import { pressItems } from "@/data/press";
 import { awards } from "@/data/awards";
 import { investors, founder, milestones } from "@/data/investors";
@@ -38,6 +39,7 @@ export default function PressPage() {
     <>
       <PageView slug="press" />
       <JsonLd data={[schema, websiteSchema()]} />
+      <BackToHub label="Back to the comparison hub" />
       <div className="bg-[radial-gradient(ellipse_at_top_left,var(--brand-soft),transparent_60%)]">
         <Container className="pb-12 pt-8 sm:pt-10">
           <Breadcrumbs items={[{ label: "SpeakX", href: SITE.links.home }, { label: "Press & awards", href: "/press" }]} />
