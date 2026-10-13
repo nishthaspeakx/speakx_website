@@ -7,6 +7,7 @@ import JsonLd from "@/components/JsonLd";
 import TrackedLink from "@/components/TrackedLink";
 import PageView from "@/components/PageView";
 import BackToHub from "@/components/BackToHub";
+import BrandStrip from "@/components/BrandStrip";
 import { pressItems } from "@/data/press";
 import { awards } from "@/data/awards";
 import { investors, founder, milestones } from "@/data/investors";
@@ -31,7 +32,12 @@ const LABEL: Record<string, string> = {
 
 export default function PressPage() {
   const verifiedPress = pressItems.filter((p) => p.verification !== "not-verified" && p.placement !== "sources-only");
-  const asSeenIn = Array.from(new Set(verifiedPress.filter((p) => p.linkType === "independent-editorial").map((p) => p.publication)));
+  const latestByPublication = Array.from(
+    verifiedPress
+      .filter((p) => p.linkType === "independent-editorial")
+      .sort((a, b) => (b.date ?? "").localeCompare(a.date ?? ""))
+      .reduce((map, p) => (map.has(p.publication) ? map : map.set(p.publication, p)), new Map<string, (typeof verifiedPress)[number]>()),
+  ).map(([publication, item]) => ({ publication, item }));
   const verifiedAwards = awards.filter((a) => a.verification === "verified-independent" || a.verification === "verified-organiser-page");
   const pendingAwards = awards.filter((a) => a.verification === "claimed-on-speakx-site-only");
   const schema = organizationSchema({ award: verifiedAwards.map((a) => `${a.title} (${a.organisation}, ${a.year})`) });
@@ -49,11 +55,22 @@ export default function PressPage() {
         </Container>
       </div>
 
-      <Section eyebrow="As seen in" title="Publications that have covered SpeakX">
+      <Section eyebrow="As seen in" title="Publications that have covered SpeakX" intro="Each name links to that publication's most recent SpeakX story.">
         <ul className="flex flex-wrap gap-3">
-          {asSeenIn.map((p) => <li key={p} className="rounded-full border border-line bg-surface px-4 py-2 text-sm font-semibold text-ink">{p}</li>)}
+          {latestByPublication.map(({ publication, item }) => (
+            <li key={publication}>
+              <TrackedLink href={item.url} event="press_article_click" params={{ page_slug: "press", destination: item.url, link_text: publication }} title={`${item.title}${item.date ? ` (${item.date})` : ""}`} className="inline-flex items-center gap-2 rounded-full border border-line bg-surface px-4 py-2 text-sm font-semibold text-ink transition hover:-translate-y-0.5 hover:border-brand/40 hover:text-brand-dark hover:shadow-sm">
+                {publication}
+                <span aria-hidden="true" className="text-muted">↗</span>
+              </TrackedLink>
+            </li>
+          ))}
         </ul>
         <p className="mt-4 text-xs text-muted">Names are shown as text. Publisher logos are only used where permission has been confirmed. A mention does not imply endorsement.</p>
+      </Section>
+
+      <Section tone="soft" eyebrow="The people behind SpeakX" title="Backed by a champion, built by a founder who lived the problem">
+        <BrandStrip pageSlug="press" />
       </Section>
 
       <Section tone="soft" eyebrow="SpeakX in the news" title="Coverage, newest first">
@@ -100,7 +117,7 @@ export default function PressPage() {
         )}
       </Section>
 
-      <Section tone="soft" eyebrow="Meet the founder" title={founder.name}>
+      <Section id="founder" tone="soft" eyebrow="Meet the founder" title={founder.name}>
         <div className="grid gap-8 lg:grid-cols-[320px_1fr_1fr]">
           <figure className="mx-auto w-full max-w-[320px] lg:mx-0">
             <Image src="/images/founder-arpit-mittal.webp" alt="Arpit Mittal, founder and CEO of SpeakX" width={800} height={1000} sizes="(min-width: 1024px) 320px, 80vw" className="w-full rounded-3xl border border-line object-cover shadow-[0_30px_60px_-30px_rgba(10,11,15,0.35)]" />
@@ -116,7 +133,7 @@ export default function PressPage() {
         </div>
       </Section>
 
-      <Section eyebrow="Investors and milestones" title="Publicly disclosed backing">
+      <Section id="investors" eyebrow="Investors and milestones" title="Publicly disclosed backing">
         <p className="max-w-3xl text-ink-soft">Investor participation is public information about the company. It is not a guarantee of learning outcomes.</p>
         <ul className="mt-6 grid gap-4 md:grid-cols-3">
           {investors.map((i) => (

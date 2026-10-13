@@ -13,6 +13,7 @@ import PageView from "@/components/PageView";
 import StickyCta from "@/components/StickyCta";
 import TrackedLink from "@/components/TrackedLink";
 import PressStrip from "@/components/PressStrip";
+import BrandStrip from "@/components/BrandStrip";
 import { comparisonIndex, getAllComparisons } from "@/data/comparisons";
 import { products, speakx, competitorOrder } from "@/data/products";
 import { hubContent } from "@/data/hub";
@@ -156,6 +157,7 @@ export default async function HubPage() {
 
       {/* F. Coverage */}
       <Section eyebrow="Trusted coverage and recognition" title="What independent publications and award juries have said" intro="Links go to the original source. Sponsored or branded content is labelled as such, and a mention is not a recommendation over other apps.">
+        <div className="mb-8"><BrandStrip pageSlug="vs" /></div>
         <PressStrip pageSlug="vs" />
       </Section>
 
