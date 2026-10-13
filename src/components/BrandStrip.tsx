@@ -13,7 +13,7 @@ export default function BrandStrip({ pageSlug }: { pageSlug: string }) {
         <div className="relative z-10 flex w-[58%] flex-col justify-between p-6 sm:p-8">
           <p className="text-xs font-semibold uppercase tracking-[0.18em] text-accent">{SITE.tagline}</p>
           <div>
-            <h3 className="text-2xl font-extrabold leading-tight sm:text-3xl">Backed by MS Dhoni</h3>
+            <h3 className="text-2xl font-extrabold leading-tight text-white sm:text-3xl">Backed by MS Dhoni</h3>
             <p className="mt-2 text-sm text-white/80">Strategic investor and brand ambassador since September 2026, as reported by Inc42 and The Economic Times.</p>
             <span className="mt-4 inline-block text-sm font-semibold text-accent group-hover:underline">See the coverage →</span>
           </div>
