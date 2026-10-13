@@ -312,3 +312,13 @@ Free-text dimensions (objective, target learner, tutor model, languages taught, 
 - Stimuler: HQ (Bengaluru) comes from editorial coverage; interview/workplace scenarios are only lightly described; Forbes 30U30 2026 claim not checked against Forbes.
 - ELSA: help-centre language article returned 404 on fetch - Hindi UI/translation support is from a search snippet of that article; HQ listed as Los Gatos, CA on site footer vs 'San Francisco' in press.
 - Speak: no placement test, interview or workplace tracks found on fetched pages - may exist in-app; India App Store footprint is tiny (192 ratings).
+
+
+## Watchlist (added 2026-10-13, not yet compared on the hub)
+
+| Product | What we verified (2026-10-13) | Relevance to SpeakX | Action |
+|---|---|---|---|
+| Rynocore (rynocore.in) | Web-based AI spoken-English tool for Hindi/Hinglish speakers; voice scoring; free tier; premium "from ₹5/month" per site | Direct overlap on the Hindi-speaker prompt; appeared in AI answers 2026-10-13 | Monitor Play/App Store presence; candidate for a 7th comparison page if it gains traction |
+| Zinglish (zinglish.app) | AI English speaking practice app; "10,000+ confident speakers" (site claim); free trial | Small; appears in web results, not AI answers | Monitor |
+| SpeakShark (speakshark.com) | AI conversation practice with pronunciation feedback and a free tier; publishes vendor roundups and /vs pages that AI answers cite | Its roundup displaced SpeakX in the category answer on 2026-10-13 | Pitch inclusion (low odds); consider a SpeakX vs SpeakShark page |
+| Oki (okilang.app) | AI English app for Russian and Kazakh speakers (Kazakhstan); USD 10/month | Not an India product; AI answers recommend it for "AI teacher" prompts anyway | Note the audience mismatch in GEO monitoring; no page needed |

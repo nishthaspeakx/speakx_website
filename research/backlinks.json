@@ -1414,6 +1414,38 @@
       "source_checked": "curl (desktop UA) HTTP 200 on 2026-10-12; HTML grepped for href containing speakx.ai",
       "date_checked": "2026-10-12",
       "id": "BL-081"
+    },
+    {
+      "domain": "speakshark.com",
+      "relevant_page": "https://speakshark.com/blog/best-english-speaking-apps-india-2026",
+      "opportunity_type": "roundup-inclusion",
+      "existing_mention": "no",
+      "current_link_status": "no-mention",
+      "authority_quality_evidence": "Competitor-owned vendor roundup; cited by AI answers for 'best app to learn spoken English in India' (observed 2026-10-13); updated 4 Jul 2026",
+      "editorial_relevance": "medium: it is the page AI answers are drawing from, but the publisher is a direct competitor ranking itself #1",
+      "suggested_outreach": "Content team's weekly SpeakShark pitch: request a factual SpeakX entry (free to start, 7 Indian languages, Sia voice calls, 1 crore+ Play downloads). Expect low odds; do not pay.",
+      "priority": "P2",
+      "target_speakx_url": "https://speakx.ai/",
+      "suggested_anchor": "SpeakX",
+      "notes": "No contact route on page or footer; try LinkedIn/company email. Competitor-owned, so any inclusion may be framed negatively.",
+      "source_checked": "fetched-200 2026-10-13",
+      "date_checked": "2026-10-13"
+    },
+    {
+      "domain": "edtechreview.in",
+      "relevant_page": "https://www.edtechreview.in/",
+      "opportunity_type": "roundup-inclusion",
+      "existing_mention": "yes (earlier SpeakX study write-up)",
+      "current_link_status": "mentions-no-link",
+      "authority_quality_evidence": "Independent Indian edtech publication with a 2026 'Best English Speaking Apps' roundup that omits SpeakX",
+      "editorial_relevance": "high",
+      "suggested_outreach": "Pitch inclusion in the 2026 roundup with the EdTechReview study angle and verified facts; ask for a link to speakx.ai",
+      "priority": "P1",
+      "target_speakx_url": "https://speakx.ai/",
+      "suggested_anchor": "SpeakX",
+      "notes": "Already in the register as an unlinked mention; escalated after the 2026-10-13 GEO regression.",
+      "source_checked": "seen-in-search-results-only",
+      "date_checked": "2026-10-13"
     }
   ],
   "unlinked_mentions_summary": {

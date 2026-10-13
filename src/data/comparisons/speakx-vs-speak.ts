@@ -19,7 +19,7 @@ const page: ComparisonPage = {
   h1: "SpeakX vs Speak: two different apps for speaking English",
   quickAnswer: [
     "SpeakX and Speak are different companies and different apps, even though search results and AI answers often mix them up.",
-    "SpeakX is an AI English speaking app for Indian learners, made by [Ivypods Technology](https://speakx.ai/about) in Gurugram. You practise spoken English on voice calls with Sia, an AI speaking partner, with explanations in seven Indian languages, for about 15 minutes a day.",
+    "SpeakX is an AI English speaking app for Indian learners, made by [Ivypods Technology](https://speakx.ai/about) in Gurugram. You ppractice spoken English on voice calls with Sia, an AI speaking partner, with explanations in seven Indian languages, for about 15 minutes a day.",
     "Speak (speak.com) is made by Speakeasy Labs in San Francisco and is backed by the OpenAI Startup Fund. It teaches English to speakers of 15 languages, plus Spanish, French, Japanese, Korean, Italian and Chinese to English speakers, through an expert-built curriculum and an AI Speak Tutor.",
     "Pick SpeakX if you live in India, want English only, and want a low monthly price with help in Hindi, Tamil, Telugu, Kannada, Malayalam, Marathi or Bengali. Pick Speak if you want a premium global curriculum, are comfortable with an English or Hindi interface, and may want to learn other languages later.",
   ],
@@ -78,7 +78,7 @@ const page: ComparisonPage = {
     {
       label: "Progress tracking",
       speakx: "Report on fluency, vocabulary, grammar, pronunciation; Confidence Meter",
-      competitor: "Personalised progress tracking",
+      competitor: "Personalized progress tracking",
     },
     {
       label: "Levels / structure",
@@ -119,9 +119,9 @@ const page: ComparisonPage = {
   ],
   howCompetitorWorks: [
     "Speak follows a three-step loop its site calls the Speak Method. In Learn, you watch an expert-built lesson with a teacher. In Practice, you repeat the target phrases aloud and the app checks you. In Apply, you have an open conversation with the AI Speak Tutor and use those phrases in context. The company's own description is \"An expert-crafted curriculum, personalized by AI\", and the Play listing promises to get you speaking out loud from day one.",
-    "The AI Speak Tutor is the centre of the app. Speak's site describes real back-and-forth conversations with pronunciation and phrasing feedback as you speak, and the Play listing says the app analyses your speech for pronunciation, intonation and fluency, with real-time feedback on grammar too. Speak has a formal partnership with OpenAI and is backed by the OpenAI Startup Fund, which it states on its official site. Premium Plus adds \"Made for You\" lessons generated for you and custom review built from your mistakes.",
+    "The AI Speak Tutor is the center of the app. Speak's site describes real back-and-forth conversations with pronunciation and phrasing feedback as you speak, and the Play listing says the app analyzes your speech for pronunciation, intonation and fluency, with real-time feedback on grammar too. Speak has a formal partnership with OpenAI and is backed by the OpenAI Startup Fund, which it states on its official site. Premium Plus adds \"Made for You\" lessons generated for you and custom review built from your mistakes.",
     "Speak was built for a global audience and has historically been strongest in Korea, Japan and Taiwan. It teaches English to native speakers of 15 languages, and Hindi is one of them, so a Hindi speaker in India can take the English course with a Hindi interface. It also teaches Spanish, French, Japanese, Korean, Italian and Simplified Chinese to English speakers. The app interface is available in 16 languages. Speak's official pages do not list Tamil, Telugu or other Indian languages, and they do not describe India-specific scenarios.",
-    "Speak is available on Android and iOS only; its help centre states it is not available on desktop. New users get a 7-day free trial, after which an auto-renewing membership is required for full access; no permanent free tier is described on official pages. There is no public price page (speak.com/pricing returned a 404 when we checked) and prices vary by region. The India App Store plans, as of 12 October 2026, ran from ₹1,949 a month to ₹22,900 a year for Annual Premium Plus; the full list is in the pricing section below.",
+    "Speak is available on Android and iOS only; its help center states it is not available on desktop. New users get a 7-day free trial, after which an auto-renewing membership is required for full access; no permanent free tier is described on official pages. There is no public price page (speak.com/pricing returned a 404 when we checked) and prices vary by region. The India App Store plans, as of 12 October 2026, ran from ₹1,949 a month to ₹22,900 a year for Annual Premium Plus; the full list is in the pricing section below.",
   ],
   keyDifferences: [
     {
@@ -244,7 +244,7 @@ const page: ComparisonPage = {
     },
     {
       q: "Is the Speak app available for learning English in India?",
-      a: "Yes. Speak is listed on Google Play and the India App Store, and its help centre says the English course is offered to native Hindi speakers, with a Hindi interface option. Indian-language support stops at Hindi, there are no India-specific scenarios described, and India App Store prices start at ₹1,949 a month, as of 12 October 2026.",
+      a: "Yes. Speak is listed on Google Play and the India App Store, and its help center says the English course is offered to native Hindi speakers, with a Hindi interface option. Indian-language support stops at Hindi, there are no India-specific scenarios described, and India App Store prices start at ₹1,949 a month, as of 12 October 2026.",
     },
     {
       q: "What are Speak.com alternatives for Indian learners?",
@@ -264,7 +264,7 @@ const page: ComparisonPage = {
     },
     {
       q: "Can I use SpeakX or Speak on a laptop or desktop?",
-      a: "Neither app offers a web or desktop version. SpeakX is available on Android and iOS, and all links on speakx.ai go to the app stores. Speak's help centre states that the app is not available on desktop (PC) and supports Android and iOS only.",
+      a: "Neither app offers a web or desktop version. SpeakX is available on Android and iOS, and all links on speakx.ai go to the app stores. Speak's help center states that the app is not available on desktop (PC) and supports Android and iOS only.",
     },
     {
       q: "Which app is better for job interview preparation in English?",
@@ -328,12 +328,12 @@ const page: ComparisonPage = {
       checked: "2026-10-12",
     },
     {
-      label: "Speak help centre: what languages can I learn with Speak",
+      label: "Speak help center: what languages can I learn with Speak",
       url: "https://help.speak.com/en/articles/8880569-what-languages-can-i-learn-with-speak",
       checked: "2026-10-12",
     },
     {
-      label: "Speak help centre: supported devices and operating systems",
+      label: "Speak help center: supported devices and operating systems",
       url: "https://help.speak.com/en/articles/9334794-what-devices-and-operating-systems-does-the-speak-app-support",
       checked: "2026-10-12",
     },

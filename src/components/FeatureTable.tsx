@@ -11,7 +11,7 @@ interface Props {
 export default function FeatureTable({ rows, competitorName, caption }: Props) {
   return (
     <div className="overflow-x-auto rounded-2xl border border-line">
-      <table className="vs-table w-full min-w-[640px] text-sm">
+      <table className="vs-table w-full min-w-[560px] table-fixed text-sm [overflow-wrap:anywhere]">
         {caption && <caption className="sr-only">{caption}</caption>}
         <thead>
           <tr className="text-left">

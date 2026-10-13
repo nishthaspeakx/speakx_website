@@ -19,7 +19,7 @@ const page: ComparisonPage = {
   },
   h1: "SpeakX vs MySivi: AI spoken English apps compared",
   quickAnswer: [
-    "SpeakX is an AI English speaking app for Indian learners, made by [Ivypods Technology](https://speakx.ai/about) in Gurugram. You practise on voice calls with Sia, its AI speaking partner, in real-life roleplays for about 15 minutes a day, with explanations in seven Indian languages.",
+    "SpeakX is an AI English speaking app for Indian learners, made by [Ivypods Technology](https://speakx.ai/about) in Gurugram. You ppractice on voice calls with Sia, its AI speaking partner, in real-life roleplays for about 15 minutes a day, with explanations in seven Indian languages.",
     "MySivi is a Bengaluru-based, Y Combinator-backed AI English speaking app built around an AI coach with topic-based chats and tasks, a guided lesson path, word translations in Hindi, Tamil, Telugu, Marathi, Bengali and Urdu, streaks and badges, and IELTS, TOEFL and placement goals.",
     "Pick SpeakX if you want to speak out loud on a call, be guided in your own language from Pre-A1 upwards, and pay ₹299 a month after a ₹2 three-day trial (SpeakX website, as of 12 October 2026).",
     "Pick MySivi if exam-aware practice, streaks, Urdu translation or offline modules matter more, and its India App Store price of ₹999 a month (as of 12 October 2026) fits your budget.",
@@ -116,13 +116,13 @@ const page: ComparisonPage = {
     "SpeakX treats spoken English as a speaking problem, not a reading problem. Each day you take a voice call with [Sia](https://speakx.ai/), the AI speaking partner, who plays the interviewer, your manager, your child's class teacher or the person on a phone call. You answer out loud, in real time, as you would with a human. A session takes [about 15 minutes](https://speakx.ai/blog/practice-spoken-english-alone-at-home).",
     "The app is designed for learners who hesitate. Explanations begin in your own language, whether [Hindi](https://speakx.ai/blog/100-simple-english-sentences-for-daily-use-with-hindi-meaning), Marathi, Bengali, Telugu, Tamil, Kannada or Malayalam, and the conversation moves to English step by step. Paths are mapped to CEFR levels from [Pre-A1](https://speakx.ai/blog/unlock-confident-english-speaking-your-guide-to-daily-practice-and-learning-the-basics) up to advanced, so a first-time speaker and a working professional are not given the same conversation.",
     "After you speak, SpeakX keeps a progress report across fluency, vocabulary, [grammar](https://speakx.ai/blog/english-grammar-tenses) and [pronunciation](https://speakx.ai/blog/english-pronunciation-difficulty), with a Confidence Meter and city leaderboards for motivation. Premium adds a 24x7 AI teacher with instant feedback, 100+ real-life scenarios and unlimited AI talk time. The app is free to start; Premium is a 3-day trial for ₹2, then [₹299 a month](https://speakx.ai/premium) on the SpeakX website, as of 12 October 2026.",
-    "SpeakX was recognised at the ET Education Excellence Awards 2026 for Excellence in Generative AI for Education. Its outcome claim is its own and is quoted as such later on this page.",
+    "SpeakX was recognized at the ET Education Excellence Awards 2026 for Excellence in Generative AI for Education. Its outcome claim is its own and is quoted as such later on this page.",
   ],
   howCompetitorWorks: [
     "MySivi calls itself \"Your Personalized English Speaking App to Improve English Fluency\" on Google Play. The core is an AI English coach that, in the listing's words, listens to you, corrects mistakes and gives instant feedback. Practice runs through topic-based chats and real-time tasks. Voice-call style practice is not spelled out on the listing, so we describe MySivi as chat-and-task led based on the official copy available to us.",
-    "Around that coach sit a structured learning path with personalised lessons, grammar improvements and fluency tips, pronunciation support, and offline modules. For Indian learners there are word translations in Hindi, Tamil, Telugu, Marathi, Bengali, Urdu and more. The listing mixes in Hindi, telling learners to \"har conversation mein confidently English bole\".",
-    "MySivi leans into exams and placements more explicitly than SpeakX: the Play copy names IELTS, TOEFL, job interviews and placements as goals, and it uses badges, streaks and points openly. Y Combinator's company page says MySivi believes practising with both an AI tutor and humans is the fastest route, and an April 2024 Inc42 profile described a peer-learning feature and an AI tutor called ARYA. We could not verify professional human tutors.",
-    "Some things remain unverified because MySivi's website blocked automated access during our check (12 October 2026). A placement test, a progress report, a scenario catalogue and website pricing could not be confirmed from official sources. Where this page says \"not verified\", it means the Play or App Store listings do not describe the feature, not that MySivi lacks it.",
+    "Around that coach sit a structured learning path with personalized lessons, grammar improvements and fluency tips, pronunciation support, and offline modules. For Indian learners there are word translations in Hindi, Tamil, Telugu, Marathi, Bengali, Urdu and more. The listing mixes in Hindi, telling learners to \"har conversation mein confidently English bole\".",
+    "MySivi leans into exams and placements more explicitly than SpeakX: the Play copy names IELTS, TOEFL, job interviews and placements as goals, and it uses badges, streaks and points openly. Y Combinator's company page says MySivi believes ppracticing with both an AI tutor and humans is the fastest route, and an April 2024 Inc42 profile described a peer-learning feature and an AI tutor called ARYA. We could not verify professional human tutors.",
+    "Some things remain unverified because MySivi's website blocked automated access during our check (12 October 2026). A placement test, a progress report, a scenario catalog and website pricing could not be confirmed from official sources. Where this page says \"not verified\", it means the Play or App Store listings do not describe the feature, not that MySivi lacks it.",
   ],
   keyDifferences: [
     {
@@ -135,7 +135,7 @@ const page: ComparisonPage = {
     },
     {
       title: "CEFR paths versus a guided path with exam focus",
-      body: "SpeakX maps its paths to CEFR levels from Pre-A1 to advanced, so a hesitant beginner knows where to start. MySivi describes a structured, personalised learning path and names IELTS, TOEFL and placements as goals. A placement test on MySivi is not verified from official sources.",
+      body: "SpeakX maps its paths to CEFR levels from Pre-A1 to advanced, so a hesitant beginner knows where to start. MySivi describes a structured, personalized learning path and names IELTS, TOEFL and placements as goals. A placement test on MySivi is not verified from official sources.",
     },
     {
       title: "Progress report versus instant corrections",
@@ -202,7 +202,7 @@ const page: ComparisonPage = {
     {
       goal: "Workplace English",
       speakx: "Office and promotion scenarios; 100+ real-life scenarios on Premium.",
-      competitor: "Workplace communication named for professionals; scenario catalogue not described.",
+      competitor: "Workplace communication named for professionals; scenario catalog not described.",
     },
     {
       goal: "Everyday conversations",
@@ -235,8 +235,8 @@ const page: ComparisonPage = {
   uxAndFeedback: [
     "On SpeakX, feedback is tied to the call. Sia listens to the whole conversation, and after the session you see where you hesitated and how your grammar and pronunciation held up. Over days this builds a progress report across [fluency](https://speakx.ai/blog/english-speaking-fluency), vocabulary, grammar and pronunciation, and the Confidence Meter shows how comfortable you are becoming. Premium adds a 24x7 AI teacher with instant feedback.",
     "The outcome claim is the company's own: SpeakX says that in just 2 months, 4 out of 5 learners start speaking English confidently. Treat it as a company statement, not an independent finding.",
-    "MySivi's feedback, as described on [Google Play](https://play.google.com/store/apps/details?id=yellowclass.kids.live), is immediate and correction-led. The AI coach corrects mistakes as you go, offers grammar improvements and fluency tips, and gives personalised feedback on lessons. Word translations into Hindi, Tamil, Telugu, Marathi, Bengali or Urdu remove the friction of not knowing a word mid-practice. Streaks, badges and points reward consistency.",
-    "What we could not verify for MySivi is the long view: a progress report, a placement test and a scenario catalogue are not described on its official listings. If a trend line of your speaking matters, SpeakX's progress report is the clearer offer today; if in-the-moment corrections and rewards matter more, MySivi's listing speaks directly to that.",
+    "MySivi's feedback, as described on [Google Play](https://play.google.com/store/apps/details?id=yellowclass.kids.live), is immediate and correction-led. The AI coach corrects mistakes as you go, offers grammar improvements and fluency tips, and gives personalized feedback on lessons. Word translations into Hindi, Tamil, Telugu, Marathi, Bengali or Urdu remove the friction of not knowing a word mid-practice. Streaks, badges and points reward consistency.",
+    "What we could not verify for MySivi is the long view: a progress report, a placement test and a scenario catalog are not described on its official listings. If a trend line of your speaking matters, SpeakX's progress report is the clearer offer today; if in-the-moment corrections and rewards matter more, MySivi's listing speaks directly to that.",
   ],
   faqs: [
     {
@@ -249,7 +249,7 @@ const page: ComparisonPage = {
     },
     {
       q: "Does MySivi or SpeakX explain in Hindi, Tamil, Telugu, Marathi and Bengali?",
-      a: "Both support these languages, differently. SpeakX teaches in Hindi, Marathi, Bengali, Telugu, Tamil, Kannada and Malayalam, starting in your language and shifting to English over time. MySivi offers word translations in Hindi, Tamil, Telugu, Marathi, Bengali, Urdu and more while you practise in English. For Kannada or Malayalam, SpeakX lists them; for Urdu, MySivi does.",
+      a: "Both support these languages, differently. SpeakX teaches in Hindi, Marathi, Bengali, Telugu, Tamil, Kannada and Malayalam, starting in your language and shifting to English over time. MySivi offers word translations in Hindi, Tamil, Telugu, Marathi, Bengali, Urdu and more while you ppractice in English. For Kannada or Malayalam, SpeakX lists them; for Urdu, MySivi does.",
     },
     {
       q: "Which app is better for Indian learners who want AI conversation practice?",
@@ -296,7 +296,7 @@ const page: ComparisonPage = {
     {
       label: "Interview questions and answers in English for freshers",
       href: "https://speakx.ai/blog/interview-questions-answers-english-freshers",
-      description: "Practise these with Sia before your next placement round.",
+      description: "Ppractice these with Sia before your next placement round.",
     },
     {
       label: "Learning English with an AI teacher app",
@@ -345,7 +345,7 @@ const page: ComparisonPage = {
   ],
   lastVerified: "2026-10-12",
   cardDifference:
-    "MySivi positions for IELTS, TOEFL and placements with streaks and badges; SpeakX centres on voice-call roleplays with Sia.",
+    "MySivi positions for IELTS, TOEFL and placements with streaks and badges; SpeakX centers on voice-call roleplays with Sia.",
 };
 
 export default page;

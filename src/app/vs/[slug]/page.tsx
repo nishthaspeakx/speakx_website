@@ -142,7 +142,7 @@ export default async function ComparisonPageRoute({ params }: Params) {
       </Section>
 
       {/* Feature table */}
-      <Section id="feature-table" tone="soft" eyebrow="Side by side" title={`SpeakX vs ${competitor.name}: feature comparison`} intro="Each cell summarises what the official websites, help centres and app-store listings say. “Not verified” means we could not confirm the detail from an official source.">
+      <Section id="feature-table" tone="soft" eyebrow="Side by side" title={`SpeakX vs ${competitor.name}: feature comparison`} intro="Each cell summarizes what the official websites, help centers and app-store listings say. “Not verified” means we could not confirm the detail from an official source.">
         <FeatureTable rows={page.featureTable} competitorName={competitor.name} caption={`Feature comparison of SpeakX and ${competitor.name}`} />
       </Section>
 
@@ -224,7 +224,7 @@ export default async function ComparisonPageRoute({ params }: Params) {
       </Section>
 
       {/* Press & awards */}
-      <Section eyebrow="Independent coverage" title="SpeakX in the press and in awards" intro="Coverage is listed with its type. Sponsored or branded pieces are labelled; a mention is not an endorsement of SpeakX over any other app.">
+      <Section eyebrow="Independent coverage" title="SpeakX in the press and in awards" intro="Coverage is listed with its type. Sponsored or branded pieces are labeled; a mention is not an endorsement of SpeakX over any other app.">
         <PressStrip pageSlug={slug} />
       </Section>
 

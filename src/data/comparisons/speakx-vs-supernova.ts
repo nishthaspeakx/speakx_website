@@ -27,7 +27,7 @@ const page: ComparisonPage = {
     speakx:
       "SpeakX is built around one habit: speaking English out loud every day for about 15 minutes. You call Sia, an AI speaking partner, and work through situations Indian adults actually face, such as a job interview, a conversation with your manager, a parent-teacher meeting or a phone call. Sia explains in your own language (Hindi, Marathi, Bengali, Telugu, Tamil, Kannada or Malayalam) and slowly moves the conversation into English.",
     competitor:
-      "Supernova AI: Spoken English, from L8 Cones Interactive in Bengaluru, describes itself as a structured English speaking course for beginners. Each day brings a personalised lesson of around 20 minutes in a fixed sequence: learn a sentence pattern, translate short lines from your language, hold a controlled chat with the AI tutor Nova, speak freely, then revisit the material through spaced repetition. Explanations are available in Hindi, Tamil, Telugu, Bengali and more.",
+      "Supernova AI: Spoken English, from L8 Cones Interactive in Bengaluru, describes itself as a structured English speaking course for beginners. Each day brings a personalized lesson of around 20 minutes in a fixed sequence: learn a sentence pattern, translate short lines from your language, hold a controlled chat with the AI tutor Nova, speak freely, then revisit the material through spaced repetition. Explanations are available in Hindi, Tamil, Telugu, Bengali and more.",
   },
   featureTable: [
     {
@@ -88,7 +88,7 @@ const page: ComparisonPage = {
     {
       label: "Daily time",
       speakx: "About 15 minutes a day",
-      competitor: "About 20 minutes a day (personalised lesson)",
+      competitor: "About 20 minutes a day (personalized lesson)",
     },
     {
       label: "Free experience",
@@ -118,9 +118,9 @@ const page: ComparisonPage = {
     "After each session, a Progress Report shows movement on fluency, vocabulary, [grammar](https://speakx.ai/blog/english-grammar-tenses) and [pronunciation](https://speakx.ai/blog/english-pronunciation-difficulty) and points to what to work on next. A Confidence Meter and city leaderboards add a light competitive layer. The routine is [about 15 minutes a day](https://speakx.ai/blog/practice-spoken-english-alone-at-home), short enough to fit around college, shifts, housework or a commute.",
   ],
   howCompetitorWorks: [
-    "Supernova's method is published on its own website, which makes it easy to describe. The company says you learn a language by speaking it out loud, but its route to speaking is a curriculum rather than an open conversation. Every day you get a personalised lesson of roughly 20 minutes. It begins with a single sentence pattern, explained in your mother tongue.",
+    "Supernova's method is published on its own website, which makes it easy to describe. The company says you learn a language by speaking it out loud, but its route to speaking is a curriculum rather than an open conversation. Every day you get a personalized lesson of roughly 20 minutes. It begins with a single sentence pattern, explained in your mother tongue.",
     "You then translate 100 to 300 short lines from your language into English using that pattern, so the structure becomes automatic before you use it in conversation. Next comes a controlled chat with Nova (also called Miss Nova), the 24/7 AI tutor, which keeps the conversation inside the pattern you just learned. A free-speaking or extempore round follows, without guardrails. Finally, spaced repetition brings the material back on days 1, 2, 4, 7, 14 and 30.",
-    "Nova gives instant grammar corrections, pronunciation help and personalised feedback, according to the App Store listing. The Play listing describes strands for listening to everyday speech, daily-conversation vocabulary, grammar for accurate speaking, and pronunciation work on sound clarity, stress and rhythm. Role-plays covering introductions, interviews and everyday situations are listed, though the number of scenarios is not published.",
+    "Nova gives instant grammar corrections, pronunciation help and personalized feedback, according to the App Store listing. The Play listing describes strands for listening to everyday speech, daily-conversation vocabulary, grammar for accurate speaking, and pronunciation work on sound clarity, stress and rhythm. Role-plays covering introductions, interviews and everyday situations are listed, though the number of scenarios is not published.",
     "Supernova offers explanations in Hindi, Tamil, Telugu, Bengali and more, according to its store listings. A March 2025 ElevenLabs customer story names ten Indian languages including Marathi, Kannada, Gujarati, Punjabi, Odia and Assamese; that is a vendor source, so treat the longer list as partially verified. The app is free to start, with Premium sold as in-app purchases. The same company also ran a separate course site for school children under the Supernova name; that is not the app compared here.",
   ],
   keyDifferences: [
@@ -214,7 +214,7 @@ const page: ComparisonPage = {
     },
     {
       goal: "Travel",
-      speakx: "Travel use case listed on Play: speaking with confidence while travelling.",
+      speakx: "Travel use case listed on Play: speaking with confidence while traveling.",
       competitor: "Travel English is not described on official pages (not verified).",
     },
     {
@@ -233,7 +233,7 @@ const page: ComparisonPage = {
   },
   uxAndFeedback: [
     "On SpeakX, feedback happens during and after the conversation. Sia responds in the moment, and Premium adds a 24x7 AI teacher that gives instant feedback on mistakes. After practice, the Progress Report shows four scores ([fluency](https://speakx.ai/blog/english-speaking-fluency), vocabulary, grammar, pronunciation) and suggests what to work on next. A Confidence Meter and city leaderboards show how you compare with other learners in your city.",
-    "On Supernova, feedback is tied to the lesson structure. Nova provides instant grammar corrections, pronunciation help and personalised feedback, according to the App Store listing, and the controlled-chat stage keeps you inside the pattern you just learned, so corrections stay focused. The spaced-repetition schedule is itself a form of feedback: material returns on a set timetable. A progress dashboard is mentioned in a homepage testimonial but is not documented as a feature, so we cannot describe what it shows.",
+    "On Supernova, feedback is tied to the lesson structure. Nova provides instant grammar corrections, pronunciation help and personalized feedback, according to the App Store listing, and the controlled-chat stage keeps you inside the pattern you just learned, so corrections stay focused. The spaced-repetition schedule is itself a form of feedback: material returns on a set timetable. A progress dashboard is mentioned in a homepage testimonial but is not documented as a feature, so we cannot describe what it shows.",
     "Neither app offers human tutors; both are AI-only. Gamification such as streaks or badges is not described on Supernova's official pages, while SpeakX offers a Confidence Meter and leaderboards.",
     "On outcomes, SpeakX says that in just 2 months, 4 out of 5 learners start speaking English confidently. That is the company's own claim, not independently verified. Supernova's homepage carries user and rating figures that do not match its store listings on the day we checked, so we have relied on the store listings.",
   ],
@@ -293,7 +293,7 @@ const page: ComparisonPage = {
       description: "The wider comparison article covering Duolingo, Supernova, Stimuler and others.",
     },
     {
-      label: "A 15-minute routine to practise spoken English alone at home",
+      label: "A 15-minute routine to ppractice spoken English alone at home",
       href: "https://speakx.ai/blog/practice-spoken-english-alone-at-home",
       description: "Useful if you are deciding between a 15-minute and a 20-minute daily habit.",
     },

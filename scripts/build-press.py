@@ -19,7 +19,7 @@ def norm_date(d):
     if re.fullmatch(r"\d{4}-\d{2}", d): return d
     if re.fullmatch(r"\d{4}", d): return d
     return None
-LT = {"independent-editorial":"independent-editorial","sponsored-or-branded":"sponsored-or-branded","company-authored-blog":"company-authored-blog","award-organiser-listing":"award-organiser-listing","investor-or-partner-listing":"investor-or-partner-listing","directory-listing":"directory-listing","video-or-podcast":"video-or-podcast"}
+LT = {"independent-editorial":"independent-editorial","sponsored-or-branded":"sponsored-or-branded","company-authored-blog":"company-authored-blog","award-organiser-listing":"award-organizer-listing","investor-or-partner-listing":"investor-or-partner-listing","directory-listing":"directory-listing","video-or-podcast":"video-or-podcast"}
 VER = {"verified":"verified","partially-verified":"partially-verified"}
 # Summaries rewritten where the source's own wording mentions the former brand (never used in public copy) or
 # repeats company-stated subscriber / revenue metrics that the content rules do not allow on the site.

@@ -73,7 +73,7 @@ export const products: Record<string, Product> = {
       },
       "ai_conversation_practice": {
         "value": "yes",
-        "note": "'Meet Sia, your AI English practice partner... Practise real-life conversations'; Premium: 'Unlimited talktime with AI 24x7'.",
+        "note": "'Meet Sia, your AI English practice partner... Ppractice real-life conversations'; Premium: 'Unlimited talktime with AI 24x7'.",
         "source": "https://speakx.ai/premium"
       },
       "structured_course_progression": {
@@ -83,7 +83,7 @@ export const products: Record<string, Product> = {
       },
       "personalised_learning_plans": {
         "value": "partial",
-        "note": "Progress report tells learners 'what to work on next'; a '24x7 AI Teacher that gives instant feedback' (Premium). An explicit personalised plan generator is not described on official pages.",
+        "note": "Progress report tells learners 'what to work on next'; a '24x7 AI Teacher that gives instant feedback' (Premium). An explicit personalized plan generator is not described on official pages.",
         "source": "https://speakx.ai/premium"
       },
       "initial_proficiency_assessment": {
@@ -93,7 +93,7 @@ export const products: Record<string, Product> = {
       },
       "speaking_practice": {
         "value": "yes",
-        "note": "Core product: 'Speak English every day' with Sia on voice calls; 'Practise speaking English out loud, about fifteen minutes a day'.",
+        "note": "Core product: 'Speak English every day' with Sia on voice calls; 'Ppractice speaking English out loud, about fifteen minutes a day'.",
         "source": "https://speakx.ai/"
       },
       "real_life_roleplays": {
@@ -128,7 +128,7 @@ export const products: Record<string, Product> = {
       },
       "travel_english": {
         "value": "yes",
-        "note": "Play: 'Travel - Feel more confident speaking English while travelling.'",
+        "note": "Play: 'Travel - Feel more confident speaking English while traveling.'",
         "source": "https://play.google.com/store/apps/details?id=yellowclass.kids.live&hl=en_IN"
       },
       "pronunciation_practice": {
@@ -190,7 +190,7 @@ export const products: Record<string, Product> = {
       "No exam-specific IELTS/TOEFL band scoring described on official pages (Stimuler and ELSA offer this).",
       "App Store (India) footprint is small and new (258 ratings) compared with the Play listing."
     ],
-    "bestFit": "Indian adults who understand Hindi or another supported Indian language and want to actually speak English for interviews, work, studies, or family life, practising ~15 minutes a day on a phone. Suits hesitant beginners who want explanations in their own language and judgment-free voice practice.",
+    "bestFit": "Indian adults who understand Hindi or another supported Indian language and want to actually speak English for interviews, work, studies, or family life, ppracticing ~15 minutes a day on a phone. Suits hesitant beginners who want explanations in their own language and judgment-free voice practice.",
     "sources": [
       {
         "label": "speakx.ai/",
@@ -228,7 +228,7 @@ export const products: Record<string, Product> = {
     "founded": "2021 (Inc42/Tracxn company profiles; not stated on official site) - partially-verified",
     "primaryObjective": "Spoken English fluency for beginners, with grammar, vocabulary, listening and pronunciation support.",
     "targetLearner": "Indian beginners and intermediate learners who prefer explanations in their mother tongue; site testimonials include parents of school children.",
-    "teachingMethod": "Structured step-by-step spoken-English course with ~20-minute daily personalised lessons: learn one sentence pattern, translate 100-300 short lines from your language, controlled AI chats with Nova, free speaking (extempore), spaced repetition on days 1/2/4/7/14/30. Explanations in Hindi and other Indian languages.",
+    "teachingMethod": "Structured step-by-step spoken-English course with ~20-minute daily personalized lessons: learn one sentence pattern, translate 100-300 short lines from your language, controlled AI chats with Nova, free speaking (extempore), spaced repetition on days 1/2/4/7/14/30. Explanations in Hindi and other Indian languages.",
     "languagesTaught": "English only",
     "interfaceLanguages": "English plus Indian-language explanations (Hindi, Tamil, Telugu, Bengali and more)",
     "humanOrAi": "AI only",
@@ -448,7 +448,7 @@ export const products: Record<string, Product> = {
     "founded": "2022 (Y Combinator profile: Founded 2022, batch W22; Inc42: Sept 2022 as Speakify AI) - verified via YC page",
     "primaryObjective": "Confident spoken English for interviews, classes and daily talk; exam prep (IELTS/TOEFL).",
     "targetLearner": "Indian beginners, students, professionals; copy mixes Hindi ('aur har conversation mein confidently English bole').",
-    "teachingMethod": "AI-coach conversation practice (topic-based chats, real-time tasks) with instant corrections, a structured guided lesson path, translations in Indian languages, gamified rewards, exam/interview practice; YC page also describes practising with humans (peer practice).",
+    "teachingMethod": "AI-coach conversation practice (topic-based chats, real-time tasks) with instant corrections, a structured guided lesson path, translations in Indian languages, gamified rewards, exam/interview practice; YC page also describes ppracticing with humans (peer practice).",
     "languagesTaught": "English only",
     "interfaceLanguages": "English with word translations in Hindi, Tamil, Telugu, Marathi, Bengali, Urdu and more",
     "humanOrAi": "AI tutor plus peer practice (claimed)",
@@ -529,7 +529,7 @@ export const products: Record<string, Product> = {
       },
       "real_life_roleplays": {
         "value": "partial",
-        "note": "Play: 'speak English fluently in real-life situations'; topic-based chats. Scenario roleplay catalogue not described.",
+        "note": "Play: 'speak English fluently in real-life situations'; topic-based chats. Scenario roleplay catalog not described.",
         "source": "https://play.google.com/store/apps/details?id=com.practice.ninja_study&hl=en_IN"
       },
       "job_interview_english": {
@@ -616,7 +616,7 @@ export const products: Record<string, Product> = {
     ],
     "limitations": [
       "Official website and pricing page block automated access; public pricing only visible as App Store SKUs (₹999/month is notably higher than SpeakX's ₹299).",
-      "No progress report, placement test or scenario catalogue described on official listings.",
+      "No progress report, placement test or scenario catalog described on official listings.",
       "Mostly chat/text-task oriented in listing copy; voice-call style practice is not explicit."
     ],
     "bestFit": "Indian students and early-career professionals who want a gamified, exam-aware English practice app with Hindi/Tamil/Telugu word translations, and who prefer a guided lesson path plus AI chat.",
@@ -728,7 +728,7 @@ export const products: Record<string, Product> = {
       },
       "personalised_learning_plans": {
         "value": "partial",
-        "note": "Adaptive practice and personalised review exist, but no bespoke plan per learner goal is described on the listing.",
+        "note": "Adaptive practice and personalized review exist, but no bespoke plan per learner goal is described on the listing.",
         "source": "https://play.google.com/store/apps/details?id=com.duolingo&hl=en_IN"
       },
       "initial_proficiency_assessment": {
@@ -882,7 +882,7 @@ export const products: Record<string, Product> = {
     "founded": "2022 (Entrepreneur India, Apr 2025; YourStory) - partially-verified",
     "primaryObjective": "English speaking fluency and IELTS speaking preparation for non-native speakers worldwide.",
     "targetLearner": "Intermediate learners, IELTS candidates, job-seekers and professionals in 200+ countries (India, LATAM, SEA).",
-    "teachingMethod": "Voice-first: record 60-second impromptu speeches or chat with AI coach 'Sarah' on 100+ topics, get feedback in under 20-30 seconds on pronunciation, fluency, grammar, vocabulary, fillers, pace and tone; personalised practice plan; IELTS speaking band prediction and live video mock tests.",
+    "teachingMethod": "Voice-first: record 60-second impromptu speeches or chat with AI coach 'Sarah' on 100+ topics, get feedback in under 20-30 seconds on pronunciation, fluency, grammar, vocabulary, fillers, pace and tone; personalized practice plan; IELTS speaking band prediction and live video mock tests.",
     "languagesTaught": "English only",
     "interfaceLanguages": "English",
     "humanOrAi": "AI only",
@@ -963,7 +963,7 @@ export const products: Record<string, Product> = {
       },
       "real_life_roleplays": {
         "value": "partial",
-        "note": "Site: 'scenario based practice'; blog lists 'IELTS / interview / workplace scenarios'. Scenario catalogue not detailed.",
+        "note": "Site: 'scenario based practice'; blog lists 'IELTS / interview / workplace scenarios'. Scenario catalog not detailed.",
         "source": "https://stimuler.tech/"
       },
       "job_interview_english": {
@@ -1111,10 +1111,10 @@ export const products: Record<string, Product> = {
     "description": "Quote (site): '#1 AI English Speaking App for Fluency and Confidence' (company claim).",
     "founded": "2015 (founder Vu Van with Dr. Xavier Anguera; multiple press sources) - partially-verified",
     "primaryObjective": "English pronunciation, fluency and confident communication for professionals and learners; exam prep.",
-    "targetLearner": "Global non-native professionals, job seekers, students, travellers; strongest markets Vietnam, LATAM, Asia (site language menu).",
-    "teachingMethod": "Pronunciation-first AI coaching: speech recognition scores every syllable; personalised learning path from a pronunciation test; 8,000+ lessons; AI role-plays with specialised coaches (Workplace, Interviews, Dating, Meetings, Presentations); Speech Analyzer; bilingual mode for beginners; gamified lessons.",
+    "targetLearner": "Global non-native professionals, job seekers, students, travelers; strongest markets Vietnam, LATAM, Asia (site language menu).",
+    "teachingMethod": "Pronunciation-first AI coaching: speech recognition scores every syllable; personalized learning path from a pronunciation test; 8,000+ lessons; AI role-plays with specialized coaches (Workplace, Interviews, Dating, Meetings, Presentations); Speech Analyzer; bilingual mode for beginners; gamified lessons.",
     "languagesTaught": "English only",
-    "interfaceLanguages": "English, Vietnamese, Japanese, Indonesian, Portuguese, Spanish, Chinese (Traditional/Simplified), Thai, Korean, French, German, Turkish, Hindi (per help centre via search snippet)",
+    "interfaceLanguages": "English, Vietnamese, Japanese, Indonesian, Portuguese, Spanish, Chinese (Traditional/Simplified), Thai, Korean, French, German, Turkish, Hindi (per help center via search snippet)",
     "humanOrAi": "AI only",
     "play": {
       "rating": "4.2 (4.196 raw)",
@@ -1153,22 +1153,22 @@ export const products: Record<string, Product> = {
       },
       "support_for_indian_languages": {
         "value": "partial",
-        "note": "Hindi only (display language, translations and bilingual mode per help centre); no other Indian languages.",
+        "note": "Hindi only (display language, translations and bilingual mode per help center); no other Indian languages.",
         "source": "https://elsanow.freshdesk.com/en/support/solutions/articles/31000176417-change-the-display-language-and-enable-translations-"
       },
       "hindi_guidance": {
         "value": "yes",
-        "note": "Help centre lists Hindi among display and lesson-translation languages (seen via search snippet; article URL returned 404 on direct fetch - partially-verified).",
+        "note": "Help center lists Hindi among display and lesson-translation languages (seen via search snippet; article URL returned 404 on direct fetch - partially-verified).",
         "source": "https://elsanow.freshdesk.com/en/support/solutions/articles/31000176417-change-the-display-language-and-enable-translations-"
       },
       "regional_language_support": {
         "value": "no",
-        "note": "Help-centre language lists do not include Tamil or Telugu.",
+        "note": "Help-center language lists do not include Tamil or Telugu.",
         "source": "https://elsanow.freshdesk.com/en/support/solutions/articles/31000176417-change-the-display-language-and-enable-translations-"
       },
       "ai_conversation_practice": {
         "value": "yes",
-        "note": "Site: 'AI Conversation Practice: Interactive role-plays... with instant AI feedback'; Play: 'AI-driven Conversations & Open-ended Dialogues'.",
+        "note": "Site: 'AI Conversation Practice: Interactive role-plays... with instant AI feedback'; Play: 'AI-driven Conversations & Open-ended Dialogs'.",
         "source": "https://elsaspeak.com/en/"
       },
       "structured_course_progression": {
@@ -1275,7 +1275,7 @@ export const products: Record<string, Product> = {
     "strengths": [
       "Deep pronunciation technology: syllable-level scoring, accent choice, Speech Analyzer with test-score predictions.",
       "Role-play coaches for Workplace, Interviews, Meetings, Presentations; career-specific vocabulary; exam prep (IELTS/TOEFL/TOEIC).",
-      "Large global footprint: 1Cr+ Play downloads, 1.01M Play reviews; 92M+ downloads claimed; B2B/schools offerings (1,300+ organisations claimed).",
+      "Large global footprint: 1Cr+ Play downloads, 1.01M Play reviews; 92M+ downloads claimed; B2B/schools offerings (1,300+ organizations claimed).",
       "Hindi display language and bilingual mode for beginners."
     ],
     "limitations": [
@@ -1284,7 +1284,7 @@ export const products: Record<string, Product> = {
       "Free tier is thin (first 2 lessons per topic); premium SKUs in India are complex (₹499/month to ₹12,900/year).",
       "Oriented to pronunciation drills; voice-call style free conversation is a newer add-on rather than the core."
     ],
-    "bestFit": "Intermediate professionals and exam candidates who want to fix pronunciation and accent with precise feedback, practise workplace/interview role-plays, and can work in English (or Hindi) UI.",
+    "bestFit": "Intermediate professionals and exam candidates who want to fix pronunciation and accent with precise feedback, ppractice workplace/interview role-plays, and can work in English (or Hindi) UI.",
     "sources": [
       {
         "label": "elsaspeak.com/en/",
@@ -1383,17 +1383,17 @@ export const products: Record<string, Product> = {
       },
       "support_for_indian_languages": {
         "value": "partial",
-        "note": "Hindi only: 'I Speak' Hindi -> English course (help centre); Hindi among 16 App Store app languages.",
+        "note": "Hindi only: 'I Speak' Hindi -> English course (help center); Hindi among 16 App Store app languages.",
         "source": "https://help.speak.com/en/articles/8880569-what-languages-can-i-learn-with-speak"
       },
       "hindi_guidance": {
         "value": "yes",
-        "note": "Help centre: English offered for native speakers incl. Hindi.",
+        "note": "Help center: English offered for native speakers incl. Hindi.",
         "source": "https://help.speak.com/en/articles/8880569-what-languages-can-i-learn-with-speak"
       },
       "regional_language_support": {
         "value": "no",
-        "note": "Help-centre list has no Tamil/Telugu; App Store languages list none either.",
+        "note": "Help-center list has no Tamil/Telugu; App Store languages list none either.",
         "source": "https://help.speak.com/en/articles/8880569-what-languages-can-i-learn-with-speak"
       },
       "ai_conversation_practice": {

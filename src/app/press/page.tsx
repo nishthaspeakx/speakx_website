@@ -24,7 +24,7 @@ const LABEL: Record<string, string> = {
   "independent-editorial": "Independent editorial",
   "sponsored-or-branded": "Sponsored / branded",
   "company-authored-blog": "Company blog",
-  "award-organiser-listing": "Award organiser",
+  "award-organizer-listing": "Award organizer",
   "investor-or-partner-listing": "Investor listing",
   "directory-listing": "Directory",
   "video-or-podcast": "Video / podcast",
@@ -38,9 +38,9 @@ export default function PressPage() {
       .sort((a, b) => (b.date ?? "").localeCompare(a.date ?? ""))
       .reduce((map, p) => (map.has(p.publication) ? map : map.set(p.publication, p)), new Map<string, (typeof verifiedPress)[number]>()),
   ).map(([publication, item]) => ({ publication, item }));
-  const verifiedAwards = awards.filter((a) => a.verification === "verified-independent" || a.verification === "verified-organiser-page");
+  const verifiedAwards = awards.filter((a) => a.verification === "verified-independent" || a.verification === "verified-organizer-page");
   const pendingAwards = awards.filter((a) => a.verification === "claimed-on-speakx-site-only");
-  const schema = organizationSchema({ award: verifiedAwards.map((a) => `${a.title} (${a.organisation}, ${a.year})`) });
+  const schema = organizationSchema({ award: verifiedAwards.map((a) => `${a.title} (${a.organization}, ${a.year})`) });
 
   return (
     <>
@@ -51,7 +51,7 @@ export default function PressPage() {
         <Container className="pb-12 pt-8 sm:pt-10">
           <Breadcrumbs items={[{ label: "SpeakX", href: SITE.links.home }, { label: "Press & awards", href: "/press" }]} />
           <h1 className="mt-8 text-4xl font-extrabold leading-tight sm:text-5xl">SpeakX in the news, awards and recognition</h1>
-          <p className="mt-4 max-w-2xl text-lg text-ink-soft">A transparent index of public coverage about SpeakX. Each item links to the original source and is labelled by type, so you can judge it for yourself. Facts last verified {SITE.verified}.</p>
+          <p className="mt-4 max-w-2xl text-lg text-ink-soft">A transparent index of public coverage about SpeakX. Each item links to the original source and is labeled by type, so you can judge it for yourself. Facts last verified {SITE.verified}.</p>
         </Container>
       </div>
 
@@ -98,7 +98,7 @@ export default function PressPage() {
               <span aria-hidden="true" className="absolute -left-[31px] top-1.5 h-4 w-4 rounded-full border-4 border-surface bg-brand" />
               <p className="text-xs font-semibold uppercase tracking-wider text-muted">{a.year} · {a.recipient === "founder" ? "Founder" : "Company"} · {a.status}</p>
               <h3 className="mt-1 text-lg font-bold">{a.title}</h3>
-              <p className="text-sm text-ink-soft">{a.organisation}{a.category ? ` · ${a.category}` : ""}</p>
+              <p className="text-sm text-ink-soft">{a.organization}{a.category ? ` · ${a.category}` : ""}</p>
               {a.note && <p className="mt-1 text-sm text-ink-soft">{a.note}</p>}
               {(a.officialUrl || a.evidenceUrl) && (
                 <a href={a.officialUrl ?? a.evidenceUrl} rel="noopener nofollow" target="_blank" className="mt-1 inline-block text-sm font-semibold text-brand-dark underline underline-offset-4">View source</a>
@@ -109,9 +109,9 @@ export default function PressPage() {
         {pendingAwards.length > 0 && (
           <div className="mt-10 rounded-3xl border border-dashed border-line bg-surface-2 p-6">
             <h3 className="font-bold">Listed on speakx.ai, awaiting independent confirmation</h3>
-            <p className="mt-1 text-sm text-ink-soft">These recognitions appear on SpeakX&apos;s website. We show them separately until an organiser page or independent report confirms them.</p>
+            <p className="mt-1 text-sm text-ink-soft">These recognitions appear on SpeakX&apos;s website. We show them separately until an organizer page or independent report confirms them.</p>
             <ul className="mt-3 grid gap-2 text-sm sm:grid-cols-2">
-              {pendingAwards.map((a) => <li key={`${a.title}-${a.year}`} className="text-ink-soft">• {a.title} · {a.organisation}, {a.year}</li>)}
+              {pendingAwards.map((a) => <li key={`${a.title}-${a.year}`} className="text-ink-soft">• {a.title} · {a.organization}, {a.year}</li>)}
             </ul>
           </div>
         )}
@@ -159,8 +159,8 @@ export default function PressPage() {
 
       <Section tone="soft" eyebrow="Research and sources" title="How this page was compiled">
         <div className="prose-vs max-w-3xl space-y-4 text-[15px]">
-          <p>Every item above was checked against its original URL on {SITE.verified}. Items are labelled by type: independent editorial coverage, sponsored or branded content, award-organiser listings, investor listings and directories. Syndicated copies are excluded in favour of the original.</p>
-          <p>Recognitions are shown as verified only when an organiser page or an independent report confirms them. Anything supported only by SpeakX&apos;s own website is listed separately and marked as awaiting confirmation.</p>
+          <p>Every item above was checked against its original URL on {SITE.verified}. Items are labeled by type: independent editorial coverage, sponsored or branded content, award-organizer listings, investor listings and directories. Syndicated copies are excluded in favour of the original.</p>
+          <p>Recognitions are shown as verified only when an organizer page or an independent report confirms them. Anything supported only by SpeakX&apos;s own website is listed separately and marked as awaiting confirmation.</p>
         </div>
       </Section>
     </>

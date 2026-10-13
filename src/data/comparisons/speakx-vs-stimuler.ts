@@ -19,7 +19,7 @@ const page: ComparisonPage = {
   },
   h1: "SpeakX vs Stimuler: AI English speaking practice compared",
   quickAnswer: [
-    "SpeakX is an AI English speaking app for Indian learners, made by [Ivypods Technology](https://speakx.ai/about) in Gurugram. You practise on guided voice calls with Sia, its AI speaking partner, with explanations in 7 Indian languages and roleplays for interviews, office and daily life.",
+    "SpeakX is an AI English speaking app for Indian learners, made by [Ivypods Technology](https://speakx.ai/about) in Gurugram. You ppractice on guided voice calls with Sia, its AI speaking partner, with explanations in 7 Indian languages and roleplays for interviews, office and daily life.",
     "Stimuler is a voice-first AI English coach from Stimuler Private Limited. You record 60-second speeches or chat with its AI coach, and it returns detailed feedback on pronunciation, fluency, grammar, vocabulary, fillers, pace and tone, along with an IELTS band prediction.",
     "Pick SpeakX if you are starting from a low level, want Hindi or regional-language explanations, and prefer structured practice that builds everyday confidence.",
     "Pick Stimuler if you already speak intermediate English, are comfortable reading feedback in English, and want exam-style scoring or very granular speech analytics.",
@@ -28,7 +28,7 @@ const page: ComparisonPage = {
     speakx:
       "SpeakX is built for Indian learners who want to speak English, not just study it. The core activity is a voice call with Sia, an AI partner who talks with you, corrects you and explains the fix in your own language: Hindi, Marathi, Bengali, Telugu, Tamil, Kannada or Malayalam. Paths run from CEFR Pre-A1 to advanced, so a complete beginner and a working professional both start in the right place, at about 15 minutes a day. SpeakX is a different company from Speak (speak.com), a US-based app.",
     competitor:
-      "Stimuler calls itself an AI English speaking coach with instant feedback. Its signature task is a 60-second impromptu speech: within 20 to 30 seconds the app scores your pronunciation, fluency, grammar and vocabulary and flags fillers, pace, pauses and tone. You can also chat with its AI coach, Sarah, on 100+ topics, follow a personalised plan, and take IELTS speaking mock tests with band prediction. It won Google Play's Best of 2023 India award in the Best with AI category under its earlier name, Stimuler- IELTS Speaking Coach.",
+      "Stimuler calls itself an AI English speaking coach with instant feedback. Its signature task is a 60-second impromptu speech: within 20 to 30 seconds the app scores your pronunciation, fluency, grammar and vocabulary and flags fillers, pace, pauses and tone. You can also chat with its AI coach, Sarah, on 100+ topics, follow a personalized plan, and take IELTS speaking mock tests with band prediction. It won Google Play's Best of 2023 India award in the Best with AI category under its earlier name, Stimuler- IELTS Speaking Coach.",
   },
   featureTable: [
     {
@@ -59,7 +59,7 @@ const page: ComparisonPage = {
     {
       label: "Real-life roleplays",
       speakx: "Interviews, office, parent-teacher meetings, phone calls",
-      competitor: "Scenario-based practice; catalogue not detailed officially",
+      competitor: "Scenario-based practice; catalog not detailed officially",
     },
     {
       label: "Job interview practice",
@@ -84,7 +84,7 @@ const page: ComparisonPage = {
     {
       label: "Levels and structure",
       speakx: "CEFR paths from Pre-A1 to advanced",
-      competitor: "Personalised plan and roadmap; not a level-by-level course",
+      competitor: "Personalized plan and roadmap; not a level-by-level course",
     },
     {
       label: "Daily time",
@@ -114,13 +114,13 @@ const page: ComparisonPage = {
   ],
   howSpeakXWorks: [
     "Where Stimuler asks you to perform and then grades you, SpeakX asks you to talk and helps you keep talking. Each session is a voice call with [Sia](https://speakx.ai/), who asks questions, listens, corrects a wrong tense or a missing article, and explains why in the language you chose at setup. If you think in [Hindi](https://speakx.ai/blog/100-simple-english-sentences-for-daily-use-with-hindi-meaning) or Tamil, you hear the fix in Hindi or Tamil, which removes the translation step that slows many first-time speakers down.",
-    "Practice is organised as [roleplays](https://speakx.ai/blog/master-real-life-english-your-guide-to-confident-daily-conversation) rather than open prompts: a [job interview](https://speakx.ai/blog/interview-questions-answers-english-freshers), a conversation with your manager, a [parent-teacher meeting](https://speakx.ai/blog/how-to-speak-english-fluently-in-parent-teacher-meetings-a-teachers-5-minute-daily-method), a phone call to a service centre. The scenarios are built around situations Indian learners actually face, so the vocabulary and tone you practise are the ones you will use. Premium opens 100+ real-life scenarios and unlimited AI talk time with a 24x7 AI teacher.",
+    "Practice is organized as [roleplays](https://speakx.ai/blog/master-real-life-english-your-guide-to-confident-daily-conversation) rather than open prompts: a [job interview](https://speakx.ai/blog/interview-questions-answers-english-freshers), a conversation with your manager, a [parent-teacher meeting](https://speakx.ai/blog/how-to-speak-english-fluently-in-parent-teacher-meetings-a-teachers-5-minute-daily-method), a phone call to a service center. The scenarios are built around situations Indian learners actually face, so the vocabulary and tone you ppractice are the ones you will use. Premium opens 100+ real-life scenarios and unlimited AI talk time with a 24x7 AI teacher.",
     "SpeakX places you on a CEFR path from [Pre-A1](https://speakx.ai/blog/unlock-confident-english-speaking-your-guide-to-daily-practice-and-learning-the-basics) to advanced. This matters here: a learner who cannot yet form a full sentence has a clear starting point, which Stimuler's official pages do not describe. A report tracks fluency, vocabulary, [grammar](https://speakx.ai/blog/english-grammar-tenses) and [pronunciation](https://speakx.ai/blog/english-pronunciation-difficulty), a Confidence Meter shows how comfortably you are speaking, and city leaderboards add a light competitive element.",
     "The time commitment is modest, [about 15 minutes a day](https://speakx.ai/blog/practice-spoken-english-alone-at-home), and the app is free to start. The ₹2 3-day Premium trial and [₹299](https://speakx.ai/premium) monthly plan are covered in the pricing section below.",
   ],
   howCompetitorWorks: [
-    "Stimuler is voice-first in a different sense. The central loop is a speaking test: you get a prompt, speak for 60 seconds, and the app analyses the recording. Its listing says results arrive in under 20 seconds and cover pronunciation, fluency, grammar and vocabulary. The site demo shows a mispronounced word with a retry button and a band score for grammar. A 360-degree view adds fillers, rhythm, tone and pauses, more detail than most speaking apps surface.",
-    "Beyond the test, Stimuler offers conversation with an AI coach named Sarah across 100+ topics, from family and hobbies to technology, and scenario practice its blog describes as IELTS, interview and workplace scenarios. Official pages do not list the scenarios in detail, so we cannot say how deep the roleplay catalogue goes. Stimuler also builds a personalised plan from your goals and level, with video lessons and exercises for each skill.",
+    "Stimuler is voice-first in a different sense. The central loop is a speaking test: you get a prompt, speak for 60 seconds, and the app analyzes the recording. Its listing says results arrive in under 20 seconds and cover pronunciation, fluency, grammar and vocabulary. The site demo shows a mispronounced word with a retry button and a band score for grammar. A 360-degree view adds fillers, rhythm, tone and pauses, more detail than most speaking apps surface.",
+    "Beyond the test, Stimuler offers conversation with an AI coach named Sarah across 100+ topics, from family and hobbies to technology, and scenario practice its blog describes as IELTS, interview and workplace scenarios. Official pages do not list the scenarios in detail, so we cannot say how deep the roleplay catalog goes. Stimuler also builds a personalized plan from your goals and level, with video lessons and exercises for each skill.",
     "The exam angle is strong. Stimuler's Play listing mentions over 60 complete IELTS practice tests, live video mock tests with an AI interviewer, and IELTS band prediction you can track over time. Its earlier store names, Stimuler- IELTS Speaking Coach and Stimuler- IELTS Speaking Buddy, tell you where it started.",
     "Everything, including the feedback, is in English; the App Store lists English as the only language. Stimuler has Indian founders and INR pricing and serves learners in 200+ countries, but official pages do not describe Hindi or regional-language explanations. We record this as not verified rather than a confirmed gap.",
   ],
@@ -135,7 +135,7 @@ const page: ComparisonPage = {
     },
     {
       title: "Feedback style: coaching versus analytics",
-      body: "SpeakX corrects you inside the conversation and keeps the call going, then summarises in a progress report. Stimuler stops the clock, scores the recording, and shows fillers, pace, tone and pauses. One is closer to a patient teacher, the other to a detailed scorecard. They suit different temperaments.",
+      body: "SpeakX corrects you inside the conversation and keeps the call going, then summarizes in a progress report. Stimuler stops the clock, scores the recording, and shows fillers, pace, tone and pauses. One is closer to a patient teacher, the other to a detailed scorecard. They suit different temperaments.",
     },
     {
       title: "Exam focus",
@@ -205,7 +205,7 @@ const page: ComparisonPage = {
     {
       goal: "Workplace English",
       speakx: "Office and manager roleplays; 100+ scenarios on Premium.",
-      competitor: "Workplace scenarios mentioned in Stimuler's blog; catalogue not detailed.",
+      competitor: "Workplace scenarios mentioned in Stimuler's blog; catalog not detailed.",
     },
     {
       goal: "Everyday conversations",
@@ -257,7 +257,7 @@ const page: ComparisonPage = {
     },
     {
       q: "Which app is better for job interview English practice?",
-      a: "SpeakX has dedicated interview roleplays where Sia plays the interviewer and corrects you as you answer. Stimuler lists interview scenarios, and its speech analysis helps cut fillers and fix pace, but its scenario catalogue is only lightly described on official pages. For rehearsing the conversation itself, SpeakX is more structured; for polishing delivery, Stimuler's analytics help.",
+      a: "SpeakX has dedicated interview roleplays where Sia plays the interviewer and corrects you as you answer. Stimuler lists interview scenarios, and its speech analysis helps cut fillers and fix pace, but its scenario catalog is only lightly described on official pages. For rehearsing the conversation itself, SpeakX is more structured; for polishing delivery, Stimuler's analytics help.",
     },
     {
       q: "Is SpeakX useful for IELTS speaking practice?",
@@ -303,7 +303,7 @@ const page: ComparisonPage = {
       description: "Practical prep for the interview roleplays discussed above.",
     },
     {
-      label: "A 15-minute routine to practise spoken English alone at home",
+      label: "A 15-minute routine to ppractice spoken English alone at home",
       href: "https://speakx.ai/blog/practice-spoken-english-alone-at-home",
       description: "Fits the daily habit both apps try to build.",
     },

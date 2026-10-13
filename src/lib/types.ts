@@ -58,7 +58,7 @@ export const DIMENSION_LABELS: Record<DimensionKey, string> = {
   regional_language_support: "Tamil, Telugu & regional languages",
   ai_conversation_practice: "AI conversation practice",
   structured_course_progression: "Structured course progression",
-  personalised_learning_plans: "Personalised learning plan",
+  personalised_learning_plans: "Personalized learning plan",
   initial_proficiency_assessment: "Initial level assessment",
   speaking_practice: "Speaking practice",
   real_life_roleplays: "Real-life roleplays",
@@ -178,7 +178,7 @@ export type PressLinkType =
   | "independent-editorial"
   | "sponsored-or-branded"
   | "company-authored-blog"
-  | "award-organiser-listing"
+  | "award-organizer-listing"
   | "investor-or-partner-listing"
   | "directory-listing"
   | "video-or-podcast";
@@ -200,7 +200,7 @@ export interface PressItem {
 
 export interface Award {
   title: string;
-  organisation: string;
+  organization: string;
   year: string;
   category?: string;
   status: "winner" | "finalist" | "listed" | "speaker" | "not-verified";
@@ -209,7 +209,7 @@ export interface Award {
   evidenceUrl?: string;
   verification:
     | "verified-independent"
-    | "verified-organiser-page"
+    | "verified-organizer-page"
     | "claimed-on-speakx-site-only"
     | "conflicting"
     | "not-found";

@@ -79,3 +79,24 @@ Fix llms.txt wording and add new URLs; add "Sources and what we verified (12 Oct
 
 ### Measurement plan
 Monthly, from India (incognito, mobile + desktop), same 12 prompts verbatim, across ChatGPT search, Google AI Overviews/AI Mode (en-IN), Gemini, Perplexity, Claude, Bing Copilot. Metrics: inclusion rate (overall / non-brand / brand), description accuracy (0–3 with error types: wrong entity, kids/Yellow Class, wrong price/languages/rating, never-claim stats), cited sources (count, % speakx.ai, % new /vs or /press pages, % legacy directories), share of mentions vs the six competitors, entity-confusion rate. Baseline (12 Oct 2026, web search index only): inclusion 25% overall / 10% non-brand / 100% brand; entity confusion 10%; speakx.ai cited in 0/10 non-brand prompts; share of mentions ≈ 12%. No guaranteed-inclusion targets — AI engines are non-deterministic; track direction of travel.
+
+
+## Observation log
+
+### 2026-10-13: category prompt regression (reported by the content team's monitoring; verified by us)
+
+| Prompt | Observed answer | Cited source | Verification |
+|---|---|---|---|
+| best app to learn spoken English in India | SpeakX absent (was recommended the day before). Answer: "use SpeakShark for cheap, frequent AI conversation practice with pronunciation feedback and a free tier." | https://speakshark.com/blog/best-english-speaking-apps-india-2026 | Fetched 2026-10-13: competitor-owned roundup (SpeakShark #1, then EngVarta, Cambly, ELSA Speak, Preply, italki, Hello English, Duolingo, HelloTalk). Updated 4 Jul 2026, no author, **SpeakX not mentioned**, no contact route on the page. |
+| app with AI teacher | Oki recommended ("24/7 AI tutor conversations with gentle corrections"); SpeakX absent | https://okilang.app/en | Fetched 2026-10-13: Oki targets **Russian and Kazakh speakers** (Kazakhstan), USD 10/month. Not an India product; the AI answer is misreading the audience. |
+| English speaking app for Hindi speakers | SpeakX named first; Supernova moved up to "recommended"; Rynocore appeared ("browser-based voice scoring and Hinglish/Hindi explanations") | Supernova Play listing; https://rynocore.in/ | Rynocore fetched 2026-10-13: web-based AI spoken-English tool for Hindi/Hinglish speakers, free tier, premium "from ₹5/month" (site claim). New entrant; added to the watchlist. |
+| spoken English app India | Zinglish in web results, not in the AI answer | https://zinglish.app/ | Fetched 2026-10-13: AI speaking-practice app, "10,000+ confident speakers" (site claim), free trial. Watchlist. |
+
+**Why this happened (assessment).** Google-style AI answers for "best … in India" prompts are being assembled from vendor-owned roundups (SpeakShark, EngVarta, TalkDrill) because no independent Indian roundup lists SpeakX. SpeakX's own apps guide and the new /vs hub are not yet indexed or cited.
+
+**Actions taken 2026-10-13.**
+1. /vs hub: added an answer-first FAQ for the exact prompt "What is the best app to learn spoken English in India?" with the free-to-start fact, and "Free to download and start" as a hero trust signal (the competing answer leaned on "a real free tier").
+2. Backlink register: SpeakShark roundup logged as a roundup-inclusion target (competitor-owned, low odds; the content team's own weekly pitch is the route). EdTechReview and other independent roundups remain the higher-value targets.
+3. Competitor watchlist: Rynocore, Zinglish, SpeakShark, Oki (out of scope for India) added to competitors.md.
+
+**Next.** Re-run the 12-prompt test set after /vs is live and indexed; request indexing of /vs and the apps guide in Search Console; pitch two independent Indian roundups (EdTechReview 2026 list, Careers360/Shiksha) with the "free to start + 7 Indian languages" angle.

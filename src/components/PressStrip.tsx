@@ -7,7 +7,7 @@ const LABEL: Record<string, string> = {
   "independent-editorial": "Editorial",
   "sponsored-or-branded": "Sponsored / branded",
   "company-authored-blog": "Company blog",
-  "award-organiser-listing": "Award organiser",
+  "award-organizer-listing": "Award organizer",
   "investor-or-partner-listing": "Investor listing",
   "directory-listing": "Directory",
   "video-or-podcast": "Video / podcast",
@@ -20,7 +20,7 @@ export default function PressStrip({ pageSlug }: { pageSlug: string }) {
     .filter((p) => p.verification === "verified" && p.linkType === "independent-editorial" && p.placement !== "sources-only")
     .sort((a, b) => rank[a.placement] - rank[b.placement] || (b.date ?? "").localeCompare(a.date ?? ""))
     .slice(0, 4);
-  const verifiedAwards = awards.filter((a) => a.verification === "verified-independent" || a.verification === "verified-organiser-page").slice(0, 4);
+  const verifiedAwards = awards.filter((a) => a.verification === "verified-independent" || a.verification === "verified-organizer-page").slice(0, 4);
   return (
     <div className="grid gap-6 lg:grid-cols-[1.3fr_1fr]">
       <ul className="grid gap-3 sm:grid-cols-2">
@@ -45,7 +45,7 @@ export default function PressStrip({ pageSlug }: { pageSlug: string }) {
               <span aria-hidden="true" className="mt-0.5 text-accent-dark">★</span>
               <span>
                 <span className="font-semibold text-ink">{a.title}</span>
-                <span className="text-ink-soft"> · {a.organisation}, {a.year}</span>
+                <span className="text-ink-soft"> · {a.organization}, {a.year}</span>
                 {a.officialUrl && <> · <a href={a.officialUrl} rel="noopener nofollow" target="_blank" className="text-brand-dark underline underline-offset-4">source</a></>}
               </span>
             </li>

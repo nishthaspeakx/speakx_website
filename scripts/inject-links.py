@@ -59,6 +59,7 @@ for f in sorted((ROOT / "src/data/comparisons").glob("speakx-vs-*.ts")):
                 # keep inside a string literal: must be between quotes on the same line
                 line_start = seg.rfind("\n", 0, m.start()) + 1
                 if seg[line_start:m.start()].count('"') % 2 == 0: continue
+                if re.match(r"^\s*(title|q|label|learner|goal|h1):", seg[line_start:m.start()]): continue  # headings stay plain
                 new_seg = seg[:m.start()] + f"[{m.group(0)}]({url})" + seg[m.end():]
                 src = src[:span[0]] + new_seg + src[span[1]:]
                 applied.append((name, m.group(0), url.replace(B, "blog/")))
