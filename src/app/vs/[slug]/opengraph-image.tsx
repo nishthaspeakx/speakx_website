@@ -2,6 +2,7 @@ import { ImageResponse } from "next/og";
 import { comparisonIndex, getComparison } from "@/data/comparisons";
 import { products } from "@/data/products";
 
+export const dynamic = "force-static";
 export const size = { width: 1200, height: 630 };
 export const contentType = "image/png";
 
