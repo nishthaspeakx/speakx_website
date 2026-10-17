@@ -16,7 +16,8 @@ export const metadata: Metadata = {
   applicationName: SITE.name,
   openGraph: { siteName: SITE.name, type: "website", locale: "en_IN" },
   twitter: { card: "summary_large_image" },
-  robots: { index: true, follow: true, "max-image-preview": "large" },
+  // Preview deployments (GitHub Pages, temporary hosts) are kept out of search indexes.
+  robots: process.env.NEXT_PUBLIC_PREVIEW ? { index: false, follow: false } : { index: true, follow: true, "max-image-preview": "large" },
 };
 
 export default function RootLayout({ children }: LayoutProps<"/">) {

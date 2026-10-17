@@ -1,9 +1,11 @@
 import type { NextConfig } from "next";
 
 const staticExport = process.env.STATIC_EXPORT === "1";
+const basePath = process.env.NEXT_BASE_PATH || "";
 
 const nextConfig: NextConfig = {
   ...(staticExport ? { output: "export" as const } : {}),
+  ...(basePath ? { basePath, assetPrefix: basePath } : {}),
   // Static, server-rendered HTML for every page: all comparison content is
   // visible to crawlers without JavaScript.
   trailingSlash: false,
