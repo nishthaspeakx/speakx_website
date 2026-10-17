@@ -1,0 +1,27 @@
+2:"$Sreact.fragment"
+3:"/speakx_website/_next/static/chunks/0umf92h1sb77c.js"
+4:"/speakx_website/_next/static/chunks/34uyhw7q5wioi.js"
+5:I[39756,["$3","$4"],"default"]
+6:I[37457,["$3","$4"],"default"]
+b:I[22016,["$3","$4"],""]
+c:I[97367,["$3","$4"],"OutletBoundary"]
+d:"$Sreact.suspense"
+10:"ViewportBoundary"
+11:I[97367,["$3","$4"],"$10"]
+12:"MetadataBoundary"
+13:I[97367,["$3","$4"],"$12"]
+14:I[27201,["$3","$4"],"IconMark"]
+8:X
+8:C
+9:X
+a:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$2","c",{"children":[["$","div",null,{"className":"mx-auto w-full max-w-6xl px-4 sm:px-6 lg:px-8 py-24 text-center","children":[["$","h1",null,{"className":"text-3xl font-bold","children":"Page not found"}],["$","p",null,{"className":"mt-3 text-ink-soft","children":"The comparison you are looking for does not exist."}],["$","$Lb",null,{"href":"/vs","className":"mt-6 inline-block font-semibold text-brand-dark underline","children":"See all SpeakX comparisons"}]]}],null,["$","$Lc",null,{"children":["$","$d",null,{"name":"Next.MetadataOutlet","children":"$@e"}]}]]}],"p":"$@f","v":null,"s":"$9"}}]]
+1:[["children",{"s":"/_not-found","h":64,"d":{"r":["$","$2","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}]}]]}],"p":"$@7","v":"$8","s":"$9"},"c":"$Qa"}]]
+0:{"t":{"t":{"s":"","h":16,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L11",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L13",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$d",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"SpeakX vs Other English Speaking Apps"}],["$","meta","1",{"name":"description","content":"SpeakX is an AI English speaking app for Indian learners. Practice spoken English on voice calls with Sia, your AI speaking partner, with explanations in 7 Indian languages."}],["$","meta","2",{"name":"application-name","content":"SpeakX"}],["$","meta","3",{"name":"robots","content":"noindex, nofollow"}],["$","meta","4",{"property":"og:title","content":"SpeakX vs Other English Speaking Apps"}],["$","meta","5",{"property":"og:description","content":"SpeakX is an AI English speaking app for Indian learners. Practice spoken English on voice calls with Sia, your AI speaking partner, with explanations in 7 Indian languages."}],["$","meta","6",{"property":"og:site_name","content":"SpeakX"}],["$","meta","7",{"property":"og:locale","content":"en_IN"}],["$","meta","8",{"property":"og:type","content":"website"}],["$","meta","9",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","10",{"name":"twitter:title","content":"SpeakX vs Other English Speaking Apps"}],["$","meta","11",{"name":"twitter:description","content":"SpeakX is an AI English speaking app for Indian learners. Practice spoken English on voice calls with Sia, your AI speaking partner, with explanations in 7 Indian languages."}],["$","link","12",{"rel":"icon","href":"/speakx_website/favicon.ico?favicon.117ezoe8m31dk.ico","sizes":"48x48","type":"image/x-icon"}],["$","$L14","13",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@15","v":null,"s":"$9"}},"a":"$@16","u":"$@17","b":"xEwq9-OZpZ5pnR2C7P2kQ"}
+e:null
+17:true
+9:300
+9:C
+16:0
+7:"$undefined"
+15:"$undefined"
+f:"$undefined"

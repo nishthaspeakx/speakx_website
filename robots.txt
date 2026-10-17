@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+
+Host: https://speakx.ai
+Sitemap: https://speakx.ai/sitemap.xml
