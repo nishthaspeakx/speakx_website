@@ -1,0 +1,125 @@
+{
+  "meta": {"title": "100 Daily Use English Sentences with Hindi Meaning", "verified": "2026-10-27", "note": "Single source for the article tables and the PDF. Hindi is conversational Devanagari; gendered verb forms are shown as masculine/feminine where they differ."},
+  "sections": [
+    {"id": "greetings", "title": "Greetings and introductions", "question": "What are some simple English sentences for greetings and introductions?", "hindi": "अभिवादन और परिचय", "tip": "Replace “Rahul” with your own name and say sentence 9 aloud several times.", "sentences": [
+      ["Good morning.", "सुप्रभात। / गुड मॉर्निंग।", "Before noon"],
+      ["Good afternoon.", "नमस्कार। / शुभ दोपहर।", "Midday greeting"],
+      ["Good evening.", "शुभ संध्या। / गुड ईवनिंग।", "After sunset"],
+      ["How are you?", "आप कैसे हैं?", "Meeting anyone"],
+      ["I am fine, thank you.", "मैं ठीक हूँ, धन्यवाद।", "Replying to “How are you?”"],
+      ["Long time no see.", "बहुत दिनों बाद मिले।", "Running into someone"],
+      ["Nice to meet you.", "आपसे मिलकर अच्छा लगा।", "First time meeting"],
+      ["What is your name?", "आपका नाम क्या है?", "Asking politely"],
+      ["My name is Rahul.", "मेरा नाम राहुल है।", "Introducing yourself"],
+      ["Where are you from?", "आप कहाँ से हैं?", "Making conversation"]
+    ]},
+    {"id": "home", "title": "English sentences used at home", "question": "What are some simple English sentences used at home?", "hindi": "घर पर", "tip": "Say sentences 17 to 19 in the kitchen tonight. Family is the easiest audience to practise with.", "sentences": [
+      ["I am at home.", "मैं घर पर हूँ।", "Answering the phone"],
+      ["I am getting ready.", "मैं तैयार हो रहा हूँ। / तैयार हो रही हूँ।", "Someone is waiting"],
+      ["Please come inside.", "कृपया अंदर आइए।", "Welcoming a guest"],
+      ["Please sit down.", "कृपया बैठ जाइए।", "Offering a seat"],
+      ["Please switch off the fan.", "कृपया पंखा बंद कर दीजिए।", "Leaving a room"],
+      ["I need some rest.", "मुझे थोड़ा आराम चाहिए।", "End of a long day"],
+      ["Did you eat something?", "क्या तुमने कुछ खाया?", "Checking on someone"],
+      ["I am making breakfast.", "मैं नाश्ता बना रहा हूँ। / बना रही हूँ।", "Morning at home"],
+      ["The food is ready.", "खाना तैयार है।", "Calling everyone to eat"],
+      ["I will be back soon.", "मैं जल्दी वापस आऊँगा। / आऊँगी।", "Leaving the house"]
+    ]},
+    {"id": "office", "title": "Office and workplace conversations", "question": "Which English sentences are useful at the office?", "hindi": "ऑफ़िस और काम", "tip": "The pattern “I am working on…” works with any task: the report, the presentation, the project.", "sentences": [
+      ["I am going to work.", "मैं काम पर जा रहा हूँ। / जा रही हूँ।", "Leaving in the morning"],
+      ["I have a meeting today.", "आज मेरी मीटिंग है।", "Explaining your day"],
+      ["I am working on it.", "मैं इस पर काम कर रहा हूँ। / कर रही हूँ।", "Asked for a status"],
+      ["I will finish it today.", "मैं इसे आज पूरा कर दूँगा। / कर दूँगी।", "Committing to a deadline"],
+      ["I need one more day.", "मुझे एक दिन और चाहिए।", "Asking for more time"],
+      ["Could you explain this?", "क्या आप इसे समझा सकते हैं?", "You did not follow"],
+      ["I have a question.", "मेरा एक सवाल है।", "In a meeting"],
+      ["I understand.", "मैं समझ गया। / समझ गई।", "Confirming"],
+      ["I don’t understand.", "मुझे समझ नहीं आया।", "Ask before it is too late"],
+      ["Let me check and get back to you.", "मैं देखकर आपको बताता हूँ। / बताती हूँ।", "You are not sure yet"]
+    ]},
+    {"id": "help", "title": "Asking questions and requesting help", "question": "Which English sentences can you use when asking for help?", "hindi": "सवाल पूछना और मदद माँगना", "tip": "You do not need big words to be understood. “Can you help me?” works everywhere.", "sentences": [
+      ["Can you help me?", "क्या आप मेरी मदद कर सकते हैं?", "Anywhere, with anyone"],
+      ["Please help me.", "कृपया मेरी मदद कीजिए।", "More urgent"],
+      ["Can you show me?", "क्या आप मुझे दिखा सकते हैं?", "You need a demonstration"],
+      ["Can you repeat that, please?", "क्या आप उसे दोबारा कह सकते हैं?", "You missed it"],
+      ["Please speak slowly.", "कृपया धीरे बोलिए।", "They are speaking too fast"],
+      ["Sorry, I did not catch that.", "माफ़ कीजिए, मैं समझ नहीं पाया। / नहीं पाई।", "On a call or in noise"],
+      ["What does this mean?", "इसका क्या मतलब है?", "A new word or form"],
+      ["How do I do this?", "मैं यह कैसे करूँ?", "Asking for steps"],
+      ["Where can I find it?", "यह मुझे कहाँ मिलेगा?", "Looking for something"],
+      ["Thank you for your help.", "आपकी मदद के लिए धन्यवाद।", "Closing the request"]
+    ]},
+    {"id": "shopping", "title": "Shopping and payments", "question": "What English sentences can you use while shopping?", "hindi": "ख़रीदारी और भुगतान", "tip": "Use sentence 41 at the next shop you visit, even if you already know the price.", "sentences": [
+      ["How much is this?", "यह कितने का है?", "Any shop"],
+      ["Can you reduce the price a little?", "थोड़ा कम कर दीजिए।", "Bargaining"],
+      ["Do you have this in another size?", "क्या यह दूसरे साइज़ में है?", "Clothes or shoes"],
+      ["Do you have another colour?", "क्या इसका कोई दूसरा रंग है?", "Choosing"],
+      ["I like this one.", "मुझे यह पसंद है।", "Narrowing down"],
+      ["I don’t like this one.", "मुझे यह पसंद नहीं है।", "Saying no politely"],
+      ["Can I try this on?", "क्या मैं इसे पहनकर देख सकता हूँ? / सकती हूँ?", "Before buying clothes"],
+      ["Please give me the bill.", "कृपया बिल दे दीजिए।", "After choosing"],
+      ["I will take this.", "मैं यह ले लूँगा। / ले लूँगी।", "Deciding"],
+      ["Do you accept UPI?", "क्या आप UPI लेते हैं?", "Before paying"]
+    ]},
+    {"id": "travel", "title": "Travel, transport and directions", "question": "Which English sentences are useful when travelling?", "hindi": "यात्रा, सफ़र और रास्ता", "tip": "Sentence 57 plus your phone screen solves most auto and cab conversations.", "sentences": [
+      ["Where is the railway station?", "रेलवे स्टेशन कहाँ है?", "Asking a stranger"],
+      ["Where is the bus stop?", "बस स्टॉप कहाँ है?", "In a new area"],
+      ["How can I get there?", "मैं वहाँ कैसे पहुँचूँ?", "Asking for the route"],
+      ["Is it far from here?", "क्या यह यहाँ से दूर है?", "Checking distance"],
+      ["How long will it take?", "इसमें कितना समय लगेगा?", "Planning your time"],
+      ["Please stop here.", "यहीं रोक दीजिए।", "Getting off an auto or cab"],
+      ["Please take me to this address.", "कृपया मुझे इस पते पर ले चलिए।", "Showing a driver your phone"],
+      ["I am looking for this place.", "मैं यह जगह ढूँढ रहा हूँ। / ढूँढ रही हूँ।", "You are lost"],
+      ["Where is the nearest chemist?", "सबसे पास की दवा की दुकान कहाँ है?", "You need medicine"],
+      ["Thank you for the directions.", "रास्ता बताने के लिए धन्यवाद।", "After someone helps"]
+    ]},
+    {"id": "phone", "title": "Phone calls and everyday conversations", "question": "What simple English sentences can you use on phone calls and in everyday conversations?", "hindi": "फ़ोन और रोज़ की बातचीत", "tip": "Sentences 65, 66 and 69 cover most short phone calls. Practise them as one conversation.", "sentences": [
+      ["What are you doing?", "आप क्या कर रहे हैं?", "Starting a chat"],
+      ["Where are you going?", "आप कहाँ जा रहे हैं?", "Meeting someone on the way"],
+      ["What happened?", "क्या हुआ?", "Something seems wrong"],
+      ["Are you okay?", "क्या आप ठीक हैं?", "Checking on someone"],
+      ["I am on my way.", "मैं रास्ते में हूँ।", "Running late"],
+      ["I will call you later.", "मैं आपको बाद में कॉल करूँगा। / करूँगी।", "You cannot talk now"],
+      ["Please wait a moment.", "कृपया एक मिनट रुकिए।", "You need a second"],
+      ["Please share it on WhatsApp.", "कृपया इसे WhatsApp पर भेज दीजिए।", "Asking for a file or photo"],
+      ["I will let you know.", "मैं आपको बता दूँगा। / बता दूँगी।", "You will confirm later"],
+      ["See you tomorrow.", "कल मिलते हैं।", "Leaving for the day"]
+    ]},
+    {"id": "feelings", "title": "Feelings and personal situations", "question": "Which English sentences help you express your feelings?", "hindi": "भावनाएँ और हालात", "tip": "Sentences 79 and 80 are the kindest things you can say in English. Learn them together.", "sentences": [
+      ["I am happy.", "मैं खुश हूँ।", "Good news"],
+      ["I am excited.", "मैं बहुत उत्साहित हूँ।", "Looking forward to something"],
+      ["I am worried.", "मैं चिंतित हूँ।", "Sharing a concern"],
+      ["I am feeling better now.", "अब मैं बेहतर महसूस कर रहा हूँ। / कर रही हूँ।", "After being unwell"],
+      ["I am not feeling well.", "मेरी तबीयत ठीक नहीं है।", "Telling someone you are ill"],
+      ["I am a little nervous.", "मैं थोड़ा घबराया हुआ हूँ। / घबराई हुई हूँ।", "Before an interview or exam"],
+      ["I am tired today.", "मैं आज थका हुआ हूँ। / थकी हुई हूँ।", "Declining politely"],
+      ["I am proud of you.", "मुझे आप पर गर्व है।", "Someone did well"],
+      ["Don’t worry.", "चिंता मत कीजिए।", "Reassuring someone"],
+      ["Everything will be fine.", "सब ठीक हो जाएगा।", "Comforting someone"]
+    ]},
+    {"id": "requests", "title": "Polite requests and common responses", "question": "What English sentences can you use to make polite requests?", "hindi": "विनम्र अनुरोध और जवाब", "tip": "“Please” at the start and “can I / could you” at the front make any request polite.", "sentences": [
+      ["Please give me some water.", "कृपया मुझे थोड़ा पानी दीजिए।", "At home or a restaurant"],
+      ["Please open the door.", "कृपया दरवाज़ा खोलिए।", "Simple request"],
+      ["Please close the window.", "कृपया खिड़की बंद कीजिए।", "In a bus or train"],
+      ["Can I use your phone?", "क्या मैं आपका फ़ोन इस्तेमाल कर सकता हूँ? / सकती हूँ?", "Your battery is dead"],
+      ["Can I ask you something?", "क्या मैं आपसे कुछ पूछ सकता हूँ? / सकती हूँ?", "Before a question"],
+      ["Could you wait for me?", "क्या आप मेरे लिए रुक सकते हैं?", "You need a few minutes"],
+      ["Please send it to me.", "कृपया इसे मुझे भेज दीजिए।", "Asking for a document"],
+      ["Please call me when you arrive.", "पहुँचने पर मुझे कॉल कीजिए।", "Making a plan"],
+      ["Let me know if you need anything.", "अगर आपको कुछ चाहिए तो मुझे बताइए।", "Offering help"],
+      ["May I come in?", "क्या मैं अंदर आ सकता हूँ? / सकती हूँ?", "At a door or cabin"]
+    ]},
+    {"id": "goodbyes", "title": "Ending conversations and goodbyes", "question": "What are some simple English sentences for ending a conversation?", "hindi": "बातचीत ख़त्म करना और विदा लेना", "tip": "End every practice session by saying sentence 91 aloud. It is the easiest one to use today.", "sentences": [
+      ["It was nice talking to you.", "आपसे बात करके अच्छा लगा।", "Wrapping up warmly"],
+      ["I have to go now.", "मुझे अब जाना होगा।", "Leaving politely"],
+      ["Good night.", "शुभ रात्रि। / गुड नाइट।", "End of the day"],
+      ["See you soon.", "जल्द मिलते हैं।", "No fixed date"],
+      ["Let’s meet this weekend.", "इस वीकेंड मिलते हैं।", "Making a plan"],
+      ["Have a nice day.", "आपका दिन शुभ हो।", "Ending any conversation"],
+      ["Take care.", "अपना ख़याल रखना।", "Warm goodbye"],
+      ["Have a safe journey.", "आपकी यात्रा सुरक्षित हो।", "Someone is travelling"],
+      ["Talk to you tomorrow.", "कल बात करते हैं।", "Ending a phone call"],
+      ["Goodbye.", "अलविदा।", "Formal ending"]
+    ]}
+  ]
+}

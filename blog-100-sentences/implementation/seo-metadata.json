@@ -1,0 +1,52 @@
+{
+  "url": "https://speakx.ai/blog/100-simple-english-sentences-for-daily-use-with-hindi-meaning",
+  "url_change": "none (keep slug; the page already ranks and carries links)",
+  "seo_title": "100 Daily Use English Sentences with Hindi Meaning PDF | SpeakX",
+  "seo_title_length": 59,
+  "meta_description": "100 daily use English sentences with Hindi meaning, grouped by situation, with when to say each one. Free printable PDF, no signup, plus a 10-day tracker.",
+  "meta_description_length": 155,
+  "h1": "100 Daily Use English Sentences with Hindi Meaning (Free PDF)",
+  "og_title": "100 Daily Use English Sentences with Hindi Meaning (Free PDF)",
+  "og_description": "Free printable PDF: 100 everyday English sentences with Hindi meanings, grouped by situation, plus a 10-day practice tracker.",
+  "canonical": "https://speakx.ai/blog/100-simple-english-sentences-for-daily-use-with-hindi-meaning",
+  "robots": "index, follow",
+  "pdf": {
+    "intended_url": "https://speakx.ai/downloads/100-daily-use-english-sentences-with-hindi-meaning.pdf",
+    "filename": "100-daily-use-english-sentences-with-hindi-meaning.pdf",
+    "content_type": "application/pdf",
+    "indexing_decision": "Serve with 'X-Robots-Tag: noindex' so the PDF cannot outrank or duplicate the HTML article; the article remains the canonical destination for the query. The PDF's own metadata title still names the article. Do NOT add the PDF to the sitemap.",
+    "cache": "Cache-Control: public, max-age=86400; keep the filename stable and republish in place when sentences change."
+  },
+  "keyword_map": [
+    {"section": "H1 + lead paragraph", "primary": "100 daily use english sentences with hindi meaning pdf", "secondary": ["daily use english sentences pdf", "daily use english sentences with hindi meaning"]},
+    {"section": "Why learn daily use English sentences", "primary": "daily use english sentences for beginners", "secondary": ["simple english sentences for daily use"]},
+    {"section": "What are the 100 most useful English sentences for daily use? (tables)", "primary": "100 daily use english sentences", "secondary": ["100 english sentences for daily use", "daily spoken english sentences", "english speaking sentences with hindi meaning", "daily conversation english sentences"]},
+    {"section": "Home table", "primary": "english sentences for daily use at home"},
+    {"section": "Office table", "primary": "english sentences for office use"},
+    {"section": "Where can I download the PDF?", "primary": "daily use english sentences pdf free download", "secondary": ["100 daily use english sentences with hindi meaning pdf", "daily use english sentences in english and hindi"]},
+    {"section": "Which English sentences are most useful for beginners?", "primary": "common english sentences for beginners"},
+    {"section": "Learning method + practice routine", "primary": "how to practise daily use english sentences", "secondary": ["english speaking practice at home"]},
+    {"section": "FAQ", "primary": "is the 100 daily use english sentences pdf free", "secondary": ["simple english sentences used at home", "how can hindi speakers improve daily english conversations"]}
+  ],
+  "metadata_change_assessment": "Justified. The current title '100 Simple English Sentences for Daily Use (Hindi) | SpeakX' does not contain 'daily use english sentences' as a phrase, 'Hindi meaning', or 'PDF', which are the three elements of the query that already shows at position 1 on a small sample. The new title keeps the same entities and intent (same list, same audience), so the change is a refinement rather than a re-targeting. The URL, canonical, author and publish date stay unchanged; only dateModified updates. Monitor the query set for 28 days after the change.",
+  "internal_links_out": [
+    {"anchor": "English grammar sentence structure", "href": "https://speakx.ai/blog/english-grammar-sentence-structure"},
+    {"anchor": "beginner's guide to daily English practice", "href": "https://speakx.ai/blog/unlock-confident-english-speaking-your-guide-to-daily-practice-and-learning-the-basics"},
+    {"anchor": "English grammar tenses", "href": "https://speakx.ai/blog/english-grammar-tenses"},
+    {"anchor": "English pronunciation difficulty", "href": "https://speakx.ai/blog/english-pronunciation-difficulty"},
+    {"anchor": "practising spoken English alone at home", "href": "https://speakx.ai/blog/practice-spoken-english-alone-at-home"},
+    {"anchor": "English speaking fluency", "href": "https://speakx.ai/blog/english-speaking-fluency"},
+    {"anchor": "how to speak English fluently", "href": "https://speakx.ai/blog/how-to-speak-english-fluently"},
+    {"anchor": "English speaking fluency for job interviews", "href": "https://speakx.ai/blog/how-to-improve-english-speaking-fluency-for-job-interviews-a-guide-for-indian-professionals"},
+    {"anchor": "SpeakX", "href": "https://speakx.ai/"},
+    {"anchor": "Practise these sentences with Sia on SpeakX", "href": "https://speakx.sng.link/Ed28z/npfq/4alj?utm_source=blog&utm_medium=article&utm_campaign=100-daily-use-sentences"}
+  ],
+  "internal_links_in": [
+    {"from": "https://speakx.ai/blog/practice-spoken-english-alone-at-home", "anchor": "100 daily use English sentences with Hindi meaning (free PDF)"},
+    {"from": "https://speakx.ai/blog/how-to-speak-english-fluently", "anchor": "start with 100 daily use sentences"},
+    {"from": "https://speakx.ai/blog/unlock-confident-english-speaking-your-guide-to-daily-practice-and-learning-the-basics", "anchor": "printable list of daily use English sentences with Hindi meaning"},
+    {"from": "https://speakx.ai/blog/english-grammar-sentence-structure", "anchor": "100 ready-made daily use sentences"},
+    {"from": "https://speakx.ai/blog/how-to-speak-english-fluently-for-village-people-in-bihar-a-7-day-confidence-framework", "anchor": "daily use English sentences with Hindi meaning"},
+    {"from": "https://speakx.ai/blog (index) and /vs hub goal cards", "anchor": "100 daily use English sentences (Hindi)"}
+  ]
+}
