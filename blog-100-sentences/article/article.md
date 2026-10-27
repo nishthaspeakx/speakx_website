@@ -4,7 +4,7 @@
 **SEO title:** 100 Daily Use English Sentences with Hindi Meaning PDF | SpeakX
 **Meta description:** 100 daily use English sentences with Hindi meaning, grouped by situation, with when to say each one. Free printable PDF, no signup, plus a 10-day tracker.
 
-This article gives you 100 daily use English sentences with Hindi meaning, grouped by situation: greetings, home, office, asking for help, shopping, travel, phone calls, feelings, polite requests and goodbyes. Each sentence shows the Hindi meaning in Devanagari and the moment you would actually say it. You can also download the whole list as a free printable PDF, with a 10-day practice tracker, and keep it on your phone.
+This article gives you 100 daily use English sentences with Hindi meaning, grouped by situation: greetings, home, office, asking for help, shopping, travel, phone calls, feelings, polite requests and goodbyes. Each sentence shows the Hindi meaning in Devanagari and the moment you would actually say it. It is exactly 100 sentences, with no padding, checked against the PDF. You can also download the whole list as a free printable PDF, with a 10-day practice tracker, and keep it on your phone.
 Learn five sentences a day, say them aloud, and use one in a real conversation the same day. That is the whole method, and it works for complete beginners (Pre-A1 to A2) who understand some English but hesitate to speak it.
 > **Download Free PDF: 100 Daily Use English Sentences with Hindi Meaning** — Free printable PDF in English and Hindi. Save it on your phone or print it for daily practice. No signup required. [Download](https://speakx.ai/downloads/100-daily-use-english-sentences-with-hindi-meaning.pdf)
 
@@ -199,7 +199,7 @@ If you are a complete beginner, start with these ten daily use English sentences
 
 - How are you? — आप कैसे हैं?- I am fine, thank you. — मैं ठीक हूँ, धन्यवाद।- What are you doing? — आप क्या कर रहे हैं?- Where are you going? — आप कहाँ जा रहे हैं?- Can you help me? — क्या आप मेरी मदद कर सकते हैं?- I don’t understand. — मुझे समझ नहीं आया।- Please speak slowly. — कृपया धीरे बोलिए।- Can you repeat that, please? — क्या आप उसे दोबारा कह सकते हैं?- I will call you later. — मैं आपको बाद में कॉल करूँगा। / करूँगी।- Thank you for your help. — आपकी मदद के लिए धन्यवाद।
 
-Once these feel natural, move to the next ten. Our [beginner’s guide to daily English practice](https://speakx.ai/blog/unlock-confident-english-speaking-your-guide-to-daily-practice-and-learning-the-basics) shows how to build from here.
+Once these feel natural, move to the next ten. Our [beginner’s guide to daily English practice](https://speakx.ai/blog/unlock-confident-english-speaking-your-guide-to-daily-practice-and-learning-the-basics) shows how to build from here, and parents will find the home sentences again in our guide to [speaking confidently in parent-teacher meetings](https://speakx.ai/blog/how-to-speak-english-fluently-in-parent-teacher-meetings-a-teachers-5-minute-daily-method).
 
 ## What mistakes do Hindi speakers make with daily English sentences?
 
@@ -250,7 +250,7 @@ The aim is simple: understand, speak, repeat, use. For the longer arc beyond the
 ## How can you practise these sentences out loud with SpeakX?
 
 Reading English sentences helps you learn. Speaking them aloud helps you practise using them in real conversations. [SpeakX](https://speakx.ai/) is an AI English speaking app for Indian learners: you talk to Sia, an AI speaking partner, on voice calls, and rehearse real-life roleplays such as job interviews, office conversations, parent-teacher meetings and phone calls. Explanations are available in Hindi and six other Indian languages, lessons take about 15 minutes a day, and a progress report tracks your fluency, vocabulary, grammar and pronunciation.
-A good way to use it with this list: pick the section you practised today, then say those sentences to Sia in a roleplay. SpeakX is free to download and start; Premium has a 3-day trial for ₹2 and then costs ₹299 a month on the SpeakX website. Preparing for an interview? Our guide to [English speaking fluency for job interviews](https://speakx.ai/blog/how-to-improve-english-speaking-fluency-for-job-interviews-a-guide-for-indian-professionals) takes these sentences further.
+A good way to use it with this list: pick the section you practised today, then say those sentences to Sia in a roleplay. SpeakX is free to download and start; Premium has a 3-day trial for ₹2 and then costs ₹299 a month on the SpeakX website. Not sure which app to use? Our [comparison of English speaking apps in India](https://speakx.ai/blog/best-english-speaking-apps-india-speakx-vs-competitors) is honest about where each one fits. Preparing for an interview? Our guide to [English speaking fluency for job interviews](https://speakx.ai/blog/how-to-improve-english-speaking-fluency-for-job-interviews-a-guide-for-indian-professionals) takes these sentences further.
 [Practise these sentences with Sia on SpeakX](https://speakx.sng.link/Ed28z/npfq/4alj?utm_source=blog&utm_medium=article&utm_campaign=100-daily-use-sentences)
 
 ## Frequently asked questions
@@ -275,6 +275,12 @@ Start with “I am working on it”, “I will finish it today”, “I have a q
 
 ### How can Hindi speakers improve their daily English conversations?
 Learn complete sentences instead of single words, say them aloud every day, make your own variations, and get feedback on how you sound from a partner, a teacher or a speaking-practice app. Avoid the seven direct-translation mistakes listed above.
+
+### How can I practise these sentences if no one around me speaks English?
+Practise alone first: say each sentence aloud, record it on your phone and play it back, and run imaginary conversations with a shopkeeper or an auto driver. Then find one partner, a friend, a family member or a speaking app, for five minutes a day. Feedback on how you sound is the one thing solo practice cannot give you, which is why our [7-day confidence framework for Hindi-medium learners](https://speakx.ai/blog/how-to-speak-english-fluently-for-village-people-in-bihar-a-7-day-confidence-framework) pairs solo practice with one daily conversation.
+
+### Should I use the formal or the casual form?
+The English sentences work in both formal and casual situations; English does not change “you” the way Hindi changes between आप and तुम. In the Hindi column we use the polite आप form, which is safe with anyone. With close friends or younger family you can switch the Hindi to तुम, but keep the same English sentence.
 
 ### Can I share or print the PDF?
 Yes. You can print it for yourself, your family or your class, and share the link to this page. Please link to this article rather than re-uploading the file so learners always get the latest version.

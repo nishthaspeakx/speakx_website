@@ -7,14 +7,33 @@
       "mainEntityOfPage": "https://speakx.ai/blog/100-simple-english-sentences-for-daily-use-with-hindi-meaning",
       "headline": "100 Daily Use English Sentences with Hindi Meaning (Free PDF)",
       "description": "100 daily use English sentences with Hindi meaning, grouped by situation, with when to say each one. Free printable PDF, no signup, plus a 10-day tracker.",
-      "inLanguage": ["en-IN", "hi-IN"],
+      "inLanguage": [
+        "en-IN",
+        "hi-IN"
+      ],
       "datePublished": "2026-09-07T21:30:00.000Z",
       "dateModified": "SET-ON-PUBLISH (ISO 8601)",
-      "author": { "@type": "Person", "name": "Deepank Agarwal", "affiliation": { "@id": "https://speakx.ai/#organization" } },
-      "publisher": { "@id": "https://speakx.ai/#organization" },
+      "author": {
+        "@type": "Person",
+        "name": "Deepank Agarwal",
+        "affiliation": {
+          "@id": "https://speakx.ai/#organization"
+        }
+      },
+      "publisher": {
+        "@id": "https://speakx.ai/#organization"
+      },
       "image": "https://image.speakx.ai/assets/blogs/Colleagues-1788601453881-1788609428225.png?w=1200&h=630&fit=cover&auto=compress&q=100",
-      "about": ["Daily use English sentences", "Hindi meaning", "Spoken English for beginners"],
-      "audience": { "@type": "EducationalAudience", "educationalRole": "student", "audienceType": "Hindi-speaking English learners in India" },
+      "about": [
+        "Daily use English sentences",
+        "Hindi meaning",
+        "Spoken English for beginners"
+      ],
+      "audience": {
+        "@type": "EducationalAudience",
+        "educationalRole": "student",
+        "audienceType": "Hindi-speaking English learners in India"
+      },
       "isAccessibleForFree": true,
       "hasPart": {
         "@type": "DigitalDocument",
@@ -22,15 +41,79 @@
         "url": "https://speakx.ai/downloads/100-daily-use-english-sentences-with-hindi-meaning.pdf",
         "encodingFormat": "application/pdf",
         "isAccessibleForFree": true,
-        "inLanguage": ["en-IN", "hi-IN"]
+        "inLanguage": [
+          "en-IN",
+          "hi-IN"
+        ]
       }
     },
     {
       "@type": "BreadcrumbList",
       "itemListElement": [
-        { "@type": "ListItem", "position": 1, "name": "SpeakX", "item": "https://speakx.ai/" },
-        { "@type": "ListItem", "position": 2, "name": "Blog", "item": "https://speakx.ai/blog" },
-        { "@type": "ListItem", "position": 3, "name": "100 Daily Use English Sentences with Hindi Meaning", "item": "https://speakx.ai/blog/100-simple-english-sentences-for-daily-use-with-hindi-meaning" }
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "SpeakX",
+          "item": "https://speakx.ai/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Blog",
+          "item": "https://speakx.ai/blog"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "100 Daily Use English Sentences with Hindi Meaning",
+          "item": "https://speakx.ai/blog/100-simple-english-sentences-for-daily-use-with-hindi-meaning"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "_note": "Optional. Google shows FAQ rich results only for government and health sites since Aug 2023; included because it is valid and helps answer engines parse the Q&A. Keep in sync with the visible FAQ.",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Is the 100 daily use English sentences PDF free?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. The PDF is free, there is no signup or email required, and you can print it or save it on your phone. It has the same 100 sentences and Hindi meanings as the article, plus a 10-day practice tracker."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What are some simple English sentences used at home?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Simple English sentences used at home include “I am at home”, “Please come inside”, “The food is ready”, “Did you eat something?” and “I will be back soon”."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How many daily use English sentences should I learn in a day?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Five to ten a day is enough if you say them aloud and use one or two in real conversations. Using a sentence matters more than memorising a long list."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Are the Hindi meanings literal translations?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. Each Hindi meaning is the natural way a Hindi speaker would say the same thing. Where the Hindi verb changes with the speaker, both forms are given."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How can I practise these sentences if no one around me speaks English?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Say each sentence aloud, record and play it back, run imaginary conversations, then find one partner or a speaking app for five minutes a day so you get feedback on how you sound."
+          }
+        }
       ]
     }
   ]

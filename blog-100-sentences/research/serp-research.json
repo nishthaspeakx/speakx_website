@@ -1,0 +1,2292 @@
+{
+  "meta": {
+    "date": "2026-10-27",
+    "target_url": "https://speakx.ai/blog/100-simple-english-sentences-for-daily-use-with-hindi-meaning",
+    "market": "India (Hindi-speaking English learners)",
+    "method": "WebSearch (US-based index; India intent inferred from Hindi/Indian-domain results) + WebFetch of competitor pages + curl of speakx.ai URLs. SpeakX page itself did not surface in observed results, consistent with SERP localisation; GSC is the only authority for SpeakX rankings.",
+    "verified_metrics": {
+      "daily use english sentences pdf": {
+        "volume_in": 590,
+        "kd": 31,
+        "source": "Semrush India"
+      },
+      "100 daily use english sentences with hindi meaning pdf": {
+        "gsc_avg_position": 1,
+        "gsc_clicks": 2,
+        "gsc_impressions": 16,
+        "note": "tiny sample"
+      }
+    },
+    "all_other_volumes": "unverified"
+  },
+  "current_page_audit": {
+    "title_tag": "100 Simple English Sentences for Daily Use (Hindi) | SpeakX",
+    "title_length": 59,
+    "meta_description": "100 simple English sentences for daily use with Hindi meaning, grouped by situation - greetings, home, work, shopping, travel - plus when to say each one.",
+    "meta_length": 154,
+    "h1": "100 simple English sentences for daily use, with Hindi meaning",
+    "h2s": [
+      "Why should you learn simple English sentences for daily use?",
+      "What are 100 simple English sentences for daily use?",
+      "Seven mistakes Indian speakers make with these sentences",
+      "How can you learn these simple English sentences faster?",
+      "Should you translate Hindi into English while speaking?",
+      "How can you practise simple English sentences every day?",
+      "What are the most important simple English sentences to learn first?",
+      "How can SpeakX help with English speaking practice?",
+      "Frequently asked questions",
+      "Ready to speak English with confidence?"
+    ],
+    "sentence_groups_h3": [
+      "Greetings (1-10)",
+      "Home (11-20)",
+      "Work (21-30)",
+      "Asking for help (31-40)",
+      "Shopping (41-50)",
+      "Travelling (51-60)",
+      "Everyday conversations (61-70)",
+      "Feelings (71-80)",
+      "Polite requests (81-90)",
+      "Ending a conversation (91-100)"
+    ],
+    "has_pdf": false,
+    "pdf_mentions_in_html": 0,
+    "has_faq": true,
+    "faq_questions": [
+      "What are simple English sentences?",
+      "How can I learn English sentences with Hindi meaning?",
+      "How many English sentences should I learn in a day?",
+      "Can these sentences help me speak English fluently?",
+      "How can I practise these English sentences at home?"
+    ],
+    "faq_schema_present": false,
+    "schema_types_present": [
+      "Article",
+      "BreadcrumbList",
+      "WebPage",
+      "WebSite",
+      "Organization",
+      "Person",
+      "ImageObject"
+    ],
+    "format": "11 HTML tables, 118 rows; sentence tables have 3 columns: English | Hindi meaning | Say it when",
+    "word_count": 2972,
+    "published": "2026-09-08",
+    "updated": null,
+    "author": "Deepank Agarwal",
+    "existing_internal_links": [
+      "/blog/english-grammar-sentence-structure",
+      "/blog/how-to-improve-english-speaking-fluency-for-job-interviews-a-guide-for-indian-professionals",
+      "/blog/english-grammar-tenses",
+      "/blog/english-pronunciation-difficulty",
+      "/blog/english-speaking-fluency",
+      "/blog/how-to-speak-english-fluently"
+    ]
+  },
+  "task_a_serp": {
+    "keywords": [
+      {
+        "keyword": "daily use english sentences pdf",
+        "volume": "590/month (Semrush India), KD 31",
+        "dominant_intent": "download a PDF list; mix of Hindi-medium and English-only",
+        "results": [
+          {
+            "title": "Daily Use English Sentences (English)",
+            "url": "https://www.scribd.com/document/649027094/Daily-Use-English-Sentences-English",
+            "domain": "scribd.com",
+            "page_type": "PDF host (user upload)",
+            "pdf": "yes, Scribd login/subscription gate",
+            "hindi": "no",
+            "sentences_claimed": "unspecified (72 pages)"
+          },
+          {
+            "title": "1000 Daily Use English Sentences",
+            "url": "https://www.scribd.com/document/734627782/1000-English-Sentences-Used-in-Daily-Life-Sheet1",
+            "domain": "scribd.com",
+            "page_type": "PDF host",
+            "pdf": "yes, gated",
+            "hindi": "no",
+            "sentences_claimed": "1000"
+          },
+          {
+            "title": "1000 Essential Daily English Sentences",
+            "url": "https://www.scribd.com/document/944034028/1000-Daily-Use-English-Sentences-FULL",
+            "domain": "scribd.com",
+            "page_type": "PDF host",
+            "pdf": "yes, gated",
+            "hindi": "no",
+            "sentences_claimed": "1000"
+          },
+          {
+            "title": "Daily Use Sentences for Class 1",
+            "url": "https://www.scribd.com/document/564292638/Daily-use-sentences",
+            "domain": "scribd.com",
+            "page_type": "PDF host",
+            "pdf": "yes, gated",
+            "hindi": "no",
+            "sentences_claimed": "unspecified (kids)"
+          },
+          {
+            "title": "Daily Use English Sentences Conversations PDF - SSC STUDY",
+            "url": "https://sscstudy.com/english-conversation-sentences-pdf-download/",
+            "domain": "sscstudy.com",
+            "page_type": "blog (exam-prep site)",
+            "pdf": "yes (dialogue PDF)",
+            "hindi": "unclear",
+            "sentences_claimed": "dialogues by topic"
+          },
+          {
+            "title": "500+ Simple Spoken English Sentences for Daily Use with PDF",
+            "url": "https://grammareco.com/500-simple-spoken-english-sentences/",
+            "domain": "grammareco.com",
+            "page_type": "blog",
+            "pdf": "yes, free",
+            "hindi": "no",
+            "sentences_claimed": "500+"
+          },
+          {
+            "title": "1000+ Daily Use English Sentences with Hindi Meaning - PDF Free Download (2026)",
+            "url": "https://engfusionbharat.com/most-common-daily-use-english-sentences-hindi-meaning/",
+            "domain": "engfusionbharat.com",
+            "page_type": "blog",
+            "pdf": "yes, free direct (self-hosted)",
+            "hindi": "yes (Devanagari + Roman)",
+            "sentences_claimed": "1000+ (title) / 500+ (body) / 5000+ (PDF)"
+          },
+          {
+            "title": "100+ Simple English Sentences Used Daily with free PDF - Engrdu",
+            "url": "https://engrdu.com/simple-english-sentences-used-daily/",
+            "domain": "engrdu.com",
+            "page_type": "blog (Urdu-oriented)",
+            "pdf": "yes, free",
+            "hindi": "no (Urdu)",
+            "sentences_claimed": "100+"
+          },
+          {
+            "title": "Daily Use English Sentences with Hindi",
+            "url": "https://deepakcreatives.gumroad.com/l/Daily-Use-English-Sentences-with-Hindi",
+            "domain": "gumroad.com",
+            "page_type": "paid PDF product",
+            "pdf": "paid, Rs 73, 12 pages",
+            "hindi": "yes",
+            "sentences_claimed": "350+"
+          }
+        ]
+      },
+      {
+        "keyword": "100 daily use english sentences with hindi meaning pdf",
+        "volume": "unverified (GSC: SpeakX avg pos 1, 2 clicks, 16 impressions)",
+        "results": [
+          {
+            "title": "Hindi to English Daily Sentences",
+            "url": "https://www.scribd.com/document/889975874/100-English-Sentences-With-Hindi",
+            "domain": "scribd.com",
+            "page_type": "PDF host",
+            "pdf": "yes, gated; 4 pages, low quality (repeats one sentence)",
+            "hindi": "yes",
+            "sentences_claimed": "100"
+          },
+          {
+            "title": "100 Daily Use English Sentences with Hindi Meaning (2026)",
+            "url": "https://www.talkdrill.com/blog/spoken-english/sentence-starters/100-daily-use-english-sentences/",
+            "domain": "talkdrill.com",
+            "page_type": "blog (app company)",
+            "pdf": "no PDF of this list; links to '300 sentences' free e-book (lead magnet)",
+            "hindi": "yes (Devanagari)",
+            "sentences_claimed": "100"
+          },
+          {
+            "title": "1000+ Daily Use English Sentences with Hindi Meaning - PDF Free Download",
+            "url": "https://engfusionbharat.com/most-common-daily-use-english-sentences-hindi-meaning/",
+            "domain": "engfusionbharat.com",
+            "page_type": "blog",
+            "pdf": "yes, free direct",
+            "hindi": "yes",
+            "sentences_claimed": "1000+"
+          },
+          {
+            "title": "100 Daily Use English Sentence With Hindi Meaning",
+            "url": "https://speaknowenglish.com/english-speaking-course/daily-use-english-sentence-with-hindi-meaning/",
+            "domain": "speaknowenglish.com",
+            "page_type": "blog",
+            "pdf": "paid e-books only (Rs 99), WhatsApp 'PDF notes'",
+            "hindi": "yes (Devanagari + Roman)",
+            "sentences_claimed": "100 (about 90-95 unique)"
+          },
+          {
+            "title": "100 Daily Use English Sentences with Hindi",
+            "url": "https://englishtak.com/100-daily-use-english-sentences/",
+            "domain": "englishtak.com",
+            "page_type": "blog",
+            "pdf": "no",
+            "hindi": "yes (Devanagari)",
+            "sentences_claimed": "100"
+          },
+          {
+            "title": "100 Daily Use English Sentences with Hindi Meanings: Greetings & More",
+            "url": "https://www.studocu.com/in/document/buxi-jagabandhu-english-medium-school-ii-bhubaneswar/english-a-language-and-literature-sl/100-daily-use-english-sentences-with-hindi-meanings-greetings-more/133952891",
+            "domain": "studocu.com",
+            "page_type": "document host",
+            "pdf": "yes, account gate; garbled Devanagari",
+            "hindi": "yes",
+            "sentences_claimed": "100"
+          },
+          {
+            "title": "100 Daily Use English Sentences with Hindi Meaning for Everyday Conversation",
+            "url": "https://www.eliveclass.com/100-daily-use-english-sentences-with-hindi-meaning-for-everyday-conversation/",
+            "domain": "eliveclass.com",
+            "page_type": "blog",
+            "pdf": "unknown",
+            "hindi": "yes",
+            "sentences_claimed": "100"
+          },
+          {
+            "title": "100 Daily used English sentences in Hindi",
+            "url": "https://turnupindia.com/100-daily-used-english-sentence-in-hindi/",
+            "domain": "turnupindia.com",
+            "page_type": "blog (Hindi)",
+            "pdf": "unknown",
+            "hindi": "yes",
+            "sentences_claimed": "100"
+          },
+          {
+            "title": "Daily Use English Sentences with Hindi",
+            "url": "https://deepakcreatives.gumroad.com/l/Daily-Use-English-Sentences-with-Hindi",
+            "domain": "gumroad.com",
+            "page_type": "paid PDF",
+            "pdf": "paid Rs 73",
+            "hindi": "yes",
+            "sentences_claimed": "350+"
+          }
+        ]
+      },
+      {
+        "keyword": "100 daily use english sentences",
+        "volume": "unverified",
+        "dominant_intent": "English-only lists; global + Indian blogs",
+        "results": [
+          {
+            "title": "Easy 100 Sentences Used in Daily Life",
+            "url": "https://www.burlingtonenglish.in/english-sentences-used-in-daily-life/",
+            "domain": "burlingtonenglish.in",
+            "page_type": "blog (institute)",
+            "pdf": "no",
+            "hindi": "no",
+            "sentences_claimed": "100 (numbering gaps)"
+          },
+          {
+            "title": "100+ Daily use English Sentences Conversations",
+            "url": "https://onlymyenglish.com/daily-use-english-sentences/",
+            "domain": "onlymyenglish.com",
+            "page_type": "blog",
+            "pdf": "no",
+            "hindi": "no",
+            "sentences_claimed": "100+"
+          },
+          {
+            "title": "100 English Sentences for daily use",
+            "url": "https://mrmrsenglish.com/100-english-sentences/",
+            "domain": "mrmrsenglish.com",
+            "page_type": "blog",
+            "pdf": "no (images)",
+            "hindi": "no",
+            "sentences_claimed": "100"
+          },
+          {
+            "title": "100 Daily Use English Sentences for Speaking Practice",
+            "url": "https://speakshark.com/blog/daily-use-english-sentences-speaking-practice",
+            "domain": "speakshark.com",
+            "page_type": "blog (app company)",
+            "pdf": "no",
+            "hindi": "no (Hindi/Urdu pronunciation notes only)",
+            "sentences_claimed": "100"
+          },
+          {
+            "title": "1000 Daily Use English Sentences with PDF",
+            "url": "https://grammareco.com/daily-use-english-sentences/",
+            "domain": "grammareco.com",
+            "page_type": "blog",
+            "pdf": "'PDF' is actually a .docx, free direct",
+            "hindi": "no",
+            "sentences_claimed": "1000 (about 550 present)"
+          },
+          {
+            "title": "100 Daily Use English Sentences for Everyday Life",
+            "url": "https://fluentra.pro/blog/daily-english-sentences",
+            "domain": "fluentra.pro",
+            "page_type": "blog (app)",
+            "pdf": "no",
+            "hindi": "no",
+            "sentences_claimed": "100"
+          },
+          {
+            "title": "100+ Daily Use English Sentences for Spoken English",
+            "url": "https://englishpartner.com/blog/english/100-daily-use-english-sentences/",
+            "domain": "englishpartner.com",
+            "page_type": "blog (Indian tutoring co.)",
+            "pdf": "no",
+            "hindi": "no",
+            "sentences_claimed": "100+"
+          },
+          {
+            "title": "100 English Sentences Used In Daily Life",
+            "url": "https://naturalenglishcentral.com/100-english-sentences-used-in-daily-life/",
+            "domain": "naturalenglishcentral.com",
+            "page_type": "blog",
+            "pdf": "no",
+            "hindi": "no",
+            "sentences_claimed": "100"
+          },
+          {
+            "title": "50+ English Sentences Used in Daily Life",
+            "url": "https://www.krisamerikos.com/blog/english-sentences-used-in-daily-life",
+            "domain": "krisamerikos.com",
+            "page_type": "blog (YouTuber)",
+            "pdf": "no",
+            "hindi": "no",
+            "sentences_claimed": "50+"
+          },
+          {
+            "title": "Daily Use English Sentences (Scribd, 97% useful, 35 votes)",
+            "url": "https://www.scribd.com/document/712633629/Daily-Use-English-Sentences",
+            "domain": "scribd.com",
+            "page_type": "PDF host",
+            "pdf": "yes, gated",
+            "hindi": "unknown",
+            "sentences_claimed": "100"
+          }
+        ]
+      },
+      {
+        "keyword": "daily use english sentences with hindi meaning",
+        "volume": "unverified",
+        "results": [
+          {
+            "title": "Studocu 100 sentences (via Google Translate proxy)",
+            "url": "https://www.studocu.com/in/document/.../133952891",
+            "domain": "studocu.com",
+            "page_type": "document host",
+            "pdf": "gated",
+            "hindi": "yes (garbled)",
+            "sentences_claimed": "100"
+          },
+          {
+            "title": "Common Daily Use English Sentences with Hindi Meaning",
+            "url": "https://hindimediumhelp.blogspot.com/2020/01/Daily-use-sentences.html",
+            "domain": "hindimediumhelp.blogspot.com",
+            "page_type": "blog (Blogspot, 2020)",
+            "pdf": "no",
+            "hindi": "yes",
+            "sentences_claimed": "unspecified"
+          },
+          {
+            "title": "73 Daily English Sentences with Examples & Hindi Meaning",
+            "url": "https://aforabhishek.com/daily-use-english-sentences-with-hindi-meaning/",
+            "domain": "aforabhishek.com",
+            "page_type": "blog",
+            "pdf": "no",
+            "hindi": "yes (author disclaims accuracy)",
+            "sentences_claimed": "73"
+          },
+          {
+            "title": "70 Daily Use Sentences with Hindi Meaning (Hindi to English)",
+            "url": "https://www.talkdrill.com/blog/spoken-english/sentence-starters/daily-use-english-sentences-hindi-meaning/",
+            "domain": "talkdrill.com",
+            "page_type": "blog",
+            "pdf": "no",
+            "hindi": "yes (Devanagari + Roman)",
+            "sentences_claimed": "70 (title also appears as 50)"
+          },
+          {
+            "title": "200+ Daily Use English Sentences With Hindi Meaning (Roman Script)",
+            "url": "https://www.talkdrill.com/blog/basic-english-sentences-hindi-meaning/",
+            "domain": "talkdrill.com",
+            "page_type": "blog",
+            "pdf": "no",
+            "hindi": "yes (Roman only)",
+            "sentences_claimed": "200+"
+          },
+          {
+            "title": "1000+ Daily Use English Sentences with Hindi Meaning - PDF",
+            "url": "https://engfusionbharat.com/most-common-daily-use-english-sentences-hindi-meaning/",
+            "domain": "engfusionbharat.com",
+            "page_type": "blog",
+            "pdf": "free direct",
+            "hindi": "yes",
+            "sentences_claimed": "1000+"
+          },
+          {
+            "title": "100 Daily Use English Sentence With Hindi Meaning",
+            "url": "https://speaknowenglish.com/english-speaking-course/daily-use-english-sentence-with-hindi-meaning/",
+            "domain": "speaknowenglish.com",
+            "page_type": "blog",
+            "pdf": "paid",
+            "hindi": "yes",
+            "sentences_claimed": "100"
+          },
+          {
+            "title": "100+ Daily Used English Sentences with Hindi Meanings",
+            "url": "https://kamalshukla.com/daily-used-english-sentences/",
+            "domain": "kamalshukla.com",
+            "page_type": "blog",
+            "pdf": "no",
+            "hindi": "yes",
+            "sentences_claimed": "100+"
+          },
+          {
+            "title": "Daily Use English Sentences with Hindi (Gumroad)",
+            "url": "https://deepakcreatives.gumroad.com/l/Daily-Use-English-Sentences-with-Hindi",
+            "domain": "gumroad.com",
+            "page_type": "paid PDF",
+            "pdf": "paid",
+            "hindi": "yes",
+            "sentences_claimed": "350+"
+          }
+        ]
+      },
+      {
+        "keyword": "daily use english sentences pdf free download",
+        "volume": "unverified",
+        "dominant_intent": "Scribd-dominated; mostly English-only",
+        "results": [
+          {
+            "title": "Daily Use English Sentences (English) - 72 pages",
+            "url": "https://www.scribd.com/document/649027094/Daily-Use-English-Sentences-English",
+            "domain": "scribd.com",
+            "page_type": "PDF host",
+            "pdf": "gated",
+            "hindi": "no",
+            "sentences_claimed": "modules"
+          },
+          {
+            "title": "500 Daily Used English Sentences PDF",
+            "url": "https://www.scribd.com/document/644052521/500-Daily-Used-English-Sentences-pdf",
+            "domain": "scribd.com",
+            "page_type": "PDF host",
+            "pdf": "gated",
+            "hindi": "no",
+            "sentences_claimed": "500"
+          },
+          {
+            "title": "5000 Daily Use English Sentences PDF (213 pages)",
+            "url": "https://www.scribd.com/document/816865078/5000-Daily-Use-English-Sentences-8287359-2023-08-03-11-51",
+            "domain": "scribd.com",
+            "page_type": "PDF host",
+            "pdf": "gated",
+            "hindi": "unknown",
+            "sentences_claimed": "5000"
+          },
+          {
+            "title": "Spoken English Guru Daily Use English Sentences Ebook PDF (200 pages)",
+            "url": "https://www.scribd.com/document/436391363/Spoken-English-Guru-Daily-Use-English-Sentences-eBook-pdf",
+            "domain": "scribd.com",
+            "page_type": "PDF host (pirated EnglishWale/Spoken English Guru ebook)",
+            "pdf": "gated",
+            "hindi": "yes (likely)",
+            "sentences_claimed": "ebook"
+          },
+          {
+            "title": "1000 Daily Use English Sentences (28 pages)",
+            "url": "https://www.scribd.com/document/734627782/1000-English-Sentences-Used-in-Daily-Life-Sheet1",
+            "domain": "scribd.com",
+            "page_type": "PDF host",
+            "pdf": "gated",
+            "hindi": "no",
+            "sentences_claimed": "1000"
+          },
+          {
+            "title": "500 Basic Daily English Sentences (38 pages, MP3)",
+            "url": "https://www.scribd.com/document/508340212/500-Basic-Daily-English-Sentences",
+            "domain": "scribd.com",
+            "page_type": "PDF host",
+            "pdf": "gated",
+            "hindi": "no",
+            "sentences_claimed": "500"
+          },
+          {
+            "title": "engfusionbharat 1000+ with Hindi",
+            "url": "https://engfusionbharat.com/most-common-daily-use-english-sentences-hindi-meaning/",
+            "domain": "engfusionbharat.com",
+            "page_type": "blog",
+            "pdf": "free direct",
+            "hindi": "yes",
+            "sentences_claimed": "1000+"
+          },
+          {
+            "title": "grammareco 500+ Simple Spoken English Sentences with PDF",
+            "url": "https://grammareco.com/500-simple-spoken-english-sentences/",
+            "domain": "grammareco.com",
+            "page_type": "blog",
+            "pdf": "free",
+            "hindi": "no",
+            "sentences_claimed": "500+"
+          },
+          {
+            "title": "700+ Daily Used Sentences In English",
+            "url": "https://englishilm.com/700-daily-used-sentences/",
+            "domain": "englishilm.com",
+            "page_type": "blog",
+            "pdf": "free",
+            "hindi": "no",
+            "sentences_claimed": "700+"
+          }
+        ]
+      },
+      {
+        "keyword": "daily use english sentences in english and hindi",
+        "volume": "unverified",
+        "results": [
+          {
+            "title": "Studocu 100 sentences (translate proxy)",
+            "url": "https://www.studocu.com/in/document/.../133952891",
+            "domain": "studocu.com",
+            "page_type": "document host",
+            "pdf": "gated",
+            "hindi": "yes",
+            "sentences_claimed": "100"
+          },
+          {
+            "title": "500 Simple English to Hindi Sentences for daily use",
+            "url": "https://mrmrsenglish.com/500-simple-english-to-hindi-sentences/",
+            "domain": "mrmrsenglish.com",
+            "page_type": "blog",
+            "pdf": "no (PNG tables)",
+            "hindi": "yes (Devanagari)",
+            "sentences_claimed": "500 (about 400 rows, many repeats)"
+          },
+          {
+            "title": "talkdrill 70 Daily Use Sentences",
+            "url": "https://www.talkdrill.com/blog/spoken-english/sentence-starters/daily-use-english-sentences-hindi-meaning/",
+            "domain": "talkdrill.com",
+            "page_type": "blog",
+            "pdf": "no",
+            "hindi": "yes",
+            "sentences_claimed": "70"
+          },
+          {
+            "title": "engfusionbharat 1000+",
+            "url": "https://engfusionbharat.com/most-common-daily-use-english-sentences-hindi-meaning/",
+            "domain": "engfusionbharat.com",
+            "page_type": "blog",
+            "pdf": "free direct",
+            "hindi": "yes",
+            "sentences_claimed": "1000+"
+          },
+          {
+            "title": "speaknowenglish 100 Daily Use English Sentence",
+            "url": "https://speaknowenglish.com/english-speaking-course/daily-use-english-sentence-with-hindi-meaning/",
+            "domain": "speaknowenglish.com",
+            "page_type": "blog",
+            "pdf": "paid",
+            "hindi": "yes",
+            "sentences_claimed": "100"
+          },
+          {
+            "title": "Daily Use English Sentences Day 1 - Speak Now English",
+            "url": "https://speaknowenglish.com/english-sentences/daily-use-english-sentences-day-1/",
+            "domain": "speaknowenglish.com",
+            "page_type": "blog (series)",
+            "pdf": "paid",
+            "hindi": "yes",
+            "sentences_claimed": "daily set"
+          },
+          {
+            "title": "kamalshukla 100+",
+            "url": "https://kamalshukla.com/daily-used-english-sentences/",
+            "domain": "kamalshukla.com",
+            "page_type": "blog",
+            "pdf": "no",
+            "hindi": "yes",
+            "sentences_claimed": "100+"
+          },
+          {
+            "title": "Gumroad paid PDF",
+            "url": "https://deepakcreatives.gumroad.com/l/Daily-Use-English-Sentences-with-Hindi",
+            "domain": "gumroad.com",
+            "page_type": "paid PDF",
+            "pdf": "paid",
+            "hindi": "yes",
+            "sentences_claimed": "350+"
+          },
+          {
+            "title": "spam/irrelevant .govt.nz PDF",
+            "url": "https://www.live-work.immigration.govt.nz/.../english+sentences+used+in+daily+life+with+hindi.pdf",
+            "domain": "live-work.immigration.govt.nz",
+            "page_type": "spam/hijacked PDF",
+            "pdf": "n/a",
+            "hindi": "no",
+            "sentences_claimed": "n/a"
+          }
+        ]
+      },
+      {
+        "keyword": "100 english sentences for daily use",
+        "volume": "unverified",
+        "results": [
+          {
+            "title": "100 The Most Useful Daily English Sentences",
+            "url": "https://medium.com/@learn_english-quickly/100-the-most-useful-daily-english-sentences-920ed2b21d24",
+            "domain": "medium.com",
+            "page_type": "blog",
+            "pdf": "no",
+            "hindi": "no",
+            "sentences_claimed": "100"
+          },
+          {
+            "title": "Easy 100 Sentences Used in Daily Life",
+            "url": "https://www.burlingtonenglish.in/english-sentences-used-in-daily-life/",
+            "domain": "burlingtonenglish.in",
+            "page_type": "blog",
+            "pdf": "no",
+            "hindi": "no",
+            "sentences_claimed": "100"
+          },
+          {
+            "title": "100+ Daily English Sentences for Kids and Beginners",
+            "url": "https://www.curiousjr.com/blogs/100-daily-english-sentences-for-kids",
+            "domain": "curiousjr.com",
+            "page_type": "blog (kids app)",
+            "pdf": "no",
+            "hindi": "no",
+            "sentences_claimed": "100+"
+          },
+          {
+            "title": "100+ Daily use English Sentences Conversations",
+            "url": "https://onlymyenglish.com/daily-use-english-sentences/",
+            "domain": "onlymyenglish.com",
+            "page_type": "blog",
+            "pdf": "no",
+            "hindi": "no",
+            "sentences_claimed": "100+"
+          },
+          {
+            "title": "100 English Sentences for daily use",
+            "url": "https://mrmrsenglish.com/100-english-sentences/",
+            "domain": "mrmrsenglish.com",
+            "page_type": "blog",
+            "pdf": "no",
+            "hindi": "no",
+            "sentences_claimed": "100"
+          },
+          {
+            "title": "speakshark 100 Daily Use English Sentences for Speaking Practice",
+            "url": "https://speakshark.com/blog/daily-use-english-sentences-speaking-practice",
+            "domain": "speakshark.com",
+            "page_type": "blog (app)",
+            "pdf": "no",
+            "hindi": "no",
+            "sentences_claimed": "100"
+          },
+          {
+            "title": "100 Common English Sentences for Daily Use - Speak Now English",
+            "url": "https://speaknowenglish.com/english-speaking-course/100-common-english-sentences-for-daily-use/",
+            "domain": "speaknowenglish.com",
+            "page_type": "blog",
+            "pdf": "paid",
+            "hindi": "likely",
+            "sentences_claimed": "100"
+          },
+          {
+            "title": "fluentra 100 Daily Use English Sentences",
+            "url": "https://fluentra.pro/blog/daily-english-sentences",
+            "domain": "fluentra.pro",
+            "page_type": "blog (app)",
+            "pdf": "no",
+            "hindi": "no",
+            "sentences_claimed": "100"
+          },
+          {
+            "title": "englishpartner 100+",
+            "url": "https://englishpartner.com/blog/english/100-daily-use-english-sentences/",
+            "domain": "englishpartner.com",
+            "page_type": "blog",
+            "pdf": "no",
+            "hindi": "no",
+            "sentences_claimed": "100+"
+          },
+          {
+            "title": "naturalenglishcentral 100",
+            "url": "https://naturalenglishcentral.com/100-english-sentences-used-in-daily-life/",
+            "domain": "naturalenglishcentral.com",
+            "page_type": "blog",
+            "pdf": "no",
+            "hindi": "no",
+            "sentences_claimed": "100"
+          }
+        ]
+      },
+      {
+        "keyword": "simple english sentences for daily use",
+        "volume": "unverified",
+        "dominant_intent": "beginner/grammar-adjacent; big Indian edtech present (Leverage Edu, Infinity Learn)",
+        "results": [
+          {
+            "title": "Common English Conversation Sentences for Daily Use",
+            "url": "https://www.loora.com/learn/conversational-english/english-conversational-sentences",
+            "domain": "loora.com",
+            "page_type": "blog (app)",
+            "pdf": "no",
+            "hindi": "no",
+            "sentences_claimed": "50"
+          },
+          {
+            "title": "Simple English Sentences: 199+ Examples for Daily Use - Leverage Edu",
+            "url": "https://leverageedu.com/explore/learn-english/simple-english-sentences/",
+            "domain": "leverageedu.com",
+            "page_type": "blog (edtech)",
+            "pdf": "no",
+            "hindi": "no",
+            "sentences_claimed": "199+"
+          },
+          {
+            "title": "curiousjr 100+ for Kids and Beginners",
+            "url": "https://www.curiousjr.com/blogs/100-daily-english-sentences-for-kids",
+            "domain": "curiousjr.com",
+            "page_type": "blog",
+            "pdf": "no",
+            "hindi": "no",
+            "sentences_claimed": "100+"
+          },
+          {
+            "title": "200+ Simple English Sentences for Daily Use for Beginners",
+            "url": "https://grammareco.com/simple-sentences-for-daily-use/",
+            "domain": "grammareco.com",
+            "page_type": "blog",
+            "pdf": "likely",
+            "hindi": "no",
+            "sentences_claimed": "200+"
+          },
+          {
+            "title": "grammareco 1000 Daily Use English Sentences with PDF",
+            "url": "https://grammareco.com/daily-use-english-sentences/",
+            "domain": "grammareco.com",
+            "page_type": "blog",
+            "pdf": ".docx",
+            "hindi": "no",
+            "sentences_claimed": "1000"
+          },
+          {
+            "title": "100 Examples of Simple Sentences for Daily Use in Life",
+            "url": "https://englishgrammarway.com/100-examples-of-simple-sentences-for-daily/",
+            "domain": "englishgrammarway.com",
+            "page_type": "blog",
+            "pdf": "no",
+            "hindi": "no",
+            "sentences_claimed": "100"
+          },
+          {
+            "title": "500+ Simple English Sentences You Can Use in Daily Life",
+            "url": "https://infinitylearn.com/surge/english/simple-english-sentences/",
+            "domain": "infinitylearn.com",
+            "page_type": "blog (edtech)",
+            "pdf": "no",
+            "hindi": "no",
+            "sentences_claimed": "500+"
+          },
+          {
+            "title": "200 Simple English Sentences to Use in Everyday Communication",
+            "url": "https://loveyouenglish.com/simple-english-sentences/",
+            "domain": "loveyouenglish.com",
+            "page_type": "blog",
+            "pdf": "no",
+            "hindi": "no",
+            "sentences_claimed": "200"
+          },
+          {
+            "title": "englishpartner 100+",
+            "url": "https://englishpartner.com/blog/english/100-daily-use-english-sentences/",
+            "domain": "englishpartner.com",
+            "page_type": "blog",
+            "pdf": "no",
+            "hindi": "no",
+            "sentences_claimed": "100+"
+          }
+        ]
+      },
+      {
+        "keyword": "daily spoken english sentences",
+        "volume": "unverified",
+        "results": [
+          {
+            "title": "loora Common English Conversation Sentences",
+            "url": "https://www.loora.com/learn/conversational-english/english-conversational-sentences",
+            "domain": "loora.com",
+            "page_type": "blog (app)",
+            "pdf": "no",
+            "hindi": "no",
+            "sentences_claimed": "50"
+          },
+          {
+            "title": "500 Daily Used English Sentences",
+            "url": "https://mrmrsenglish.com/500-daily-used-english-sentences/",
+            "domain": "mrmrsenglish.com",
+            "page_type": "blog",
+            "pdf": "no",
+            "hindi": "no",
+            "sentences_claimed": "500"
+          },
+          {
+            "title": "Daily Use English Sentences: Common Sentences and Questions",
+            "url": "https://www.gradding.com/blog/english/daily-use-english-sentences",
+            "domain": "gradding.com",
+            "page_type": "blog (study-abroad)",
+            "pdf": "no",
+            "hindi": "no",
+            "sentences_claimed": "unspecified"
+          },
+          {
+            "title": "50 Daily Use English Sentences for Spoken English Practice",
+            "url": "https://globaled.io/50-daily-use-english-sentences-for-spoken-english-practice/",
+            "domain": "globaled.io",
+            "page_type": "blog",
+            "pdf": "no",
+            "hindi": "no",
+            "sentences_claimed": "50"
+          },
+          {
+            "title": "grammareco 1000",
+            "url": "https://grammareco.com/daily-use-english-sentences/",
+            "domain": "grammareco.com",
+            "page_type": "blog",
+            "pdf": ".docx",
+            "hindi": "no",
+            "sentences_claimed": "1000"
+          },
+          {
+            "title": "200 English Sentences for daily life Conversation - ilmish",
+            "url": "https://ilmish.com/200-english-sentences/",
+            "domain": "ilmish.com",
+            "page_type": "blog (Urdu-oriented)",
+            "pdf": "unknown",
+            "hindi": "no",
+            "sentences_claimed": "200 (ungrammatical items)"
+          },
+          {
+            "title": "200 Daily Speaking English Sentences for ESL Learners",
+            "url": "https://loveyouenglish.com/daily-speaking-english-sentences/",
+            "domain": "loveyouenglish.com",
+            "page_type": "blog",
+            "pdf": "no",
+            "hindi": "no",
+            "sentences_claimed": "200"
+          },
+          {
+            "title": "krisamerikos 50+",
+            "url": "https://www.krisamerikos.com/blog/english-sentences-used-in-daily-life",
+            "domain": "krisamerikos.com",
+            "page_type": "blog",
+            "pdf": "no",
+            "hindi": "no",
+            "sentences_claimed": "50+"
+          },
+          {
+            "title": "englishpartner 100+",
+            "url": "https://englishpartner.com/blog/english/100-daily-use-english-sentences/",
+            "domain": "englishpartner.com",
+            "page_type": "blog",
+            "pdf": "no",
+            "hindi": "no",
+            "sentences_claimed": "100+"
+          },
+          {
+            "title": "Scribd Daily Use English Sentences",
+            "url": "https://www.scribd.com/document/712633629/Daily-Use-English-Sentences",
+            "domain": "scribd.com",
+            "page_type": "PDF host",
+            "pdf": "gated",
+            "hindi": "unknown",
+            "sentences_claimed": "100"
+          }
+        ]
+      },
+      {
+        "keyword": "english speaking sentences with hindi meaning",
+        "volume": "unverified",
+        "results": [
+          {
+            "title": "40 English Phrases with Hindi Meaning for Daily Use - MySivi",
+            "url": "https://wordpress.mysivi.ai/40-english-phrases-with-hindi-meaning-for-daily-use/",
+            "domain": "mysivi.ai",
+            "page_type": "blog (app)",
+            "pdf": "no",
+            "hindi": "yes",
+            "sentences_claimed": "40"
+          },
+          {
+            "title": "hindimediumhelp Daily Use English Sentences with Hindi Meaning",
+            "url": "https://hindimediumhelp.blogspot.com/2020/01/Daily-use-english-sentences-with-hindi-meaning.html",
+            "domain": "blogspot.com",
+            "page_type": "blog (2020)",
+            "pdf": "no",
+            "hindi": "yes",
+            "sentences_claimed": "unspecified"
+          },
+          {
+            "title": "500 English Sentences with Hindi Translation - Grammareer",
+            "url": "https://www.grammareer.com/hindi-english-sentences/",
+            "domain": "grammareer.com",
+            "page_type": "blog",
+            "pdf": "free PDF advertised",
+            "hindi": "yes",
+            "sentences_claimed": "500+"
+          },
+          {
+            "title": "talkdrill 70",
+            "url": "https://www.talkdrill.com/blog/spoken-english/sentence-starters/daily-use-english-sentences-hindi-meaning/",
+            "domain": "talkdrill.com",
+            "page_type": "blog",
+            "pdf": "no",
+            "hindi": "yes",
+            "sentences_claimed": "70"
+          },
+          {
+            "title": "talkdrill 200+ Roman Script",
+            "url": "https://www.talkdrill.com/blog/basic-english-sentences-hindi-meaning/",
+            "domain": "talkdrill.com",
+            "page_type": "blog",
+            "pdf": "no",
+            "hindi": "yes (Roman)",
+            "sentences_claimed": "200+"
+          },
+          {
+            "title": "engfusionbharat 1000+",
+            "url": "https://engfusionbharat.com/most-common-daily-use-english-sentences-hindi-meaning/",
+            "domain": "engfusionbharat.com",
+            "page_type": "blog",
+            "pdf": "free direct",
+            "hindi": "yes",
+            "sentences_claimed": "1000+"
+          },
+          {
+            "title": "speaknowenglish 100",
+            "url": "https://speaknowenglish.com/english-speaking-course/daily-use-english-sentence-with-hindi-meaning/",
+            "domain": "speaknowenglish.com",
+            "page_type": "blog",
+            "pdf": "paid",
+            "hindi": "yes",
+            "sentences_claimed": "100"
+          },
+          {
+            "title": "mrmrsenglish 500 English to Hindi",
+            "url": "https://mrmrsenglish.com/500-simple-english-to-hindi-sentences/",
+            "domain": "mrmrsenglish.com",
+            "page_type": "blog",
+            "pdf": "no",
+            "hindi": "yes",
+            "sentences_claimed": "500"
+          }
+        ]
+      },
+      {
+        "keyword": "common english sentences for beginners",
+        "volume": "unverified",
+        "dominant_intent": "global ESL; Indian edtech (PlanetSpark, SevenMentor) present",
+        "results": [
+          {
+            "title": "loora Common English Conversation Sentences",
+            "url": "https://www.loora.com/learn/conversational-english/english-conversational-sentences",
+            "domain": "loora.com",
+            "page_type": "blog",
+            "pdf": "no",
+            "hindi": "no",
+            "sentences_claimed": "50"
+          },
+          {
+            "title": "160 English Speaking Practice Sentences for Beginners",
+            "url": "https://mrmrsenglish.com/english-speaking-practice/",
+            "domain": "mrmrsenglish.com",
+            "page_type": "blog",
+            "pdf": "no",
+            "hindi": "no",
+            "sentences_claimed": "160"
+          },
+          {
+            "title": "Basic English Sentences for Beginners Explained",
+            "url": "https://writewithenglish.com/english-sentences-for-beginners/",
+            "domain": "writewithenglish.com",
+            "page_type": "blog",
+            "pdf": "no",
+            "hindi": "no",
+            "sentences_claimed": "structure-led"
+          },
+          {
+            "title": "250 Simple Sentences for English Beginners",
+            "url": "https://loveyouenglish.com/simple-sentences-for-english-beginners/",
+            "domain": "loveyouenglish.com",
+            "page_type": "blog",
+            "pdf": "no",
+            "hindi": "no",
+            "sentences_claimed": "250"
+          },
+          {
+            "title": "200 Easy English Sentences for Beginners",
+            "url": "https://loveyouenglish.com/english-sentences-for-beginners/",
+            "domain": "loveyouenglish.com",
+            "page_type": "blog",
+            "pdf": "no",
+            "hindi": "no",
+            "sentences_claimed": "200"
+          },
+          {
+            "title": "100 Simple English Sentences for Beginners (Daily Use Examples)",
+            "url": "https://taaleemonline.com/simple-english-sentences/",
+            "domain": "taaleemonline.com",
+            "page_type": "blog",
+            "pdf": "no",
+            "hindi": "no",
+            "sentences_claimed": "100"
+          },
+          {
+            "title": "150+ Daily Use English Sentences with Examples (2026 Guide)",
+            "url": "https://www.planetspark.in/spoken-english/daily-english-sentences",
+            "domain": "planetspark.in",
+            "page_type": "blog (edtech)",
+            "pdf": "no",
+            "hindi": "no",
+            "sentences_claimed": "150+"
+          },
+          {
+            "title": "Top 50 English Sentences Used in Daily Life",
+            "url": "https://www.sevenmentor.com/top-50-english-sentences-used-in-daily-life",
+            "domain": "sevenmentor.com",
+            "page_type": "blog (institute)",
+            "pdf": "no",
+            "hindi": "no",
+            "sentences_claimed": "50"
+          },
+          {
+            "title": "100+ Simple English Sentences for Kids And Beginners - Sunbeam",
+            "url": "https://sunbeamworldschool.com/blog/simple-english-sentences-for-kids/",
+            "domain": "sunbeamworldschool.com",
+            "page_type": "blog (school)",
+            "pdf": "no",
+            "hindi": "no",
+            "sentences_claimed": "100+"
+          }
+        ]
+      },
+      {
+        "keyword": "daily conversation english sentences",
+        "volume": "unverified",
+        "results": [
+          {
+            "title": "loora",
+            "url": "https://www.loora.com/learn/conversational-english/english-conversational-sentences",
+            "domain": "loora.com",
+            "page_type": "blog",
+            "pdf": "no",
+            "hindi": "no",
+            "sentences_claimed": "50"
+          },
+          {
+            "title": "burlingtonenglish.in Easy 100",
+            "url": "https://www.burlingtonenglish.in/english-sentences-used-in-daily-life/",
+            "domain": "burlingtonenglish.in",
+            "page_type": "blog",
+            "pdf": "no",
+            "hindi": "no",
+            "sentences_claimed": "100"
+          },
+          {
+            "title": "mrmrsenglish 500 Daily Used",
+            "url": "https://mrmrsenglish.com/500-daily-used-english-sentences/",
+            "domain": "mrmrsenglish.com",
+            "page_type": "blog",
+            "pdf": "no",
+            "hindi": "no",
+            "sentences_claimed": "500"
+          },
+          {
+            "title": "grammareco 1000",
+            "url": "https://grammareco.com/daily-use-english-sentences/",
+            "domain": "grammareco.com",
+            "page_type": "blog",
+            "pdf": ".docx",
+            "hindi": "no",
+            "sentences_claimed": "1000"
+          },
+          {
+            "title": "Daily Use English Sentences for Everyday Conversations - grammarlifthub",
+            "url": "https://grammarlifthub.com/daily-use-english-sentences/",
+            "domain": "grammarlifthub.com",
+            "page_type": "blog",
+            "pdf": "no",
+            "hindi": "no",
+            "sentences_claimed": "unspecified"
+          },
+          {
+            "title": "Top 50 daily-use English Sentences - SevenMentor",
+            "url": "https://www.sevenmentor.com/top-50-daily-use-english-sentences",
+            "domain": "sevenmentor.com",
+            "page_type": "blog",
+            "pdf": "no",
+            "hindi": "no",
+            "sentences_claimed": "50"
+          },
+          {
+            "title": "englishpartner 100+",
+            "url": "https://englishpartner.com/blog/english/100-daily-use-english-sentences/",
+            "domain": "englishpartner.com",
+            "page_type": "blog",
+            "pdf": "no",
+            "hindi": "no",
+            "sentences_claimed": "100+"
+          },
+          {
+            "title": "Scribd",
+            "url": "https://www.scribd.com/document/712633629/Daily-Use-English-Sentences",
+            "domain": "scribd.com",
+            "page_type": "PDF host",
+            "pdf": "gated",
+            "hindi": "unknown",
+            "sentences_claimed": "100"
+          }
+        ]
+      },
+      {
+        "keyword": "english sentences for daily use at home",
+        "volume": "unverified",
+        "results": [
+          {
+            "title": "curiousjr kids",
+            "url": "https://www.curiousjr.com/blogs/100-daily-english-sentences-for-kids",
+            "domain": "curiousjr.com",
+            "page_type": "blog",
+            "pdf": "no",
+            "hindi": "no",
+            "sentences_claimed": "100+"
+          },
+          {
+            "title": "mrmrsenglish 500",
+            "url": "https://mrmrsenglish.com/500-daily-used-english-sentences/",
+            "domain": "mrmrsenglish.com",
+            "page_type": "blog",
+            "pdf": "no",
+            "hindi": "no",
+            "sentences_claimed": "500"
+          },
+          {
+            "title": "grammareco 1000",
+            "url": "https://grammareco.com/daily-use-english-sentences/",
+            "domain": "grammareco.com",
+            "page_type": "blog",
+            "pdf": ".docx",
+            "hindi": "no",
+            "sentences_claimed": "1000"
+          },
+          {
+            "title": "1000+ English Sentences Used in Daily Life - lingotexting",
+            "url": "https://lingotexting.com/english-sentences-used-in-daily-life/",
+            "domain": "lingotexting.com",
+            "page_type": "blog",
+            "pdf": "no",
+            "hindi": "no",
+            "sentences_claimed": "1000+"
+          },
+          {
+            "title": "Daily Use English Sentences You Can Speak - WizMantra",
+            "url": "https://wizmantraenglishclasses.com/daily-use-english-sentences/",
+            "domain": "wizmantraenglishclasses.com",
+            "page_type": "blog (Indian institute)",
+            "pdf": "no",
+            "hindi": "no",
+            "sentences_claimed": "unspecified"
+          },
+          {
+            "title": "100+ Basic English Sentences used at Home with Pictures - ilmish",
+            "url": "https://ilmish.com/100-basic-english-sentences-used-at-home/",
+            "domain": "ilmish.com",
+            "page_type": "blog",
+            "pdf": "unknown",
+            "hindi": "no",
+            "sentences_claimed": "100+"
+          },
+          {
+            "title": "300+ Daily Use English Sentences For Real-Life Conversations",
+            "url": "https://englishthrive.com/daily-use-english-sentences-with-examples/",
+            "domain": "englishthrive.com",
+            "page_type": "blog",
+            "pdf": "no",
+            "hindi": "no",
+            "sentences_claimed": "300+"
+          },
+          {
+            "title": "The Top 41 Daily Use English Sentences",
+            "url": "https://naturalenglishcentral.com/daily-use-english-sentences/",
+            "domain": "naturalenglishcentral.com",
+            "page_type": "blog",
+            "pdf": "no",
+            "hindi": "no",
+            "sentences_claimed": "41"
+          },
+          {
+            "title": "planetspark 150+",
+            "url": "https://www.planetspark.in/spoken-english/daily-english-sentences",
+            "domain": "planetspark.in",
+            "page_type": "blog",
+            "pdf": "no",
+            "hindi": "no",
+            "sentences_claimed": "150+"
+          }
+        ]
+      },
+      {
+        "keyword": "english sentences for office use",
+        "volume": "unverified",
+        "dominant_intent": "workplace phrases; one Hinglish result shows Hindi-speaker demand",
+        "results": [
+          {
+            "title": "200+ Essential Sentences Used in Office",
+            "url": "https://www.engclub.in/2024/11/200-essential-sentences-used-in-office.html",
+            "domain": "engclub.in",
+            "page_type": "blog (Blogspot-style)",
+            "pdf": "no",
+            "hindi": "no",
+            "sentences_claimed": "200+"
+          },
+          {
+            "title": "Office English: Popular Phrases and Expressions - Promova",
+            "url": "https://promova.com/blog/office-english-20-popular-phrases-to-communicate-with-colleagues",
+            "domain": "promova.com",
+            "page_type": "blog (app)",
+            "pdf": "no",
+            "hindi": "no",
+            "sentences_claimed": "20"
+          },
+          {
+            "title": "50 Daily Use Office Sentences in English (Hinglish to English)",
+            "url": "https://www.mrglobalservices.in/2026/02/50-daily-use-office-sentences-in.html",
+            "domain": "mrglobalservices.in",
+            "page_type": "blog",
+            "pdf": "no",
+            "hindi": "yes (Hinglish)",
+            "sentences_claimed": "50"
+          },
+          {
+            "title": "50 Different Sentences that You Can Use at Work - AwalEnglish",
+            "url": "https://www.awalenglish.com/learn-english/50-different-sentences-that-you-can-use-at-work/",
+            "domain": "awalenglish.com",
+            "page_type": "blog (YouTuber)",
+            "pdf": "site sells PDFs",
+            "hindi": "partly",
+            "sentences_claimed": "50"
+          },
+          {
+            "title": "120+ Office Use English Sentences for Daily with Pictures and pdf",
+            "url": "https://grammareco.com/office-use-english-sentences/",
+            "domain": "grammareco.com",
+            "page_type": "blog",
+            "pdf": "yes",
+            "hindi": "no",
+            "sentences_claimed": "120+"
+          },
+          {
+            "title": "Simple English Sentences Related To Work And The Office",
+            "url": "https://theenglishtoday.com/simple-english-sentences-related-to-work-and-the-office-a-complete-guide-to-improving-your-business-communication/",
+            "domain": "theenglishtoday.com",
+            "page_type": "blog",
+            "pdf": "no",
+            "hindi": "no",
+            "sentences_claimed": "unspecified"
+          },
+          {
+            "title": "Daily Use of English Sentences for Work - Word Coach",
+            "url": "https://www.wordscoach.com/blog/daily-use-of-english-sentences-for-work/",
+            "domain": "wordscoach.com",
+            "page_type": "blog (app)",
+            "pdf": "no",
+            "hindi": "no",
+            "sentences_claimed": "unspecified"
+          },
+          {
+            "title": "200 Daily Office English Sentences to Speak Fluently",
+            "url": "https://loveyouenglish.com/daily-office-english-sentences-to-speak-fluently/",
+            "domain": "loveyouenglish.com",
+            "page_type": "blog",
+            "pdf": "no",
+            "hindi": "no",
+            "sentences_claimed": "200"
+          }
+        ]
+      },
+      {
+        "keyword": "daily use english sentences for beginners",
+        "volume": "unverified",
+        "results": [
+          {
+            "title": "loora",
+            "url": "https://www.loora.com/learn/conversational-english/english-conversational-sentences",
+            "domain": "loora.com",
+            "page_type": "blog",
+            "pdf": "no",
+            "hindi": "no",
+            "sentences_claimed": "50"
+          },
+          {
+            "title": "curiousjr",
+            "url": "https://www.curiousjr.com/blogs/100-daily-english-sentences-for-kids",
+            "domain": "curiousjr.com",
+            "page_type": "blog",
+            "pdf": "no",
+            "hindi": "no",
+            "sentences_claimed": "100+"
+          },
+          {
+            "title": "gradding",
+            "url": "https://www.gradding.com/blog/english/daily-use-english-sentences",
+            "domain": "gradding.com",
+            "page_type": "blog",
+            "pdf": "no",
+            "hindi": "no",
+            "sentences_claimed": "unspecified"
+          },
+          {
+            "title": "onlymyenglish",
+            "url": "https://onlymyenglish.com/daily-use-english-sentences/",
+            "domain": "onlymyenglish.com",
+            "page_type": "blog",
+            "pdf": "no",
+            "hindi": "no",
+            "sentences_claimed": "100+"
+          },
+          {
+            "title": "100 Daily English Sentences for Beginners - English with Amelia",
+            "url": "https://englishwithamelia.com/100-daily-english-sentences-for-beginners/",
+            "domain": "englishwithamelia.com",
+            "page_type": "blog",
+            "pdf": "no",
+            "hindi": "no",
+            "sentences_claimed": "100"
+          },
+          {
+            "title": "100 Basic English Sentences for Daily Use - Speak Now English",
+            "url": "https://speaknowenglish.com/english-speaking-course/100-basic-english-sentences-for-daily-use/",
+            "domain": "speaknowenglish.com",
+            "page_type": "blog",
+            "pdf": "paid",
+            "hindi": "likely",
+            "sentences_claimed": "100"
+          },
+          {
+            "title": "planetspark 150+",
+            "url": "https://www.planetspark.in/spoken-english/daily-english-sentences",
+            "domain": "planetspark.in",
+            "page_type": "blog",
+            "pdf": "no",
+            "hindi": "no",
+            "sentences_claimed": "150+"
+          },
+          {
+            "title": "naturalenglishcentral Top 41",
+            "url": "https://naturalenglishcentral.com/daily-use-english-sentences/",
+            "domain": "naturalenglishcentral.com",
+            "page_type": "blog",
+            "pdf": "no",
+            "hindi": "no",
+            "sentences_claimed": "41"
+          },
+          {
+            "title": "1000 Common English Sentences (iOS app)",
+            "url": "https://apps.apple.com/us/app/-/id6760603513",
+            "domain": "apps.apple.com",
+            "page_type": "app",
+            "pdf": "no",
+            "hindi": "no",
+            "sentences_claimed": "1000"
+          }
+        ]
+      }
+    ],
+    "long_tail_queries": [
+      {
+        "keyword": "daily use english sentences with hindi meaning pdf download",
+        "volume": "unverified",
+        "results": [
+          {
+            "title": "500 Daily Use English Hindi Sentences",
+            "url": "https://www.scribd.com/document/1059275750/500-Daily-Use-English-Hindi-Sentences",
+            "domain": "scribd.com",
+            "page_type": "PDF host",
+            "pdf": "gated",
+            "hindi": "yes",
+            "sentences_claimed": "500"
+          },
+          {
+            "title": "Daily Use English Sentences in Hindi (part 2)",
+            "url": "https://www.scribd.com/document/764488103/daily-use-english-sentences-part-2",
+            "domain": "scribd.com",
+            "page_type": "PDF host",
+            "pdf": "gated",
+            "hindi": "yes",
+            "sentences_claimed": "unspecified"
+          },
+          {
+            "title": "50 Daily Use Short English Sentences With Hindi meaning (PDF)",
+            "url": "https://www.dailylearnenglish.com/2024/10/daily-use-english-sentences-with-hindi-meaning-pdf.html",
+            "domain": "dailylearnenglish.com",
+            "page_type": "blog (Blogspot)",
+            "pdf": "free (link may be stale)",
+            "hindi": "yes",
+            "sentences_claimed": "50"
+          },
+          {
+            "title": "Hindi-English Daily Use Phrases Guide",
+            "url": "https://www.scribd.com/document/114258081/Hindi-English-Phrases",
+            "domain": "scribd.com",
+            "page_type": "PDF host",
+            "pdf": "gated",
+            "hindi": "yes",
+            "sentences_claimed": "unspecified"
+          },
+          {
+            "title": "List of Daily Use English Words with Hindi Meaning PDF - Grammareer",
+            "url": "https://www.grammareer.com/english-words-with-hindi/",
+            "domain": "grammareer.com",
+            "page_type": "blog",
+            "pdf": "free",
+            "hindi": "yes",
+            "sentences_claimed": "words, not sentences"
+          },
+          {
+            "title": "Daily Use English Sentences with Hindi meaning 2 free Download PDF",
+            "url": "https://www.dailylearnenglish.com/2022/02/daily-use-sentences-2-download-pdf-file.html",
+            "domain": "dailylearnenglish.com",
+            "page_type": "blog",
+            "pdf": "free",
+            "hindi": "yes",
+            "sentences_claimed": "unspecified"
+          },
+          {
+            "title": "engfusionbharat",
+            "url": "https://engfusionbharat.com/most-common-daily-use-english-sentences-hindi-meaning/",
+            "domain": "engfusionbharat.com",
+            "page_type": "blog",
+            "pdf": "free direct",
+            "hindi": "yes",
+            "sentences_claimed": "1000+"
+          },
+          {
+            "title": "Daily Sentences English Hindi - english1to5",
+            "url": "https://english1to5.com/daily-sentences/",
+            "domain": "english1to5.com",
+            "page_type": "hub page (kids, grades 1-5)",
+            "pdf": "free per-scenario A4 PDFs claimed",
+            "hindi": "yes",
+            "sentences_claimed": "2500 across 50 scenarios"
+          },
+          {
+            "title": "Studocu 100",
+            "url": "https://www.studocu.com/in/document/.../133952891",
+            "domain": "studocu.com",
+            "page_type": "document host",
+            "pdf": "gated",
+            "hindi": "yes",
+            "sentences_claimed": "100"
+          }
+        ]
+      },
+      {
+        "keyword": "english sentences for daily use with hindi translation",
+        "volume": "unverified",
+        "results_summary": "Same cluster as 'with hindi meaning': studocu, mrmrsenglish 500, talkdrill 70, engfusionbharat, speaknowenglish (two URLs incl. /sentences/100-common-english-sentences-daily-with-hindi-for-beginners/), turnupindia, kamalshukla, gumroad."
+      },
+      {
+        "keyword": "rozana bolne wale english sentences",
+        "volume": "unverified",
+        "note": "Google normalises to 'roj bole jane wale english sentences'; all results are Hindi-medium blogs, mostly 2020-2021",
+        "results": [
+          {
+            "title": "Roj Bole Jane wale English Sentence - GKSkill",
+            "url": "https://gkskill.com/roj-bole-jane-wale-english-sentence/",
+            "domain": "gkskill.com",
+            "page_type": "blog",
+            "pdf": "no",
+            "hindi": "yes",
+            "sentences_claimed": "numbered sets"
+          },
+          {
+            "title": "Roj bole jane wale English Sentences list & 100 Examples",
+            "url": "https://hindimediumhelp.blogspot.com/2020/05/roj-bole-jane-wale-english-sentences.html",
+            "domain": "blogspot.com",
+            "page_type": "blog",
+            "pdf": "no",
+            "hindi": "yes",
+            "sentences_claimed": "100"
+          },
+          {
+            "title": "Roj Bole Jane Wale 721 English Sentence Suniye Aur Angreji Boliye",
+            "url": "https://www.englishkitab.com/Audible_Conversation/Daily-use-sentences/Daily-use-sentences-P4.html",
+            "domain": "englishkitab.com",
+            "page_type": "blog with audio",
+            "pdf": "no",
+            "hindi": "yes",
+            "sentences_claimed": "721"
+          },
+          {
+            "title": "30 Roj Bole Jane Wale English Sentences",
+            "url": "https://www.speakenglishwithanuradha.com/2020/08/30-roj-bole-jane-wale-english-sentences.html",
+            "domain": "speakenglishwithanuradha.com",
+            "page_type": "blog",
+            "pdf": "no",
+            "hindi": "yes",
+            "sentences_claimed": "30"
+          },
+          {
+            "title": "1000+ Roj bole jane wale English Sentences - Hindi Sudha",
+            "url": "https://hindisudha.com/2021/06/roj-bole-jane-wale-english-sentences-p1.html",
+            "domain": "hindisudha.com",
+            "page_type": "blog",
+            "pdf": "no",
+            "hindi": "yes",
+            "sentences_claimed": "1000+"
+          },
+          {
+            "title": "Roj bole jane wale English sentences with Hindi - GKSkill",
+            "url": "https://gkskill.com/roj-bole-jane-wale-english-sentences-with-hindi/",
+            "domain": "gkskill.com",
+            "page_type": "blog",
+            "pdf": "no",
+            "hindi": "yes",
+            "sentences_claimed": "unspecified"
+          },
+          {
+            "title": "English Me Baat Kaise Kare - Spoken Mentor",
+            "url": "https://spokenmentor.com/english-me-kaise-baat-kare-daily-use-guide/",
+            "domain": "spokenmentor.com",
+            "page_type": "blog",
+            "pdf": "no",
+            "hindi": "yes",
+            "sentences_claimed": "guide"
+          }
+        ]
+      },
+      {
+        "keyword": "daily use sentences english to hindi",
+        "volume": "unverified",
+        "results_summary": "mrmrsenglish 500; talkdrill x3 (70, 100, 200+); engfusionbharat; speaknowenglish 100; kamalshukla; sunbeamworldschool 200+ (adds SOV vs SVO grammar note); gumroad."
+      },
+      {
+        "keyword": "english sentence hindi meaning pdf",
+        "volume": "unverified",
+        "results_summary": "Cambridge dictionary entry (word-level); Scribd '1000 Basic English Hindi Sentences', 'English To Hindi Translation Sentences', 'Hindi-English Phrases'; dailylearnenglish free PDF; engfusionbharat; engrary.com '1000 English to Hindi Sentences PDF'; speaknowenglish; gumroad."
+      },
+      {
+        "keyword": "english speaking course sentences pdf hindi",
+        "volume": "unverified",
+        "results_summary": "spokenenglish.guru (EnglishWale/Spoken English Guru; day-wise course, 90-day eBook); ilmrary.com 1000 English-Hindi-Urdu PDF; grammareer free course PDF; mebad blogspot; SlideShare conversation sheet; pavithran.net Hindi-to-English course PDF; ilmvast (Rapidex, likely pirated); EnglishWale PDF on teachmint storage. Intent is course-level, not list-level; treat as tertiary."
+      },
+      {
+        "keyword": "रोज बोले जाने वाले इंग्लिश सेंटेंस हिंदी मीनिंग के साथ pdf",
+        "volume": "unverified",
+        "results_summary": "Only one relevant result (Prabhat Khabar article, 20-30 sentences); rest were spam/hijacked PDF pages. Devanagari query space is under-served."
+      }
+    ],
+    "serp_observations": [
+      "Scribd dominates any query containing 'pdf' or 'free download' (4-6 of 10 results). These are user-uploaded, login-gated, uncurated, and mostly English-only.",
+      "englishwale.com and spokenenglishtips.com did NOT appear for any query; Spoken English Guru/EnglishWale content surfaces only as pirated Scribd/Teachmint PDFs. Searching their names directly returned auto-generated spam pages (maidsafe.net, strikolith.com, onlinenic.com blogs with 176xxxxxxx timestamps), which indicates low-quality competition in the Hindi cluster.",
+      "Hindi-meaning cluster is owned by small blogs: talkdrill.com (3 URLs, strongest, app competitor), engfusionbharat.com (1 URL ranking for 9+ queries, free PDF, inflated counts), speaknowenglish.com (2023, paid PDFs), mrmrsenglish.com, englishtak.com, kamalshukla.com, hindimediumhelp.blogspot.com.",
+      "English-only '100 sentences' cluster is a different SERP: speakshark, englishpartner, fluentra, loora, grammareco, planetspark, leverageedu. SpeakX should not chase this with the same page.",
+      "Only two ranking pages carry a 'when to use' column (talkdrill, speakshark); SpeakX already has it.",
+      "No ranking page offers a free, direct, Hindi-included, exactly-100 PDF. engfusionbharat's is free but claims 5000 and has garbled Hindi; talkdrill's is a 300-sentence lead-magnet; speaknowenglish's are paid; grammareco's is a .docx without Hindi.",
+      "Year in title ('(2026)') is used by talkdrill, engfusionbharat, planetspark, speakshark ('Updated July 27, 2026')."
+    ],
+    "people_also_ask_style_questions": [
+      "How many English sentences should I learn in a day?",
+      "Should I memorize all 100 sentences at once?",
+      "How do I move from reading these sentences to actually using them?",
+      "Are these sentences formal or informal?",
+      "How do I practice English sentences when no one around me speaks English?",
+      "Will reading sentence lists improve my English speaking?",
+      "What is the best app to practice daily use sentences aloud?",
+      "Are these 100 sentences suitable for beginners?",
+      "How long does it take to see progress in speaking?",
+      "What are 8 (or 10) daily use English sentences?",
+      "What sentences are used for shopping?",
+      "Can I download the sentences as PDF?",
+      "What are daily sentences in English?",
+      "Which English sentences are used in daily life?",
+      "How can I speak English at home daily? (Hindi: ghar par English kaise bole)",
+      "Roj bole jane wale English sentences kaun se hain?"
+    ]
+  },
+  "task_b_competitors": [
+    {
+      "domain": "talkdrill.com",
+      "url": "https://www.talkdrill.com/blog/spoken-english/sentence-starters/100-daily-use-english-sentences/",
+      "title": "100 Daily Use English Sentences with Hindi Meaning (2026)",
+      "h1": "100 Daily Use English Sentences with Hindi Meaning",
+      "h2s": [
+        "How to Use This List",
+        "Greetings & Small Talk (1-15)",
+        "Office & Workplace (16-30)",
+        "Shopping & Bargaining (31-45)",
+        "Travel & Directions (46-60)",
+        "Phone Conversations (61-70)",
+        "Social Situations (71-85)",
+        "Expressing Opinions & Feelings (86-100)",
+        "Practice Tips",
+        "Frequently Asked Questions"
+      ],
+      "sentences": "100 claimed, 100 present, 7 situation groups",
+      "grouped_by_situation": true,
+      "hindi_quality": "Devanagari; mostly natural, uses aap/kijiye register and Devanagari loanwords (एग्ज़ाम, डेडलाइन); some stiff literal lines; masculine default with no gender note. Examples: 'How have you been?' -> 'आप कैसे रहे हैं?' (natural); 'It has been ages since we last met.' -> 'हम पिछली बार मिले, बहुत समय हो गया।' (awkward).",
+      "when_to_use_column": true,
+      "pdf": "No PDF of this list; 'Get 300 More Sentences Free' e-book link (lead magnet, gate unknown)",
+      "faq": [
+        "Should I memorize all 100 sentences at once?",
+        "How do I move from reading these sentences to actually using them?",
+        "Are these sentences formal or informal?"
+      ],
+      "learning_advice": "Strong: 5-7/day, one category at a time, read aloud 3x (FAQ says 5x, inconsistent), use 3 in real life daily, cover-English recall test, 10-min Sunday review",
+      "ux_issues": "Duplicated menus, long 'More' dropdown, heavy footer, icon links without labels, very heavy app CTAs (6+), 100-row table without jump nav",
+      "date": "Not shown ('Recently published'; year in title)",
+      "author": "TalkDrill Team",
+      "word_count_est": "about 2,300 body"
+    },
+    {
+      "domain": "engfusionbharat.com",
+      "url": "https://engfusionbharat.com/most-common-daily-use-english-sentences-hindi-meaning/",
+      "title": "1000+ Daily Use English Sentences with Hindi Meaning - PDF Free Download (2026)",
+      "h1": "1000+ Daily Use English Sentences with Hindi Meaning - Spoken English Sentences For Everyday",
+      "h2s": [
+        "List of 500+ English Speaking Sentences Used in Daily Life with Meaning in Hindi",
+        "English Greetings With Hindi Meaning",
+        "English Command Sentences With Hindi Meaning",
+        "SCHOOL me kaam aane wale Sentences",
+        "Ghar par bole jane wale Sentences",
+        "Shopping / Bazaar ke Sentences",
+        "Travel / Safar ke Sentences",
+        "5000+ Daily Use English Sentences with Hindi Meaning PDF Free Download",
+        "Daily Use English Sentences with Hindi meaning (Updated 2026)",
+        "The 5-Minute Daily Practice Method",
+        "Why is English Important for your Success in Today's Education?"
+      ],
+      "sentences": "Claims 1000+/500+/5000+; about 580 numbered present; duplicates, fragments ('Neither of.'), ungrammatical ('I want become a doctor'), numbering skips",
+      "grouped_by_situation": "partial (main 520 list unsorted; only School/Home/Shopping/Travel grouped, 15 each)",
+      "hindi_quality": "Mixed Devanagari + Roman; mostly literal in main list, more natural in situational sections; garbled items ('Get inside' -> 'अंदर मिलता', 'launch' for 'lunch'). Examples: 'Who has come with you?' -> 'आपके साथ कौन आया है?' (near-literal); 'Wake up, it's already 7 AM.' -> 'Uth jao, subah ke 7 baj gaye hain.' (natural, Roman).",
+      "when_to_use_column": false,
+      "pdf": "Free, direct, self-hosted wp-content link; no email gate; size not stated; PDF claims 11 categories/5000+",
+      "faq": [
+        "How do I practice English sentences in daily life when no one around me speaks English?"
+      ],
+      "learning_advice": "5-Minute Daily Practice Method (5 sentences, mirror, notebook, bedtime revision); recommends Duolingo/Joshtalk",
+      "ux_issues": "About 40 empty image placeholders, 520-item single list, stray bold markers, typos (collage, Grammer), off-topic sentences",
+      "date": "Published/updated 12/04/2026",
+      "author": "Shivani Jaiswal (bio: 10 yrs teaching Hindi-medium students)",
+      "word_count_est": "6,500-7,500 (mostly lists)"
+    },
+    {
+      "domain": "speaknowenglish.com",
+      "url": "https://speaknowenglish.com/english-speaking-course/daily-use-english-sentence-with-hindi-meaning/",
+      "title": "100 Daily Use English Sentence With Hindi Meaning | रोज बोले जाने वाले इंग्लिश सेंटेंस - Speak Now English",
+      "h1": "100 Daily Use English Sentence With Hindi Meaning | रोज बोले जाने वाले इंग्लिश सेंटेंस",
+      "h2s": [],
+      "sentences": "100 numbered; 2 Hindi-only entries, 6+ duplicates; about 90-95 usable pairs",
+      "grouped_by_situation": false,
+      "hindi_quality": "Devanagari + Roman in brackets; recurring mistranslation of 'please' as 'स्वाध्याय' (self-study); 'spell' mistranslated; grammar errors (मेरी होटल). Examples: 'Where is the bathroom?' -> 'शौचालय कहाँ है?' (fine); 'Can I have the menu, please?' -> 'कृपया मेन्यू देने का स्वाध्याय कर सकते हैं?' (wrong).",
+      "when_to_use_column": false,
+      "pdf": "Paid e-books only (Rs 99 sale from Rs 400-750); WhatsApp link 'for PDF notes'",
+      "faq": [],
+      "learning_advice": "None beyond 'read carefully to the end'",
+      "ux_issues": "Mid-article upsell block with 'Rated 0 out of 5', duplicated nav, placeholder images, heavy sidebar, no audio",
+      "date": "2023-06-23, no update",
+      "author": "admin ('Speak Now English')",
+      "word_count_est": "1,500-1,800"
+    },
+    {
+      "domain": "englishtak.com",
+      "url": "https://englishtak.com/100-daily-use-english-sentences/",
+      "title": "100 Daily Use English Sentences with Hindi | Spoken English",
+      "h1": "100 Daily Use English Sentences",
+      "h2s": [
+        "Greetings & Social Interactions",
+        "Daily Routine & Activities",
+        "Work & Professional",
+        "Shopping & Services",
+        "Food & Dining",
+        "Travel & Transportation",
+        "Health & Wellness",
+        "General Expressions",
+        "Spoken English Course in Hindi (links only)"
+      ],
+      "sentences": "100 claimed, 100 present (15/15/15/15/15/10/10/5)",
+      "grouped_by_situation": true,
+      "hindi_quality": "Devanagari, 'English - Hindi' inline; mostly natural/idiomatic. Examples: 'How have you been lately?' -> 'आजकल आप कैसे हैं?'; 'It's better to be safe than sorry.' -> 'सावधानी हटी, दुर्घटना घटी।' (idiomatic equivalent).",
+      "when_to_use_column": false,
+      "pdf": "None for this post (site has 'Request Your Ebook' and paid books)",
+      "faq": [],
+      "learning_advice": "Minimal (no method)",
+      "ux_issues": "Mega-menu duplicated, archive sidebar 2020-2026, repeated app/Telegram banners, rating widget with 0 votes, empty section heading",
+      "date": "2025-12-01",
+      "author": "Ranjan Sir",
+      "word_count_est": "1,500-2,000"
+    },
+    {
+      "domain": "grammareco.com",
+      "url": "https://grammareco.com/daily-use-english-sentences/",
+      "title": "1000 Daily Use English Sentences with PDF: Daily Conversations | Grammareco.com",
+      "h1": "1000 Daily Use English Sentences with PDF: Daily Conversations",
+      "h2s": [
+        "Basic Daily Use English Sentences",
+        "100 Short English Sentences for Daily Conversation",
+        "Simple English Sentences for Daily Conversation",
+        "Daily Routine English Sentences for Students",
+        "Daily Use English Sentences for Asking Questions",
+        "Daily Use English Sentences for Phone Calls (contains 9 unrelated H3s)",
+        "Daily Used English Sentences Download PDF",
+        "FAQs"
+      ],
+      "sentences": "1000 claimed, about 550 present with repeats",
+      "grouped_by_situation": "partial, confusing hierarchy",
+      "hindi_quality": "No Hindi at all",
+      "when_to_use_column": false,
+      "pdf": "'Click here' direct link to a .docx (not PDF), self-hosted, no gate",
+      "faq": [
+        "What are 8 daily use English sentences?",
+        "What sentences are used for shopping?",
+        "How many sentences should I learn daily?"
+      ],
+      "learning_advice": "Brief: 5-10/day",
+      "ux_issues": "Placeholder images, '#' share links, duplicated nav, structure mismatch",
+      "date": "'10 months ago'",
+      "author": "Emily Carter (ESL Content Specialist; slug mismatch)",
+      "word_count_est": "about 2,500 body"
+    },
+    {
+      "domain": "speakshark.com",
+      "url": "https://speakshark.com/blog/daily-use-english-sentences-speaking-practice",
+      "title": "100 Daily Use English Sentences for Speaking Practice",
+      "h1": "100 Daily Use English Sentences for Speaking Practice",
+      "h2s": [
+        "Why Sentence Lists Fail If You Only Read Them",
+        "How We Chose These 100 Sentences",
+        "Small Talk and Greetings",
+        "At Home",
+        "Shopping and Errands",
+        "At the Office and Work Meetings",
+        "On the Phone",
+        "Asking for Help and Directions",
+        "Feelings and Opinions",
+        "The Practice Loop That Makes Them Stick",
+        "A 7-Day Speaking Plan",
+        "FAQ",
+        "Keep reading"
+      ],
+      "sentences": "100 claimed, 100 present, 7 tables with 'When to use it' + CEFR tag (A2/B1/B2)",
+      "grouped_by_situation": true,
+      "hindi_quality": "No Hindi translations; Hindi/Urdu pronunciation trap notes only (v/w, th -> d)",
+      "when_to_use_column": true,
+      "pdf": "None",
+      "faq": [
+        "How do I use daily English sentences to improve my speaking?",
+        "How many English sentences should I practice per day?",
+        "Will reading sentence lists improve my English speaking?",
+        "What is the best app to practice daily use sentences aloud?",
+        "Are these 100 sentences suitable for beginners?",
+        "How long does it take to see progress in speaking?"
+      ],
+      "learning_advice": "Strongest in SERP: 3-step practice loop (say 3x, live conversation with feedback, spaced review), 7-day plan (one situation/day, 10-15 min), narrate tasks, role-play, phone practice with screen off, monthly cycle",
+      "ux_issues": "Very sales-heavy (6+ app CTAs with pricing), icon-only links, 14-min read",
+      "date": "Updated 2026-07-27",
+      "author": "Not shown",
+      "word_count_est": "3,500-4,000"
+    },
+    {
+      "domain": "mrmrsenglish.com",
+      "url": "https://mrmrsenglish.com/500-simple-english-to-hindi-sentences/",
+      "title": "500 Simple English to Hindi Sentences for daily use - MR MRS ENGLISH",
+      "h1": "500 Simple English to Hindi Sentences for daily use",
+      "h2s": [
+        "Importance of learning English to Hindi Sentences",
+        "(20 near-duplicate H3 sections: 'Daily Use English Sentences With Hindi', '500 Most Common...', '100 Daily use English Sentences for students', '200 Hindi to English Sentences', '99+ English to Hindi sentences', '200 Simple English Sentences For Kids', '80 Simple Sentences with Hindi Translation', etc.)"
+      ],
+      "sentences": "500 claimed; about 400 table rows; heavy repetition and templated patterns",
+      "grouped_by_situation": "weak (overlapping themes: religion, garden, pets, recycling)",
+      "hindi_quality": "Devanagari only, polite aap, slash-gender (रहा/रही); literal calques and errors. Examples: 'I am feeling sick.' -> 'मुझे बीमारी महसूस हो रही है।' (unnatural); 'I need a rake.' -> 'मुझे एक कुदाल चाहिए।' (wrong word).",
+      "when_to_use_column": false,
+      "pdf": "No PDF; PNG table images, free",
+      "faq": [],
+      "learning_advice": "Minimal",
+      "ux_issues": "'Advertisement' sidebar, duplicated TOC and nav, heading/content mismatches, duplicate related cards, broken footer link",
+      "date": "'2 years ago'",
+      "author": "Daniel Brooks (self-reported credentials)",
+      "word_count_est": "4,000-4,500"
+    },
+    {
+      "domain": "english1to5.com",
+      "url": "https://english1to5.com/daily-sentences/",
+      "title": "Daily Sentences English Hindi | 2500 Sentences | English1to5",
+      "h1": "Daily Sentences in English with Hindi",
+      "h2s": [
+        "At Home",
+        "At School",
+        "Shopping",
+        "Health",
+        "Travel",
+        "Food",
+        "Social",
+        "Start Practising Today!",
+        "Frequently Asked Questions"
+      ],
+      "sentences": "Hub page; 2,500 claimed across 50 scenario pages (50 each); no sentences on hub itself",
+      "grouped_by_situation": true,
+      "hindi_quality": "Not visible on hub",
+      "when_to_use_column": "unknown",
+      "pdf": "Free per-scenario A4 PDFs claimed (gate unverified)",
+      "faq": [
+        "What are daily sentences in English?",
+        "How many sentences are available?",
+        "Can I download the sentences as PDF?",
+        "What age group is this for?",
+        "Are there quizzes and practice exercises?"
+      ],
+      "learning_advice": "5/day = 150+/month; quizzes, dialogues, role-plays per scenario",
+      "ux_issues": "Duplicate nav, typo slugs, kids-only positioning (grades 1-5)",
+      "date": "Not shown",
+      "author": "Not shown",
+      "word_count_est": "about 1,300"
+    },
+    {
+      "domain": "youtube.com / unacademy.com",
+      "note": "Not fetchable. Unacademy 'Spoken English Daily Use Sentences' lecture series appeared for a Hindi query (login-gated). YouTube did not surface in the observed text SERPs for these queries, but video carousels are likely in India for 'roj bole jane wale' style queries."
+    }
+  ],
+  "task_c": {
+    "keyword_to_section_map": [
+      {
+        "section": "Intro / direct answer (first 120 words)",
+        "primary": "100 daily use english sentences with hindi meaning",
+        "secondary": [
+          "simple english sentences for daily use",
+          "daily use english sentences in english and hindi",
+          "roj bole jane wale english sentences"
+        ],
+        "question_heading": "What are the 100 most useful daily use English sentences with Hindi meaning?",
+        "notes": "State: exactly 100, 10 situations, natural Hindi, 'say it when' column, free PDF. Include the Hindi phrase 'रोज़ बोले जाने वाले 100 इंग्लिश सेंटेंस' once in body text."
+      },
+      {
+        "section": "PDF download block (above the first table and repeated after the last)",
+        "primary": "daily use english sentences pdf",
+        "secondary": [
+          "100 daily use english sentences with hindi meaning pdf",
+          "daily use english sentences pdf free download",
+          "daily use english sentences with hindi meaning pdf download",
+          "english sentence hindi meaning pdf"
+        ],
+        "question_heading": "How do I download the 100 daily use English sentences PDF (free, with Hindi meaning)?",
+        "notes": "Free, direct, no email gate, state page count and file size (e.g. '4 pages, under 1 MB, A4 printable'). Use anchor text 'Download the free PDF (English + Hindi)'. File name: 100-daily-use-english-sentences-hindi-meaning-speakx.pdf. Also offer 'Print-friendly' note."
+      },
+      {
+        "section": "Group 1: Greetings",
+        "primary": "english greetings sentences with hindi meaning",
+        "secondary": [
+          "daily spoken english sentences"
+        ],
+        "question_heading": "Which English greeting sentences do we use every day? (1-10)"
+      },
+      {
+        "section": "Group 2: Home",
+        "primary": "english sentences for daily use at home",
+        "secondary": [
+          "ghar par bole jane wale english sentences"
+        ],
+        "question_heading": "Which English sentences can you use at home with family? (11-20)"
+      },
+      {
+        "section": "Group 3: Work / Office",
+        "primary": "english sentences for office use",
+        "secondary": [
+          "daily use office sentences in english",
+          "english sentences for work with hindi meaning"
+        ],
+        "question_heading": "Which English sentences are used in the office every day? (21-30)",
+        "notes": "Only one Hindi result (mrglobalservices Hinglish) ranks for office cluster; link to interview articles."
+      },
+      {
+        "section": "Group 4: Asking for help",
+        "primary": "english sentences for asking help",
+        "secondary": [
+          "common english sentences for beginners"
+        ],
+        "question_heading": "How do you ask for help politely in English? (31-40)"
+      },
+      {
+        "section": "Group 5: Shopping",
+        "primary": "shopping english sentences with hindi meaning",
+        "secondary": [
+          "what sentences are used for shopping"
+        ],
+        "question_heading": "Which English sentences do you need while shopping? (41-50)",
+        "notes": "Matches grammareco's PAA 'What sentences are used for shopping?'"
+      },
+      {
+        "section": "Group 6: Travel",
+        "primary": "travel english sentences with hindi meaning",
+        "secondary": [
+          "english sentences for daily use travel"
+        ],
+        "question_heading": "Which English sentences help when travelling or asking directions? (51-60)"
+      },
+      {
+        "section": "Group 7: Everyday conversation / small talk",
+        "primary": "daily conversation english sentences",
+        "secondary": [
+          "daily use english sentences for beginners",
+          "english speaking sentences with hindi meaning"
+        ],
+        "question_heading": "Which English sentences keep an everyday conversation going? (61-70)"
+      },
+      {
+        "section": "Group 8: Feelings",
+        "primary": "english sentences to express feelings with hindi meaning",
+        "secondary": [],
+        "question_heading": "How do you express feelings in simple English? (71-80)"
+      },
+      {
+        "section": "Group 9: Polite requests",
+        "primary": "polite english sentences for daily use",
+        "secondary": [
+          "are these sentences formal or informal"
+        ],
+        "question_heading": "How do you make polite requests in English? (81-90)",
+        "notes": "Add formal vs informal marker (aap/tum) per row to answer talkdrill's FAQ gap."
+      },
+      {
+        "section": "Group 10: Ending a conversation",
+        "primary": "english sentences to end a conversation",
+        "secondary": [
+          "daily spoken english sentences"
+        ],
+        "question_heading": "Which English sentences end a conversation politely? (91-100)"
+      },
+      {
+        "section": "Seven mistakes Indian speakers make (keep)",
+        "primary": "common english mistakes indian speakers",
+        "secondary": [
+          "hindi to english translation mistakes"
+        ],
+        "question_heading": "Which mistakes do Hindi speakers make with these sentences?"
+      },
+      {
+        "section": "Learning method: 4 steps (keep) + add 7-day plan",
+        "primary": "how to learn daily use english sentences",
+        "secondary": [
+          "how many english sentences should i learn in a day",
+          "how to practice english sentences at home"
+        ],
+        "question_heading": "How can you learn 100 sentences in 7 days? (one group per day plan)",
+        "notes": "speakshark's 7-day plan is the only comparable; add a printable 7-day table inside the PDF."
+      },
+      {
+        "section": "Learning method: no one to practise with",
+        "primary": "how to practice english speaking alone",
+        "secondary": [
+          "practice english sentences when no one speaks english"
+        ],
+        "question_heading": "How do you practise these sentences when no one around you speaks English?",
+        "notes": "Directly answers engfusionbharat's only FAQ; link to /blog/practice-spoken-english-alone-at-home and SpeakX app."
+      },
+      {
+        "section": "Should you translate Hindi into English (keep)",
+        "primary": "hindi to english speaking practice",
+        "secondary": [
+          "daily use sentences english to hindi"
+        ],
+        "question_heading": "Should you translate from Hindi while speaking English?"
+      },
+      {
+        "section": "FAQ",
+        "primary": "daily use english sentences questions",
+        "secondary": [
+          "see faq list"
+        ],
+        "question_heading": "Frequently asked questions about daily use English sentences",
+        "notes": "Add FAQPage JSON-LD (currently absent)."
+      }
+    ],
+    "competitor_gaps": [
+      {
+        "gap": "No ranking page offers a free, ungated, direct PDF of exactly 100 sentences WITH Hindi meaning. Scribd/Studocu are login-gated; Gumroad Rs 73 and Speak Now Rs 99 are paid; talkdrill's is a 300-sentence lead magnet; grammareco's is a .docx without Hindi; engfusionbharat's is free but claims 5000 with garbled Hindi.",
+        "speakx_play": "Ship a clean 4-6 page A4 PDF (English | Hindi | Say it when), free, no email, with file size stated; add 'PDF' to title."
+      },
+      {
+        "gap": "Hindi quality is poor across the cluster: 'please' -> 'स्वाध्याय' (speaknowenglish), 'rake' -> 'कुदाल' (mrmrsenglish), garbled rows (engfusionbharat), masculine default with no note (talkdrill).",
+        "speakx_play": "Natural spoken Hindi reviewed by a native speaker; mark register (aap/tum) and give gender-neutral or both forms where verb gender changes; say so explicitly in intro ('natural Hindi, not word-for-word')."
+      },
+      {
+        "gap": "Only talkdrill and speakshark have a 'when to use' column; speakshark has no Hindi.",
+        "speakx_play": "Already present; make it a headline claim in meta/intro and in the PDF."
+      },
+      {
+        "gap": "Inflated counts: '500/1000/5000' pages deliver 400-580 with duplicates, fragments and ungrammatical lines.",
+        "speakx_play": "'Exactly 100, no repeats, every one checked' as a trust line; keep the list to 100."
+      },
+      {
+        "gap": "Practice routine absent on speaknowenglish, englishtak, mrmrsenglish, studocu/scribd; only speakshark has a 7-day plan (English-only).",
+        "speakx_play": "Keep 4-step method; add a 7-day, one-group-per-day plan and include it in the PDF."
+      },
+      {
+        "gap": "'No one to practise with' is the single FAQ engfusionbharat answers and a recurring learner worry; nobody answers it well.",
+        "speakx_play": "Dedicated H2 + FAQ entry; link to practice-alone article and the app."
+      },
+      {
+        "gap": "FAQ coverage is thin (0-3 questions) on Hindi-cluster pages; no FAQPage schema seen.",
+        "speakx_play": "8-10 FAQs with FAQPage JSON-LD."
+      },
+      {
+        "gap": "Formal vs informal register is asked (talkdrill FAQ) but not shown per sentence anywhere.",
+        "speakx_play": "Add a small 'Formal/Casual' tag per row in Polite requests and Greetings groups."
+      },
+      {
+        "gap": "No ranking page has audio/pronunciation for the 100 sentences (englishkitab has audio but is dated).",
+        "speakx_play": "Add a 'Hear it / say it in the app' CTA per group; consider embedding audio for the 10 'learn first' sentences."
+      },
+      {
+        "gap": "Roman-script Hindi (Hinglish) is offered by talkdrill 200+ and speaknowenglish; SpeakX has Devanagari only.",
+        "speakx_play": "Optional: add Roman transliteration in the PDF or a toggle; many searchers type 'roj bole jane wale'."
+      },
+      {
+        "gap": "UX: competitors have duplicated menus, placeholder images, ads, rating widgets with 0 votes, mid-article paid upsells.",
+        "speakx_play": "Keep page clean; add jump links to the 10 groups and a sticky 'Download PDF' link."
+      },
+      {
+        "gap": "Freshness/authorship: speaknowenglish 2023, hindimediumhelp 2020, mrmrsenglish '2 years ago', talkdrill no date.",
+        "speakx_play": "Show 'Updated' date, add dateModified to Article schema, keep named author bio."
+      }
+    ],
+    "metadata_recommendation": {
+      "current": {
+        "title": "100 Simple English Sentences for Daily Use (Hindi) | SpeakX",
+        "title_len": 59,
+        "meta_len": 154,
+        "h1": "100 simple English sentences for daily use, with Hindi meaning"
+      },
+      "recommended_title": "100 Daily Use English Sentences with Hindi Meaning + PDF",
+      "recommended_title_len": 56,
+      "title_alternates": [
+        {
+          "title": "100 Daily Use English Sentences with Hindi Meaning (Free PDF)",
+          "len": 61,
+          "note": "1 char over; Google may clip ')'"
+        },
+        {
+          "title": "Daily Use English Sentences with Hindi Meaning: 100 + Free PDF",
+          "len": 62,
+          "note": "leads with head term; over limit"
+        },
+        {
+          "title": "100 Daily Use English Sentences, Hindi Meaning + PDF | SpeakX",
+          "len": 61,
+          "note": "keeps brand; brand likely truncated"
+        }
+      ],
+      "recommended_meta": "Free PDF: 100 daily use English sentences with natural Hindi meaning, grouped by situation (home, office, shopping, travel) plus 'say it when' notes.",
+      "recommended_meta_len": 149,
+      "recommended_h1": "100 Daily Use English Sentences with Hindi Meaning (Free PDF)",
+      "keep_url": true,
+      "change_justified": true,
+      "justification": "The page ranks #1 for '100 daily use english sentences with hindi meaning pdf' on 16 impressions WITHOUT a PDF or the word 'pdf' on the page, which signals weak competition rather than a fragile win. The verified head term (590/mo) uses the word order 'daily use english sentences' + 'pdf'; the current title uses 'Simple English Sentences for Daily Use' and omits 'pdf' and the word 'meaning', so it is not an exact-phrase match for either the head term or the GSC query. Retaining '100' and 'Hindi Meaning' preserves the existing long-tail match; adding 'Daily Use' word order and 'PDF' targets the head term. Risk is limited to 2 clicks/month; expected upside is the 590/mo head term plus the pdf/download cluster. Do the title/meta/H1 change in the same deploy as the real PDF so the page can satisfy the intent it claims. Keep 'simple English sentences for daily use' in the intro paragraph and one H2 to retain that secondary cluster. Monitor GSC for 4-6 weeks; revert title only if impressions for the GSC query fall to zero."
+    },
+    "faq_questions": [
+      "How many daily use English sentences should I learn in a day?",
+      "Can I download these 100 daily use English sentences with Hindi meaning as a PDF for free?",
+      "Are these English sentences formal or informal, and when should I use 'aap' vs 'tum' equivalents?",
+      "How do I practise these sentences when no one around me speaks English?",
+      "Will reading a sentence list actually improve my English speaking?",
+      "Are these 100 sentences suitable for complete beginners (Hindi medium)?",
+      "How long does it take to start speaking with these sentences?",
+      "Should I memorise all 100 sentences at once or group by group?",
+      "Which English sentences are used most in daily life at home and in the office?",
+      "Is the Hindi meaning here word-for-word or natural spoken Hindi?"
+    ],
+    "internal_links_from_this_article": [
+      {
+        "url": "https://speakx.ai/blog/practice-spoken-english-alone-at-home",
+        "status": 200,
+        "anchor": "practise spoken English alone at home",
+        "place": "'No one to practise with' section and FAQ"
+      },
+      {
+        "url": "https://speakx.ai/blog/how-to-speak-english-fluently",
+        "status": 200,
+        "anchor": "how to speak English fluently",
+        "place": "already linked; keep in 'learn faster' section"
+      },
+      {
+        "url": "https://speakx.ai/blog/english-speaking-fluency",
+        "status": 200,
+        "anchor": "4-step plan for English speaking fluency",
+        "place": "already linked; keep"
+      },
+      {
+        "url": "https://speakx.ai/blog/english-grammar-sentence-structure",
+        "status": 200,
+        "anchor": "English sentence structure (subject-verb-object)",
+        "place": "already linked; 'Should you translate Hindi' section"
+      },
+      {
+        "url": "https://speakx.ai/blog/english-grammar-tenses",
+        "status": 200,
+        "anchor": "English grammar tenses",
+        "place": "already linked; Step 3 'change the sentence'"
+      },
+      {
+        "url": "https://speakx.ai/blog/english-pronunciation-difficulty",
+        "status": 200,
+        "anchor": "English pronunciation difficulties for Hindi speakers",
+        "place": "already linked; 'Seven mistakes' section"
+      },
+      {
+        "url": "https://speakx.ai/blog/how-to-improve-english-speaking-fluency-for-job-interviews-a-guide-for-indian-professionals",
+        "status": 200,
+        "anchor": "English speaking fluency for job interviews",
+        "place": "already linked; Work group"
+      },
+      {
+        "url": "https://speakx.ai/blog/interview-questions-answers-english-freshers",
+        "status": 200,
+        "anchor": "interview questions and answers in English for freshers",
+        "place": "NEW: Work group intro"
+      },
+      {
+        "url": "https://speakx.ai/blog/english-interview-questions-and-answers-for-corporate-professionals-a-speaking-confidence-guide",
+        "status": 200,
+        "anchor": "English for corporate professionals",
+        "place": "NEW: Work group or Polite requests"
+      },
+      {
+        "url": "https://speakx.ai/blog/how-to-speak-english-fluently-for-village-people-in-bihar-a-7-day-confidence-framework",
+        "status": 200,
+        "anchor": "7-day English confidence framework",
+        "place": "NEW: 7-day plan section"
+      },
+      {
+        "url": "https://speakx.ai/blog/master-real-life-english-your-guide-to-confident-daily-conversation",
+        "status": 200,
+        "anchor": "confident daily conversation in English",
+        "place": "NEW: Everyday conversation group"
+      },
+      {
+        "url": "https://speakx.ai/blog/unlock-confident-english-speaking-your-guide-to-daily-practice-and-learning-the-basics",
+        "status": 200,
+        "anchor": "daily English practice for beginners",
+        "place": "NEW: 'most important sentences to learn first'"
+      },
+      {
+        "url": "https://speakx.ai/blog/best-english-speaking-apps-india-speakx-vs-competitors",
+        "status": 200,
+        "anchor": "best English speaking apps in India",
+        "place": "NEW: FAQ 'best app to practise aloud'"
+      },
+      {
+        "url": "https://speakx.ai/blog/how-to-speak-english-fluently-in-parent-teacher-meetings-a-teachers-5-minute-daily-method",
+        "status": 200,
+        "anchor": "English for parent-teacher meetings",
+        "place": "optional: Home group"
+      },
+      {
+        "url": "https://speakx.ai/premium",
+        "status": 200,
+        "anchor": "SpeakX Premium",
+        "place": "closing CTA (already present via app link)"
+      }
+    ],
+    "internal_links_to_this_article": [
+      {
+        "from": "https://speakx.ai/blog/practice-spoken-english-alone-at-home",
+        "anchor": "100 daily use English sentences with Hindi meaning (free PDF)",
+        "context": "where it suggests what to say aloud when practising alone"
+      },
+      {
+        "from": "https://speakx.ai/blog/how-to-speak-english-fluently",
+        "anchor": "simple English sentences for daily use",
+        "context": "vocabulary/sentence-bank step"
+      },
+      {
+        "from": "https://speakx.ai/blog/english-speaking-fluency",
+        "anchor": "100 daily use English sentences",
+        "context": "Step 1 of the 4-step plan"
+      },
+      {
+        "from": "https://speakx.ai/blog/how-to-speak-english-fluently-for-village-people-in-bihar-a-7-day-confidence-framework",
+        "anchor": "daily use English sentences with Hindi meaning",
+        "context": "Day 1-2 material"
+      },
+      {
+        "from": "https://speakx.ai/blog/master-real-life-english-your-guide-to-confident-daily-conversation",
+        "anchor": "daily conversation English sentences with Hindi meaning",
+        "context": "examples section"
+      },
+      {
+        "from": "https://speakx.ai/blog/unlock-confident-english-speaking-your-guide-to-daily-practice-and-learning-the-basics",
+        "anchor": "100 simple English sentences for beginners (with Hindi)",
+        "context": "basics section"
+      },
+      {
+        "from": "https://speakx.ai/blog/english-grammar-sentence-structure",
+        "anchor": "100 example sentences for daily use",
+        "context": "after explaining SVO"
+      },
+      {
+        "from": "https://speakx.ai/blog/english-grammar-tenses",
+        "anchor": "daily use English sentences to practise each tense",
+        "context": "practice section"
+      },
+      {
+        "from": "https://speakx.ai/blog/english-pronunciation-difficulty",
+        "anchor": "100 daily use sentences to practise pronunciation",
+        "context": "practice drills"
+      },
+      {
+        "from": "https://speakx.ai/blog/how-to-speak-english-fluently-in-parent-teacher-meetings-a-teachers-5-minute-daily-method",
+        "anchor": "English sentences for daily use with Hindi meaning",
+        "context": "5-minute daily method material"
+      },
+      {
+        "from": "https://speakx.ai/blog/interview-questions-answers-english-freshers",
+        "anchor": "English sentences for office use",
+        "context": "deep link to Work group anchor (#work)"
+      },
+      {
+        "from": "https://speakx.ai/blog/english-interview-questions-and-answers-for-corporate-professionals-a-speaking-confidence-guide",
+        "anchor": "daily office English sentences with Hindi meaning",
+        "context": "warm-up section (#work)"
+      },
+      {
+        "from": "https://speakx.ai/blog/best-english-speaking-apps-india-speakx-vs-competitors",
+        "anchor": "free 100-sentence English-Hindi PDF",
+        "context": "free resources paragraph"
+      },
+      {
+        "from": "https://speakx.ai/blog/learning-english-with-an-ai-teacher-app-for-confident-speaking",
+        "anchor": "daily use English sentences to practise with an AI teacher",
+        "context": "what to practise"
+      },
+      {
+        "from": "https://speakx.ai/blog/how-a-personal-ai-teacher-app-improves-english-speaking-confidence",
+        "anchor": "100 daily use English sentences (Hindi meaning + PDF)",
+        "context": "starter material"
+      },
+      {
+        "from": "https://speakx.ai/blog/english-spelling-practice",
+        "anchor": "daily use English sentences",
+        "context": "optional, low relevance"
+      }
+    ],
+    "technical_notes": [
+      "Add FAQPage JSON-LD (none present; Article/BreadcrumbList/WebPage exist).",
+      "Add dateModified to Article schema and show 'Updated' date on page.",
+      "Add id anchors to each of the 10 group H3s (#greetings, #home, #work ...) for deep links and jump nav.",
+      "Host PDF on speakx.ai (not Drive) so it can rank for 'pdf' queries itself; name it descriptively; link with rel to the article; consider a small landing text on the PDF's first page with the article URL.",
+      "Current blog index shows only 7 posts; 11 sitemap posts (grammar, tenses, pronunciation, fluency, AI-teacher, 'unlock', 'master real-life') are not linked from /blog listing. Check pagination so these pages pass internal link equity."
+    ]
+  },
+  "summary": [
+    "Primary keyword 'daily use english sentences pdf' (590/mo, KD 31) is owned by Scribd uploads (4-6 of 10), then grammareco (.docx, no Hindi), engfusionbharat (free PDF, Hindi, inflated 1000+/5000+), sscstudy, engrdu, and a paid Gumroad PDF; talkdrill, speaknowenglish, englishtak, mrmrsenglish own the Hindi-meaning cluster.",
+    "PDFs in the SERP are mostly gated or paid: Scribd/Studocu need login, Gumroad Rs 73, Speak Now Rs 99 e-books, talkdrill is a 300-sentence lead magnet; only engfusionbharat (garbled Hindi) and grammareco (.docx, English-only) are free and direct. No free, direct, 100-sentence PDF with Hindi exists.",
+    "Gap 1: a free, ungated, A4 PDF with English | Hindi | 'say it when' for exactly 100 sentences.",
+    "Gap 2: natural, register-marked Hindi (competitors have literal/garbled translations) plus formal/casual tags.",
+    "Gap 3: a practice routine that answers 'no one to practise with' and gives a 7-day one-group-per-day plan, backed by 8-10 FAQs with FAQPage schema.",
+    "Title: '100 Daily Use English Sentences with Hindi Meaning + PDF' (56 chars); meta: \"Free PDF: 100 daily use English sentences with natural Hindi meaning, grouped by situation (home, office, shopping, travel) plus 'say it when' notes.\" (149 chars); H1 adds '(Free PDF)'; URL unchanged. Change is justified because the #1 ranking is on 16 impressions without a PDF, signalling weak competition; ship the title change together with the PDF and watch GSC for 4-6 weeks."
+  ]
+}
