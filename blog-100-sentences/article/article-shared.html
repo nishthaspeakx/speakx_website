@@ -42,8 +42,8 @@ body{margin:0;background:#fff;color:var(--ink);font-family:Figtree,ui-sans-serif
 .pdf-cta{margin:1.5rem 0;padding:1.25rem 1.25rem 1rem;border:1px solid #eeeff4;border-left:4px solid #ff4d00;border-radius:16px;background:#fff7f2}
 .pdf-cta h3{margin:0 0 .35rem;font-size:1.1rem;line-height:1.3;color:#0a0b0f}
 .pdf-cta p{margin:0 0 .9rem;color:#4a4a5b;font-size:.95rem}
-.pdf-cta__button{display:inline-flex;align-items:center;justify-content:center;width:100%;min-height:48px;padding:.75rem 1.25rem;border-radius:999px;background:#a53a06;color:#fff;font-weight:700;text-decoration:none;font-size:1rem}
-.pdf-cta__button:hover,.pdf-cta__button:focus-visible{background:#d04907;outline:3px solid #ffb61e;outline-offset:2px}
+.pdf-cta__button,.post a.pdf-cta__button,article a.pdf-cta__button{display:inline-flex;align-items:center;justify-content:center;width:100%;min-height:48px;padding:.75rem 1.25rem;border-radius:999px;background:#a53a06;color:#fff !important;font-weight:700;text-decoration:none !important;font-size:1rem}
+.pdf-cta__button:hover,.pdf-cta__button:focus-visible{background:#d04907;color:#fff !important;outline:3px solid #ffb61e;outline-offset:2px}
 .pdf-cta small{display:block;margin-top:.6rem;color:#666673;font-size:.8rem}
 @media (min-width:640px){.pdf-cta__button{width:auto}}
 .sentences{width:100%;border-collapse:collapse;font-size:.95rem}
@@ -52,7 +52,8 @@ body{margin:0;background:#fff;color:var(--ink);font-family:Figtree,ui-sans-serif
 .sentences th[scope=row]{color:#ff4d00;font-variant-numeric:tabular-nums}
 .sentences td[lang=hi]{font-family:"Noto Sans Devanagari",system-ui,sans-serif}
 @media (max-width:640px){.sentences{display:block;overflow-x:auto}}
-.app-cta{display:inline-block;padding:.75rem 1.25rem;border-radius:999px;background:#ff4d00;color:#fff;font-weight:700;text-decoration:none}
+.app-cta,.post a.app-cta,article a.app-cta{display:inline-block;padding:.75rem 1.25rem;border-radius:999px;background:#a53a06;color:#fff !important;font-weight:700;text-decoration:none !important}
+.app-cta:hover,.app-cta:focus-visible{background:#d04907;color:#fff !important;outline:3px solid #ffb61e;outline-offset:2px}
 
 </style>
 </head>
@@ -68,7 +69,7 @@ body{margin:0;background:#fff;color:var(--ink);font-family:Figtree,ui-sans-serif
 <aside class="pdf-cta" data-cta-position="top" aria-labelledby="pdf-cta-top">
   <h3 id="pdf-cta-top">Download Free PDF: 100 Daily Use English Sentences with Hindi Meaning</h3>
   <p>Free printable PDF in English and Hindi. Save it on your phone or print it for daily practice. No signup required.</p>
-  <a class="pdf-cta__button" href="https://nishthaspeakx.github.io/speakx_website/downloads/100-daily-use-english-sentences-with-hindi-meaning.pdf" download="100-daily-use-english-sentences-with-hindi-meaning.pdf" data-event="pdf_download" data-cta-position="top" data-pdf-filename="100-daily-use-english-sentences-with-hindi-meaning.pdf">Download 100 Daily Use English Sentences PDF — Free</a>
+  <a class="pdf-cta__button" href="https://nishthaspeakx.github.io/speakx_website/downloads/100-daily-use-english-sentences-with-hindi-meaning.pdf" data-event="pdf_download" data-cta-position="top" data-pdf-filename="100-daily-use-english-sentences-with-hindi-meaning.pdf">Download 100 Daily Use English Sentences PDF — Free</a>
   <small>Free printable PDF · English and Hindi · 7 A4 pages · no signup required</small>
 </aside>
 <h2 id="why">Why should you learn daily use English sentences instead of single words?</h2>
@@ -94,7 +95,7 @@ body{margin:0;background:#fff;color:var(--ink);font-family:Figtree,ui-sans-serif
 <aside class="pdf-cta" data-cta-position="middle" aria-labelledby="pdf-cta-middle">
   <h3 id="pdf-cta-middle">Want all 100 sentences in one printable sheet collection?</h3>
   <p>Download the free PDF: the same 100 sentences, Hindi meanings and usage notes, laid out for printing, plus a 10-day practice tracker.</p>
-  <a class="pdf-cta__button" href="https://nishthaspeakx.github.io/speakx_website/downloads/100-daily-use-english-sentences-with-hindi-meaning.pdf" download="100-daily-use-english-sentences-with-hindi-meaning.pdf" data-event="pdf_download" data-cta-position="middle" data-pdf-filename="100-daily-use-english-sentences-with-hindi-meaning.pdf">Download the free PDF</a>
+  <a class="pdf-cta__button" href="https://nishthaspeakx.github.io/speakx_website/downloads/100-daily-use-english-sentences-with-hindi-meaning.pdf" data-event="pdf_download" data-cta-position="middle" data-pdf-filename="100-daily-use-english-sentences-with-hindi-meaning.pdf">Download the free PDF</a>
   <small>Free printable PDF · English and Hindi · 7 A4 pages · no signup required</small>
 </aside>
 <h3 id="travel">Which English sentences are useful when travelling?</h3>
@@ -118,7 +119,7 @@ body{margin:0;background:#fff;color:var(--ink);font-family:Figtree,ui-sans-serif
 <aside class="pdf-cta" data-cta-position="end" aria-labelledby="pdf-cta-end">
   <h3 id="pdf-cta-end">Save these 100 English sentences for everyday practice</h3>
   <p>Download your free printable PDF. English and Hindi side by side, grouped by situation, with a 10-day tracker.</p>
-  <a class="pdf-cta__button" href="https://nishthaspeakx.github.io/speakx_website/downloads/100-daily-use-english-sentences-with-hindi-meaning.pdf" download="100-daily-use-english-sentences-with-hindi-meaning.pdf" data-event="pdf_download" data-cta-position="end" data-pdf-filename="100-daily-use-english-sentences-with-hindi-meaning.pdf">Download your free printable PDF</a>
+  <a class="pdf-cta__button" href="https://nishthaspeakx.github.io/speakx_website/downloads/100-daily-use-english-sentences-with-hindi-meaning.pdf" data-event="pdf_download" data-cta-position="end" data-pdf-filename="100-daily-use-english-sentences-with-hindi-meaning.pdf">Download your free printable PDF</a>
   <small>Free printable PDF · English and Hindi · 7 A4 pages · no signup required</small>
 </aside>
 <h2 id="beginners">Which English sentences are most useful for beginners?</h2>
