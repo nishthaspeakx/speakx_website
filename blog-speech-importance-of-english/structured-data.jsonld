@@ -1,0 +1,121 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "@id": "https://speakx.ai/blog/speech-on-importance-of-english#article",
+      "headline": "Speech on Importance of English (1-Minute and 3-Minute Versions)",
+      "description": "Ready-to-speak 1-minute and 3-minute speeches on the importance of English, plus a short essay, 10 lines and tips to deliver it with confidence.",
+      "mainEntityOfPage": "https://speakx.ai/blog/speech-on-importance-of-english",
+      "inLanguage": "en-IN",
+      "author": {
+        "@type": "Person",
+        "name": "Deepank Agarwal",
+        "affiliation": {
+          "@id": "https://speakx.ai/#organization"
+        }
+      },
+      "publisher": {
+        "@type": "Organization",
+        "@id": "https://speakx.ai/#organization",
+        "name": "SpeakX",
+        "url": "https://speakx.ai/"
+      },
+      "datePublished": "SET-ON-PUBLISH (ISO 8601)",
+      "dateModified": "SET-ON-PUBLISH (ISO 8601)",
+      "audience": {
+        "@type": "Audience",
+        "audienceType": "Young adults and older learners who want to speak English confidently"
+      },
+      "about": [
+        "Importance of English",
+        "Speech writing",
+        "Spoken English practice"
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "SpeakX",
+          "item": "https://speakx.ai/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Blog",
+          "item": "https://speakx.ai/blog"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Speech on Importance of English",
+          "item": "https://speakx.ai/blog/speech-on-importance-of-english"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What is the importance of English language?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "English is the common language of higher education, business, science, technology and the internet. It lets people from different countries, and different Indian states, understand each other. For students and professionals it opens access to textbooks, online courses, interviews and global careers, while their mother tongue remains their identity."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the importance of English in our life?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "In daily life English helps you read forms and websites, speak to doctors, banks and customer care, travel outside your state, and follow news from around the world. It also builds confidence: being able to express your ideas in English means you are heard in more rooms."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the importance of English in India?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "India has hundreds of languages, and English works as a link language between states, in higher education and in most large workplaces. Many competitive exams, college courses and job interviews use English, so it is a practical skill for study and work, not a replacement for Indian languages."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the vocational importance of English?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Vocational importance means how English helps you earn a living. Interviews, emails, client calls and presentations in many Indian companies happen in English. Workers who explain their ideas clearly in English are noticed first and can take up roles that serve customers in other states or countries."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is knowledge of English important to get a job?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "For many jobs in India, yes. Most interviews in corporate, IT, hospitality, healthcare, sales and customer-service roles are held partly or fully in English. Skills still matter most, but basic spoken English is often the filter that decides whether your skills get a chance to be seen."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How do I start a speech on the importance of English?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Start with a greeting, then one line that makes people listen: a question, a short story or a surprising idea. For example: imagine sitting in an interview, knowing the answer, but the words do not come out. Then state your topic in one sentence and move to your first point."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How long is a 1-minute speech?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "About 130 to 150 words at a relaxed speaking pace, which is roughly eight to ten short sentences. If you speak faster you will finish early and sound rushed, so practise it aloud with a timer and keep the pauses after each point."
+          }
+        }
+      ]
+    }
+  ]
+}
