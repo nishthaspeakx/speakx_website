@@ -1,0 +1,113 @@
+{
+  "url": "https://speakx.ai/blog/how-to-learn-english-fast",
+  "seo_title": "How to Learn English Fast: 10 Steps + a 30-Day Plan",
+  "seo_title_length": 51,
+  "meta_description": "How to learn English fast and quickly: 10 speaking-first steps, a 30-day plan and 15 minutes a day of practice for Indian adults and job seekers.",
+  "meta_description_length": 145,
+  "h1": "How to Learn English Fast: A Speaking-First Plan That Works",
+  "canonical": "https://speakx.ai/blog/how-to-learn-english-fast",
+  "robots": "index, follow",
+  "og_title": "How to Learn English Fast: A Speaking-First Plan That Works",
+  "og_description": "How to learn English fast and quickly: 10 speaking-first steps, a 30-day plan and 15 minutes a day of practice for Indian adults and job seekers.",
+  "answer_box_words": 62,
+  "keyword_placement": {
+    "H1 / title / URL / first sentence": "how to learn english fast",
+    "Meta + 30-day H2 + intro": "how to learn english quickly",
+    "At-home H2": "how to learn english speaking at home",
+    "Steps H2 / schema": "how to learn english step by step (justifies structure)",
+    "Body": "how to learn english; how to learn english speaking; how to improve english speaking; learn english fast; how to learn english fluently"
+  },
+  "internal_links_out": [
+    {
+      "anchor": "100 daily use English sentences with Hindi meaning",
+      "href": "https://speakx.ai/blog/100-simple-english-sentences-for-daily-use-with-hindi-meaning"
+    },
+    {
+      "anchor": "English tenses",
+      "href": "https://speakx.ai/blog/english-grammar-tenses"
+    },
+    {
+      "anchor": "English pronunciation",
+      "href": "https://speakx.ai/blog/english-pronunciation-difficulty"
+    },
+    {
+      "anchor": "learning English with an AI teacher app",
+      "href": "https://speakx.ai/blog/learning-english-with-an-ai-teacher-app-for-confident-speaking"
+    },
+    {
+      "anchor": "comparison of English speaking apps in India",
+      "href": "https://speakx.ai/blog/best-english-speaking-apps-india-speakx-vs-competitors"
+    },
+    {
+      "anchor": "how to speak English fluently",
+      "href": "https://speakx.ai/blog/how-to-speak-english-fluently"
+    },
+    {
+      "anchor": "practicing spoken English alone at home",
+      "href": "https://speakx.ai/blog/practice-spoken-english-alone-at-home"
+    },
+    {
+      "anchor": "SpeakX, an AI English-speaking app",
+      "href": "https://speakx.ai/"
+    },
+    {
+      "anchor": "Start speaking practice (CTA)",
+      "href": "https://speakx.sng.link/Ed28z/npfq/4alj?utm_source=blog&utm_medium=article&utm_campaign=how-to-learn-english-fast"
+    }
+  ],
+  "deferred_link": {
+    "anchor": "AI se English kaise sikhe (Hindi)",
+    "href": "https://speakx.ai/blog/ai-se-english-kaise-sikhe",
+    "status": "404 on 6 Nov 2026; add under Step 8 as 'Prefer reading in Hindi? → AI se English kaise sikhe' only when that page is live"
+  },
+  "internal_links_in": [
+    {
+      "from": "https://speakx.ai/blog/how-to-speak-english-fluently",
+      "anchor": "how to learn English fast (30-day plan)"
+    },
+    {
+      "from": "https://speakx.ai/blog/practice-spoken-english-alone-at-home",
+      "anchor": "a 30-day plan to learn English fast"
+    },
+    {
+      "from": "https://speakx.ai/blog/100-simple-english-sentences-for-daily-use-with-hindi-meaning",
+      "anchor": "how to learn English fast with daily speaking"
+    },
+    {
+      "from": "https://speakx.ai/blog/learning-english-with-an-ai-teacher-app-for-confident-speaking",
+      "anchor": "10 steps to learn English fast"
+    },
+    {
+      "from": "https://speakx.ai/blog/english-grammar-tenses",
+      "anchor": "the grammar you need to speak English fast"
+    },
+    {
+      "from": "ai-se-english-kaise-sikhe (when live)",
+      "anchor": "how to learn English fast (30-day plan)"
+    }
+  ],
+  "images": [
+    {
+      "placement": "hero",
+      "alt": "Young professional practicing spoken English on a phone during a commute"
+    },
+    {
+      "placement": "30-day plan",
+      "alt": "30-day plan to learn English fast with 15 minutes of daily speaking practice"
+    },
+    {
+      "placement": "10 steps",
+      "alt": "10 steps to learn English fast checklist"
+    },
+    {
+      "placement": "optional",
+      "note": "60-second video of the 15-minute daily routine; adult learners only"
+    }
+  ],
+  "notes": [
+    "US English throughout (site decision, 13 Oct 2026).",
+    "The AI tutor is referred to as 'SpeakX's AI tutor' per the brief; Sia is verified elsewhere but the brief asked not to name it here.",
+    "No hour estimates or proficiency statistics are included: the Cambridge guided-learning-hours page could not be fetched for verification on 6 Nov 2026. Add the figures with a link only after reading the source.",
+    "HowTo schema included for parsers; Google no longer shows HowTo rich results."
+  ]
+}
