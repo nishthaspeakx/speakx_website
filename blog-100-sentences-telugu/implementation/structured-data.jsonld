@@ -1,0 +1,143 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "@id": "https://speakx.ai/blog/100-simple-english-sentences-for-daily-use-with-telugu-meaning#article",
+      "headline": "100 Daily Use English Sentences with Telugu Meaning (Free PDF)",
+      "description": "100 daily use English sentences with Telugu meaning, grouped by situation: greetings, home, office, shopping and travel. Free PDF, plus a 10-day plan to say them aloud.",
+      "inLanguage": "en-IN",
+      "mainEntityOfPage": "https://speakx.ai/blog/100-simple-english-sentences-for-daily-use-with-telugu-meaning",
+      "author": {
+        "@type": "Person",
+        "name": "Deepank Agarwal",
+        "url": "https://speakx.ai/blog/author/deepank-agarwal"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "@id": "https://speakx.ai/#organization",
+        "name": "SpeakX",
+        "url": "https://speakx.ai/"
+      },
+      "datePublished": "SET-ON-PUBLISH (ISO 8601)",
+      "dateModified": "SET-ON-PUBLISH (ISO 8601)",
+      "audience": {
+        "@type": "Audience",
+        "audienceType": "Telugu-speaking young adults and older learners in India who want to speak English confidently"
+      },
+      "hasPart": {
+        "@type": "DigitalDocument",
+        "name": "100 Daily Use English Sentences with Telugu Meaning (printable PDF)",
+        "url": "https://speakx.ai/blog/100-simple-english-sentences-for-daily-use-with-telugu-meaning/100-daily-use-english-sentences-with-telugu-meaning.pdf",
+        "encodingFormat": "application/pdf",
+        "isAccessibleForFree": true,
+        "inLanguage": [
+          "en-IN",
+          "ta-IN"
+        ]
+      }
+    },
+    {
+      "@type": "LearningResource",
+      "name": "100 daily use English sentences with Telugu meaning",
+      "inLanguage": "en-IN",
+      "learningResourceType": "worksheet",
+      "teaches": "Everyday spoken English sentences for Telugu speakers",
+      "typicalAgeRange": "18-",
+      "isAccessibleForFree": true,
+      "url": "https://speakx.ai/blog/100-simple-english-sentences-for-daily-use-with-telugu-meaning"
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "SpeakX",
+          "item": "https://speakx.ai/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Blog",
+          "item": "https://speakx.ai/blog"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "100 Daily Use English Sentences with Telugu Meaning",
+          "item": "https://speakx.ai/blog/100-simple-english-sentences-for-daily-use-with-telugu-meaning"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Is the English to Telugu daily use sentences PDF free?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. The PDF is free, with no signup, and it has the same 100 sentences and Telugu meanings as this article, plus the transliteration column and a 10-day practice tracker."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What are some simple English sentences used at home, with Telugu meaning?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Simple English sentences used at home include “I am at home” (నేను ఇంట్లో ఉన్నాను), “Please come inside” (దయచేసి లోపలికి రండి), “The food is ready” (భోజనం సిద్ధంగా ఉంది) and “I will be back soon” (నేను త్వరగా తిరిగి వస్తాను). Sentences 11 to 20 above cover the home."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How many daily use English sentences should I learn in a day?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Five to ten a day is enough if you say them aloud and use one or two in real conversations. Using a sentence matters more than memorising a long list."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the difference between a sentence list and a Telugu-to-English translator?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A translator turns any text you paste into English; it does not teach you to speak. This page is a fixed list of 100 everyday sentences with Telugu meaning that you practice aloud until they come without thinking, which is what a conversation needs."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can these 100 sentences help me speak English fluently?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "They give you a foundation for everyday conversation, but memorising sentences alone does not create fluency. You also need regular speaking, listening and pronunciation practice. Our guide on how to speak English fluently covers the full plan."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Are the Telugu meanings literal translations?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. Each Telugu meaning is the natural way a Telugu speaker would say the same thing, in the polite మీరు form, not a word-for-word translation. The transliteration column shows the Telugu as it is commonly typed."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Should I use మీరు or నువ్వు?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The Telugu column uses the polite మీరు form, which is safe with anyone. With close friends or younger family you can switch to నువ్వు in Telugu, but the English sentence stays the same, because English “you” does not change."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How can I practise these sentences if no one around me speaks English?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Say each sentence aloud, record it on your phone and play it back, and run imaginary conversations with a shopkeeper or an auto driver. Then find one partner, a friend, a family member or a speaking app, for five minutes a day, so you get feedback on how you sound."
+          }
+        }
+      ]
+    }
+  ]
+}
