@@ -12,7 +12,7 @@ Daily use English sentences with Telugu meaning are short, polite lines you can 
 ## Download free PDF: English to Telugu daily use sentences
 
 The PDF has the same 100 sentences as this page, with the Telugu meaning, transliteration and “when to use” note for each, and a 10-day practice tracker on the last page. It is an A4 printable with real, selectable Telugu text, so it reads clearly on a phone and prints cleanly at home. No signup, no email.
-> **Download Free PDF: English to Telugu Daily Use Sentences  Free English to Telugu daily use sentences PDF. Save it on you** [Download the free PDF](https://speakx.ai/blog/100-simple-english-sentences-for-daily-use-with-telugu-meaning/100-daily-use-english-sentences-with-telugu-meaning.pdf)
+> **Download Free PDF: English to Telugu Daily Use Sentences  Free English to Telugu daily use sentences PDF. Save it on you** [Download the free PDF](https://speakx.ai/blog/100-simple-english-sentences-for-daily-use-with-telugu-meaning/english-to-telugu-daily-use-sentences.pdf)
 
 ## Why should you learn daily use English sentences instead of single words?
 
@@ -57,7 +57,7 @@ Practice tip: You do not need big words to be understood. “Can you help me?”
 | No. | English | Telugu | Transliteration | When to use |
 |---|---|---|---|---|| 41 | How much is this? | ఇది ఎంత? | Idi entha? | Any shop || 42 | Can you reduce the price a little? | ధర కొంచెం తగ్గించగలరా? | Dhara konchem tagginchagalaraa? | Bargaining || 43 | Do you have this in another size? | ఇది వేరే సైజులో ఉందా? | Idi vere size-lo undaa? | Clothes or shoes || 44 | Do you have another colour? | వేరే రంగు ఉందా? | Vere rangu undaa? | Choosing || 45 | I like this one. | నాకు ఇది నచ్చింది. | Naaku idi nachchindi. | Narrowing down || 46 | I don’t like this one. | నాకు ఇది నచ్చలేదు. | Naaku idi nachchaledu. | Saying no politely || 47 | Can I try this on? | నేను దీన్ని వేసుకుని చూడవచ్చా? | Nenu deenni vesukuni choodavachchaa? | Before buying clothes || 48 | Please give me the bill. | దయచేసి బిల్లు ఇవ్వండి. | Dayachesi billu ivvandi. | After choosing || 49 | I will take this. | నేను ఇది తీసుకుంటాను. | Nenu idi teesukuntaanu. | Deciding || 50 | Do you accept UPI? | మీరు UPI తీసుకుంటారా? | Meeru UPI teesukuntaraa? | Before paying |
 Practice tip: Use sentence 41 at the next shop you visit, even if you already know the price.
-> **Want all 100 sentences in one printable sheet collection?  Download the free PDF: the same 100 sentences with Telugu mea** [Download the free PDF](https://speakx.ai/blog/100-simple-english-sentences-for-daily-use-with-telugu-meaning/100-daily-use-english-sentences-with-telugu-meaning.pdf)
+> **Want all 100 sentences in one printable sheet collection?  Download the free PDF: the same 100 sentences with Telugu mea** [Download the free PDF](https://speakx.ai/blog/100-simple-english-sentences-for-daily-use-with-telugu-meaning/english-to-telugu-daily-use-sentences.pdf)
 
 ### Which English sentences are useful when travelling?
 
@@ -183,5 +183,5 @@ The Telugu column uses the polite మీరు form, which is safe with anyone. 
 ### How can I practice these sentences if no one around me speaks English?
 Say each sentence aloud, record it on your phone and play it back, and run imaginary conversations with a shopkeeper or an auto driver. Then find one partner, a friend, a family member or a speaking app, for five minutes a day, so you get feedback on how you sound.
 
-> **Save these 100 English sentences for everyday practice  Download your free printable PDF: English, Telugu meaning and tr** [Download the free PDF](https://speakx.ai/blog/100-simple-english-sentences-for-daily-use-with-telugu-meaning/100-daily-use-english-sentences-with-telugu-meaning.pdf)
+> **Save these 100 English sentences for everyday practice  Download your free printable PDF: English, Telugu meaning and tr** [Download the free PDF](https://speakx.ai/blog/100-simple-english-sentences-for-daily-use-with-telugu-meaning/english-to-telugu-daily-use-sentences.pdf)
 

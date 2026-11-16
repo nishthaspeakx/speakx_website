@@ -1,7 +1,7 @@
 import json, html, pathlib, datetime, re
 ROOT=pathlib.Path(__file__).resolve().parents[1]; d=json.load(open(ROOT/"data/sentences.json"))
 URL="https://speakx.ai/blog/100-simple-english-sentences-for-daily-use-with-telugu-meaning"
-PDF_URL=URL+"/100-daily-use-english-sentences-with-telugu-meaning.pdf"
+PDF_URL=URL+"/english-to-telugu-daily-use-sentences.pdf"
 INSTALL="https://speakx.sng.link/Ed28z/npfq/4alj?utm_source=blog&utm_medium=article&utm_campaign=100-sentences-telugu"
 B="https://speakx.ai/blog/"
 TITLE="100 Daily Use English Sentences with Telugu Meaning"
@@ -9,7 +9,7 @@ DESC="100 daily use English sentences with Telugu meaning, grouped by situation:
 H1="100 Daily Use English Sentences with Telugu Meaning (Free PDF)"
 ANSWER="Daily use English sentences with Telugu meaning are short, polite lines you can say at home, at work, in a shop or while travelling, with the Telugu meaning written next to each one. Learning 100 of them, five a day, and saying each sentence aloud is a practical way for Telugu speakers to start speaking English without building every line from scratch."
 def cta(pos, heading, text, button):
-    return f'''<aside class="pdf-cta" data-cta-position="{pos}" aria-labelledby="pdf-cta-{pos}"><h3 id="pdf-cta-{pos}">{heading}</h3><p>{text}</p><a class="pdf-cta__button" href="{PDF_URL}" download="100-daily-use-english-sentences-with-telugu-meaning.pdf" data-event="pdf_download" data-cta-position="{pos}" data-pdf-filename="100-daily-use-english-sentences-with-telugu-meaning.pdf">{button}</a><small>Free printable PDF · English, Telugu and transliteration · 9 A4 pages · no signup required</small></aside>'''
+    return f'''<aside class="pdf-cta" data-cta-position="{pos}" aria-labelledby="pdf-cta-{pos}"><h3 id="pdf-cta-{pos}">{heading}</h3><p>{text}</p><a class="pdf-cta__button" href="{PDF_URL}" download="english-to-telugu-daily-use-sentences.pdf" data-event="pdf_download" data-cta-position="{pos}" data-pdf-filename="english-to-telugu-daily-use-sentences.pdf">{button}</a><small>Free printable PDF · English, Telugu and transliteration · 9 A4 pages · no signup required</small></aside>'''
 n=0; tables=""
 for s in d["sections"]:
     rows="".join(f'<tr><th scope="row">{n+i+1}</th><td lang="en">{html.escape(en)}</td><td lang="te">{html.escape(te)}</td><td class="tr">{html.escape(tr)}</td><td>{html.escape(w)}</td></tr>' for i,(en,te,tr,w) in enumerate(s["sentences"]))
@@ -136,7 +136,7 @@ md=re.sub(r'<a [^>]*href="([^"]+)"[^>]*>(.*?)</a>', r'[\2](\1)', md); md=re.sub(
 md=html.unescape(re.sub(r'\n{3,}','\n\n',re.sub(r'<[^>]+>','',md)))
 (ROOT/"article/article.md").write_text(f"**URL:** {URL}\n**Title tag:** {TITLE}\n**Meta description:** {DESC}\n\n{md}")
 json.dump({"url":URL,"seo_title":TITLE,"seo_title_length":len(TITLE),"meta_description":DESC,"meta_description_length":len(DESC),"h1":H1,"canonical":URL,"robots":"index, follow","page_lang":"en-IN (lang=\"ta\" on every Telugu span); no page-level hreflang","og_title":H1,"og_description":DESC,
- "pdf":{"url":PDF_URL,"filename":"100-daily-use-english-sentences-with-telugu-meaning.pdf","host_rule":"Host on speakx.ai under the article path (NOT image.speakx.ai, which lets the PDF rank as its own URL). Serve with X-Robots-Tag: noindex; keep out of the sitemap.","content_type":"application/pdf"},
+ "pdf":{"url":PDF_URL,"filename":"english-to-telugu-daily-use-sentences.pdf","host_rule":"Host on speakx.ai under the article path (NOT image.speakx.ai, which lets the PDF rank as its own URL). Serve with X-Robots-Tag: noindex; keep out of the sitemap.","content_type":"application/pdf"},
  "keyword_placement":{"H1 / title / slug / first sentence":"daily use english sentences in telugu (260/mo, KD 24); 'with Telugu meaning' in the H1 covers english sentences with telugu meaning (260/mo, KD 50)","Intro + one H2":"telugu to english sentences (1,900/mo, KD 33) — list intent only","Body":"english sentences in telugu (170/mo)","PDF H2, CTA, filename":"english to telugu daily use sentences pdf (140/mo, KD 25)","Native script":"ఇంగ్లీష్ వాక్యాలు in the intro and PDF subtitle (no Semrush rows)"},
  "internal_links_out":[{"anchor":"English grammar sentence structure","href":B+"english-grammar-sentence-structure"},{"anchor":"with Hindi meaning (sister page)","href":B+"100-simple-english-sentences-for-daily-use-with-hindi-meaning"},{"anchor":"real-life English for daily conversation","href":B+"master-real-life-english-your-guide-to-confident-daily-conversation"},{"anchor":"English pronunciation difficulty","href":B+"english-pronunciation-difficulty"},{"anchor":"practicing spoken English alone at home","href":B+"practice-spoken-english-alone-at-home"},{"anchor":"how to speak English fluently","href":B+"how-to-speak-english-fluently"},{"anchor":"SpeakX","href":"https://speakx.ai/"},{"anchor":"Practice today's sentences on SpeakX (CTA)","href":INSTALL}],
  "deferred_links":[{"anchor":"with Marathi meaning","href":B+"100-simple-english-sentences-for-daily-use-with-marathi-meaning","status":"404 on 16 Nov 2026; add to the switcher when live"},{"anchor":"with Tamil meaning","href":B+"100-simple-english-sentences-for-daily-use-with-tamil-meaning","status":"404; add when live"},{"anchor":"daily use English words with Hindi meaning","href":B+"daily-use-english-words-with-hindi-meaning","status":"404; add when live"}],
