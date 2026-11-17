@@ -87,20 +87,47 @@
       "anchor": "a 7-day spelling practice plan"
     }
   ],
-  "images": [
-    {
-      "placement": "hero",
-      "alt": "Working professional proofreading an English email on a laptop"
-    },
-    {
-      "placement": "rules",
-      "alt": "Ten English spelling rules with examples on one card"
-    },
-    {
-      "placement": "practice",
-      "alt": "Free English spelling practice sheet with a 40-word self-test"
-    }
-  ],
+  "images": {
+    "host": "Upload the five files in images/ to the article's media path and set the prefix in the <img> src attributes (currently https://speakx.ai/blog/english-spelling-practice/images/). All are JPEG, sRGB, under 450 KB; no people are identifiable SpeakX staff or learners (the two photos are AI-generated stock-style images).",
+    "files": [
+      {
+        "file": "professional-proofreading-english-email.jpg",
+        "placement": "hero (after H1; also use as the featured/OG image)",
+        "alt": "Indian working professional proofreading an English email on a laptop in an office",
+        "width": 1600,
+        "height": 893,
+        "og_image": true
+      },
+      {
+        "file": "english-spelling-rules-card.jpg",
+        "placement": "after the rules intro",
+        "alt": "Card listing the 10 English spelling rules with example words for each",
+        "width": 2400,
+        "height": 1280
+      },
+      {
+        "file": "personal-spelling-mistake-list-notebook.jpg",
+        "placement": "start of the practice section",
+        "alt": "Hands writing English words in a small notebook next to a phone and a cup of tea",
+        "width": 1600,
+        "height": 893
+      },
+      {
+        "file": "english-spelling-practice-sheet-preview.jpg",
+        "placement": "inside the PDF download box",
+        "alt": "Preview of page 1 of the English spelling practice sheet: a 40-word self-test",
+        "width": 909,
+        "height": 1287
+      },
+      {
+        "file": "speakx-voice-call-with-sia.jpg",
+        "placement": "SpeakX section",
+        "alt": "SpeakX app screen showing an ongoing voice call with Sia, the AI English tutor",
+        "width": 560,
+        "height": 1200
+      }
+    ]
+  },
   "notes": [
     "US spelling in prose (practice as a verb) per the site decision; the British/American spelling section explains the choice to readers.",
     "No statistics are used. The previous version's unsourced figures were removed rather than re-sourced.",

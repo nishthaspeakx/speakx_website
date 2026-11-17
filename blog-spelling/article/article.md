@@ -5,6 +5,8 @@
 
 
 English Spelling Rules and Practice: Write Correct Spelling Every Time
+![Indian working professional proofreading an English email on a laptop in an office](https://speakx.ai/blog/english-spelling-practice/images/professional-proofreading-english-email.jpg)
+*Most spelling mistakes in work email come from a handful of patterns. Learn the rules once and the proofreading gets faster.*
 
 English spelling rules are the fastest way to fix spelling for good, because a rule covers hundreds of words while a word list covers only itself. This guide gives Hindi-medium adults and working professionals the ten rules that matter, the 40 words most often misspelled in Indian work emails, the mistakes that come specifically from thinking in Hindi, a six-step method to write correct spelling, and a 7-day practice plan with self-tests you can do in ten minutes a day.
 To write correct spelling in English, learn the ten rules that cover most words, keep a personal list of the words you get wrong, say each word in syllables before you write it, and practice spelling for ten minutes a day with a self-test. Hindi speakers also need to unlearn the habit of spelling by sound, because English is not phonetic.
@@ -17,6 +19,8 @@ The good news is that English spelling is irregular, not random. About ten rules
 ## The 10 English spelling rules that cover most words
 
 These are the rules worth memorizing. Each one comes with the examples you are most likely to type at work and the exceptions you should know.
+![Card listing the 10 English spelling rules with example words for each](https://speakx.ai/blog/english-spelling-practice/images/english-spelling-rules-card.jpg)
+*The 10 rules on one card. Save it to your phone; the details and exceptions follow below.*
 
 ### Rule 1: i before e, except after c
 Examples: believe, achieve, friend, receive, ceiling, deceiveThe rule works when the sound is “ee”. After c, write ei: receive, receipt. Exceptions you will meet at work: weird, seize, their, foreign, height.
@@ -89,6 +93,9 @@ These are real words, so no red line appears. They reach your manager’s inbox 
 
 ## Practice spelling: five exercises you can do in ten minutes
 
+![Hands writing English words in a small notebook next to a phone and a cup of tea](https://speakx.ai/blog/english-spelling-practice/images/personal-spelling-mistake-list-notebook.jpg)
+*A personal mistake list in a notebook or a phone note beats any printed list of a thousand words.*
+
 Practicing spelling only works when you test recall, not recognition. Reading a list feels productive but changes nothing; writing from memory and checking is what moves a word into long-term memory. Use these five exercises, ten minutes a day.
 
 - Cover-and-write. Cover the “correct spelling” column of the table above, write the 40 words, check, and mark the misses. Repeat the misses the next day.
@@ -134,6 +141,9 @@ Spelling and grammar reinforce each other: if a sentence feels wrong but the spe
 ## Say the words you write: where SpeakX fits
 
 Many spelling mistakes start in the mouth. If you say “goverment” and “enviroment”, you will write them that way. SpeakX is an AI English speaking app for Indian learners: you practice speaking on voice calls with an AI tutor, with explanations in Hindi and six other Indian languages, and a progress report that shows how your pronunciation is landing. Saying a word correctly in syllables, every day, is the first step of the six-step method above, and the [English pronunciation difficulty](https://speakx.ai/blog/english-pronunciation-difficulty) guide covers the sounds Hindi speakers find hardest. Spelling practice stays on this page; SpeakX is where the words get spoken.
+![SpeakX app screen showing an ongoing voice call with Sia, the AI English tutor](https://speakx.ai/blog/english-spelling-practice/images/speakx-voice-call-with-sia.jpg)
+*A voice call with Sia in the SpeakX app: say the words in syllables, get corrected, say them again.*
+
 [Practice saying these words on SpeakX](https://speakx.sng.link/Ed28z/npfq/4alj?utm_source=blog&utm_medium=article&utm_campaign=english-spelling-rules)
 For the sentences you will use these words in, see [100 daily use English sentences with Hindi meaning](https://speakx.ai/blog/100-simple-english-sentences-for-daily-use-with-hindi-meaning), and for the emails and interviews where spelling matters most, our guide to [English for corporate interviews](https://speakx.ai/blog/english-interview-questions-and-answers-for-corporate-professionals-a-speaking-confidence-guide).
 

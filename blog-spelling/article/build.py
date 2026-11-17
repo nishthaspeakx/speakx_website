@@ -3,6 +3,7 @@ ROOT=pathlib.Path(__file__).resolve().parents[1]
 URL="https://speakx.ai/blog/english-spelling-practice"; B="https://speakx.ai/blog/"
 INSTALL="https://speakx.sng.link/Ed28z/npfq/4alj?utm_source=blog&utm_medium=article&utm_campaign=english-spelling-rules"
 PDF_URL="https://speakx.ai/blog/english-spelling-practice/english-spelling-practice-sheet.pdf"
+IMG="https://speakx.ai/blog/english-spelling-practice/images/"  # tech: host the five files in images/ here (or the CMS media path) and update the prefix
 TITLE="English Spelling Rules and Practice: Hard Words, Hindi Tips"
 DESC="English spelling rules with examples, 40 commonly misspelled words, Hindi-speaker tips, three self-tests and a 7-day plan for adults who write emails at work."
 H1="English Spelling Rules and Practice: Write Correct Spelling Every Time"
@@ -86,6 +87,7 @@ body=f'''
 
 <h2 id="rules">The 10 English spelling rules that cover most words</h2>
 <p>These are the rules worth memorising. Each one comes with the examples you are most likely to type at work and the exceptions you should know.</p>
+<figure><img src="{IMG}english-spelling-rules-card.jpg" alt="Card listing the 10 English spelling rules with example words for each" width="2400" height="1280" loading="lazy"><figcaption>The 10 rules on one card. Save it to your phone; the details and exceptions follow below.</figcaption></figure>
 {rules_html}
 
 <h2 id="misspelled">40 commonly misspelled words in English (and how to remember them)</h2>
@@ -133,6 +135,7 @@ body=f'''
 </ul>
 
 <h2 id="practice">Practice spelling: five exercises you can do in ten minutes</h2>
+<figure><img src="{IMG}personal-spelling-mistake-list-notebook.jpg" alt="Hands writing English words in a small notebook next to a phone and a cup of tea" width="1600" height="893" loading="lazy"><figcaption>A personal mistake list in a notebook or a phone note beats any printed list of a thousand words.</figcaption></figure>
 <p>Practicing spelling only works when you test recall, not recognition. Reading a list feels productive but changes nothing; writing from memory and checking is what moves a word into long-term memory. Use these five exercises, ten minutes a day.</p>
 <ol>
 <li><strong>Cover-and-write.</strong> Cover the “correct spelling” column of the table above, write the 40 words, check, and mark the misses. Repeat the misses the next day.</li>
@@ -162,7 +165,7 @@ body=f'''
 <p><strong>Self-test 1:</strong> 1 (c) achieve · 2 (b) definitely · 3 (d) regular · 4 (a) business · 5 (c) coming · 6 (b) environment · 7 (c) forty · 8 (d) occasion · 9 (c) independent · 10 (d) pursue.</p>
 <p><strong>Self-test 2:</strong> writing, received, Wednesday, maintenance, tomorrow, schedule, necessary, Sincerely.</p>
 </details>
-<aside class="pdf-cta" data-cta-position="practice" aria-labelledby="pdf-cta-practice"><h3 id="pdf-cta-practice">Free English spelling practice sheet (PDF)</h3><p>The 40 words as a cover-and-write test, the ten rules on one page, and a blank personal mistake list. Print it or save it on your phone. No signup.</p><a class="pdf-cta__button" href="{PDF_URL}" download="english-spelling-practice-sheet.pdf" data-event="pdf_download" data-cta-position="practice" data-pdf-filename="english-spelling-practice-sheet.pdf">Download the spelling practice sheet</a><small>2 A4 pages · free · no signup required</small></aside>
+<aside class="pdf-cta pdf-cta--with-preview" data-cta-position="practice" aria-labelledby="pdf-cta-practice"><img class="pdf-cta__preview" src="{IMG}english-spelling-practice-sheet-preview.jpg" alt="Preview of page 1 of the English spelling practice sheet: a 40-word self-test" width="909" height="1287" loading="lazy"><div class="pdf-cta__text"><h3 id="pdf-cta-practice">Free English spelling practice sheet (PDF)</h3><p>The 40 words as a cover-and-write test, the ten rules on one page, and a blank personal mistake list. Print it or save it on your phone. No signup.</p><a class="pdf-cta__button" href="{PDF_URL}" download="english-spelling-practice-sheet.pdf" data-event="pdf_download" data-cta-position="practice" data-pdf-filename="english-spelling-practice-sheet.pdf">Download the spelling practice sheet</a><small>2 A4 pages · free · no signup required</small></div></aside>
 
 <h2 id="plan">A 7-day English spelling practice plan</h2>
 <p>One week is enough to learn the rules and build the habit; after that, the personal list does the work. Each day is ten to fifteen minutes.</p>
@@ -171,6 +174,7 @@ body=f'''
 
 <h2 id="speakx">Say the words you write: where SpeakX fits</h2>
 <p>Many spelling mistakes start in the mouth. If you say “goverment” and “enviroment”, you will write them that way. SpeakX is an AI English speaking app for Indian learners: you practise speaking on voice calls with an AI tutor, with explanations in Hindi and six other Indian languages, and a progress report that shows how your pronunciation is landing. Saying a word correctly in syllables, every day, is the first step of the six-step method above, and the <a href="{B}english-pronunciation-difficulty">English pronunciation difficulty</a> guide covers the sounds Hindi speakers find hardest. Spelling practice stays on this page; SpeakX is where the words get spoken.</p>
+<figure class="app-shot"><img src="{IMG}speakx-voice-call-with-sia.jpg" alt="SpeakX app screen showing an ongoing voice call with Sia, the AI English tutor" width="560" height="1200" loading="lazy"><figcaption>A voice call with Sia in the SpeakX app: say the words in syllables, get corrected, say them again.</figcaption></figure>
 <p><a class="app-cta" href="{INSTALL}" data-event="cta_click" data-cta-position="article_body">Practise saying these words on SpeakX</a></p>
 <p>For the sentences you will use these words in, see <a href="{B}100-simple-english-sentences-for-daily-use-with-hindi-meaning">100 daily use English sentences with Hindi meaning</a>, and for the emails and interviews where spelling matters most, our guide to <a href="{B}english-interview-questions-and-answers-for-corporate-professionals-a-speaking-confidence-guide">English for corporate interviews</a>.</p>
 
@@ -180,6 +184,7 @@ body=f'''
 article=f'''<!-- Revised body for {URL} (URL unchanged). Generated {datetime.date.today()}. Replaces the previous "Everything You Need to Know" version; all unsourced statistics removed. -->
 <article class="post" lang="en-IN">
 <h1>{H1}</h1>
+<figure class="hero"><img src="{IMG}professional-proofreading-english-email.jpg" alt="Indian working professional proofreading an English email on a laptop in an office" width="1600" height="893" loading="eager" fetchpriority="high"><figcaption>Most spelling mistakes in work email come from a handful of patterns. Learn the rules once and the proofreading gets faster.</figcaption></figure>
 {body}
 </article>'''
 def us(t):
@@ -206,13 +211,19 @@ meta={"url":URL,"url_change":"none","seo_title":TITLE,"seo_title_length":len(TIT
  "internal_links_out":[{"anchor":"English grammar sentence structure","href":B+"english-grammar-sentence-structure"},{"anchor":"English tenses guide","href":B+"english-grammar-tenses"},{"anchor":"English pronunciation difficulty","href":B+"english-pronunciation-difficulty"},{"anchor":"100 daily use English sentences with Hindi meaning","href":B+"100-simple-english-sentences-for-daily-use-with-hindi-meaning"},{"anchor":"English for corporate interviews","href":B+"english-interview-questions-and-answers-for-corporate-professionals-a-speaking-confidence-guide"},{"anchor":"Practise saying these words on SpeakX (CTA)","href":INSTALL}],
  "removed_links":[{"href":B+"english-speaking-fluency","reason":"301-redirects to /blog/how-to-speak-english-fluently; replaced"}],
  "internal_links_in":[{"from":B+"english-grammar-sentence-structure","anchor":"English spelling rules and commonly misspelled words"},{"from":B+"english-grammar-tenses","anchor":"spelling rules for -ed and -ing endings"},{"from":B+"english-pronunciation-difficulty","anchor":"spelling tips for Hindi speakers"},{"from":B+"english-interview-questions-and-answers-for-corporate-professionals-a-speaking-confidence-guide","anchor":"commonly misspelled words in work emails"},{"from":B+"100-simple-english-sentences-for-daily-use-with-hindi-meaning","anchor":"English spelling rules and practice"},{"from":B+"how-to-speak-english-fluently","anchor":"a 7-day spelling practice plan"}],
- "images":[{"placement":"hero","alt":"Working professional proofreading an English email on a laptop"},{"placement":"rules","alt":"Ten English spelling rules with examples on one card"},{"placement":"practice","alt":"Free English spelling practice sheet with a 40-word self-test"}],
+ "images":{"host":"Upload the five files in images/ to the article's media path and set the prefix in the <img> src attributes (currently "+IMG+"). All are JPEG, sRGB, under 450 KB; no people are identifiable SpeakX staff or learners (the two photos are AI-generated stock-style images).","files":[
+  {"file":"professional-proofreading-english-email.jpg","placement":"hero (after H1; also use as the featured/OG image)","alt":"Indian working professional proofreading an English email on a laptop in an office","width":1600,"height":893,"og_image":True},
+  {"file":"english-spelling-rules-card.jpg","placement":"after the rules intro","alt":"Card listing the 10 English spelling rules with example words for each","width":2400,"height":1280},
+  {"file":"personal-spelling-mistake-list-notebook.jpg","placement":"start of the practice section","alt":"Hands writing English words in a small notebook next to a phone and a cup of tea","width":1600,"height":893},
+  {"file":"english-spelling-practice-sheet-preview.jpg","placement":"inside the PDF download box","alt":"Preview of page 1 of the English spelling practice sheet: a 40-word self-test","width":909,"height":1287},
+  {"file":"speakx-voice-call-with-sia.jpg","placement":"SpeakX section","alt":"SpeakX app screen showing an ongoing voice call with Sia, the AI English tutor","width":560,"height":1200}]},
  "notes":["US spelling in prose (practice as a verb) per the site decision; the British/American spelling section explains the choice to readers.","No statistics are used. The previous version's unsourced figures were removed rather than re-sourced.","Author kept as Supriya Manchanda (author page live); datePublished kept, dateModified to be set on publish.","FAQ schema text matches the visible FAQ word for word."]}
 (ROOT/"implementation/seo-metadata.json").write_text(json.dumps(meta,ensure_ascii=False,indent=2))
 json.dump({"rules":RULES,"misspelled":MISSPELLED,"plan":PLAN},open(ROOT/"pdf/content.json","w"),ensure_ascii=False,indent=1)
 words=len(re.sub(r"<[^>]+>"," ",re.sub(r"<table[\s\S]*?</table>","",article)).split()); total=len(re.sub(r"<[^>]+>"," ",article).split())
 print("words (no tables):", words, "| total:", total, "| title", len(TITLE), "| desc", len(DESC), "| rules", len(RULES), "| misspelled", len(MISSPELLED), "| faqs", len(FAQS))
-md=re.sub(r'<aside[\s\S]*?</aside>', "> **Free English spelling practice sheet (PDF)** — ["+PDF_URL+"]("+PDF_URL+")\n", article)
+md=re.sub(r'<figure[^>]*><img[^>]*src="([^"]+)"[^>]*alt="([^"]*)"[^>]*>(?:<figcaption>(.*?)</figcaption>)?</figure>', r'![\2](\1)\n*\3*\n', article)
+md=re.sub(r'<aside[\s\S]*?</aside>', "> **Free English spelling practice sheet (PDF)** — ["+PDF_URL+"]("+PDF_URL+")\n", md)
 md=re.sub(r'<h2[^>]*>(.*?)</h2>', r'\n## \1\n', md); md=re.sub(r'<h3[^>]*>(.*?)</h3>', r'\n### \1\n', md); md=re.sub(r'<caption>(.*?)</caption>', r'\n**\1**\n', md)
 md=re.sub(r'<tr><td class="wrong">(.*?)</td><td class="right">(.*?)</td><td>(.*?)</td></tr>', r'| \1 | \2 | \3 |', md); md=re.sub(r'<tr><th scope="row">(.*?)</th><td>(.*?)</td><td>(.*?)</td></tr>', r'| \1 | \2 | \3 |', md)
 md=re.sub(r'<thead>.*?</thead>', lambda m: "| Often written as | Correct spelling | Rule or memory hook |\n|---|---|---|" if "Often" in m.group(0) else "| Day | Task | Words |\n|---|---|---|", md, flags=re.S)

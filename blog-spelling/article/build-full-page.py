@@ -24,7 +24,7 @@ tail=re.sub(r'<script>.*?</script>', '<script>'+js+'</script>', tail, flags=re.S
 by='<p class="byline">By <a href="https://speakx.ai/blog/author/supriya-manchanda">Supriya Manchanda</a> · SpeakX · Updated '+datetime.date.today().strftime('%d %B %Y')+' · ~14 min read</p>'
 def doc(b, note): return head.replace("<body>\n","<body>\n"+note) + b.replace("</h1>","</h1>\n"+by,1) + "\n" + tail
 open(ROOT/"article/article-full-page.html","w").write(doc(body,""))
-shared=body.replace(meta["pdf"]["url"],TEST_PDF).replace(' download="english-spelling-practice-sheet.pdf"','')
+shared=body.replace(meta["pdf"]["url"],TEST_PDF).replace("https://speakx.ai/blog/english-spelling-practice/images/","images/").replace(' download="english-spelling-practice-sheet.pdf"','')
 open(ROOT/"article/article-shared.html","w").write(doc(shared,'<div class="preview-note">Shared preview of the revised article for speakx.ai/blog/english-spelling-practice. The PDF button points to a test copy; on speakx.ai it points to the article path.</div>\n'))
 out=open(ROOT/"article/article-full-page.html").read()
 print("full page bytes:", len(out), "| noto refs:", out.count("Noto"), "| marathi refs:", out.lower().count("marathi"), "| tamil refs:", out.lower().count("tamil"))
