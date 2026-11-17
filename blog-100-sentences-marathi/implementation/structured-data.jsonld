@@ -1,0 +1,143 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "@id": "https://speakx.ai/blog/100-simple-english-sentences-for-daily-use-with-marathi-meaning#article",
+      "headline": "100 Daily Use English Sentences with Marathi Meaning (Free PDF)",
+      "description": "100 daily use English sentences with Marathi meaning, grouped by situation: greetings, home, office, shopping and travel. Free PDF, plus a 10-day plan to say them aloud.",
+      "inLanguage": "en-IN",
+      "mainEntityOfPage": "https://speakx.ai/blog/100-simple-english-sentences-for-daily-use-with-marathi-meaning",
+      "author": {
+        "@type": "Person",
+        "name": "Deepank Agarwal",
+        "url": "https://speakx.ai/blog/author/deepank-agarwal"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "@id": "https://speakx.ai/#organization",
+        "name": "SpeakX",
+        "url": "https://speakx.ai/"
+      },
+      "datePublished": "SET-ON-PUBLISH (ISO 8601)",
+      "dateModified": "SET-ON-PUBLISH (ISO 8601)",
+      "audience": {
+        "@type": "Audience",
+        "audienceType": "Marathi-speaking young adults and older learners in India who want to speak English confidently"
+      },
+      "hasPart": {
+        "@type": "DigitalDocument",
+        "name": "100 Daily Use English Sentences with Marathi Meaning (printable PDF)",
+        "url": "https://speakx.ai/blog/100-simple-english-sentences-for-daily-use-with-marathi-meaning/100-daily-use-english-sentences-with-marathi-meaning.pdf",
+        "encodingFormat": "application/pdf",
+        "isAccessibleForFree": true,
+        "inLanguage": [
+          "en-IN",
+          "ta-IN"
+        ]
+      }
+    },
+    {
+      "@type": "LearningResource",
+      "name": "100 daily use English sentences with Marathi meaning",
+      "inLanguage": "en-IN",
+      "learningResourceType": "worksheet",
+      "teaches": "Everyday spoken English sentences for Marathi speakers",
+      "typicalAgeRange": "18-",
+      "isAccessibleForFree": true,
+      "url": "https://speakx.ai/blog/100-simple-english-sentences-for-daily-use-with-marathi-meaning"
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "SpeakX",
+          "item": "https://speakx.ai/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Blog",
+          "item": "https://speakx.ai/blog"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "100 Daily Use English Sentences with Marathi Meaning",
+          "item": "https://speakx.ai/blog/100-simple-english-sentences-for-daily-use-with-marathi-meaning"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Is the 100 daily use English sentences with Marathi meaning PDF free?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. The PDF is free, with no signup, and it has the same 100 sentences and Marathi meanings as this article, plus the transliteration column and a 10-day practice tracker."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What are some simple English sentences used at home, with Marathi meaning?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Simple English sentences used at home include “I am at home” (मी घरी आहे), “Please come inside” (कृपया आत या), “The food is ready” (जेवण तयार आहे) and “I will be back soon” (मी लवकर परत येईन). Sentences 11 to 20 above cover the home."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How many daily use English sentences should I learn in a day?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Five to ten a day is enough if you say them aloud and use one or two in real conversations. Using a sentence matters more than memorising a long list."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How do I make a Marathi sentence in English?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Start from the pattern, not the words. Find the English sentence that does the same job as your Marathi one (a request, a question, a status) and reuse its shape: “मला पाणी हवं आहे” is “I need some water”, so “मला वेळ हवा आहे” becomes “I need some time”. Word-by-word translation gives sentences like “I am having a doubt”; pattern practice gives natural English."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can these 100 sentences help me speak English fluently?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "They give you a foundation for everyday conversation, but memorising sentences alone does not create fluency. You also need regular speaking, listening and pronunciation practice. Our guide on how to speak English fluently covers the full plan."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Are the Marathi meanings literal translations?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. Each Marathi meaning is the natural way a Marathi speaker would say the same thing, in the polite तुम्ही form, not a word-for-word translation. Where the verb changes with the speaker, both forms are given, for example थकलो आहे / थकले आहे. The transliteration column shows the Marathi as it is commonly typed."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Should I use तुम्ही or तू?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The Marathi column uses the polite तुम्ही form, which is safe with anyone. With close friends or younger family you can switch to तू in Marathi, but the English sentence stays the same, because English “you” does not change."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How can I practise these sentences if no one around me speaks English?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Say each sentence aloud, record it on your phone and play it back, and run imaginary conversations with a shopkeeper or an auto driver. Then find one partner, a friend, a family member or a speaking app, for five minutes a day, so you get feedback on how you sound."
+          }
+        }
+      ]
+    }
+  ]
+}

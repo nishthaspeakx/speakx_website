@@ -1,0 +1,357 @@
+# Content Brief: 100 Daily Use English Sentences with Marathi Meaning (Free PDF)
+Status: New post (candidate URL returns 404; speakx.ai sitemap has no Marathi URL, checked Nov 12, 2026) | Prepared: Nov 12, 2026 | Owner: Deepank Agarwal | Writer: TBD | Priority: 1 of 3 language-sentence pages (publish first)
+Field
+Value
+URL
+/blog/100-simple-english-sentences-for-daily-use-with-marathi-meaning
+Primary keyword
+english sentences in marathi
+Co-primary
+english sentences with marathi meaning
+Supporting
+daily use english sentences with marathi meaning; marathi to english sentences; daily use english sentences in marathi
+Format
+100 sentences in 10 situation tables (English, Marathi meaning in Devanagari, transliteration, when to use) + say-it-aloud drill + free printable PDF + FAQ
+Target length
+2,000–2,400 words of guidance, plus exactly 100 sentence rows (no padding)
+Audience
+Young adults and older learners: Marathi-medium students, job seekers, homemakers and working professionals who want to speak English confidently. Never describe SpeakX as a kids' app.
+Schema
+Article + FAQPage (+ optional LearningResource / ItemList)
+Language
+English-led page (lang="en-IN") with Marathi meanings. Set lang="mr" on every Marathi-script span.
+Goal
+Rank for Marathi-meaning sentence lists; give Google a dedicated page for इंग्रजी वाक्य 100 pdf, which already shows SpeakX with no Marathi URL
+## 1. Keywords (Semrush, India database in, pulled Nov 12, 2026)
+Intent code 1 in Semrush is Informational. SpeakX rank: Semrush resource_organic for speakx.ai with keyword containing "marathi" returned no data (Nov 12, 2026). SpeakX is not in the Semrush phrase_organic top 15 for the keywords that returned a SERP. The only SpeakX visibility signal is Search Console.
+Keyword
+Volume/mo
+KD
+Intent
+SpeakX rank
+Use
+english sentences in marathi
+1,900
+36
+Informational
+Not in Semrush IN top 15 (phrase_organic: no data)
+Primary: H1, title, URL slug (with "daily use" + "Marathi meaning")
+english to marathi sentences
+1,900
+36
+Informational
+Not in Semrush IN top 15 (phrase_organic: no data)
+Same volume, KD and 12-month trend as the primary. Treat as a close variant, not extra demand. Do not add the two volumes together.
+english sentences with marathi meaning
+1,300
+30
+Informational
+Not in Semrush IN top 15 (phrase_organic: no data)
+Co-primary: H1, title, table header
+daily use english sentences with marathi meaning
+590
+27
+Informational
+Not in Semrush IN top 15
+Supporting: intro, PDF name, H2
+marathi to english sentences
+590
+32
+Informational
+Semrush phrase_organic: no data
+Supporting / body. May mix list and translator intent; this page must clearly be a sentence list, not a translator tool.
+daily use english sentences in marathi
+170
+26
+Informational
+Not in Semrush IN top 15
+Supporting. High SERP overlap with the 590-volume "with marathi meaning" term (see §2).
+daily use english sentences with marathi meaning pdf
+20
+0
+—
+—
+PDF file name and download CTA. Small in Semrush; stronger in Search Console (below).
+basic english sentences in marathi
+10
+0
+—
+—
+Too small for the title.
+how to make marathi sentence in english
+20
+0
+—
+—
+One FAQ only.
+इंग्रजी वाक्य
+0
+0
+—
+GSC only
+Semrush IN returned volume 0 (also 0 when read Nov 10). Still use the Marathi spelling naturally in the intro and PDF title, because Search Console already shows demand.
+रोजच्या वापरातील इंग्रजी वाक्य
+0
+0
+—
+—
+Semrush volume 0. Optional in the intro; do not build the title around it.
+Do not target as primary: english sentence meaning in marathi is 3,600/mo, KD 33 (Semrush IN, Nov 12, 2026). That phrasing is likely a dictionary lookup for the word "sentence" (वाक्य), not a list of daily sentences. Mention it only if a later SERP check confirms list intent.
+Keywords Semrush did not return a row for (not the same as volume 0): 100 english sentences in marathi, english sentences in marathi pdf, 100 daily use english sentences with marathi meaning, simple english sentences in marathi, marathi to english sentences pdf, 100 english sentences with marathi meaning, plus most other Devanagari variants (इंग्रजी वाक्य 100 pdf, मराठी ते इंग्रजी वाक्य, and similar). Do not invent volumes for these. The page can still use "100" in the title because the live Hindi sister page does, and the list will actually contain 100 sentences.
+### Search Console (export dated 2026-11-09, re-read Nov 12, 2026)
+From speakx.ai-Performance-Queries-2026-11-09.csv:
+- इंग्रजी वाक्य 100 pdf: 0 clicks, 30 impressions, position 6.1. First appearance in any export on file. Google is already testing SpeakX for a Marathi-script "100 sentences PDF" query, and the site has no Marathi page.
+- Related Marathi query, different intent: इंग्रजी शिकण्यासाठी ॲप free — 0 clicks, 21 impressions, position 8.95. Do not target that app-download query on this sentence-list page (it belongs to the "Learn spoken English from Marathi" idea on the board).
+### Question keywords (Semrush phrase_questions for "english sentences in marathi", IN, Nov 12, 2026)
+Only one question had volume: how to make marathi sentence in english (20). Four related questions returned volume 0. phrase_questions for "daily use english sentences with marathi meaning" returned no data. Build the FAQ from the useful questions below, and mark unlisted volumes as (unverified).
+## 2. Intent and SERP analysis
+Search intent: People want a ready-made list of everyday English sentences with the Marathi meaning next to each one, often as a printable or downloadable PDF. They are not looking for a translator box, a grammar course, or a kids' worksheet.
+Model page: the live Hindi sister post, 100 Daily Use English Sentences with Hindi Meaning (Free PDF) (HTTP 200, Nov 12, 2026). Use the same 10 situation groups, the same 100 English sentences (so the language switcher is honest), a top-and-mid PDF CTA, a 10-day say-it-aloud tracker, beginner shortlist, a language-specific "mistakes" section, and a SpeakX practice CTA. Change the meaning column, the title, the mistake examples, and the audience line.
+### Semrush phrase_organic, IN, Nov 12, 2026
+Semrush returned no organic SERP for english sentences in marathi, english sentences with marathi meaning, or marathi to english sentences. Do not invent those rankings.
+daily use english sentences with marathi meaning (590/mo, KD 27) — top 10:
+- webshodhinmarathi.in — 230 daily use English sentences in Marathi (HTML list)
+- scribd.com — "daily-use-phrases" document (PDF/doc host)
+- superprof.co.in — daily use Marathi sentence in English (blog)
+- youtube.com — playlist
+- in.pinterest.com — "100 useful short sentences / 100 daily English sentences Marathi"
+- speaknowenglish.com — "100 daily use English sentence with Marathi meaning"
+- youtube.com — video
+- amazon.in — "Spoken English 1000 Daily Sentences" book
+- scribd.com — "100 English Sentences With Marathi Meanings Part 1"
+- facebook.com — post, "daily use English sentences with Marathi translation"
+Positions 11–15 include dailyenglish4u.com (50 sentences), thestudykatta.com (1,000 sentences with Hindi and Marathi), dailyuseenglishsentences.com, kamalshukla.com, and learnentry.com.
+daily use english sentences in marathi (170/mo, KD 26) shares 7 of the same top-10 domains/URLs (webshodhinmarathi, YouTube playlist, Scribd, Pinterest, speaknowenglish, the second YouTube video, Amazon). Google treats these two queries as the same list intent. One page can cover both.
+Formats that rank: HTML sentence tables, Scribd PDFs, YouTube videos/playlists, Pinterest pins, one Amazon book, Facebook posts. The bar is a clear 50–230 sentence list, not a domain-authority hub. Scribd and YouTube occupying several slots is why this page needs both a free PDF and a short spoken video.
+PDF / YouTube presence: Yes. Scribd twice in the top 10; YouTube twice (plus a playlist); Pinterest once. SERP feature codes reported by Semrush for the 590-volume term: 5, 7, 9, 20, 21, 36, 52. Mapping of those codes is (unverified). AI Overview presence is (unverified).
+Tracked competitors (Stimuler, Supernova, Duolingo, Speak, SpeakEasy, English Seekho, MySivi, EngVarta): none appear in the Semrush top 15 for either Marathi query above.
+Web search snapshot (Nov 12, 2026; not a ranked Google India SERP): list pages also include marathi-shala.com (50 sentences, Marathi title), vocabshiksha.com (100 simple English sentences with Marathi meanings), dimasathairili.com, and translator-style sites such as engmar.in. Use this only as a format check.
+Decision: One new page. Do not fold this into the Hindi post, and do not build a translator tool.
+## 3. On-page metadata
+- Title tag (≤60): 100 Daily Use English Sentences with Marathi Meaning
+- Meta (≤155): 100 daily use English sentences with Marathi meaning, grouped by situation: greetings, home, office, shopping and travel. Free PDF, plus a 10-day plan to say them aloud.
+- H1: 100 Daily Use English Sentences with Marathi Meaning (Free PDF)
+- URL: https://speakx.ai/blog/100-simple-english-sentences-for-daily-use-with-marathi-meaning
+- Use "100" only if the published page and the PDF both contain exactly 100 sentences, checked against each other, as the Hindi post does.
+- Open with "english sentences in marathi" / "with Marathi meaning" in sentence 1 of the intro.
+## 4. Outline with section guidance
+Reuse the Hindi post's 100 English sentences and 10 groups so the language switcher is accurate. Do not invent a different set.
+### Intro (~100 words)
+Primary keyword in sentence 1. Who it is for (Marathi-medium students, job seekers, homemakers, working professionals). How the list is organised. Mention the free PDF and the 10-day say-it-aloud plan. Naturally include the Marathi phrase इंग्रजी वाक्य once, inside a lang="mr" span.
+### Answer box: "What are daily use English sentences with Marathi meaning?"
+Use this 52-word paragraph, written so Google's AI Overviews and other AI answers can quote it:
+Daily use English sentences with Marathi meaning are short, polite lines you can say at home, at work, in a shop or while travelling, with the Marathi meaning written next to each one. Learning 100 of them, five a day, and saying each sentence aloud is a practical way for Marathi speakers to start speaking English without building every line from scratch.
+### H2: Download free PDF: 100 daily use English sentences with Marathi meaning (~60 words + button)
+Place this near the top, as the Hindi post does. No signup. See PDF spec in §8.
+### H2: Why should you learn daily use English sentences instead of single words? (~150 words)
+Same argument as the Hindi post: a ready-made sentence is faster to say than assembling words. The Marathi column is a first step, not a forever crutch. Internal link to the Hindi sister page as the Hindi-meaning version, and to /blog/english-grammar-sentence-structure (live, 200 OK) for optional grammar.
+### H2: What are the 100 most useful English sentences for daily use? (~80 words + 10 tables)
+Direct one- or two-sentence answer, then the 10 groups. Each group is an H3 question (mirror the Hindi post) and a table:
+No. | English sentence | Marathi meaning (lang="mr") | Transliteration | When to use
+Ten sentences per group, numbered 1–100:
+- Greetings and introductions (1–10)
+- English sentences used at home (11–20)
+- Office and workplace conversations (21–30)
+- Asking questions and requesting help (31–40)
+- Shopping and payments (41–50)
+- Travel, transport and directions (51–60)
+- Phone calls and everyday conversations (61–70)
+- Feelings and personal situations (71–80)
+- Polite requests and common responses (81–90)
+- Ending conversations and goodbyes (91–100)
+After each table, a one-line practice tip (say them aloud, swap in your own name, use one in a real conversation today).
+Add a mid-page PDF CTA after the shopping table, as the Hindi post does.
+Sample rows (writer must have a native Marathi speaker verify every meaning and transliteration before publishing; these are drafts only):
+No.
+English sentence
+Marathi meaning
+Transliteration
+When to use
+1
+Good morning.
+शुभ सकाळ. / गुड मॉर्निंग.
+Shubh sakal.
+Before noon
+4
+How are you?
+तुम्ही कसे आहात?
+Tumhi kase aahat?
+Meeting anyone
+7
+Nice to meet you.
+तुम्हाला भेटून आनंद झाला.
+Tumhala bhetun anand zhala.
+First meeting
+9
+My name is Rahul.
+माझे नाव राहुल आहे.
+Majhe nav Rahul aahe.
+Introducing yourself
+11
+I am at home.
+मी घरी आहे.
+Mi ghari aahe.
+Answering the phone
+19
+The food is ready.
+जेवण तयार आहे.
+Jevan tayar aahe.
+Calling everyone to eat
+23
+I am working on it.
+मी यावर काम करत आहे.
+Mi yavar kam karat aahe.
+Asked for a status
+29
+I don’t understand.
+मला समजले नाही.
+Mala samajle nahi.
+Ask before it is too late
+31
+Can you help me?
+तुम्ही मला मदत करू शकता का?
+Tumhi mala madat karu shakta ka?
+Anywhere
+35
+Please speak slowly.
+कृपया हळू बोला.
+Krupaya halu bola.
+They are speaking too fast
+41
+How much is this?
+हे किती आहे?
+He kiti aahe?
+Any shop
+50
+Do you accept UPI?
+तुम्ही UPI स्वीकारता का?
+Tumhi UPI sweekarta ka?
+Before paying
+51
+Where is the railway station?
+रेल्वे स्टेशन कुठे आहे?
+Railway station kuthe aahe?
+Asking a stranger
+66
+I will call you later.
+मी तुम्हाला नंतर कॉल करेन.
+Mi tumhala nantar call karen.
+You cannot talk now
+97
+Take care.
+काळजी घ्या.
+Kalji ghya.
+Warm goodbye
+Where Marathi verbs change with the speaker’s gender, give both forms, the way the Hindi post gives रहा हूँ / रही हूँ. Use the polite तुम्ही form in the Marathi column (safe with anyone). Keep the English sentence the same if the writer switches the Marathi to तू for close family.
+### H2: Which English sentences are most useful for beginners? (~150 words)
+The same starter ten as the Hindi post, with verified Marathi meanings. Then point to the 10-day plan.
+### H2: What mistakes do Marathi speakers make with daily English sentences? (~250 words)
+This section must be unique to Marathi (do not copy the Hindi post's seven mistakes wholesale). A native-speaker editor should confirm or replace every example. Candidate themes to research, all (unverified) until checked: direct translations that sound off in interviews or with clients; tense or "I am having…" patterns; and pronunciation that makes a sentence hard to catch (for example sounds Marathi speakers often map differently onto English). Publish only verified pairs in a "Commonly said / Say this instead / Why" table. If fewer than five examples can be verified, write a shorter section rather than inventing errors.
+### H2: How can I learn five English sentences every day? (~250 words)
+The four-step drill from the Hindi post: pick five from one situation; say each aloud three times; change one word to make a variation; use at least one in a real conversation the same day. Five a day = the full list in 20 days. Mention the 10-day tracker in the PDF (50 sentences) and how to continue through days 11–20.
+### H2: How can I stop translating every sentence from Marathi in my head? (~150 words)
+Teach patterns, not one-off lines. Example pattern: "I need…" → I need some water / help / time / rest, once the Marathi meaning has been understood the first time.
+### H2: How can I practise daily use English sentences at home? (~200 words)
+Read aloud, record on a phone, run imaginary conversations (shop, auto, phone call). Link the live alone-at-home post. Include the 15-minute routine: 5 minutes read, 5 minutes vary, 5 minutes converse.
+### H2: How can you practise these sentences out loud with SpeakX? (~120 words, CTA)
+Reading helps you learn; saying the sentences aloud in a real exchange is what makes them usable. Invite the reader to practise today's group in SpeakX (roleplay a shop, a meeting, or a phone call) and get feedback on fluency and pronunciation. Do not name the AI tutor. Do not cite a price or trial offer unless the writer has checked https://speakx.ai/premium on the day of publishing. No kids' framing.
+### Language switcher block (~40 words)
+Place near the top and again at the end:
+These 100 sentences are also available with Hindi meaning. Telugu and Tamil versions: link each URL only after that page returns HTTP 200.
+Do not point "Marathi meaning" at the Hindi URL, and do not add the Hindi post's keywords to this title.
+### H2: Frequently asked questions (~300 words)
+### Closing PDF CTA
+## 5. GEO / AI-answer optimisation
+- Lead each H2 with a direct one- or two-sentence answer, then the list or explanation.
+- Keep table columns consistent so answer engines can extract rows.
+- The 52-word answer box is the quotable definition; do not bury it.
+- Mark Marathi text with lang="mr" so extractors and browsers know the script language.
+- Entities: Marathi (Devanagari), Maharashtra / Marathi-medium learners, CEFR Pre-A1 to A2 only if the writer keeps the same level claim as the Hindi post.
+- Optional LearningResource and ItemList schema; FAQPage for the FAQ.
+- No statistics without a linked source and date. None are verified in this brief.
+- AI-answer spot-check of ChatGPT / Google AI Overviews for these queries: not run. How AI engines answer this today is (unverified).
+- A short video of an adult saying 10–15 sentences (with on-screen Marathi meaning) is worth adding, because YouTube already ranks for the list queries.
+## 6. FAQ (FAQPage)
+- Is the 100 daily use English sentences with Marathi meaning PDF free? (tie to the 20/mo PDF keyword and the GSC query इंग्रजी वाक्य 100 pdf)
+- What are some simple English sentences used at home, with Marathi meaning? (unverified volume)
+- How many daily use English sentences should I learn in a day? (unverified volume)
+- How do I make a Marathi sentence in English? (Semrush 20/mo)
+- Can these 100 sentences help me speak English fluently? (unverified volume)
+- Are the Marathi meanings literal translations? (unverified volume) — explain they should be natural Marathi, not word-for-word, and that both gender forms are given where needed.
+- Should I use तुम्ही or तू in the Marathi column? (unverified volume) — English "you" does not change; the page uses polite तुम्ही.
+- How can I practise these sentences if no one around me speaks English? (unverified volume)
+## 7. Internal links (HTTP checks Nov 12, 2026)
+- /blog/100-simple-english-sentences-for-daily-use-with-hindi-meaning (200) — sister page. Use a language-switcher label, not "more sentences".
+- / (200) — one contextual link to SpeakX for speaking practice.
+- /blog/practice-spoken-english-alone-at-home (200)
+- /blog/how-to-speak-english-fluently (200)
+- /blog/english-pronunciation-difficulty (200)
+- /blog/english-grammar-sentence-structure (200)
+- /blog/master-real-life-english-your-guide-to-confident-daily-conversation (200)
+- /blog/daily-use-english-words-with-hindi-meaning — 404 today. Link only after it is live, and only as a Hindi-meaning vocabulary sibling, not as a Marathi words page.
+- Telugu and Tamil sister URLs — 404 today. Add to the switcher only once each returns 200.
+## 8. PDF spec
+The Hindi post's PDF is hosted at https://image.speakx.ai/assets/blogs/100-daily-use-english-sentences-with-hindi-meaning/100-daily-use-english-sentences-with-hindi-meaning.pdf (linked from the live Hindi article, Nov 12, 2026). Search Console already shows that PDF picking up its own queries. Do not host this Marathi PDF on image.speakx.ai.
+Do this instead:
+- Host the file on speakx.ai, for example /blog/100-simple-english-sentences-for-daily-use-with-marathi-meaning/100-daily-use-english-sentences-with-marathi-meaning.pdf, or wrap the download in an HTML page on speakx.ai that canonicalises back to this article.
+- Same 100 sentences as the article, Marathi meaning, transliteration, "when to use", plus a 10-day practice tracker.
+- A4, 7 pages if it fits (match the Hindi PDF's length if possible), real selectable Devanagari (not images of text), no signup.
+- Filename and link text include "daily use english sentences with marathi meaning pdf".
+- rel="nofollow" is not required; if the file must live on a CDN, add a speakx.ai HTML landing page so Google has a page to rank, and set a canonical to this article.
+## 9. Schema sample
+{
+"@context": "https://schema.org",
+"@graph": [
+{
+"@type": "Article",
+"headline": "100 Daily Use English Sentences with Marathi Meaning (Free PDF)",
+"inLanguage": "en-IN",
+"author": {"@type": "Person", "name": "[Author]"},
+"publisher": {"@type": "Organization", "name": "SpeakX", "url": "https://speakx.ai"},
+"datePublished": "[YYYY-MM-DD]",
+"dateModified": "[YYYY-MM-DD]",
+"mainEntityOfPage": "https://speakx.ai/blog/100-simple-english-sentences-for-daily-use-with-marathi-meaning"
+},
+{
+"@type": "LearningResource",
+"name": "100 daily use English sentences with Marathi meaning",
+"inLanguage": "en-IN",
+"learningResourceType": "worksheet",
+"teaches": "Everyday spoken English sentences for Marathi speakers",
+"typicalAgeRange": "18-"
+},
+{
+"@type": "FAQPage",
+"mainEntity": [
+{
+"@type": "Question",
+"name": "Is the 100 daily use English sentences with Marathi meaning PDF free?",
+"acceptedAnswer": {"@type": "Answer", "text": "Yes. The PDF is free, with no signup, and it has the same 100 sentences and Marathi meanings as this article, plus a 10-day practice tracker."}
+}
+]
+}
+]
+}
+
+Do not set a page-level hreflang of mr or mr-IN. The page is English-led. These language versions are sibling resources, not automatic hreflang alternates, unless a later SEO review decides the pages are true translations and implements a full annotated cluster. The visible language switcher plus lang="mr" on Marathi text is the required implementation for launch.
+## 10. Images and alt text
+- Hero: an adult learner (not a child) practising English with a phone or printed sheet. Alt: "Adult practising 100 daily use English sentences with Marathi meaning from a printed sheet"
+- One shareable table graphic (Pinterest ranks for this topic). Alt: "100 daily use English sentences with Marathi meaning, grouped by situation"
+- PDF preview / tracker graphic. Alt: "Free PDF of 100 daily use English sentences with Marathi meaning and a 10-day practice tracker"
+## 11. What not to do
+- Do not publish Marathi meanings or transliterations without a native-speaker check.
+- Do not call SpeakX a kids' app, or use child-in-classroom imagery, even though some competing pins are titled for kids.
+- Do not name the AI tutor.
+- Do not invent prices, search volumes, or mistake examples.
+- Do not merge this page with the Hindi 100-sentences post or give it a generic title such as "100 daily use English sentences" with no language. Distinct language intent + a switcher avoids cannibalisation.
+- Do not host the PDF on image.speakx.ai.
+- Do not build a translator widget, and do not target english sentence meaning in marathi as the H1.
+- Do not target इंग्रजी शिकण्यासाठी ॲप free on this page.
+- Do not mention TalkDrill, Practice Me or VoiceCoach, even if one later appears in the SERP.
+- Do not copy sentence tables from other sites; use SpeakX's own 100 English sentences from the Hindi post.
+## 12. Sources (accessed Nov 12, 2026)
+- Semrush India (in): phrase_these, phrase_kdi columns, phrase_organic (daily use … with marathi meaning; daily use … in marathi), phrase_related (daily use … with marathi meaning), phrase_questions (english sentences in marathi), resource_organic (speakx.ai, keyword contains "marathi" — no data).
+- Search Console export speakx.ai-Performance-Queries-2026-11-09.csv, re-read Nov 12, 2026 (not a new GSC pull).
+- Live HTTP checks and https://speakx.ai/sitemap.xml, Nov 12, 2026.
+- Live Hindi model page: https://speakx.ai/blog/100-simple-english-sentences-for-daily-use-with-hindi-meaning and its PDF on image.speakx.ai, Nov 12, 2026.
+- Web search snapshot for format checks, Nov 12, 2026, labelled separately from Semrush SERPs.
