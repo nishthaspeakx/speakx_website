@@ -23,3 +23,25 @@
 .post blockquote.email p{margin:0 0 .6rem}
 .post details.answers{margin:1rem 0;padding:.75rem 1rem;border:1px solid #eeeff4;border-radius:12px}
 .post details.answers summary{cursor:pointer;font-weight:700;color:#a53a06}
+
+/* Images and layout rhythm */
+.post img{max-width:100%;height:auto}
+.post figure{margin:1.75rem 0}
+.post figure img{display:block;width:100%;height:auto;border-radius:16px;border:1px solid #eeeff4}
+.post figcaption{margin-top:.55rem;color:#666673;font-size:.85rem;line-height:1.45}
+.post figure.hero{margin:1rem 0 1.75rem}
+.post figure.app-shot{max-width:280px;margin:1.5rem auto}
+.post figure.app-shot img{border-radius:24px}
+.pdf-cta--with-preview{display:flex;gap:1.25rem;align-items:flex-start}
+.pdf-cta__preview{display:none;width:140px;height:auto;border:1px solid #eeeff4;border-radius:8px;flex:none;background:#fff}
+.pdf-cta__text{flex:1;min-width:0}
+@media (min-width:640px){.pdf-cta__preview{display:block}}
+.post h2{margin-top:2.75rem}
+.post h3{margin-top:1.75rem}
+.post h2+p,.post h3+p{margin-top:0}
+.post ul,.post ol{padding-left:1.5rem;margin:0 0 1.25rem}
+.post li{margin:.45rem 0;padding-left:.15rem}
+.post li>strong{color:#0a0b0f}
+.post ol.steps>li,.post ol.mcq>li{margin:.6rem 0}
+.post table{margin:.5rem 0 1.5rem}
+.post .ex{margin:.25rem 0 .75rem}
