@@ -1,0 +1,25 @@
+/* English spelling rules and practice article: misspelled-words table, plan table, PDF CTA, app CTA. Matches speakx.ai tokens. */
+.misspelled,.plan{width:100%;border-collapse:collapse;font-size:.95rem}
+.misspelled caption,.plan caption{caption-side:top;text-align:left;font-weight:600;padding:.25rem 0;color:#4a4a5b}
+.misspelled th,.misspelled td,.plan th,.plan td{padding:.5rem .6rem;border-bottom:1px solid #eeeff4;vertical-align:top;text-align:left}
+.misspelled th[scope=col],.plan th[scope=col]{color:#666673;font-size:.8rem;text-transform:uppercase;letter-spacing:.04em;background:#f7f8fa}
+.misspelled td.wrong{color:#b42318;text-decoration:line-through;text-decoration-thickness:1px}
+.misspelled td.right{color:#0a0b0f;font-weight:700}
+.plan th[scope=row]{color:#ff4d00;white-space:nowrap}
+@media (max-width:640px){.misspelled,.plan{display:block;overflow-x:auto}}
+.post p.ex{background:#f7f8fa;border-left:3px solid #ff4d00;padding:.5rem .8rem;border-radius:0 10px 10px 0;font-size:.95rem}
+.post ol.steps li{margin:.5rem 0}
+.pdf-cta{margin:1.5rem 0;padding:1.25rem 1.25rem 1rem;border:1px solid #eeeff4;border-left:4px solid #ff4d00;border-radius:16px;background:#fff7f2}
+.pdf-cta h3{margin:0 0 .35rem;font-size:1.1rem;line-height:1.3;color:#0a0b0f}
+.pdf-cta p{margin:0 0 .9rem;color:#4a4a5b;font-size:.95rem}
+.pdf-cta__button,.post a.pdf-cta__button,article a.pdf-cta__button{display:inline-flex;align-items:center;justify-content:center;width:100%;min-height:48px;padding:.75rem 1.25rem;border-radius:999px;background:#a53a06;color:#fff !important;font-weight:700;text-decoration:none !important;font-size:1rem}
+.pdf-cta__button:hover,.pdf-cta__button:focus-visible{background:#d04907;color:#fff !important;outline:3px solid #ffb61e;outline-offset:2px}
+.pdf-cta small{display:block;margin-top:.6rem;color:#666673;font-size:.8rem}
+@media (min-width:640px){.pdf-cta__button{width:auto}}
+.app-cta,.post a.app-cta,article a.app-cta{display:inline-block;padding:.75rem 1.25rem;border-radius:999px;background:#a53a06;color:#fff !important;font-weight:700;text-decoration:none !important}
+.app-cta:hover,.app-cta:focus-visible{background:#d04907;color:#fff !important;outline:3px solid #ffb61e;outline-offset:2px}
+.post ol.mcq li{margin:.4rem 0;font-variant-numeric:tabular-nums}
+.post blockquote.email{margin:1rem 0;padding:1rem 1.25rem;border:1px solid #eeeff4;border-radius:12px;background:#f7f8fa;font-size:.95rem}
+.post blockquote.email p{margin:0 0 .6rem}
+.post details.answers{margin:1rem 0;padding:.75rem 1rem;border:1px solid #eeeff4;border-radius:12px}
+.post details.answers summary{cursor:pointer;font-weight:700;color:#a53a06}

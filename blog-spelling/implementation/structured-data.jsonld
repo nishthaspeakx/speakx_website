@@ -1,0 +1,134 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "@id": "https://speakx.ai/blog/english-spelling-practice#article",
+      "headline": "English Spelling Rules and Practice: Write Correct Spelling Every Time",
+      "description": "English spelling rules with examples, 40 commonly misspelled words, Hindi-speaker tips, three self-tests and a 7-day plan for adults who write emails at work.",
+      "inLanguage": "en-IN",
+      "mainEntityOfPage": "https://speakx.ai/blog/english-spelling-practice",
+      "author": {
+        "@type": "Person",
+        "name": "Supriya Manchanda",
+        "url": "https://speakx.ai/blog/author/supriya-manchanda"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "@id": "https://speakx.ai/#organization",
+        "name": "SpeakX",
+        "url": "https://speakx.ai/"
+      },
+      "datePublished": "2026-04-20T02:00:04.037Z",
+      "dateModified": "SET-ON-PUBLISH (ISO 8601)",
+      "audience": {
+        "@type": "Audience",
+        "audienceType": "Hindi-medium adults and working professionals in India who write English at work"
+      },
+      "about": [
+        "English spelling rules",
+        "Commonly misspelled words",
+        "Spelling practice"
+      ],
+      "hasPart": {
+        "@type": "DigitalDocument",
+        "name": "English spelling practice sheet (PDF)",
+        "url": "https://speakx.ai/blog/english-spelling-practice/english-spelling-practice-sheet.pdf",
+        "encodingFormat": "application/pdf",
+        "isAccessibleForFree": true
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "SpeakX",
+          "item": "https://speakx.ai/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Blog",
+          "item": "https://speakx.ai/blog"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "English Spelling Rules and Practice",
+          "item": "https://speakx.ai/blog/english-spelling-practice"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What are the 5 basic spelling rules in English?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The five rules that fix the most mistakes are: i before e except after c (believe, receive); drop the silent e before a vowel suffix (make, making); double the final consonant in a stressed short syllable (begin, beginning); change y to i after a consonant (apply, applied); and keep the base word when you add a prefix (mis + spell = misspell). The full list of ten rules above adds plurals, silent letters, -tion/-sion, fixed suffixes and British versus American spelling."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How can I practice spelling as an adult?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Keep a personal list of words you actually get wrong, test yourself on it twice a week by covering the correct spelling and writing the words, have someone dictate ten words a day, and proofread one real email daily. Ten minutes a day beats an hour on Sunday, and words from your own emails stick better than random lists."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How do I write correct spelling in English?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Say the word in syllables, think of the rule it follows, picture the word, write it, then check it against a dictionary or your list. Over a few weeks the checking step disappears for the words you use most. The six-step method above walks through this."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Which are the most difficult spellings in English?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Words with silent letters (knowledge, receipt, government), double letters (accommodate, necessary, embarrass), and endings that sound alike (-ance/-ence, -ar/-er) cause the most mistakes. The table of 40 commonly misspelled words above covers the ones that appear most in work emails."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Why is English spelling hard for Hindi speakers?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Spelling (वर्तनी, vartani) in Hindi follows the sound, so Hindi speakers naturally spell English by sound too. English is not phonetic: the same sound has several spellings (receive, believe, key) and many letters are silent. The fix is to learn the rules and the common exceptions by sight, not to listen harder."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Does spelling matter in work emails?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. A misspelled word in a client email or a job application is the first thing many readers notice, and it suggests the rest was not checked. Correct spelling will not win the deal on its own, but a misspelled one can lose attention before your point lands. Spell-check does not catch real-word errors such as form for from or than for then, so a final read is still needed."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Should I use British or American spelling in India?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Either is correct. Most Indian companies, government forms and newspapers use British spelling (colour, organise, centre). Pick one, keep it consistent in a document, and follow your company’s style if it has one. Set your email and phone keyboard to the same variety so autocorrect helps instead of fighting you."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can an app help me practice spelling?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, for dictation and self-tests. Any app that reads a word aloud and checks what you type works as a practice partner. SpeakX is a speaking app rather than a spelling app, but saying words aloud in its lessons helps you hear syllables you were dropping, which is where many spelling mistakes start."
+          }
+        }
+      ]
+    }
+  ]
+}

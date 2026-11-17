@@ -1,0 +1,293 @@
+{
+ "rules": [
+  [
+   "Rule 1: i before e, except after c",
+   "believe, achieve, friend, receive, ceiling, deceive",
+   "The rule works when the sound is “ee”. After c, write ei: receive, receipt. Exceptions you will meet at work: weird, seize, their, foreign, height."
+  ],
+  [
+   "Rule 2: Drop the silent e before a vowel suffix",
+   "make → making, write → writing, hope → hoping, use → usable",
+   "Keep the e before a consonant suffix: hopeful, useless, safely. Keep it after a soft c or g before -able: noticeable, manageable."
+  ],
+  [
+   "Rule 3: Double the final consonant in short stressed syllables",
+   "stop → stopped, plan → planning, begin → beginning, occur → occurred",
+   "One vowel, one final consonant, stress on the last syllable: double it. Do not double when the stress is earlier: open → opening, visit → visited."
+  ],
+  [
+   "Rule 4: Change y to i after a consonant",
+   "apply → applied, happy → happiness, carry → carries",
+   "Keep the y before -ing (applying, carrying) and when a vowel comes before it: play → played, enjoy → enjoyed."
+  ],
+  [
+   "Rule 5: -tion, -sion and -cian follow the base word",
+   "inform → information, decide → decision, electric → electrician",
+   "Most nouns take -tion. Use -sion after d, s or when the base ends in -de or -mit: extend → extension, permit → permission. Use -cian for people."
+  ],
+  [
+   "Rule 6: Plurals that are not just -s",
+   "box → boxes, baby → babies, knife → knives, criterion → criteria",
+   "Add -es after s, x, ch, sh (buses, batches). Nouns ending in consonant + y take -ies. Watch Latin and Greek plurals used at work: data, criteria, media."
+  ],
+  [
+   "Rule 7: Silent letters are fixed, not optional",
+   "knowledge, debt, receipt, island, Wednesday, government",
+   "You cannot hear the k, b, p, s, d or n, so sound alone will not help. Learn these words by sight and by their roots: receipt comes from receive, debt from debit."
+  ],
+  [
+   "Rule 8: Prefixes do not change the base word",
+   "mis + spell = misspell, un + necessary = unnecessary, dis + appear = disappear",
+   "Keep both letters where the prefix ends with the letter the base starts with. This is why misspell has two s’s and unnecessary has two n’s."
+  ],
+  [
+   "Rule 9: -ful, -ly and -ness have fixed forms",
+   "careful (one l), carefully (two l’s), beautiful, happiness",
+   "The suffix -ful always has one l. Adding -ly to a word ending in l gives two l’s: real → really, final → finally."
+  ],
+  [
+   "Rule 10: British and American spellings are both correct, but pick one",
+   "colour / color, organise / organize, centre / center, programme / program",
+   "Indian offices mostly use British spelling. Whichever you choose, keep it consistent within one email or document, and match your company’s style guide if it has one."
+  ]
+ ],
+ "misspelled": [
+  [
+   "recieve",
+   "receive",
+   "Rule 1: after c write ei. Memory hook: re-CEI-ve, the c eats i first."
+  ],
+  [
+   "seperate",
+   "separate",
+   "There is “a rat” in sep-A-RAT-e. Hindi speakers hear the second vowel as e; it is a."
+  ],
+  [
+   "definately",
+   "definitely",
+   "definite + ly. Say it as de-FIN-ite-ly; there is no a."
+  ],
+  [
+   "occured",
+   "occurred",
+   "Rule 3: stress on the last syllable, so double the r: occurred, occurring."
+  ],
+  [
+   "goverment",
+   "government",
+   "govern + ment. The n is silent in speech, so write from the root, not the sound."
+  ],
+  [
+   "enviroment",
+   "environment",
+   "environ + ment. The n before m is easy to drop; say en-VI-RON-ment slowly."
+  ],
+  [
+   "tommorow",
+   "tomorrow",
+   "One m, two r’s: to-mor-row."
+  ],
+  [
+   "untill",
+   "until",
+   "Until has one l; till has two. Many Hindi speakers copy till."
+  ],
+  [
+   "buisness",
+   "business",
+   "busy → business; the y becomes i, then -ness."
+  ],
+  [
+   "adress",
+   "address",
+   "Two d’s and two s’s: ad-dress."
+  ],
+  [
+   "neccessary",
+   "necessary",
+   "One c, two s’s. Hook: one Collar, two Sleeves."
+  ],
+  [
+   "acheive",
+   "achieve",
+   "Rule 1: i before e, and there is no c before it."
+  ],
+  [
+   "calender",
+   "calendar",
+   "Ends in -ar, like “similar”. A calender is a different machine."
+  ],
+  [
+   "grammer",
+   "grammar",
+   "Ends in -ar. Hindi speakers hear -er because the final vowel is weak."
+  ],
+  [
+   "writting",
+   "writing",
+   "Rule 2: write drops the e; the stress is not on the last syllable, so no doubling."
+  ],
+  [
+   "begining",
+   "beginning",
+   "Rule 3: be-GIN, stress on the last syllable, so double the n."
+  ],
+  [
+   "comming",
+   "coming",
+   "come drops the e; the first syllable is not stressed in the doubling sense, so one m."
+  ],
+  [
+   "truely",
+   "truly",
+   "true drops the e before -ly: truly. Also duly, wholly."
+  ],
+  [
+   "arguement",
+   "argument",
+   "argue drops the e before -ment: argument."
+  ],
+  [
+   "accomodate",
+   "accommodate",
+   "Two c’s and two m’s. Hook: it accommodates two of each."
+  ],
+  [
+   "persue",
+   "pursue",
+   "Pursue has two u’s: pur-sue. Pursuit also."
+  ],
+  [
+   "priviledge",
+   "privilege",
+   "No d. Hook: priv-i-LEGE, like college."
+  ],
+  [
+   "maintainance",
+   "maintenance",
+   "maintain changes to mainten-ance; the ai becomes e."
+  ],
+  [
+   "wich",
+   "which",
+   "Which starts with wh, like what, when, where."
+  ],
+  [
+   "liason",
+   "liaison",
+   "Three vowels in a row: li-ai-son."
+  ],
+  [
+   "colleauge",
+   "colleague",
+   "col-league, like the sports league."
+  ],
+  [
+   "embarass",
+   "embarrass",
+   "Two r’s and two s’s."
+  ],
+  [
+   "existance",
+   "existence",
+   "Ends in -ence, like difference and reference."
+  ],
+  [
+   "independant",
+   "independent",
+   "Ends in -ent, like student and dependent."
+  ],
+  [
+   "aquire",
+   "acquire",
+   "ac + quire; the c is silent but required."
+  ],
+  [
+   "concious",
+   "conscious",
+   "con-SCI-ous. Science is hidden inside it."
+  ],
+  [
+   "recomend",
+   "recommend",
+   "re + commend; two m’s."
+  ],
+  [
+   "sincerly",
+   "sincerely",
+   "sincere + ly keeps the e."
+  ],
+  [
+   "schedual",
+   "schedule",
+   "Ends in -ule, like module and rule."
+  ],
+  [
+   "fourty",
+   "forty",
+   "Four becomes forty, without the u. Fourteen keeps it."
+  ],
+  [
+   "ninty",
+   "ninety",
+   "Nine keeps its e: ninety."
+  ],
+  [
+   "lenght",
+   "length",
+   "Long → length; the g comes before the t."
+  ],
+  [
+   "heigth",
+   "height",
+   "high → height; the h is at the end."
+  ],
+  [
+   "quater",
+   "quarter",
+   "quart-er, like the measure quart."
+  ],
+  [
+   "sucess",
+   "success",
+   "Two c’s and two s’s: suc-cess."
+  ]
+ ],
+ "plan": [
+  [
+   "Day 1",
+   "Learn Rules 1 to 3 and write five example words for each from memory.",
+   "15 words"
+  ],
+  [
+   "Day 2",
+   "Learn Rules 4 to 6. Proofread one old email of yours and mark every spelling you doubted.",
+   "15 words + 1 email"
+  ],
+  [
+   "Day 3",
+   "Learn Rules 7 to 10. Start your personal mistake list with the words from the table above that you get wrong.",
+   "your list"
+  ],
+  [
+   "Day 4",
+   "Self-test 1: cover the correct column of the table, write all 40 words, check.",
+   "40 words"
+  ],
+  [
+   "Day 5",
+   "Practice spelling with a partner or app: have ten words dictated, write them, check.",
+   "10 words"
+  ],
+  [
+   "Day 6",
+   "Write one short work email using ten words from your mistake list, then proofread it with the five-check method.",
+   "1 email"
+  ],
+  [
+   "Day 7",
+   "Self-test 2: the 40 words again, plus your own list. Keep only the ones you missed; they are next week’s list.",
+   "40 + your list"
+  ]
+ ]
+}

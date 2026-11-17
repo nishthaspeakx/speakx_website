@@ -1,0 +1,110 @@
+{
+  "url": "https://speakx.ai/blog/english-spelling-practice",
+  "url_change": "none",
+  "seo_title": "English Spelling Rules and Practice: Hard Words, Hindi Tips",
+  "seo_title_length": 59,
+  "meta_description": "English spelling rules with examples, 40 commonly misspelled words, Hindi-speaker tips, three self-tests and a 7-day plan for adults who write emails at work.",
+  "meta_description_length": 158,
+  "h1": "English Spelling Rules and Practice: Write Correct Spelling Every Time",
+  "canonical": "https://speakx.ai/blog/english-spelling-practice",
+  "robots": "index, follow",
+  "og_title": "English Spelling Rules and Practice: Write Correct Spelling Every Time",
+  "og_description": "English spelling rules with examples, 40 commonly misspelled words, Hindi-speaker tips, three self-tests and a 7-day plan for adults who write emails at work.",
+  "previous": {
+    "title": "English Spelling Practice — Everything You Need to Know",
+    "h1": "same",
+    "problem": "Title and body repeat the phrase 'english spelling practice' ~30 times, contain no rules, no misspelled-word list and no actual practice material; several statistics are unsourced (British Council 60%/67%/74%, National Literacy Trust 40%/43%, '10,000+ learners', 'SpeakX learners report… 40%') and have been removed; impressions fell from 2,663 to 1,419 in a week at position ~8; 'practice spelling' and 'practicing spelling' had 0 clicks from 224 impressions because the page offered nothing to practice with."
+  },
+  "keyword_placement": {
+    "Title / H1 / first sentence / H2": "english spelling rules (1,600/mo, KD 23)",
+    "H2 'Practice spelling: five exercises' + plan + PDF": "practice spelling (6,600/mo, KD 50) and 'practicing spelling' (the phrase opens that section)",
+    "H2 '40 commonly misspelled words'": "difficult spellings in english (880/mo, KD 26) — phrase used in the section lead",
+    "Title / plan H2 / PDF name": "english spelling practice (590/mo, KD 38)",
+    "H2 'How to write correct spelling in English'": "how to write correct spelling in english (320/mo, KD 25)",
+    "H2 'Why is English spelling hard for Hindi speakers' + tips": "Hindi-speaker angle (no verified volume; differentiator)"
+  },
+  "pdf": {
+    "url": "https://speakx.ai/blog/english-spelling-practice/english-spelling-practice-sheet.pdf",
+    "filename": "english-spelling-practice-sheet.pdf",
+    "host_rule": "Host on speakx.ai under the article path; X-Robots-Tag: noindex; not in the sitemap.",
+    "content_type": "application/pdf"
+  },
+  "internal_links_out": [
+    {
+      "anchor": "English grammar sentence structure",
+      "href": "https://speakx.ai/blog/english-grammar-sentence-structure"
+    },
+    {
+      "anchor": "English tenses guide",
+      "href": "https://speakx.ai/blog/english-grammar-tenses"
+    },
+    {
+      "anchor": "English pronunciation difficulty",
+      "href": "https://speakx.ai/blog/english-pronunciation-difficulty"
+    },
+    {
+      "anchor": "100 daily use English sentences with Hindi meaning",
+      "href": "https://speakx.ai/blog/100-simple-english-sentences-for-daily-use-with-hindi-meaning"
+    },
+    {
+      "anchor": "English for corporate interviews",
+      "href": "https://speakx.ai/blog/english-interview-questions-and-answers-for-corporate-professionals-a-speaking-confidence-guide"
+    },
+    {
+      "anchor": "Practise saying these words on SpeakX (CTA)",
+      "href": "https://speakx.sng.link/Ed28z/npfq/4alj?utm_source=blog&utm_medium=article&utm_campaign=english-spelling-rules"
+    }
+  ],
+  "removed_links": [
+    {
+      "href": "https://speakx.ai/blog/english-speaking-fluency",
+      "reason": "301-redirects to /blog/how-to-speak-english-fluently; replaced"
+    }
+  ],
+  "internal_links_in": [
+    {
+      "from": "https://speakx.ai/blog/english-grammar-sentence-structure",
+      "anchor": "English spelling rules and commonly misspelled words"
+    },
+    {
+      "from": "https://speakx.ai/blog/english-grammar-tenses",
+      "anchor": "spelling rules for -ed and -ing endings"
+    },
+    {
+      "from": "https://speakx.ai/blog/english-pronunciation-difficulty",
+      "anchor": "spelling tips for Hindi speakers"
+    },
+    {
+      "from": "https://speakx.ai/blog/english-interview-questions-and-answers-for-corporate-professionals-a-speaking-confidence-guide",
+      "anchor": "commonly misspelled words in work emails"
+    },
+    {
+      "from": "https://speakx.ai/blog/100-simple-english-sentences-for-daily-use-with-hindi-meaning",
+      "anchor": "English spelling rules and practice"
+    },
+    {
+      "from": "https://speakx.ai/blog/how-to-speak-english-fluently",
+      "anchor": "a 7-day spelling practice plan"
+    }
+  ],
+  "images": [
+    {
+      "placement": "hero",
+      "alt": "Working professional proofreading an English email on a laptop"
+    },
+    {
+      "placement": "rules",
+      "alt": "Ten English spelling rules with examples on one card"
+    },
+    {
+      "placement": "practice",
+      "alt": "Free English spelling practice sheet with a 40-word self-test"
+    }
+  ],
+  "notes": [
+    "US spelling in prose (practice as a verb) per the site decision; the British/American spelling section explains the choice to readers.",
+    "No statistics are used. The previous version's unsourced figures were removed rather than re-sourced.",
+    "Author kept as Supriya Manchanda (author page live); datePublished kept, dateModified to be set on publish.",
+    "FAQ schema text matches the visible FAQ word for word."
+  ]
+}
