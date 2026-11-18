@@ -1,0 +1,1845 @@
+{
+  "meta": {
+    "date": "2026-11-17",
+    "page": "https://speakx.ai/blog/english-spelling-practice",
+    "brand": "SpeakX (AI English speaking app, Indian adults)",
+    "audience": "Hindi-medium adults and working professionals who write emails",
+    "method": "WebSearch (US-index, so Indian SERP ordering may differ; domains and page types are representative), WebFetch of competitor pages, curl HTTP checks of speakx.ai URLs. People-Also-Ask boxes are not exposed by the search tool; question_signals below are question-style headings/FAQs observed on ranking pages and in query refinements.",
+    "verified_metrics_semrush_in": [
+      {
+        "keyword": "english spelling rules",
+        "volume": 1600,
+        "kd": 23
+      },
+      {
+        "keyword": "practice spelling",
+        "volume": 6600,
+        "kd": 50
+      },
+      {
+        "keyword": "difficult spellings in english",
+        "volume": 880,
+        "kd": 26
+      },
+      {
+        "keyword": "english spelling practice",
+        "volume": 590,
+        "kd": 38
+      },
+      {
+        "keyword": "how to write correct spelling in english",
+        "volume": 320,
+        "kd": 25
+      }
+    ],
+    "gsc": {
+      "impressions_week_before": 2663,
+      "impressions_this_week": 1419,
+      "avg_position": 8,
+      "zero_click_queries": [
+        {
+          "query": "practicing spelling",
+          "clicks": 0,
+          "impressions": 115
+        },
+        {
+          "query": "practice spelling",
+          "clicks": 0,
+          "impressions": 109
+        }
+      ]
+    }
+  },
+  "task_a_serps": [
+    {
+      "keyword": "english spelling rules",
+      "volume": 1600,
+      "kd": 23,
+      "dominant_intent": "informational: rules guide with examples",
+      "serp_shape": "Almost entirely numbered rules guides (Top 10 / 12 / 11 rules). Grammar/ESL publishers plus one Indian school site (Orchids). No tools, no videos in top results.",
+      "results": [
+        {
+          "title": "12 English Spelling Rules With Printable Worksheet",
+          "url": "https://grammarist.com/spelling/",
+          "domain": "grammarist.com",
+          "page_type": "rules guide",
+          "interactive_practice": false,
+          "misspelled_word_list": false,
+          "audience": "general/adult writers",
+          "note": "12 rules, downloadable worksheet"
+        },
+        {
+          "title": "Spelling Rules in English (Top 10)",
+          "url": "https://www.grammar-monster.com/lessons/spelling-rules-in-English.htm",
+          "domain": "grammar-monster.com",
+          "page_type": "rules guide",
+          "interactive_practice": true,
+          "misspelled_word_list": false,
+          "audience": "students/ESL",
+          "note": "10 rules, multi-choice test, games"
+        },
+        {
+          "title": "English Spelling Rules | Patterns, Exceptions & Tips",
+          "url": "https://languagetool.org/insights/post/common-spelling-rules/",
+          "domain": "languagetool.org",
+          "page_type": "rules guide",
+          "interactive_practice": false,
+          "misspelled_word_list": false,
+          "audience": "general",
+          "note": ""
+        },
+        {
+          "title": "Spelling Rules: Patterns, Examples and Logic for Every Learner",
+          "url": "https://www.orchidsinternationalschool.com/english-concepts/spelling-rules",
+          "domain": "orchidsinternationalschool.com",
+          "page_type": "rules guide (kids site)",
+          "interactive_practice": false,
+          "misspelled_word_list": false,
+          "audience": "kids/students (Indian school)",
+          "note": ""
+        },
+        {
+          "title": "Spelling Rules",
+          "url": "https://englishclub.com/spelling/rules.htm",
+          "domain": "englishclub.com",
+          "page_type": "rules guide",
+          "interactive_practice": false,
+          "misspelled_word_list": false,
+          "audience": "ESL",
+          "note": ""
+        },
+        {
+          "title": "11 Spelling Rules in English You Must Know!",
+          "url": "https://leverageedu.com/explore/learn-english/spelling-rules-in-english/",
+          "domain": "leverageedu.com",
+          "page_type": "rules guide",
+          "interactive_practice": false,
+          "misspelled_word_list": false,
+          "audience": "Indian students (study abroad)",
+          "note": "PDF download, FAQ"
+        },
+        {
+          "title": "Spelling Rules In English",
+          "url": "https://perfectyourenglish.com/blog/spelling-rules-in-english/",
+          "domain": "perfectyourenglish.com",
+          "page_type": "rules guide",
+          "interactive_practice": false,
+          "misspelled_word_list": false,
+          "audience": "ESL",
+          "note": ""
+        },
+        {
+          "title": "7 Important Spelling Rules (And How to Break Them Correctly)",
+          "url": "https://quillbot.com/blog/writing/spelling-rules/",
+          "domain": "quillbot.com",
+          "page_type": "rules guide",
+          "interactive_practice": false,
+          "misspelled_word_list": false,
+          "audience": "general/adult writers",
+          "note": ""
+        },
+        {
+          "title": "English Spelling Rules",
+          "url": "https://www.italki.com/en/blog/english-spelling-rules",
+          "domain": "italki.com",
+          "page_type": "rules guide",
+          "interactive_practice": false,
+          "misspelled_word_list": false,
+          "audience": "ESL",
+          "note": ""
+        },
+        {
+          "title": "Spelling Rules (Logic of English)",
+          "url": "https://reading.logicofenglish.com/systematic-phonics/spelling-rules",
+          "domain": "reading.logicofenglish.com",
+          "page_type": "rules guide (phonics)",
+          "interactive_practice": false,
+          "misspelled_word_list": false,
+          "audience": "teachers/kids",
+          "note": ""
+        }
+      ],
+      "question_signals": [
+        "What are the 5 spelling rules in English?",
+        "What is a famous spelling rule?",
+        "How do I improve my spelling?",
+        "Why is it important to know spelling rules?",
+        "How many English words follow spelling rules? (75% / 70-85% claims appear)"
+      ]
+    },
+    {
+      "keyword": "practice spelling",
+      "volume": 6600,
+      "kd": 50,
+      "dominant_intent": "do/transactional: a tool, quiz, game or printable to practise with, mostly for children",
+      "serp_shape": "Dominated by interactive tools and printables: spellingtraining.com (type your own list, hear & spell), SpellQuiz, Spelling Stars (hear-type-check), Spell4Fun app, Twinkl Look-Cover-Write-Check booklets, Education.com worksheets, Spellzone printables, howtospell.co.uk exercises, Microsoft Store app. The only articles are Reading Rockets (parents/teachers) and an McGraw-Hill study-skills chapter. Audience is overwhelmingly K-8 parents/teachers.",
+      "results": [
+        {
+          "title": "Five guidelines for learning spelling and six ways for practicing spelling",
+          "url": "https://www.readingrockets.org/article/five-guidelines-learning-spelling-and-six-ways-practicing-spelling",
+          "domain": "readingrockets.org",
+          "page_type": "article (teacher/parent guide)",
+          "interactive_practice": false,
+          "misspelled_word_list": false,
+          "audience": "parents/teachers of kids",
+          "note": ""
+        },
+        {
+          "title": "Spelling Practice",
+          "url": "https://spellingtraining.com/learn.html",
+          "domain": "spellingtraining.com",
+          "page_type": "practice tool",
+          "interactive_practice": true,
+          "misspelled_word_list": false,
+          "audience": "kids/students",
+          "note": "Enter own word list, hear and type"
+        },
+        {
+          "title": "Easy Online Spelling Practice and Games",
+          "url": "https://spellingtraining.com/",
+          "domain": "spellingtraining.com",
+          "page_type": "practice tool",
+          "interactive_practice": true,
+          "misspelled_word_list": false,
+          "audience": "kids/students",
+          "note": ""
+        },
+        {
+          "title": "PlanIt Y3 Look-Cover-Write-Check Spelling Practice Booklet",
+          "url": "https://www.twinkl.com/resource/tp2-e-4614-planit-y3-term-2a-look-cover-write-check-practice-booklet",
+          "domain": "twinkl.com",
+          "page_type": "worksheet PDF",
+          "interactive_practice": false,
+          "misspelled_word_list": false,
+          "audience": "kids (UK Year 3)",
+          "note": ""
+        },
+        {
+          "title": "Free Spelling Words Practice Sheets",
+          "url": "https://teacherwriter.gumroad.com/l/ulbzvj",
+          "domain": "teacherwriter.gumroad.com",
+          "page_type": "worksheet PDF",
+          "interactive_practice": false,
+          "misspelled_word_list": false,
+          "audience": "kids/teachers",
+          "note": ""
+        },
+        {
+          "title": "Spelling Practice resources",
+          "url": "https://www.education.com/resources/grade-2-5/english-language-arts/spelling/spelling-practice",
+          "domain": "education.com",
+          "page_type": "worksheet hub (kids site)",
+          "interactive_practice": false,
+          "misspelled_word_list": false,
+          "audience": "kids grade 2-5",
+          "note": ""
+        },
+        {
+          "title": "SpellQuiz",
+          "url": "https://spellquiz.com/",
+          "domain": "spellquiz.com",
+          "page_type": "practice tool / quiz",
+          "interactive_practice": true,
+          "misspelled_word_list": false,
+          "audience": "kids to adults",
+          "note": "Graded tests incl. adult level"
+        },
+        {
+          "title": "Spelling Stars practice demo",
+          "url": "https://www.spellingstars.com/ninthgrade/demos/practice",
+          "domain": "spellingstars.com",
+          "page_type": "practice tool",
+          "interactive_practice": true,
+          "misspelled_word_list": false,
+          "audience": "students",
+          "note": ""
+        },
+        {
+          "title": "Spelling Exercises",
+          "url": "https://howtospell.co.uk/spelling-exercises",
+          "domain": "howtospell.co.uk",
+          "page_type": "practice tool / exercises",
+          "interactive_practice": true,
+          "misspelled_word_list": false,
+          "audience": "adults/ESL (UK)",
+          "note": ""
+        },
+        {
+          "title": "Spelling Bee Online Free — English Spelling Test & Quiz",
+          "url": "https://www.talkdrill.com/games/spelling-bee/",
+          "domain": "talkdrill.com",
+          "page_type": "practice tool / quiz",
+          "interactive_practice": true,
+          "misspelled_word_list": false,
+          "audience": "ESL adults (Indian company)",
+          "note": ""
+        },
+        {
+          "title": "Online Spelling Exercises - Practice Spelling Quizzes",
+          "url": "https://spelling-test.com/spelling-exercise",
+          "domain": "spelling-test.com",
+          "page_type": "practice tool / quiz",
+          "interactive_practice": true,
+          "misspelled_word_list": false,
+          "audience": "students/adults",
+          "note": ""
+        },
+        {
+          "title": "Spelling Techniques (study skills chapter)",
+          "url": "https://highered.mheducation.com/sites/0073513474/student_view0/bonus_chapter_4/spelling_techniques.html",
+          "domain": "highered.mheducation.com",
+          "page_type": "article",
+          "interactive_practice": false,
+          "misspelled_word_list": true,
+          "audience": "college students",
+          "note": ""
+        }
+      ],
+      "question_signals": [
+        "How do you practice spelling words at home?",
+        "What is look cover write check?",
+        "How to practice spelling for a test?"
+      ],
+      "what_searcher_expects_to_click": "Something they can DO in the next 60 seconds: a word list to test themselves on, a hear-and-type quiz, a printable Look-Cover-Write-Check sheet, or a game. An explainer titled 'Everything You Need to Know' reads as an article about spelling practice rather than a place to practise, so it loses the click to tools even at position 8."
+    },
+    {
+      "keyword": "practicing spelling",
+      "volume": null,
+      "kd": null,
+      "dominant_intent": "how-to / methods, parent-and-teacher framed",
+      "serp_shape": "Mix of parent/teacher method articles (Reading Rockets, Oxford Owl 'Twelve tips for weekly spellings', BookShark '4 Simple Ways', British Council Voices 'how to practise spelling with young learners', school websites) and a few adult-facing tips posts (engVid, Read and Spell, TCK Publishing, YourDictionary spelling test study tips). Nearly every top result is about children's weekly spelling lists.",
+      "results": [
+        {
+          "title": "Practicing Spelling at Home",
+          "url": "https://sites.google.com/dublinusd.org/missocallaghanjones/practicing-spelling-at-home",
+          "domain": "sites.google.com",
+          "page_type": "school site (methods list)",
+          "interactive_practice": false,
+          "misspelled_word_list": false,
+          "audience": "parents of kids",
+          "note": ""
+        },
+        {
+          "title": "Five guidelines ... six ways for practicing spelling",
+          "url": "https://www.readingrockets.org/article/five-guidelines-learning-spelling-and-six-ways-practicing-spelling",
+          "domain": "readingrockets.org",
+          "page_type": "article",
+          "interactive_practice": false,
+          "misspelled_word_list": false,
+          "audience": "parents/teachers",
+          "note": ""
+        },
+        {
+          "title": "4 Simple Ways to Practice Spelling Words",
+          "url": "https://www.bookshark.com/blog/simple-spelling",
+          "domain": "bookshark.com",
+          "page_type": "article (homeschool)",
+          "interactive_practice": false,
+          "misspelled_word_list": false,
+          "audience": "parents",
+          "note": ""
+        },
+        {
+          "title": "How to Study for a Spelling Test",
+          "url": "https://www.tckpublishing.com/how-to-study-for-a-spelling-test/",
+          "domain": "tckpublishing.com",
+          "page_type": "article",
+          "interactive_practice": false,
+          "misspelled_word_list": false,
+          "audience": "students",
+          "note": ""
+        },
+        {
+          "title": "Spelling test study tips",
+          "url": "https://yourdictionary.com/articles/spelling-test-study-tips",
+          "domain": "yourdictionary.com",
+          "page_type": "article",
+          "interactive_practice": false,
+          "misspelled_word_list": false,
+          "audience": "students",
+          "note": ""
+        },
+        {
+          "title": "Improving your spelling - my top tips",
+          "url": "https://www.engvid.com/improving-your-spelling-my-top-tips/",
+          "domain": "engvid.com",
+          "page_type": "video + article",
+          "interactive_practice": false,
+          "misspelled_word_list": false,
+          "audience": "ESL adults",
+          "note": ""
+        },
+        {
+          "title": "How to improve spelling skills",
+          "url": "https://www.readandspell.com/how-to-improve-spelling",
+          "domain": "readandspell.com",
+          "page_type": "article",
+          "interactive_practice": false,
+          "misspelled_word_list": false,
+          "audience": "adults/dyslexia",
+          "note": ""
+        },
+        {
+          "title": "How to practise spelling with young learners of English",
+          "url": "https://www.britishcouncil.org/voices-magazine/how-practise-spelling-young-learners-english",
+          "domain": "britishcouncil.org",
+          "page_type": "article",
+          "interactive_practice": false,
+          "misspelled_word_list": false,
+          "audience": "teachers of kids",
+          "note": ""
+        },
+        {
+          "title": "Twelve tips for weekly spellings",
+          "url": "https://home.oxfordowl.co.uk/?p=50592",
+          "domain": "home.oxfordowl.co.uk",
+          "page_type": "article",
+          "interactive_practice": false,
+          "misspelled_word_list": false,
+          "audience": "parents (UK)",
+          "note": ""
+        },
+        {
+          "title": "How to Spell Words Correctly (100+ Tips & Words)",
+          "url": "https://www.writingbeginner.com/?p=29213",
+          "domain": "writingbeginner.com",
+          "page_type": "article + word list",
+          "interactive_practice": false,
+          "misspelled_word_list": true,
+          "audience": "adult writers",
+          "note": ""
+        }
+      ],
+      "question_signals": [
+        "How to practice spelling words?",
+        "How to study for a spelling test?",
+        "How can I improve my spelling as an adult?"
+      ],
+      "what_searcher_expects_to_click": "A concrete routine (Look-Say-Cover-Write-Check, flashcards, dictation) plus words to apply it to. Adult searchers here are underserved; SERP is child-centric, so an adult-specific practice section with a ready word list is a differentiator."
+    },
+    {
+      "keyword": "difficult spellings in english",
+      "volume": 880,
+      "kd": 26,
+      "dominant_intent": "informational list: hard words + why they are hard",
+      "serp_shape": "Listicles of 7-50 hard words (Study International x4 variants, LanguageTool 15, Lingoda 10, FluentU 50, ProWritingAid, SpellQuiz blog, Read and Spell) plus one government quiz (Canada noslangues 'Difficult spellings' quiz) and a Spellzone explainer on why spelling is hard.",
+      "results": [
+        {
+          "title": "21 most difficult English words to spell in 2026",
+          "url": "https://studyinternational.com/news/difficult-words-to-spell/",
+          "domain": "studyinternational.com",
+          "page_type": "word list",
+          "interactive_practice": false,
+          "misspelled_word_list": true,
+          "audience": "international students",
+          "note": ""
+        },
+        {
+          "title": "15 Hard Words to Spell in English",
+          "url": "https://languagetool.org/insights/post/hard-words-to-spell-spelling/",
+          "domain": "languagetool.org",
+          "page_type": "word list",
+          "interactive_practice": false,
+          "misspelled_word_list": true,
+          "audience": "general/ESL",
+          "note": ""
+        },
+        {
+          "title": "10 of the hardest words to spell in English",
+          "url": "https://blog.lingoda.com/?p=70825",
+          "domain": "blog.lingoda.com",
+          "page_type": "word list",
+          "interactive_practice": false,
+          "misspelled_word_list": true,
+          "audience": "ESL adults",
+          "note": ""
+        },
+        {
+          "title": "7 of the hardest words to spell in English",
+          "url": "https://www.theteflacademy.com/blog/7-of-the-hardest-words-to-spell-in-english/",
+          "domain": "theteflacademy.com",
+          "page_type": "word list",
+          "interactive_practice": false,
+          "misspelled_word_list": true,
+          "audience": "ESL teachers",
+          "note": ""
+        },
+        {
+          "title": "Hard Words to Spell",
+          "url": "https://prowritingaid.com/art/2359/hard-words-to-spell.aspx",
+          "domain": "prowritingaid.com",
+          "page_type": "word list",
+          "interactive_practice": false,
+          "misspelled_word_list": true,
+          "audience": "adult writers",
+          "note": ""
+        },
+        {
+          "title": "50 Hard Words to Spell in English",
+          "url": "https://www.fluentu.com/blog/english/difficult-english-words-to-spell/",
+          "domain": "fluentu.com",
+          "page_type": "word list",
+          "interactive_practice": false,
+          "misspelled_word_list": true,
+          "audience": "ESL learners",
+          "note": "PDF download"
+        },
+        {
+          "title": "Difficult spellings (quiz)",
+          "url": "https://www.noslangues-ourlanguages.gc.ca/en/quiz/jeu-quiz-difficult-spellings-eng",
+          "domain": "noslangues-ourlanguages.gc.ca",
+          "page_type": "practice tool / quiz",
+          "interactive_practice": true,
+          "misspelled_word_list": true,
+          "audience": "adults",
+          "note": ""
+        },
+        {
+          "title": "Five reasons why English spelling is so difficult",
+          "url": "https://www.spellzone.com/blog/five_reasons_why_english_spelling_is_so_difficult.htm",
+          "domain": "spellzone.com",
+          "page_type": "explainer",
+          "interactive_practice": false,
+          "misspelled_word_list": false,
+          "audience": "adults/ESL",
+          "note": ""
+        },
+        {
+          "title": "Hard spelling words",
+          "url": "https://blog.spellquiz.com/hard-spelling-words/",
+          "domain": "blog.spellquiz.com",
+          "page_type": "word list",
+          "interactive_practice": true,
+          "misspelled_word_list": true,
+          "audience": "students/adults",
+          "note": ""
+        },
+        {
+          "title": "What are the hardest words to spell?",
+          "url": "https://www.readandspell.com/articles/hardest-words-to-spell",
+          "domain": "readandspell.com",
+          "page_type": "word list + explainer",
+          "interactive_practice": false,
+          "misspelled_word_list": true,
+          "audience": "adults/dyslexia",
+          "note": ""
+        }
+      ],
+      "question_signals": [
+        "What is the hardest word to spell in English?",
+        "Why is English spelling so difficult?",
+        "What are the most difficult spellings?"
+      ]
+    },
+    {
+      "keyword": "english spelling practice",
+      "volume": 590,
+      "kd": 38,
+      "dominant_intent": "do: exercises/quizzes, with some how-to-improve articles",
+      "serp_shape": "Listen-and-type dictation exercises (learnenglishfeelgood.com x3), British Council Teens 'How do you spell it?' quiz, Varsity Tutors quiz, apps (Spelling & Grammar Practice, Practice English Spelling Book), Spellzone, Twinkl/Education.com worksheets, SpellQuiz, TalkDrill spelling bee, plus two articles (FluentU 'how to improve english spelling', British Council India 'How to improve your English spelling').",
+      "results": [
+        {
+          "title": "English spelling practice 2 (listen and type)",
+          "url": "https://www.learnenglishfeelgood.com/listening/english-spelling-practice2.html",
+          "domain": "learnenglishfeelgood.com",
+          "page_type": "practice tool (dictation)",
+          "interactive_practice": true,
+          "misspelled_word_list": false,
+          "audience": "ESL adults",
+          "note": ""
+        },
+        {
+          "title": "English spelling practice 3 (B1-C1)",
+          "url": "https://www.learnenglishfeelgood.com/listening/english-spelling-practice3.html",
+          "domain": "learnenglishfeelgood.com",
+          "page_type": "practice tool (dictation)",
+          "interactive_practice": true,
+          "misspelled_word_list": false,
+          "audience": "ESL adults",
+          "note": ""
+        },
+        {
+          "title": "How to improve English spelling",
+          "url": "https://www.fluentu.com/english/blog/how-to-improve-english-spelling/",
+          "domain": "fluentu.com",
+          "page_type": "article",
+          "interactive_practice": false,
+          "misspelled_word_list": false,
+          "audience": "ESL adults",
+          "note": ""
+        },
+        {
+          "title": "How do you spell it?",
+          "url": "https://learnenglishteens.britishcouncil.org/exams/grammar-vocabulary-exams/how-do-you-spell-it",
+          "domain": "learnenglishteens.britishcouncil.org",
+          "page_type": "practice tool / quiz",
+          "interactive_practice": true,
+          "misspelled_word_list": false,
+          "audience": "teens/ESL",
+          "note": ""
+        },
+        {
+          "title": "Middle School English Quiz: Spell Correctly",
+          "url": "https://www.varsitytutors.com/practice/subjects/middle-school-english/quiz/spell-correctly",
+          "domain": "varsitytutors.com",
+          "page_type": "quiz",
+          "interactive_practice": true,
+          "misspelled_word_list": false,
+          "audience": "students",
+          "note": ""
+        },
+        {
+          "title": "How to improve your English spelling (British Council India)",
+          "url": "https://www.britishcouncil.in/blog/how-improve-your-english-spelling",
+          "domain": "britishcouncil.in",
+          "page_type": "article",
+          "interactive_practice": false,
+          "misspelled_word_list": false,
+          "audience": "Indian adults",
+          "note": "Only India-targeted article in any of these SERPs"
+        },
+        {
+          "title": "ezschool spelling",
+          "url": "https://ezschool.com/English/Spelling",
+          "domain": "ezschool.com",
+          "page_type": "practice tool (kids site)",
+          "interactive_practice": true,
+          "misspelled_word_list": false,
+          "audience": "kids",
+          "note": ""
+        },
+        {
+          "title": "Spellzone",
+          "url": "https://spellzone.com",
+          "domain": "spellzone.com",
+          "page_type": "practice tool / course",
+          "interactive_practice": true,
+          "misspelled_word_list": true,
+          "audience": "adults/ESL",
+          "note": ""
+        },
+        {
+          "title": "SpellQuiz",
+          "url": "https://spellquiz.com/",
+          "domain": "spellquiz.com",
+          "page_type": "practice tool",
+          "interactive_practice": true,
+          "misspelled_word_list": false,
+          "audience": "students/adults",
+          "note": ""
+        },
+        {
+          "title": "Spelling Bee Online Free",
+          "url": "https://www.talkdrill.com/games/spelling-bee/",
+          "domain": "talkdrill.com",
+          "page_type": "practice tool",
+          "interactive_practice": true,
+          "misspelled_word_list": false,
+          "audience": "ESL adults (India)",
+          "note": ""
+        }
+      ],
+      "question_signals": [
+        "How do you spell it?",
+        "How can I improve my English spelling?",
+        "How to practice English spelling online?"
+      ]
+    },
+    {
+      "keyword": "how to write correct spelling in english",
+      "volume": 320,
+      "kd": 25,
+      "dominant_intent": "how-to: steps/strategies to spell correctly",
+      "serp_shape": "Step-by-step tips articles (ProWritingAid, Writer.com, TCK Publishing, Grammar Monster 'how to improve your spelling', EF English Live, Espresso English '5 rules', U of Toronto 'Seven Strategies', SkillsYouNeed, British Council India) plus a few open textbooks. Recurring steps: learn rules + exceptions, look-cover-write-check, personal trouble-word list, read widely, pick British or American, proofread without relying on spell-check.",
+      "results": [
+        {
+          "title": "How to Spell Words Correctly",
+          "url": "https://prowritingaid.com/how-to-spell-words-correctly",
+          "domain": "prowritingaid.com",
+          "page_type": "how-to article",
+          "interactive_practice": false,
+          "misspelled_word_list": true,
+          "audience": "adult writers",
+          "note": ""
+        },
+        {
+          "title": "How to Spell (Words at work)",
+          "url": "https://writer.com/blog/how-to-spell/",
+          "domain": "writer.com",
+          "page_type": "how-to article",
+          "interactive_practice": false,
+          "misspelled_word_list": true,
+          "audience": "working professionals",
+          "note": ""
+        },
+        {
+          "title": "Most Important Spelling Rules",
+          "url": "https://blog.udemy.com/most-important-spelling-rules/",
+          "domain": "blog.udemy.com",
+          "page_type": "rules guide",
+          "interactive_practice": false,
+          "misspelled_word_list": false,
+          "audience": "adults",
+          "note": ""
+        },
+        {
+          "title": "How to spell better",
+          "url": "https://www.tckpublishing.com/how-to-spell-better/",
+          "domain": "tckpublishing.com",
+          "page_type": "how-to article",
+          "interactive_practice": false,
+          "misspelled_word_list": false,
+          "audience": "adult writers",
+          "note": ""
+        },
+        {
+          "title": "How to improve your spelling in English",
+          "url": "https://www.grammar-monster.com/lessons/how-to-improve-your-spelling-in-English.htm",
+          "domain": "grammar-monster.com",
+          "page_type": "how-to article",
+          "interactive_practice": true,
+          "misspelled_word_list": false,
+          "audience": "students/ESL",
+          "note": ""
+        },
+        {
+          "title": "Spelling mistakes and how to avoid them",
+          "url": "https://englishlive.ef.com/blog/study-tips/spelling-mistakes-and-how-to-avoid-them/",
+          "domain": "englishlive.ef.com",
+          "page_type": "how-to article",
+          "interactive_practice": false,
+          "misspelled_word_list": true,
+          "audience": "ESL adults",
+          "note": ""
+        },
+        {
+          "title": "5 English Spelling Rules to Improve Your Writing",
+          "url": "https://www.espressoenglish.net/?p=13077",
+          "domain": "espressoenglish.net",
+          "page_type": "rules guide",
+          "interactive_practice": false,
+          "misspelled_word_list": false,
+          "audience": "ESL adults",
+          "note": ""
+        },
+        {
+          "title": "Seven Strategies to Improve Your Spelling",
+          "url": "https://utm.utoronto.ca/rgasc/student-resource-hub/english-language-learner-ell-resources/seven-strategies-improve-your-spelling",
+          "domain": "utm.utoronto.ca",
+          "page_type": "how-to article",
+          "interactive_practice": false,
+          "misspelled_word_list": false,
+          "audience": "ESL university students",
+          "note": ""
+        },
+        {
+          "title": "How to improve your English spelling",
+          "url": "https://www.britishcouncil.in/blog/how-improve-your-english-spelling",
+          "domain": "britishcouncil.in",
+          "page_type": "how-to article",
+          "interactive_practice": false,
+          "misspelled_word_list": false,
+          "audience": "Indian adults",
+          "note": ""
+        },
+        {
+          "title": "Spelling (SkillsYouNeed)",
+          "url": "https://www.skillsyouneed.com/write/spelling.html",
+          "domain": "skillsyouneed.com",
+          "page_type": "how-to article",
+          "interactive_practice": false,
+          "misspelled_word_list": true,
+          "audience": "adults",
+          "note": ""
+        }
+      ],
+      "question_signals": [
+        "How can I spell correctly in English?",
+        "How do I improve my spelling?",
+        "Should I use British or American spelling?",
+        "Can I rely on spell check?"
+      ]
+    },
+    {
+      "keyword": "commonly misspelled words in english",
+      "volume": null,
+      "kd": null,
+      "dominant_intent": "informational list",
+      "serp_shape": "Big lists: Wikipedia (~350 words), Mental Floss 100, Dictionary.com (search-data based), Pearson, Knowadays 16, FluentU, Reader's Digest, CNBC 32, Hemingway. Lists tend to be plain word tables; few explain the rule behind the error.",
+      "results": [
+        {
+          "title": "Commonly misspelled English words",
+          "url": "https://en.wikipedia.org/wiki/Commonly_misspelled_English_words",
+          "domain": "en.wikipedia.org",
+          "page_type": "word list / reference",
+          "interactive_practice": false,
+          "misspelled_word_list": true,
+          "audience": "general",
+          "note": "~350 entries"
+        },
+        {
+          "title": "The most commonly misspelled words in English",
+          "url": "https://www.pearson.com/languages/community/blogs/2019/09/the-most-commonly-misspelled-words-in-english.html",
+          "domain": "pearson.com",
+          "page_type": "word list",
+          "interactive_practice": false,
+          "misspelled_word_list": true,
+          "audience": "ESL",
+          "note": ""
+        },
+        {
+          "title": "100 commonly misspelled words",
+          "url": "https://www.mentalfloss.com/article/629813/100-commonly-misspelled-words-english",
+          "domain": "mentalfloss.com",
+          "page_type": "word list",
+          "interactive_practice": false,
+          "misspelled_word_list": true,
+          "audience": "general",
+          "note": ""
+        },
+        {
+          "title": "Most commonly misspelled words",
+          "url": "https://www.dictionary.com/e/most-commonly-misspelled-words/",
+          "domain": "dictionary.com",
+          "page_type": "word list / dictionary",
+          "interactive_practice": false,
+          "misspelled_word_list": true,
+          "audience": "general",
+          "note": "with tips per word"
+        },
+        {
+          "title": "16 of the Most Commonly Misspelled Words in English",
+          "url": "https://knowadays.com/blog/most-commonly-misspelled-words-in-english/",
+          "domain": "knowadays.com",
+          "page_type": "word list",
+          "interactive_practice": false,
+          "misspelled_word_list": true,
+          "audience": "proofreaders",
+          "note": ""
+        },
+        {
+          "title": "Commonly misspelled English words (FluentU)",
+          "url": "https://www.fluentu.com/blog/english/misspelled-english-words/",
+          "domain": "fluentu.com",
+          "page_type": "word list",
+          "interactive_practice": false,
+          "misspelled_word_list": true,
+          "audience": "ESL",
+          "note": ""
+        },
+        {
+          "title": "32 most commonly misspelled words, say grammar experts",
+          "url": "https://www.cnbc.com/2021/05/07/most-commonly-misspelled-words-that-make-you-look-less-smart-according-to-grammar-experts.html",
+          "domain": "cnbc.com",
+          "page_type": "word list (news)",
+          "interactive_practice": false,
+          "misspelled_word_list": true,
+          "audience": "professionals",
+          "note": ""
+        }
+      ],
+      "question_signals": [
+        "What is the most commonly misspelled word?",
+        "What are the top 10 misspelled words?",
+        "Is it misspelled or misspelt?"
+      ]
+    },
+    {
+      "keyword": "spelling rules in english with examples",
+      "volume": null,
+      "kd": null,
+      "dominant_intent": "informational: rules with worked examples",
+      "serp_shape": "Same guide set as 'english spelling rules' plus Indian edtech (BYJU'S, Physics Wallah, Orchids) and PDFs (Scribd, CUNY Hunter handout). BYJU'S has the most examples (~400) but zero misspelled-word list.",
+      "results": [
+        {
+          "title": "Spelling Rules (Orchids International School)",
+          "url": "https://www.orchidsinternationalschool.com/english-concepts/spelling-rules",
+          "domain": "orchidsinternationalschool.com",
+          "page_type": "rules guide (kids site)",
+          "interactive_practice": false,
+          "misspelled_word_list": false,
+          "audience": "Indian school students",
+          "note": ""
+        },
+        {
+          "title": "12 English Spelling Rules With Printable Worksheet",
+          "url": "https://grammarist.com/spelling/",
+          "domain": "grammarist.com",
+          "page_type": "rules guide",
+          "interactive_practice": false,
+          "misspelled_word_list": false,
+          "audience": "adults",
+          "note": ""
+        },
+        {
+          "title": "Spelling Rules: Common Spelling Rules and Tips (Examples)",
+          "url": "https://writingtips.org/spelling-rules/",
+          "domain": "writingtips.org",
+          "page_type": "rules guide",
+          "interactive_practice": false,
+          "misspelled_word_list": false,
+          "audience": "adults",
+          "note": ""
+        },
+        {
+          "title": "Spelling Rules (BYJU'S)",
+          "url": "https://byjus.com/english/spelling-rules/",
+          "domain": "byjus.com",
+          "page_type": "rules guide",
+          "interactive_practice": false,
+          "misspelled_word_list": false,
+          "audience": "Indian students/ESL",
+          "note": "13 sections, ~2,000 words, FAQ"
+        },
+        {
+          "title": "6 incredibly useful spelling rules from childhood",
+          "url": "https://www.prdaily.com/6-incredibly-useful-spelling-rules-from-childhood/",
+          "domain": "prdaily.com",
+          "page_type": "rules guide",
+          "interactive_practice": false,
+          "misspelled_word_list": false,
+          "audience": "PR/communications professionals",
+          "note": ""
+        },
+        {
+          "title": "Basic Spelling Rules Explained",
+          "url": "https://www.dictionary.com/e/?p=12445",
+          "domain": "dictionary.com",
+          "page_type": "rules guide",
+          "interactive_practice": false,
+          "misspelled_word_list": false,
+          "audience": "general",
+          "note": ""
+        },
+        {
+          "title": "Spelling rules to teach",
+          "url": "https://literacylearn.com/spelling-rules-to-teach/",
+          "domain": "literacylearn.com",
+          "page_type": "rules guide (teachers)",
+          "interactive_practice": false,
+          "misspelled_word_list": false,
+          "audience": "teachers/kids",
+          "note": ""
+        },
+        {
+          "title": "Spelling rules (Physics Wallah Curious Jr)",
+          "url": "https://www.pw.live/curious-jr/exams/spelling-rules",
+          "domain": "pw.live",
+          "page_type": "rules guide (kids site)",
+          "interactive_practice": false,
+          "misspelled_word_list": false,
+          "audience": "Indian school kids",
+          "note": ""
+        }
+      ],
+      "question_signals": [
+        "What are the 5 spelling rules in English?",
+        "What is the floss rule?",
+        "When do you double the consonant?",
+        "When do you drop the silent e?"
+      ]
+    },
+    {
+      "keyword": "spelling mistakes in english",
+      "volume": null,
+      "kd": null,
+      "dominant_intent": "informational: common mistakes list + why",
+      "serp_shape": "Grammar Monster 'Most misspelled words' (Google-search-frequency ranked top 20 + test), engVid 240-word PDF, FluentU, Readle, Orchids (kids), Gymglish 10, Kaplan 10, Espresso English (adding/removing a letter), Read and Spell '3 mistakes'.",
+      "results": [
+        {
+          "title": "Common spelling mistakes in English",
+          "url": "https://readle-app.com/en/blog/common-spelling-mistakes-in-english",
+          "domain": "readle-app.com",
+          "page_type": "word list",
+          "interactive_practice": false,
+          "misspelled_word_list": true,
+          "audience": "ESL",
+          "note": ""
+        },
+        {
+          "title": "Most Misspelled Words",
+          "url": "https://www.grammar-monster.com/lessons/most-misspelled-words.htm",
+          "domain": "grammar-monster.com",
+          "page_type": "word list + test",
+          "interactive_practice": true,
+          "misspelled_word_list": true,
+          "audience": "students/adults",
+          "note": "Top 20 ranked by Google search volume of the misspelling"
+        },
+        {
+          "title": "Common spelling mistakes in English (engVid)",
+          "url": "https://www.engvid.com/english-resource/common-spelling-mistakes-in-english/",
+          "domain": "engvid.com",
+          "page_type": "word list + PDF",
+          "interactive_practice": false,
+          "misspelled_word_list": true,
+          "audience": "ESL adults",
+          "note": "240-word PDF"
+        },
+        {
+          "title": "Misspelled Words in English: The Ultimate Guide for Students",
+          "url": "https://www.orchidsinternationalschool.com/english-concepts/misspelled-words",
+          "domain": "orchidsinternationalschool.com",
+          "page_type": "word list (kids site)",
+          "interactive_practice": false,
+          "misspelled_word_list": true,
+          "audience": "Indian students",
+          "note": ""
+        },
+        {
+          "title": "10 frequently misspelled words in English",
+          "url": "https://blog.gymglish.com/2023/04/24/10-frequently-misspelled-words-in-english",
+          "domain": "blog.gymglish.com",
+          "page_type": "word list",
+          "interactive_practice": false,
+          "misspelled_word_list": true,
+          "audience": "ESL adults",
+          "note": ""
+        },
+        {
+          "title": "English spelling mistakes: adding or removing a letter",
+          "url": "https://www.espressoenglish.net/english-spelling-mistakes-adding-or-removing-a-letter/",
+          "domain": "espressoenglish.net",
+          "page_type": "word list by error type",
+          "interactive_practice": false,
+          "misspelled_word_list": true,
+          "audience": "ESL adults",
+          "note": ""
+        },
+        {
+          "title": "10 frequently misspelled English words",
+          "url": "https://www.kaplaninternational.com/blog/language-tips/10-frequently-misspelled-english-words",
+          "domain": "kaplaninternational.com",
+          "page_type": "word list",
+          "interactive_practice": false,
+          "misspelled_word_list": true,
+          "audience": "ESL",
+          "note": ""
+        }
+      ],
+      "question_signals": [
+        "Why is spelling so hard in English?",
+        "What are the most common spelling mistakes?",
+        "How to fix spelling mistakes?"
+      ]
+    },
+    {
+      "keyword": "hard words to spell",
+      "volume": null,
+      "kd": null,
+      "dominant_intent": "informational list (often entertainment-flavoured)",
+      "serp_shape": "Dictionary.com 33 words, HowStuffWorks, Scary Mommy, ProWritingAid, SpellQuiz, FluentU 50, Read and Spell, Study International, Apartment Therapy 16, Reader's Digest 15, Reading Vine. Overlaps heavily with 'difficult spellings in english'.",
+      "results": [
+        {
+          "title": "Hardest words to spell",
+          "url": "https://people.howstuffworks.com/hardest-words-to-spell.htm",
+          "domain": "people.howstuffworks.com",
+          "page_type": "word list",
+          "interactive_practice": false,
+          "misspelled_word_list": true,
+          "audience": "general",
+          "note": ""
+        },
+        {
+          "title": "Hard words to spell",
+          "url": "https://www.dictionary.com/e/hard-words-to-spell/",
+          "domain": "dictionary.com",
+          "page_type": "word list / dictionary",
+          "interactive_practice": false,
+          "misspelled_word_list": true,
+          "audience": "general",
+          "note": "33 words"
+        },
+        {
+          "title": "Hard to spell words",
+          "url": "https://www.scarymommy.com/hard-to-spell-words",
+          "domain": "scarymommy.com",
+          "page_type": "word list",
+          "interactive_practice": false,
+          "misspelled_word_list": true,
+          "audience": "parents",
+          "note": ""
+        },
+        {
+          "title": "Hard Words to Spell",
+          "url": "https://prowritingaid.com/art/2359/hard-words-to-spell.aspx",
+          "domain": "prowritingaid.com",
+          "page_type": "word list",
+          "interactive_practice": false,
+          "misspelled_word_list": true,
+          "audience": "adult writers",
+          "note": ""
+        },
+        {
+          "title": "Hard spelling words",
+          "url": "https://blog.spellquiz.com/hard-spelling-words/",
+          "domain": "blog.spellquiz.com",
+          "page_type": "word list + quiz link",
+          "interactive_practice": true,
+          "misspelled_word_list": true,
+          "audience": "students",
+          "note": ""
+        },
+        {
+          "title": "16 Hard Words to Spell That You're Probably Using Every Day",
+          "url": "https://www.apartmenttherapy.com/hard-words-to-spell-37330452",
+          "domain": "apartmenttherapy.com",
+          "page_type": "word list",
+          "interactive_practice": false,
+          "misspelled_word_list": true,
+          "audience": "adults",
+          "note": ""
+        }
+      ],
+      "question_signals": [
+        "What is the hardest word to spell?",
+        "What are 10 hard words to spell?"
+      ]
+    },
+    {
+      "keyword": "english spelling practice for adults",
+      "volume": null,
+      "kd": null,
+      "dominant_intent": "do + how-to for adults specifically",
+      "serp_shape": "Read and Spell dominates (3 URL variants of 'Learning to spell for adults' + 'How to improve spelling'); Better Spelling (free adaptive web app), UoPeople 'best spelling games for adults', Spellzone (adult course), Udemy spelling rules course, learnenglishfeelgood dictation. Thin SERP - few strong adult-specific pages, none Indian.",
+      "results": [
+        {
+          "title": "Learning to spell for adults",
+          "url": "https://www.readandspell.com/learning-to-spell-for-adults",
+          "domain": "readandspell.com",
+          "page_type": "article",
+          "interactive_practice": false,
+          "misspelled_word_list": false,
+          "audience": "adults (dyslexia/ESL)",
+          "note": ""
+        },
+        {
+          "title": "How to improve spelling skills",
+          "url": "https://www.readandspell.com/how-to-improve-spelling",
+          "domain": "readandspell.com",
+          "page_type": "article",
+          "interactive_practice": false,
+          "misspelled_word_list": false,
+          "audience": "adults",
+          "note": ""
+        },
+        {
+          "title": "Spelling practice for adults (Better Spelling)",
+          "url": "https://benkaiser.github.io/better-spelling/",
+          "domain": "benkaiser.github.io",
+          "page_type": "practice tool",
+          "interactive_practice": true,
+          "misspelled_word_list": false,
+          "audience": "adults",
+          "note": "Free adaptive, US/UK spelling toggle"
+        },
+        {
+          "title": "The best spelling games for adults",
+          "url": "https://www.uopeople.edu/blog/the-best-spelling-games-for-adults/",
+          "domain": "uopeople.edu",
+          "page_type": "article (games list)",
+          "interactive_practice": false,
+          "misspelled_word_list": false,
+          "audience": "adults",
+          "note": ""
+        },
+        {
+          "title": "Spellzone",
+          "url": "https://spellzone.com",
+          "domain": "spellzone.com",
+          "page_type": "practice tool / course",
+          "interactive_practice": true,
+          "misspelled_word_list": true,
+          "audience": "adults/ESL",
+          "note": ""
+        },
+        {
+          "title": "Spelling rules course (Udemy)",
+          "url": "https://www.udemy.com/course/spelling-rules-course/",
+          "domain": "udemy.com",
+          "page_type": "video course",
+          "interactive_practice": false,
+          "misspelled_word_list": false,
+          "audience": "adults",
+          "note": ""
+        },
+        {
+          "title": "English spelling practice 8",
+          "url": "https://www.learnenglishfeelgood.com/listening/english-spelling-practice8.html",
+          "domain": "learnenglishfeelgood.com",
+          "page_type": "practice tool (dictation)",
+          "interactive_practice": true,
+          "misspelled_word_list": false,
+          "audience": "ESL adults",
+          "note": ""
+        }
+      ],
+      "question_signals": [
+        "How can adults learn to spell?",
+        "Why do adults struggle with spelling?",
+        "What are good spelling games for adults?"
+      ]
+    },
+    {
+      "keyword": "spelling test for adults",
+      "volume": null,
+      "kd": null,
+      "dominant_intent": "do: take a test",
+      "serp_shape": "News-site quizzes (Local10 '25 words you should nail', WSLS/ClickOnDetroit '5 hardest words'), SpellQuiz adult test, Jobcannon 40-word recognition test, WikiJob employment spelling test guide, Spellzone baseline test, Yule 16-word test. Expectation: a scoreable list.",
+      "results": [
+        {
+          "title": "An adult spelling test: 25 words you should nail, but might miss",
+          "url": "https://local10.com/features/2022/01/21/an-adult-spelling-test-25-words-you-should-nail-but-might-miss",
+          "domain": "local10.com",
+          "page_type": "quiz (news)",
+          "interactive_practice": true,
+          "misspelled_word_list": true,
+          "audience": "adults",
+          "note": ""
+        },
+        {
+          "title": "Spelling Tests by Grade (incl. Adult)",
+          "url": "https://spellquiz.com/spelling",
+          "domain": "spellquiz.com",
+          "page_type": "practice tool",
+          "interactive_practice": true,
+          "misspelled_word_list": false,
+          "audience": "students/adults",
+          "note": ""
+        },
+        {
+          "title": "Online Practice Spelling Test for Employment",
+          "url": "https://www.wikijob.co.uk/aptitude-tests/test-types/online-spelling-test",
+          "domain": "wikijob.co.uk",
+          "page_type": "guide + practice",
+          "interactive_practice": true,
+          "misspelled_word_list": false,
+          "audience": "job seekers",
+          "note": ""
+        },
+        {
+          "title": "Spelling test (Jobcannon)",
+          "url": "https://jobcannon.io/assessments/spelling-test",
+          "domain": "jobcannon.io",
+          "page_type": "quiz",
+          "interactive_practice": true,
+          "misspelled_word_list": false,
+          "audience": "job seekers",
+          "note": "40 Q multiple-choice"
+        },
+        {
+          "title": "Adult spelling test (Spellzone)",
+          "url": "https://spellzone.com/single_adult_spelling.cfm",
+          "domain": "spellzone.com",
+          "page_type": "practice tool",
+          "interactive_practice": true,
+          "misspelled_word_list": false,
+          "audience": "adults",
+          "note": ""
+        }
+      ],
+      "question_signals": [
+        "What is a good spelling test for adults?",
+        "How do employers test spelling?",
+        "Can you pass this adult spelling test?"
+      ]
+    },
+    {
+      "keyword": "english spelling kaise sikhe",
+      "volume": null,
+      "kd": null,
+      "dominant_intent": "how-to (Hinglish query); the US index returns English pages only",
+      "serp_shape": "Search tool returned English-language how-to pages (Spellzone, FluentU, Oxford Royale, British Council). In the Indian SERP this query is normally served by Hindi YouTube videos and Hinglish blog posts; no competitor article in the set we fetched addresses Hindi speakers. Opportunity: a Hinglish-friendly section with a Hindi gloss (spelling = vartani) and transliteration-driven mistakes.",
+      "results": [
+        {
+          "title": "Learning tips, how to improve your spelling",
+          "url": "https://www.spellzone.com/unit02/page1.cfm",
+          "domain": "spellzone.com",
+          "page_type": "how-to (course unit)",
+          "interactive_practice": true,
+          "misspelled_word_list": false,
+          "audience": "adults/ESL",
+          "note": ""
+        },
+        {
+          "title": "How to improve English spelling",
+          "url": "https://www.fluentu.com/blog/english/how-to-improve-english-spelling/",
+          "domain": "fluentu.com",
+          "page_type": "how-to article",
+          "interactive_practice": false,
+          "misspelled_word_list": false,
+          "audience": "ESL adults",
+          "note": ""
+        },
+        {
+          "title": "19 Practical and Fun Ways to Improve at English Spelling",
+          "url": "https://www.oxford-royale.com/articles/improve-english-spelling",
+          "domain": "oxford-royale.com",
+          "page_type": "how-to article",
+          "interactive_practice": false,
+          "misspelled_word_list": false,
+          "audience": "students",
+          "note": ""
+        },
+        {
+          "title": "Five tips for how to improve spelling",
+          "url": "https://englishonline.britishcouncil.org/blog/articles/five-tips-for-how-to-improve-spelling-so-you-never-forget/",
+          "domain": "englishonline.britishcouncil.org",
+          "page_type": "how-to article",
+          "interactive_practice": false,
+          "misspelled_word_list": false,
+          "audience": "ESL adults",
+          "note": ""
+        },
+        {
+          "title": "How to improve your English spelling (British Council India)",
+          "url": "https://www.britishcouncil.in/blog/how-improve-your-english-spelling",
+          "domain": "britishcouncil.in",
+          "page_type": "how-to article",
+          "interactive_practice": false,
+          "misspelled_word_list": false,
+          "audience": "Indian adults",
+          "note": ""
+        }
+      ],
+      "question_signals": [
+        "English spelling kaise yaad kare?",
+        "Spelling kaise sikhe?",
+        "English spelling improve kaise kare?"
+      ]
+    },
+    {
+      "keyword": "spelling in hindi meaning",
+      "volume": null,
+      "kd": null,
+      "dominant_intent": "dictionary lookup (spelling = vartani)",
+      "serp_shape": "Pure dictionary SERP: Multibhashi, Shabdkosh, HinKhoj, UrduPoint. Not a target for this article; worth one FAQ line only ('spelling ko Hindi me vartani kehte hain') to catch the long tail.",
+      "results": [
+        {
+          "title": "Spelling meaning in Hindi",
+          "url": "https://multibhashi.com/spelling-meaning-in-hindi",
+          "domain": "multibhashi.com",
+          "page_type": "dictionary",
+          "interactive_practice": false,
+          "misspelled_word_list": false,
+          "audience": "Hindi speakers",
+          "note": ""
+        },
+        {
+          "title": "Spell meaning in Hindi",
+          "url": "https://www.shabdkosh.com/dictionary/english-hindi/spell/spell-meaning-in-hindi",
+          "domain": "shabdkosh.com",
+          "page_type": "dictionary",
+          "interactive_practice": false,
+          "misspelled_word_list": false,
+          "audience": "Hindi speakers",
+          "note": ""
+        },
+        {
+          "title": "Standard spelling meaning in Hindi",
+          "url": "https://dict.hinkhoj.com/standard spelling-meaning-in-hindi.words",
+          "domain": "dict.hinkhoj.com",
+          "page_type": "dictionary",
+          "interactive_practice": false,
+          "misspelled_word_list": false,
+          "audience": "Hindi speakers",
+          "note": ""
+        },
+        {
+          "title": "Speller Meaning In Hindi",
+          "url": "https://hinkhojdictionary.com/english-hindi/speller-meaning-in-hindi",
+          "domain": "hinkhojdictionary.com",
+          "page_type": "dictionary",
+          "interactive_practice": false,
+          "misspelled_word_list": false,
+          "audience": "Hindi speakers",
+          "note": ""
+        }
+      ],
+      "question_signals": [
+        "Spelling ko Hindi me kya kehte hain?",
+        "Vartani meaning"
+      ]
+    }
+  ],
+  "task_b_competitors": [
+    {
+      "url": "https://www.grammar-monster.com/lessons/spelling-rules-in-English.htm",
+      "target_keyword": "english spelling rules",
+      "h2": [
+        "Top 10 Spelling Rules in English",
+        "(1) Adding a suffix to word ending -y",
+        "(2) Adding -es to words ending -s/-ss/-z/-ch/-sh/-x",
+        "(3) Dropping the -e",
+        "(4) i before e except after c",
+        "(5) Changing -f to -ves",
+        "(6) Doubling the final consonant",
+        "(7) Adding -ful",
+        "(8) Adding -ly",
+        "(9) Adding the prefix al-",
+        "(10) Adding -s or -es to words ending -o",
+        "Multi-choice Test"
+      ],
+      "rules_covered": 10,
+      "examples_per_rule": "2-40 (median ~8); 13 exceptions listed for i-before-e",
+      "misspelled_word_list": {
+        "present": false,
+        "count": 0,
+        "note": "links to separate 'most misspelled words' page (top 20 + 27 misspellings, ranked by Google search frequency)"
+      },
+      "hindi_esl_angle": "none",
+      "interactive": [
+        "multi-choice test (printable/sendable)",
+        "Hangman, Word Builder, Wordle games",
+        "read-aloud voice"
+      ],
+      "length_words": "~1,500-2,000",
+      "author_date": "Craig Shrives; no date"
+    },
+    {
+      "url": "https://grammarist.com/spelling/",
+      "target_keyword": "english spelling rules",
+      "h2": [
+        "1. Adding Suffixes to Words That End in Y",
+        "2. I Before E, Except After C",
+        "3. Each Syllable Has a Vowel",
+        "4. The Silent E",
+        "5. Double Consonants",
+        "6. Plural Suffixes",
+        "7. S Never Follows X",
+        "8. Short Vowel Rules",
+        "9. Use -ck After a Short Vowel",
+        "10. Keep Letters with a Vowel and Y Ending",
+        "11. The Prefix Al- is All With a Missing L",
+        "12. Q and U are in Pairs",
+        "In the End",
+        "Download the Printable Worksheet"
+      ],
+      "rules_covered": 12,
+      "examples_per_rule": "3-22 (median ~10), with correct/incorrect sentence pairs",
+      "misspelled_word_list": {
+        "present": false,
+        "count": 0
+      },
+      "hindi_esl_angle": "none",
+      "interactive": [
+        "printable worksheet PDF (spelling tests)"
+      ],
+      "length_words": "~1,400",
+      "author_date": "none shown; footer 2024"
+    },
+    {
+      "url": "https://leverageedu.com/explore/learn-english/spelling-rules-in-english/",
+      "target_keyword": "english spelling rules (Indian SERP)",
+      "h2": [
+        "5 Important Spelling Rules in English (H3: Adding Prefixes, Adding Suffixes, Silent Letters, Words Ending in ck, Similar Phonetic Sounds)",
+        "5+ English Language Spelling Rules (Download PDF)",
+        "English Orthography Rules",
+        "Why Spelling Matters in English Language?",
+        "FAQs"
+      ],
+      "rules_covered": "5 in body (title promises 11)",
+      "examples_per_rule": "7-16",
+      "misspelled_word_list": {
+        "present": false,
+        "count": 0
+      },
+      "hindi_esl_angle": "Indian site (lead forms, +91) but article has no Hindi/India-specific content; generic 'non-native' mention",
+      "interactive": [
+        "PDF worksheet (credited to English with Lucy)",
+        "rating widget",
+        "comment form"
+      ],
+      "length_words": "~1,300",
+      "author_date": "Malvika Chawla; updated 16 Oct 2024",
+      "quality_gaps": "Factual errors: lists talk/silk as silent-k, 'Halk'/'Palk' non-words, 'wreck' as silent k; duplicate phonetic rows"
+    },
+    {
+      "url": "https://byjus.com/english/spelling-rules/",
+      "target_keyword": "spelling rules in english with examples (Indian SERP)",
+      "h2": [
+        "Important Spelling Rules in English (13 H3s: Prefixes, Suffixes, Ei or Ie, Silent Letters A-W, U after Q/no S after X, No Vs or Js at end, Words ending ck, Similar Phonetic Sounds, Forming Gerunds, Spelling change with tense, Plural forms, Double f/l/s, Comparative/superlative doubling)",
+        "How to Keep Track of Your Vocabulary and Spelling?",
+        "Frequently Asked Questions on English Spelling Rules"
+      ],
+      "rules_covered": 12,
+      "examples_per_rule": "8-164 (silent letters 164); ~400 examples total",
+      "misspelled_word_list": {
+        "present": false,
+        "count": 0
+      },
+      "hindi_esl_angle": "Indian edtech, British spellings, 'new language learners' framing; no L1-interference content",
+      "interactive": [
+        "anchor TOC",
+        "OTP-gated PDF/video downloads"
+      ],
+      "length_words": "~2,000",
+      "author_date": "none shown",
+      "faq": [
+        "What are the 5 spelling rules in English?",
+        "Why is it important to know spelling rules?",
+        "How do I teach my child spelling rules?"
+      ]
+    },
+    {
+      "url": "https://languagetool.org/insights/post/hard-words-to-spell-spelling/",
+      "target_keyword": "difficult spellings in english",
+      "h2": [
+        "English Spelling Is Tricky",
+        "15 Hard-To-Spell Words (H3 per word)",
+        "It's Not You, It's English"
+      ],
+      "rules_covered": 0,
+      "examples_per_rule": "n/a; each word: IPA, definition, why hard, occasional tip, example sentence",
+      "misspelled_word_list": {
+        "present": true,
+        "count": 15
+      },
+      "hindi_esl_angle": "says hard for learners and natives alike; IPA given; no L1-specific help",
+      "interactive": [
+        "jump links",
+        "helpful vote",
+        "inline LanguageTool checker CTA"
+      ],
+      "length_words": "~1,200-1,400",
+      "author_date": "Gina Rancano; published 16 Jun 2025, revised 10 Mar 2026"
+    },
+    {
+      "url": "https://www.fluentu.com/blog/english/difficult-english-words-to-spell/",
+      "target_keyword": "difficult spellings in english / hard words to spell",
+      "h2": [
+        "Top 30 Hard Words to Spell in English",
+        "Why Are Some Words Hard to Spell (H3: Confusing Letter Combinations, Long Strings of Vowels, Double Consonants, Words that Change Meaning Depending on Spelling)",
+        "And One More Thing..."
+      ],
+      "rules_covered": "4 pattern groups (i-before-e, vowel strings, doubles, homophones)",
+      "examples_per_rule": "table of 30 (word/meaning/why tricky) + ~17 in subsections; title says 50",
+      "misspelled_word_list": {
+        "present": true,
+        "count": "~47"
+      },
+      "hindi_esl_angle": "ESL-targeted; etymology notes (French eau, Greek); no L1-specific help",
+      "interactive": [
+        "PDF download via email capture",
+        "one embedded video"
+      ],
+      "length_words": "~1,800",
+      "author_date": "Katya Ryabova; 1 Feb 2024, modified 14 Jan 2025"
+    },
+    {
+      "url": "https://www.grammar-monster.com/lessons/most-misspelled-words.htm",
+      "target_keyword": "spelling mistakes in english / most misspelled words",
+      "h2": [
+        "The Importance of Accurate Spelling",
+        "Top 20 Misspelled Words",
+        "Why Is Spelling So Hard in English?",
+        "How To Fix Spelling Mistakes",
+        "The Top Ten Most Misspelled Words",
+        "Learn with Hangman!",
+        "Multi-choice Test"
+      ],
+      "rules_covered": "general tips only (look-cover-write-check, mnemonics, morphemes)",
+      "examples_per_rule": "n/a",
+      "misspelled_word_list": {
+        "present": true,
+        "count": 20,
+        "note": "27 misspellings, ranked by Google search frequency of the wrong spelling"
+      },
+      "hindi_esl_angle": "none",
+      "interactive": [
+        "multi-choice test",
+        "Hangman",
+        "look-cover-write-check game",
+        "PDF"
+      ],
+      "length_words": "~1,300",
+      "author_date": "Craig Shrives; no date"
+    },
+    {
+      "url": "https://testbook.com/english-grammar/spellings",
+      "target_keyword": "spelling rules (Indian exam SERP)",
+      "h2": [
+        "Common Rules for English Grammar Spelling Test (9 H3 rules)",
+        "Points to Remember",
+        "Testbook Trick",
+        "Types of Spelling Pattern in Exams",
+        "English Grammar Spelling Practice Problems",
+        "FAQs"
+      ],
+      "rules_covered": 9,
+      "examples_per_rule": "2-5",
+      "misspelled_word_list": {
+        "present": false,
+        "count": 0,
+        "note": "7 misspelled distractors inside 5 MCQs"
+      },
+      "hindi_esl_angle": "SSC CGL / bank exam framing; test series available in Hindi",
+      "interactive": [
+        "5 MCQ practice problems"
+      ],
+      "length_words": "~1,000",
+      "author_date": "none",
+      "faq": [
+        "Common mistake while solving a spelling test?",
+        "Where to practice the spelling test?",
+        "Which exams ask the spelling test?",
+        "How to solve spelling tests accurately?",
+        "Why do exams have spelling tests?"
+      ]
+    }
+  ],
+  "task_b_patterns_and_gaps": {
+    "patterns": [
+      "Rules guides converge on the same 8-12 rules: y+suffix, -es plurals, drop silent e, i-before-e, f→ves, consonant doubling, -ful/-ly, al-, q+u, -ck after short vowel, prefixes don't change the base.",
+      "Rules pages carry NO misspelled-word list; misspelled-word pages carry NO rules. No competitor fuses 'rule → the real-world words it saves you on → self-test'.",
+      "Hard-word listicles favour spelling-bee exotica (onomatopoeia, Worcestershire, fuchsia) rather than words adults actually type in emails (receive, schedule, colleague, acknowledge, occurred, separate, definitely).",
+      "Interactivity is mostly external (PDF via email capture, OTP-gated downloads, separate quiz pages). Grammar Monster is the only one with an on-page test.",
+      "Only Grammar Monster ranks words by real misspelling frequency; everyone else uses editorial picks.",
+      "Dates/authors are weak: 4 of 8 pages show no author or date; Leverage Edu and Testbook have visible factual errors.",
+      "Zero pages address Hindi/L1 interference (v/w, s/sh, dropped schwa, phonetic Hindi script leading to 'write as you say'), and zero address British-vs-American choice for Indian workplaces."
+    ],
+    "gaps_for_hindi_medium_adults_and_email_writers": [
+      "Phonetic-script transfer: Hindi is written as it sounds, so Hindi-medium learners write English the same way → 'untill', 'tommorow', 'goverment', 'seperate', 'definately'. No competitor explains this cause or gives a fix (anchor the silent/unstressed letter to a related word: govern-ment, de-finite-ly).",
+      "Pronunciation-driven errors specific to Indian English: v/w swaps (wery/very), s/sh (shedule), 'z' for 's' endings, -er/-or/-ar endings (calender, grammer, seperate), 'schedule', 'Wednesday', 'colleague', 'queue'.",
+      "Email-specific vocabulary audit: no page lists the 40-60 words that appear in Indian workplace emails and get misspelled (receive, acknowledge, occurred, accommodate, necessary, immediately, sincerely, regards, apologies, convenience, available, maintenance, recommend, until, business, calendar, address, schedule, liaise, guarantee, questionnaire, grateful, truly, argument, judgement).",
+      "British vs American choice: Indian companies default to British (colour, organisation, programme, licence/license, practise/practice) but Gmail/Outlook spell-check often defaults to US. Nobody tells readers how to set their spell-checker language or which standard to pick.",
+      "Spell-check blind spots: homophones and real-word errors (their/there, then/than, lose/loose, affect/effect, principal/principle, complement/compliment) that pass spell-check and reach a manager's inbox.",
+      "Hinglish/transliteration habits: SMS-style shortenings (pls, u, ur, thru, tmrw) leaking into formal mail; 'kindly do the needful' type phrasing is covered elsewhere but spelling-level leakage is not.",
+      "Adult-specific practice: the 'practice spelling' SERP is child-centric; an adult routine (5 words/day, say-cover-write-check on your own email drafts, dictate-then-type with an AI coach) is missing.",
+      "No speaking link: SpeakX can uniquely frame spelling through pronunciation (say it right → spell it right), which no competitor does."
+    ]
+  },
+  "task_c": {
+    "keyword_section_map": [
+      {
+        "section": "Intro / direct answer",
+        "primary": "english spelling rules and practice",
+        "secondary": [
+          "english spelling practice",
+          "how to write correct spelling in english"
+        ],
+        "question_heading": null,
+        "notes": "40-60 word direct answer: English spelling has ~10 reliable rules; most workplace mistakes come from 15-20 patterns; here are the rules, the words, and a self-test. State who it's for (Hindi-medium adults writing emails)."
+      },
+      {
+        "section": "Spelling rules with examples",
+        "primary": "english spelling rules",
+        "secondary": [
+          "spelling rules in english with examples",
+          "5 spelling rules in english",
+          "i before e rule exceptions"
+        ],
+        "question_heading": "What are the most important English spelling rules?",
+        "notes": "10 rules; each rule = 1-line rule, 4-6 examples, 2 exceptions, 1 'email word this saves you on'. Add an H3 'What are the 5 basic spelling rules?' summary box because that exact FAQ appears on BYJU'S/Testbook/Leverage Edu."
+      },
+      {
+        "section": "Commonly misspelled words table",
+        "primary": "difficult spellings in english",
+        "secondary": [
+          "commonly misspelled words in english",
+          "hard words to spell",
+          "spelling mistakes in english"
+        ],
+        "question_heading": "Which English words are most often misspelled in emails?",
+        "notes": "50-word table: correct | common wrong spelling | why Hindi speakers get it wrong | memory hook. Group by error type (double letters, silent letters, -er/-or/-ar, ie/ei, homophones). Do not copy competitor lists; source from email vocabulary."
+      },
+      {
+        "section": "Hindi-speaker tips",
+        "primary": "english spelling kaise sikhe",
+        "secondary": [
+          "spelling mistakes indian english",
+          "spelling in hindi meaning (vartani)"
+        ],
+        "question_heading": "Why do Hindi speakers make these spelling mistakes?",
+        "notes": "Phonetic-script transfer, v/w, s/sh, schwa, British vs American. Include one Hinglish line and the gloss 'spelling = vartani (वर्तनी)'."
+      },
+      {
+        "section": "How to write correct spelling: steps",
+        "primary": "how to write correct spelling in english",
+        "secondary": [
+          "how to improve spelling as an adult",
+          "how to spell words correctly"
+        ],
+        "question_heading": "How do I write correct spelling in English every time?",
+        "notes": "6 numbered steps: pick a standard, set spell-check language, say-cover-write-check, keep a trouble list, proofread for homophones, read aloud before sending."
+      },
+      {
+        "section": "Practice exercises",
+        "primary": "practice spelling",
+        "secondary": [
+          "practicing spelling",
+          "english spelling practice for adults",
+          "spelling test for adults"
+        ],
+        "question_heading": "How can I practice spelling as a working adult?",
+        "notes": "This is the click-earning section. Three self-tests on page: (1) 20-word dictation list with hidden answers, (2) 'spot the misspelled word' 10-item MCQ in SSC/bank format, (3) 'fix this email' paragraph with 8 planted errors. Plus downloadable one-page practice sheet. Name the H2 with the word 'practice' so it can be a jump-link."
+      },
+      {
+        "section": "FAQ",
+        "primary": "FAQ long-tail",
+        "secondary": [
+          "why is english spelling so difficult",
+          "british or american spelling in india"
+        ],
+        "question_heading": "FAQs about English spelling rules and practice",
+        "notes": "8 questions below; mark up with FAQPage schema."
+      }
+    ],
+    "competitor_gap_list": [
+      "Rules + misspelled words + self-test on ONE page (competitors split these across 2-3 pages).",
+      "Email-vocabulary misspelled-word table instead of spelling-bee exotica.",
+      "Explicit Hindi-interference explanations (phonetic script, v/w, s/sh, schwa) with fixes.",
+      "British vs American guidance for Indian workplaces + how to set spell-check language in Gmail/Outlook/Word.",
+      "Homophone/real-word errors that spell-check misses, in an email context.",
+      "Adult practice routine (5 words/day on your own drafts) and an SSC/bank-style 'spot the wrong spelling' MCQ, which Indian searchers recognise.",
+      "A 'fix this email' exercise: nobody has it.",
+      "Downloadable one-page practice sheet without email/OTP gate (BYJU'S and FluentU gate theirs).",
+      "Visible author, date, and sources; fix the current page's inconsistent British Council stats (60% / 67% / 74%).",
+      "Pronunciation-to-spelling bridge (SpeakX's speaking angle): say it right, spell it right."
+    ],
+    "title_tag": {
+      "recommended": "English Spelling Rules and Practice: Guide for Indian Adults",
+      "alternatives": [
+        "English Spelling Rules & Practice: 50 Tricky Words + Tests",
+        "English Spelling Rules & Practice: Word List, Tests | SpeakX"
+      ]
+    },
+    "meta_description": {
+      "recommended": "English spelling rules that matter in emails, a 50-word misspelled-words test, and fixes for Hindi-speaker habits. Free one-page practice sheet.",
+      "alternative": "English spelling rules with examples, a 50-word misspelled-words table, Hindi-speaker tips and three self-tests. Practice spelling for work emails today."
+    },
+    "h1": "English Spelling Rules and Practice: A Working Adult's Guide",
+    "url": "https://speakx.ai/blog/english-spelling-practice (keep; no redirect needed)",
+    "faq_questions": [
+      "What are the 5 basic spelling rules in English?",
+      "Why is English spelling so difficult?",
+      "What is the 'i before e except after c' rule, and what are its exceptions?",
+      "What are the most commonly misspelled words in English?",
+      "How can I improve my spelling as an adult?",
+      "How do I practice spelling words at home?",
+      "Should I use British or American spelling in India?",
+      "What is spelling called in Hindi? (vartani / वर्तनी)"
+    ],
+    "faq_source_evidence": "Q1: BYJU'S, Testbook, Leverage Edu FAQs. Q2: Grammar Monster H2, Spellzone, VOA, Psychology Today. Q3: Merriam-Webster, Espresso English, Thesaurus.com, Spellzone. Q4: Dictionary.com, Wikipedia, Grammar Monster. Q5: Read and Spell, Leverage Edu FAQ 'How do I improve my spelling?'. Q6: 'practicing spelling' SERP (Reading Rockets, BookShark, Oxford Owl). Q7: FluentU, British Council, ProWritingAid 'pick one standard'. Q8: 'spelling in hindi meaning' SERP (Multibhashi, Shabdkosh, HinKhoj).",
+    "zero_click_diagnosis": {
+      "why_impressions_but_no_clicks": [
+        "Intent mismatch: 'practice spelling' SERP is tools, quizzes, printables and games; the SpeakX result is an explainer titled 'Everything You Need to Know' with H2s like 'Key Benefits' and 'Career Growth and Salary Impact'. The snippet promises reading, not doing.",
+        "Audience mismatch: most 'practice/practicing spelling' searchers are parents/teachers of children; SpeakX's snippet talks about Indian professionals and salary. The remaining adult searchers want exercises, which the page does not have (0 lists, 0 exercises, 0 downloads).",
+        "Position ~8 on a SERP full of recognisable tool brands (SpellQuiz, Spelling Stars, Twinkl, Education.com) means the article has to out-promise them in the snippet, and it currently does not.",
+        "Impression drop (2,663 → 1,419 in a week at steady ~8) is consistent with Google re-evaluating which queries the page is relevant to after a SERP shift; a page with no practice content is fragile on 'practice' queries. Position held, so this is relevance/coverage, not a penalty.",
+        "Current FAQ headings are keyword-stuffed ('What are the best ways to practice English spelling practice?'), which hurts snippet quality."
+      ],
+      "on_page_changes_to_earn_clicks": [
+        "Add a real 'Practice spelling: 3 self-tests' H2 with (a) 20-word dictation list with reveal-answers, (b) 10-question spot-the-misspelling MCQ, (c) fix-this-email paragraph. Put the word 'practice' and the number in the heading so Google can surface it as a jump-link.",
+        "Offer a downloadable one-page practice sheet (PDF/PNG) above the fold, no email gate; mention 'free practice sheet' in meta description.",
+        "Rewrite title/meta to promise rules + word list + tests (see recommended title/meta).",
+        "Add the 50-word misspelled-words table early (position 2-3 in the page) so a table snippet can win.",
+        "Add FAQPage schema and HowTo schema for the steps section.",
+        "Replace the six-method comparison table (marketing-style) with the practice content; keep the SpeakX CTA but after the practice section.",
+        "Add 'For adults' explicitly in H1/intro to pick up the underserved adult segment of 'practice spelling' where the SERP is child-centric."
+      ]
+    },
+    "internal_links_from_this_page": [
+      {
+        "url": "https://speakx.ai/blog/english-pronunciation-difficulty",
+        "status": 200,
+        "anchor": "English pronunciation difficulties for Indian speakers",
+        "where": "Hindi-speaker tips (v/w, s/sh, schedule)"
+      },
+      {
+        "url": "https://speakx.ai/blog/english-grammar-sentence-structure",
+        "status": 200,
+        "anchor": "English sentence structure guide",
+        "where": "How-to steps (proofreading)"
+      },
+      {
+        "url": "https://speakx.ai/blog/english-grammar-tenses",
+        "status": 200,
+        "anchor": "English grammar tenses with examples",
+        "where": "Rules section (spelling changes with tense: -ed, -ing doubling)"
+      },
+      {
+        "url": "https://speakx.ai/blog/how-to-speak-english-fluently",
+        "status": 200,
+        "anchor": "how to speak English fluently",
+        "where": "Intro or CTA; NOTE current page links to /blog/english-speaking-fluency which 301-redirects here, update the href"
+      },
+      {
+        "url": "https://speakx.ai/blog/ai-coach-se-english-kaise-sikhe",
+        "status": 200,
+        "anchor": "AI coach se English kaise sikhe",
+        "where": "Hindi-speaker tips / practice section"
+      },
+      {
+        "url": "https://speakx.ai/blog/100-simple-english-sentences-for-daily-use-with-hindi-meaning",
+        "status": 200,
+        "anchor": "100 simple English sentences with Hindi meaning",
+        "where": "Practice section (dictation source sentences)"
+      },
+      {
+        "url": "https://speakx.ai/blog/english-interview-questions-and-answers-for-corporate-professionals-a-speaking-confidence-guide",
+        "status": 200,
+        "anchor": "English for corporate professionals",
+        "where": "Email-writer framing in intro"
+      },
+      {
+        "url": "https://speakx.ai/blog/interview-questions-answers-english-freshers",
+        "status": 200,
+        "anchor": "interview questions and answers for freshers",
+        "where": "FAQ: spelling in CVs and cover letters"
+      },
+      {
+        "url": "https://speakx.ai/premium",
+        "status": 200,
+        "anchor": "SpeakX Premium",
+        "where": "CTA after practice section"
+      }
+    ],
+    "existing_posts_that_should_link_here": [
+      {
+        "url": "https://speakx.ai/blog/english-grammar-sentence-structure",
+        "status": 200,
+        "suggested_anchor": "English spelling rules and practice",
+        "context": "proofreading / writing correct sentences"
+      },
+      {
+        "url": "https://speakx.ai/blog/english-grammar-tenses",
+        "status": 200,
+        "suggested_anchor": "spelling rules for -ed and -ing endings",
+        "context": "past tense / continuous spelling changes (stop→stopped, write→writing)"
+      },
+      {
+        "url": "https://speakx.ai/blog/english-pronunciation-difficulty",
+        "status": 200,
+        "suggested_anchor": "why pronunciation causes spelling mistakes",
+        "context": "v/w, silent letters"
+      },
+      {
+        "url": "https://speakx.ai/blog/english-interview-questions-and-answers-for-corporate-professionals-a-speaking-confidence-guide",
+        "status": 200,
+        "suggested_anchor": "commonly misspelled words in work emails",
+        "context": "written communication at work"
+      },
+      {
+        "url": "https://speakx.ai/blog/interview-questions-answers-english-freshers",
+        "status": 200,
+        "suggested_anchor": "check your spelling before you send your CV",
+        "context": "fresher CV/cover letter section"
+      },
+      {
+        "url": "https://speakx.ai/blog/ai-coach-se-english-kaise-sikhe",
+        "status": 200,
+        "suggested_anchor": "English spelling kaise sikhe",
+        "context": "Hindi-medium learner guide (bonus 6th)"
+      }
+    ]
+  },
+  "summary": [
+    "The 'practice spelling' / 'practicing spelling' SERPs are tools, quizzes, printables and parent guides; SpeakX's explainer with zero exercises earns impressions at ~8 but no clicks because the snippet promises reading, not doing.",
+    "Rules SERP (1,600/mo, KD 23) is won by 10-12-rule guides with examples; none of them includes a misspelled-word list or any Hindi/ESL interference content.",
+    "Hard-word SERPs (880/mo, KD 26) are spelling-bee listicles; an email-vocabulary misspelled-words table with Hindi-speaker 'why' and memory hooks is an open gap.",
+    "Recommended: H1 'English Spelling Rules and Practice: A Working Adult's Guide', title 'English Spelling Rules and Practice: Guide for Indian Adults' (60), keep URL, add FAQPage schema with 8 FAQs that appear across BYJU'S/Testbook/Dictionary.com/Spellzone.",
+    "Click fix: add a 'Practice spelling: 3 self-tests' section (dictation list, spot-the-misspelling MCQ, fix-this-email) plus an ungated one-page practice sheet, and move the 50-word table high on the page.",
+    "9 internal link targets verified 200 (fix the /blog/english-speaking-fluency href, which now 301s to /blog/how-to-speak-english-fluently); 5 existing posts (sentence-structure, tenses, pronunciation, corporate-interview, freshers-interview) should link in."
+  ]
+}
