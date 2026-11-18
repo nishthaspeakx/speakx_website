@@ -1,0 +1,42 @@
+{
+  "slug": "supernova",
+  "appStoreId": "6447939054",
+  "store": "app_store",
+  "storefront": "in",
+  "collectedAt": "2026-10-13T13:40:33.179Z",
+  "errors": [
+    {
+      "stage": "rss",
+      "message": "RSS customerreviews feed returned HTTP 200 with an empty feed (no <entry>) for every page/sort tried on the IN storefront (3 attempts each). Also empty on US storefront. No review text available from the public feed for this app."
+    }
+  ],
+  "sources": {
+    "lookup": "https://itunes.apple.com/in/lookup?id=6447939054",
+    "rss": "https://itunes.apple.com/in/rss/customerreviews/page=N/id=6447939054/sortby={mostrecent|mosthelpful}/json (N=1..10, stopped at first empty page, 3 attempts per page)"
+  },
+  "lookup": {
+    "trackName": "Supernova AI Spoken English",
+    "sellerName": "L8 CONES INTERACTIVE PRIVATE LIMITED",
+    "averageUserRating": 4.67035,
+    "userRatingCount": 37750,
+    "averageUserRatingForCurrentVersion": 4.67035,
+    "userRatingCountForCurrentVersion": 37750,
+    "version": "1.113",
+    "releaseDate": "2025-09-11T07:00:00Z",
+    "currentVersionReleaseDate": "2026-09-03T04:05:30Z",
+    "price": 0,
+    "formattedPrice": "Free",
+    "currency": "INR",
+    "contentAdvisoryRating": "4+",
+    "primaryGenreName": "Education",
+    "trackViewUrl": "https://apps.apple.com/in/app/supernova-ai-spoken-english/id6447939054?uo=4"
+  },
+  "rssPages": {
+    "mosthelpful_page1.json": 0,
+    "mostrecent_page1.json": 0
+  },
+  "reviewCount": 0,
+  "reviews": [],
+  "developerResponses": "not available (App Store RSS does not expose developer responses)",
+  "histogramNote": "Store-wide star histogram not available (not exposed by lookup/RSS; apps.apple.com page is client-rendered)."
+}

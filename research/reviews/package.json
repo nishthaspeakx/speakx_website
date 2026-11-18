@@ -1,0 +1,9 @@
+{
+  "name": "speakx-review-research",
+  "private": true,
+  "type": "module",
+  "description": "Review collection scripts for the SpeakX comparison research (not part of the website app)",
+  "dependencies": {
+    "google-play-scraper": "^10.1.3"
+  }
+}

@@ -1,0 +1,539 @@
+{
+  "slug": "speakx",
+  "appStoreId": "6756059415",
+  "store": "app_store",
+  "storefront": "in",
+  "collectedAt": "2026-10-13T13:40:33.179Z",
+  "errors": [],
+  "sources": {
+    "lookup": "https://itunes.apple.com/in/lookup?id=6756059415",
+    "rss": "https://itunes.apple.com/in/rss/customerreviews/page=N/id=6756059415/sortby={mostrecent|mosthelpful}/json (N=1..10, stopped at first empty page, 3 attempts per page)"
+  },
+  "lookup": {
+    "trackName": "SpeakX: English Speaking App",
+    "sellerName": "Ivypods Technology Private Limited",
+    "averageUserRating": 4.68992,
+    "userRatingCount": 258,
+    "averageUserRatingForCurrentVersion": 4.68992,
+    "userRatingCountForCurrentVersion": 258,
+    "version": "5.6.8",
+    "releaseDate": "2026-01-26T08:00:00Z",
+    "currentVersionReleaseDate": "2026-10-07T01:25:55Z",
+    "price": 0,
+    "formattedPrice": "Free",
+    "currency": "INR",
+    "contentAdvisoryRating": "4+",
+    "primaryGenreName": "Education",
+    "trackViewUrl": "https://apps.apple.com/in/app/speakx-english-speaking-app/id6756059415?uo=4"
+  },
+  "rssPages": {
+    "mosthelpful_page1.json": 0,
+    "mostrecent_page1.json": 50,
+    "mostrecent_page2.json": 0
+  },
+  "reviewCount": 50,
+  "reviews": [
+    {
+      "id": "14645010438",
+      "score": 5,
+      "date": "2026-10-09T01:24:35-07:00",
+      "title": "Interesting",
+      "text": "SpeakX has an interesting way of supporting English learners.",
+      "version": "5.6.8",
+      "voteCount": 0,
+      "sortBucket": "mostrecent"
+    },
+    {
+      "id": "14641055521",
+      "score": 1,
+      "date": "2026-10-08T00:32:38-07:00",
+      "title": "Vinni",
+      "text": "It is better to use Gemini rather than this . I wasted my money",
+      "version": "5.6.8",
+      "voteCount": 0,
+      "sortBucket": "mostrecent"
+    },
+    {
+      "id": "14633248809",
+      "score": 5,
+      "date": "2026-10-05T22:48:09-07:00",
+      "title": "English",
+      "text": "This aap is good for English",
+      "version": "5.6.6",
+      "voteCount": 0,
+      "sortBucket": "mostrecent"
+    },
+    {
+      "id": "14621381664",
+      "score": 1,
+      "date": "2026-10-02T21:23:02-07:00",
+      "title": "Unauthorised transaction",
+      "text": "U have deducted money in trial period, please refund that. From two days am trying to contact. Madar chod English app.",
+      "version": "5.6.6",
+      "voteCount": 0,
+      "sortBucket": "mostrecent"
+    },
+    {
+      "id": "14610112884",
+      "score": 5,
+      "date": "2026-09-30T01:13:59-07:00",
+      "title": "Best learning app",
+      "text": "SpeakX has given me a fresh start with English. I had tried learning before but struggled to maintain a routine. This time, I feel more motivated to continue. I’m thankful for the opportunity to build my skills gradually and without unnecessary pressure, What I value most about SpeakX is the encouragement to actually use English rather than only think about learning it. Regular practice has made me more willing to communicate. I’m grateful for the confidence that has slowly developed along the way.",
+      "version": "5.6.6",
+      "voteCount": 0,
+      "sortBucket": "mostrecent"
+    },
+    {
+      "id": "14609892176",
+      "score": 5,
+      "date": "2026-09-29T23:29:08-07:00",
+      "title": "This aap is very useful",
+      "text": "This aap is very useful",
+      "version": "5.6.6",
+      "voteCount": 0,
+      "sortBucket": "mostrecent"
+    },
+    {
+      "id": "14606354013",
+      "score": 5,
+      "date": "2026-09-29T01:33:05-07:00",
+      "title": "👍🏻",
+      "text": "Must install for better spoken English",
+      "version": "5.6.6",
+      "voteCount": 0,
+      "sortBucket": "mostrecent"
+    },
+    {
+      "id": "14598427006",
+      "score": 5,
+      "date": "2026-09-26T23:25:24-07:00",
+      "title": "Great Learning Experience with SpeakX",
+      "text": "SpeakX has been a great learning experience for me. The lessons are easy to understand, interactive, and helpful for improving English communication and confidence. The content is well-structured and the practice sessions are useful. Overall, I’m really happy with the experience and would definitely recommend SpeakX to others who want to improve their English speaking skills.",
+      "version": "5.6.6",
+      "voteCount": 0,
+      "sortBucket": "mostrecent"
+    },
+    {
+      "id": "14571302251",
+      "score": 1,
+      "date": "2026-09-20T00:30:49-07:00",
+      "title": "Review",
+      "text": "Excellent app to learn english",
+      "version": "5.6.3",
+      "voteCount": 0,
+      "sortBucket": "mostrecent"
+    },
+    {
+      "id": "14551786104",
+      "score": 5,
+      "date": "2026-09-15T00:51:01-07:00",
+      "title": "Good",
+      "text": "Good",
+      "version": "5.6.3",
+      "voteCount": 1,
+      "sortBucket": "mostrecent"
+    },
+    {
+      "id": "14547799354",
+      "score": 5,
+      "date": "2026-09-13T22:49:14-07:00",
+      "title": "SpeakX",
+      "text": "The content in SpeakX is high quality and easy to understand. I enjoy every practice session. Speaking English feels easier now. Great platform.",
+      "version": "5.6.1",
+      "voteCount": 0,
+      "sortBucket": "mostrecent"
+    },
+    {
+      "id": "14543856939",
+      "score": 5,
+      "date": "2026-09-12T23:06:10-07:00",
+      "title": "A great app for improving English speaking skills ⭐️⭐️⭐️⭐️⭐️",
+      "text": "I’ve been using SpeakX to improve my English speaking and communication skills, and I’ve had a really positive experience so far. What I like most is that it makes learning English practical and engaging instead of feeling like a traditional course.\n\nThe speaking practice has helped me become more comfortable while speaking, improve my vocabulary, and build confidence in everyday conversations. The lessons are easy to follow, and the app makes it convenient to practice regularly.\n\nOverall, I would definitely recommend SpeakX to anyone who wants to improve their English speaking skills and become more confident while communicating. Great app for consistent practice! 👍",
+      "version": "5.6.1",
+      "voteCount": 2,
+      "sortBucket": "mostrecent"
+    },
+    {
+      "id": "14536065065",
+      "score": 5,
+      "date": "2026-09-11T00:31:17-07:00",
+      "title": "Speaking best",
+      "text": "This app is a good way to learn English.",
+      "version": "5.6.1",
+      "voteCount": 0,
+      "sortBucket": "mostrecent"
+    },
+    {
+      "id": "14520465164",
+      "score": 5,
+      "date": "2026-09-07T00:21:43-07:00",
+      "title": "This app is  great for English learning ..",
+      "text": "Great 👌🏻",
+      "version": "5.6.1",
+      "voteCount": 0,
+      "sortBucket": "mostrecent"
+    },
+    {
+      "id": "14509375553",
+      "score": 5,
+      "date": "2026-09-04T05:28:30-07:00",
+      "title": "good class",
+      "text": "Best app I like learning at my own pace instead of feeling pressured. The app gives me the flexibility to practice whenever it suits my schedule.",
+      "version": "5.6.1",
+      "voteCount": 0,
+      "sortBucket": "mostrecent"
+    },
+    {
+      "id": "14497121342",
+      "score": 5,
+      "date": "2026-09-01T02:29:08-07:00",
+      "title": "I appreciate having a platform where I can focus on improving my English skills at my own pace. That",
+      "text": "I appreciate having a platform where I can focus on improving my English skills at my own pace. That flexibility is one of my favorite things about the app speakX offers a convenient way to include English practice in my daily routine. Even short practice sessions feel useful.",
+      "version": "5.5.9",
+      "voteCount": 1,
+      "sortBucket": "mostrecent"
+    },
+    {
+      "id": "14484774044",
+      "score": 5,
+      "date": "2026-08-28T22:45:52-07:00",
+      "title": "Humaria",
+      "text": "This app very good for English🤍🫶🏻",
+      "version": "5.5.9",
+      "voteCount": 0,
+      "sortBucket": "mostrecent"
+    },
+    {
+      "id": "14478961298",
+      "score": 5,
+      "date": "2026-08-27T10:22:55-07:00",
+      "title": "Shruti",
+      "text": "This is my current favourite application",
+      "version": "5.5.9",
+      "voteCount": 0,
+      "sortBucket": "mostrecent"
+    },
+    {
+      "id": "14477176128",
+      "score": 4,
+      "date": "2026-08-27T00:22:33-07:00",
+      "title": "Speak x",
+      "text": "SpeakX is an amazing app for improving English fluency. The interactive speaking practice really builds confidence, and I love using it every day. Highly recommended!\"",
+      "version": "5.5.9",
+      "voteCount": 0,
+      "sortBucket": "mostrecent"
+    },
+    {
+      "id": "14473377419",
+      "score": 5,
+      "date": "2026-08-26T01:09:40-07:00",
+      "title": "good app leaning english",
+      "text": "i like app",
+      "version": "5.5.9",
+      "voteCount": 0,
+      "sortBucket": "mostrecent"
+    },
+    {
+      "id": "14445600958",
+      "score": 5,
+      "date": "2026-08-18T22:53:11-07:00",
+      "title": "2 month",
+      "text": "SpeakX app is a game changer! AI gives instant feedback on English speaking, and I’ve built real communication skills in such a short period of time",
+      "version": "5.5.3",
+      "voteCount": 0,
+      "sortBucket": "mostrecent"
+    },
+    {
+      "id": "14434131242",
+      "score": 5,
+      "date": "2026-08-16T02:39:56-07:00",
+      "title": "Best ap",
+      "text": "SpeakX offers quality learning content for all levels. The pronunciation feedback is very helpful. The app is easy to use. Fantastic experience.",
+      "version": "5.5.3",
+      "voteCount": 0,
+      "sortBucket": "mostrecent"
+    },
+    {
+      "id": "14417624991",
+      "score": 5,
+      "date": "2026-08-12T00:16:02-07:00",
+      "title": "Review",
+      "text": "Good for English learning and fluency",
+      "version": "5.5.3",
+      "voteCount": 0,
+      "sortBucket": "mostrecent"
+    },
+    {
+      "id": "14272922868",
+      "score": 5,
+      "date": "2026-07-06T23:41:16-07:00",
+      "title": "This is a good app for English",
+      "text": "This app good for English learning",
+      "version": "5.4.3",
+      "voteCount": 0,
+      "sortBucket": "mostrecent"
+    },
+    {
+      "id": "14224904470",
+      "score": 1,
+      "date": "2026-06-25T07:51:09-07:00",
+      "title": "Service issue",
+      "text": "I am very disappointed with your service. First, you offer discounts, but then you fail to provide proper support. Your team does not even respond on time. It has been one week since I reported my issue through chat, and today I even sent an email and followed every instruction exactly as I was told, but there is still no solution.\n\nYour support is extremely frustrating. There is no response on WhatsApp, and on email you keep repeating the same instructions again and again. I have already done everything that was asked, and even after informing you that it is still not working, your team keeps repeating the same thing instead of providing an actual solution.",
+      "version": "5.4.3",
+      "voteCount": 0,
+      "sortBucket": "mostrecent"
+    },
+    {
+      "id": "14188625898",
+      "score": 5,
+      "date": "2026-06-16T00:54:14-07:00",
+      "title": "best english speaking app",
+      "text": "best english speaking app",
+      "version": "5.4.3",
+      "voteCount": 0,
+      "sortBucket": "mostrecent"
+    },
+    {
+      "id": "14188553964",
+      "score": 5,
+      "date": "2026-06-16T00:19:42-07:00",
+      "title": "Best app",
+      "text": "SpeakX makes English practice feel less like studying and more like genuine communication.",
+      "version": "5.4.3",
+      "voteCount": 0,
+      "sortBucket": "mostrecent"
+    },
+    {
+      "id": "14142980889",
+      "score": 5,
+      "date": "2026-06-04T06:42:18-07:00",
+      "title": "Good app to learn English",
+      "text": "Good app to learn English I like the app",
+      "version": "5.4.3",
+      "voteCount": 0,
+      "sortBucket": "mostrecent"
+    },
+    {
+      "id": "14118656413",
+      "score": 5,
+      "date": "2026-05-29T01:35:22-07:00",
+      "title": "Best app for improving english speaking",
+      "text": "SpeakX is an amazing app for improving spoken English. The lessons are easy to understand, interactive, and perfect for daily practice. Highly recommended for beginners and students who want to speak confidently!",
+      "version": "5.4.3",
+      "voteCount": 0,
+      "sortBucket": "mostrecent"
+    },
+    {
+      "id": "14107049074",
+      "score": 1,
+      "date": "2026-05-25T23:06:04-07:00",
+      "title": "autopay",
+      "text": "This apps deduct money once its autopay has done and didnt send any message from the apps or concerning ac user as i had been deducted since 2025 April and now it has been 1 year no refundable action no policy of without concerning deducting money from the apps so unprofessional so injustice  i hope that apps owner reach me out",
+      "version": "5.4.3",
+      "voteCount": 0,
+      "sortBucket": "mostrecent"
+    },
+    {
+      "id": "14096261560",
+      "score": 5,
+      "date": "2026-05-23T03:38:47-07:00",
+      "title": "SpeakX is a really good app for learning & Speaking English. It teaches everything from the basics.",
+      "text": "SpeakX is a really good app for learning & Speaking English. It teaches everything from the basics.",
+      "version": "5.4.3",
+      "voteCount": 0,
+      "sortBucket": "mostrecent"
+    },
+    {
+      "id": "14089349095",
+      "score": 5,
+      "date": "2026-05-21T06:44:58-07:00",
+      "title": "Good",
+      "text": "Good app",
+      "version": "5.4.3",
+      "voteCount": 0,
+      "sortBucket": "mostrecent"
+    },
+    {
+      "id": "14084792756",
+      "score": 5,
+      "date": "2026-05-20T00:51:37-07:00",
+      "title": "Good for beginners",
+      "text": "Great app for learning English! Easy to use, fun lessons, and very helpful for improving speaking and vocabulary.",
+      "version": "5.4.3",
+      "voteCount": 0,
+      "sortBucket": "mostrecent"
+    },
+    {
+      "id": "14063826505",
+      "score": 5,
+      "date": "2026-05-14T08:03:14-07:00",
+      "title": "Anu",
+      "text": "This app is fabulous",
+      "version": "5.4.3",
+      "voteCount": 0,
+      "sortBucket": "mostrecent"
+    },
+    {
+      "id": "14037772627",
+      "score": 5,
+      "date": "2026-05-07T05:03:54-07:00",
+      "title": "Good app",
+      "text": "Good app",
+      "version": "5.4.3",
+      "voteCount": 0,
+      "sortBucket": "mostrecent"
+    },
+    {
+      "id": "13981358990",
+      "score": 5,
+      "date": "2026-04-21T04:43:39-07:00",
+      "title": "Good",
+      "text": "Good learning app to be fluent",
+      "version": "5.4.3",
+      "voteCount": 0,
+      "sortBucket": "mostrecent"
+    },
+    {
+      "id": "13956181089",
+      "score": 4,
+      "date": "2026-04-14T00:28:06-07:00",
+      "title": "Great App for Learning English Easily",
+      "text": "I’ve been using this English learning app for some time and it’s really helpful for beginners like me. The lessons are simple and easy to understand, and the exercises make learning English more interesting. I especially like the way the app helps with vocabulary and pronunciation practice.\n\nThe interface is clean and easy to use, so it doesn’t feel confusing while learning. I also like that the lessons are short, which makes it easy to practice every day.\n\nOverall, this is a great app for anyone who wants to improve their English step by step. I would definitely recommend it to other learners.",
+      "version": "5.4.3",
+      "voteCount": 0,
+      "sortBucket": "mostrecent"
+    },
+    {
+      "id": "13952746259",
+      "score": 5,
+      "date": "2026-04-13T00:25:31-07:00",
+      "title": "My honest review",
+      "text": "This app is really good for people like me who want to learn speaking English, even it’s helpful for my kids as well , they are liking it too, it’s very fun loving app.",
+      "version": "5.4.3",
+      "voteCount": 0,
+      "sortBucket": "mostrecent"
+    },
+    {
+      "id": "13952610087",
+      "score": 5,
+      "date": "2026-04-12T23:10:36-07:00",
+      "title": "About this app",
+      "text": "It helps to spoke well in English",
+      "version": "5.4.3",
+      "voteCount": 0,
+      "sortBucket": "mostrecent"
+    },
+    {
+      "id": "13924033763",
+      "score": 5,
+      "date": "2026-04-04T22:13:36-07:00",
+      "title": "This app is really nice. Every lesson every course is well organised. I will be worth it to try it.",
+      "text": "Absolutely great",
+      "version": "5.4.3",
+      "voteCount": 0,
+      "sortBucket": "mostrecent"
+    },
+    {
+      "id": "13912906180",
+      "score": 5,
+      "date": "2026-04-01T20:33:25-07:00",
+      "title": "Good app",
+      "text": "app is good for english improving.",
+      "version": "5.4.3",
+      "voteCount": 0,
+      "sortBucket": "mostrecent"
+    },
+    {
+      "id": "13910251978",
+      "score": 5,
+      "date": "2026-04-01T04:20:33-07:00",
+      "title": "Easy and Useful Ap",
+      "text": "This app is very helpful for learning English. It is easy to use and the lessons are simple to understand. I am improving my speaking and vocabulary day by day. Highly recommended for beginners!",
+      "version": "5.4.3",
+      "voteCount": 0,
+      "sortBucket": "mostrecent"
+    },
+    {
+      "id": "13910072479",
+      "score": 2,
+      "date": "2026-04-01T03:09:58-07:00",
+      "title": "Review",
+      "text": "Application is good for speaking English",
+      "version": "5.4.3",
+      "voteCount": 0,
+      "sortBucket": "mostrecent"
+    },
+    {
+      "id": "13906944922",
+      "score": 5,
+      "date": "2026-03-31T06:32:01-07:00",
+      "title": "This app is very good",
+      "text": "This app is very good",
+      "version": "5.4.3",
+      "voteCount": 0,
+      "sortBucket": "mostrecent"
+    },
+    {
+      "id": "13906162863",
+      "score": 5,
+      "date": "2026-03-31T01:19:27-07:00",
+      "title": "english language",
+      "text": "good app english speaking",
+      "version": "5.4.3",
+      "voteCount": 0,
+      "sortBucket": "mostrecent"
+    },
+    {
+      "id": "13904374014",
+      "score": 5,
+      "date": "2026-03-30T11:48:21-07:00",
+      "title": "Title",
+      "text": "Ai feature is good",
+      "version": "5.4.3",
+      "voteCount": 0,
+      "sortBucket": "mostrecent"
+    },
+    {
+      "id": "13902595228",
+      "score": 5,
+      "date": "2026-03-30T00:46:34-07:00",
+      "title": "A very good English speaking app. Excellent.",
+      "text": "I am very happy and confident that i have chosen a  correct app for English speaking.",
+      "version": "5.4.3",
+      "voteCount": 0,
+      "sortBucket": "mostrecent"
+    },
+    {
+      "id": "13897343403",
+      "score": 5,
+      "date": "2026-03-28T12:28:54-07:00",
+      "title": "Review",
+      "text": "so good app in 5 days I have to learn speak write English speak x English language is the best app for children",
+      "version": "5.4.3",
+      "voteCount": 0,
+      "sortBucket": "mostrecent"
+    },
+    {
+      "id": "13895170150",
+      "score": 5,
+      "date": "2026-03-27T23:14:49-07:00",
+      "title": "Speak x English",
+      "text": "Speak AI English application is amazing, English speaking feels so real.",
+      "version": "5.4.3",
+      "voteCount": 0,
+      "sortBucket": "mostrecent"
+    },
+    {
+      "id": "13885948064",
+      "score": 5,
+      "date": "2026-03-25T09:23:12-07:00",
+      "title": "Useful app",
+      "text": "This app is very useful to learn English",
+      "version": "5.4.3",
+      "voteCount": 0,
+      "sortBucket": "mostrecent"
+    }
+  ],
+  "developerResponses": "not available (App Store RSS does not expose developer responses)",
+  "histogramNote": "Store-wide star histogram is not exposed by lookup/RSS; sample histogram computed from RSS reviews in analysis."
+}

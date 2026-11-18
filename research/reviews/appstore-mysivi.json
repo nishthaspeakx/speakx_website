@@ -1,0 +1,539 @@
+{
+  "slug": "mysivi",
+  "appStoreId": "1644736135",
+  "store": "app_store",
+  "storefront": "in",
+  "collectedAt": "2026-10-13T13:40:33.179Z",
+  "errors": [],
+  "sources": {
+    "lookup": "https://itunes.apple.com/in/lookup?id=1644736135",
+    "rss": "https://itunes.apple.com/in/rss/customerreviews/page=N/id=1644736135/sortby={mostrecent|mosthelpful}/json (N=1..10, stopped at first empty page, 3 attempts per page)"
+  },
+  "lookup": {
+    "trackName": "MySivi AI English Speaking App",
+    "sellerName": "Ninjasalary, Inc.",
+    "averageUserRating": 4.67946,
+    "userRatingCount": 19261,
+    "averageUserRatingForCurrentVersion": 4.67946,
+    "userRatingCountForCurrentVersion": 19261,
+    "version": "1.0.80",
+    "releaseDate": "2022-11-03T07:00:00Z",
+    "currentVersionReleaseDate": "2026-09-23T08:01:49Z",
+    "price": 0,
+    "formattedPrice": "Free",
+    "currency": "INR",
+    "contentAdvisoryRating": "4+",
+    "primaryGenreName": "Education",
+    "trackViewUrl": "https://apps.apple.com/in/app/mysivi-ai-english-speaking-app/id1644736135?uo=4"
+  },
+  "rssPages": {
+    "mosthelpful_page1.json": 50,
+    "mosthelpful_page2.json": 0,
+    "mostrecent_page1.json": 0
+  },
+  "reviewCount": 50,
+  "reviews": [
+    {
+      "id": "12227806133",
+      "score": 5,
+      "date": "2025-01-24T22:36:59-07:00",
+      "title": "Subject: Feature Suggestion – In-App Chat to Check Availability",
+      "text": "Dear Sivi Team,\n\nI’m a user of your app and I really enjoy the experience, especially the opportunity to practice English and meet new people. However, I’ve noticed a small challenge that I think could be improved.\n\nCurrently, after having a conversation with a stranger, the only way to check if they are available to chat again is by asking for their personal contact information or using other messaging platforms. I believe this compromises user privacy and can make it difficult to connect at the right times.\n\nI would like to suggest adding an in-app chat feature that allows users to message each other directly within the app. This would enable users to check each other's availability and schedule conversations without needing to exchange personal contact information. It would make the experience smoother, more private, and more convenient for everyone.\n\nThank you for considering this suggestion. I believe it would make the app even better!",
+      "version": "1.0.51",
+      "voteCount": 42,
+      "sortBucket": "mosthelpful"
+    },
+    {
+      "id": "12432179439",
+      "score": 4,
+      "date": "2025-03-17T11:18:21-07:00",
+      "title": "Great app for English Learners",
+      "text": "As an IT professional, speaking English is very important, and this app has helped me a lot. I started using this app on Oct 25, 2024, and now I’ve connected with 1,700+ co-learners. At first, I couldn’t speak confidently, but now I can talk with anyone without hesitation. AI Arya Teacher is helpful, and I love that I can practice anytime. App respects privacy and provides a safe space to learn. Mistakes still happens, but that’s part of learning, and talking to people from different places has improved my listening skill too. This app has truly boost my confidence, but the only issue is that it take too much time to connect with co-learners, which can be irritating sometimes. Hope this improve soon! Overall, it’s a great app for English learners. Highly recommended! 😊",
+      "version": "1.0.52",
+      "voteCount": 5,
+      "sortBucket": "mosthelpful"
+    },
+    {
+      "id": "12498486996",
+      "score": 5,
+      "date": "2025-04-03T06:07:19-07:00",
+      "title": "Excellent Customer Support & Valuable Learning Tool",
+      "text": "I am truly impressed with the outstanding customer support provided by the Sivi team. When I faced an issue with my Pro account, their team responded promptly and guided me through the recovery process with patience and professionalism. They ensured that my concerns were addressed efficiently, making the experience smooth and hassle-free.\n\nApart from the excellent support, Sivi is an incredibly useful app for improving language skills. It has been a great help in enhancing my learning experience, and I use it regularly. I appreciate the team’s dedication to both customer satisfaction and providing a high-quality platform.\n\nHighly recommended!",
+      "version": "1.0.53",
+      "voteCount": 0,
+      "sortBucket": "mosthelpful"
+    },
+    {
+      "id": "12954000953",
+      "score": 5,
+      "date": "2025-07-30T02:42:55-07:00",
+      "title": "Early call disconnect by some users.",
+      "text": "Hi developers,\n\nI am really liking this app and has been consistent for past few days. I have only one issue with some app users that most of them disconnect the call once they hear the male voice. I have talked to some other users as well and they are reporting the same issue. I guess some users on your platform are here for females only considering this a dating app. I request you to ban these kind of users from your platform. Also, please don’t consider the other user rating if they are disconnecting within seconds.",
+      "version": "1.0.57",
+      "voteCount": 1,
+      "sortBucket": "mosthelpful"
+    },
+    {
+      "id": "12257365124",
+      "score": 5,
+      "date": "2025-02-01T06:30:41-07:00",
+      "title": "Very Helpful",
+      "text": "I am sharing my review after using this app for the past week. This application provides 30 minutes of free conversation with other people who are also looking to improve their English. My experience has been great! I feel that it has significantly boosted my confidence. The environment it creates—where everyone engages in conversations with each other—is very helpful. I also had the chance to meet many genuine people through this app.\n\nThank you, Sivi team, for helping us!",
+      "version": "1.0.51",
+      "voteCount": 0,
+      "sortBucket": "mosthelpful"
+    },
+    {
+      "id": "10732748790",
+      "score": 5,
+      "date": "2023-12-22T14:40:32-07:00",
+      "title": "Best way to improve speaking",
+      "text": "what a brilliant application. This application gives me thought and confidence to speak in\nThat way the feature without spending any money. They provide 30 minute free of cost per day. I am loving it. Thank you all the member who make or made this application. Thank you co-founder founder, technical team operation everyone belongs to this application. Love you so much now I’m going to buy the pro version of application to improve my English. So God bless you all.",
+      "version": "1.0.35",
+      "voteCount": 2,
+      "sortBucket": "mosthelpful"
+    },
+    {
+      "id": "11330479874",
+      "score": 5,
+      "date": "2024-06-01T02:24:45-07:00",
+      "title": "Lovely Platform for English Conversation",
+      "text": "Recently,I have started using this App, which I feel that every one should and must use this App for developing their day to day communication and conversation skill. \nAny one who uses this App constantly for 6 months, would surely start speaking fluently like a native English speakers, besides understanding English easily, however tough the pronunciation would be.",
+      "version": "1.0.40",
+      "voteCount": 0,
+      "sortBucket": "mosthelpful"
+    },
+    {
+      "id": "13812413340",
+      "score": 1,
+      "date": "2026-03-04T02:53:00-07:00",
+      "title": "Its a scam",
+      "text": "I downloaded your application and made a payment of ₹3, believing that this was the total cost required to access the service. At no point was it clearly mentioned that I would be charged ₹300 as a subscription fee.\n\nI did not use the application after downloading it, and within four days, I uninstalled it. However, despite uninstalling the app and not using any of its features, ₹300 was deducted from my account without my knowledge or authorization.\n\nNowhere in the application was it clearly and transparently stated that a subscription fee of ₹300 would be charged. The only amount mentioned at the time of payment was ₹3. This lack of clear disclosure is misleading and constitutes an unfair and deceptive practice.\n\nSince I neither used the application’s services nor authorized this deduction, I request an immediate and full refund of ₹300. Kindly process the refund at the earliest and confirm the same.\n\nIf the subscription fee is indeed ₹300, it must be clearly stated upfront before any payment is made to avoid misleading users.",
+      "version": "1.0.66",
+      "voteCount": 2,
+      "sortBucket": "mosthelpful"
+    },
+    {
+      "id": "14391552644",
+      "score": 2,
+      "date": "2026-08-05T09:19:09-07:00",
+      "title": "Please Fix the Random Co-Learner Connection Problem",
+      "text": "I have been using Sivi for almost 2 years, and it has genuinely helped me improve my English speaking skills and pronunciation. I appreciate the concept of connecting learners for real-time conversation practice.\n\nHowever, since yesterday, I have been facing a major issue. The app is unable to connect me with any random co-learner, no matter how many times I try. I have waited for several minutes on multiple occasions, but every attempt ends with the same message:\n\n“Uh-oh!! We could not find a Random co-learner for you. Can you please try once again shortly?”\n\nThis problem has made the app unusable for speaking practice.\n\nPlease investigate and fix this issue as soon as possible. If this is a server-side problem or a temporary bug, it would be helpful to inform users through an in-app notification. I really enjoy using Sivi and hope this issue is resolved soon.\n\nThank you.",
+      "version": "1.0.77",
+      "voteCount": 1,
+      "sortBucket": "mosthelpful"
+    },
+    {
+      "id": "13242146065",
+      "score": 1,
+      "date": "2025-10-08T18:22:33-07:00",
+      "title": "Scam",
+      "text": "I downloaded this application and made a payment of 3 rupees, believing that this was the total cost. I didn’t even use the app. Within four days i uninstalled it. \nHowever after deleting the app, a charges of 300 rupees was deducted from my account without my permission. Nowhere within the application was it clearly stated that a fees of 300 rupees would be charged. The only mentioned price was 3 rupees\nThis deceptive practice constitutes a scam. If the subscription fees is indeed 300 rupees, it must be stated clearly and specifically upfront \nI demand a full refund of 300 rupees as the charges was unauthorised and i didn’t use any of the apps feature",
+      "version": "1.0.62",
+      "voteCount": 3,
+      "sortBucket": "mosthelpful"
+    },
+    {
+      "id": "12989837463",
+      "score": 5,
+      "date": "2025-08-07T22:46:01-07:00",
+      "title": "Review for this app",
+      "text": "Do not download this app .. this is more Like a scam , I paid some amount to learn but it worked only for a day , and the next day the app is not working .. at first I thought my network connection was not good but day after day it’s the same … it’s quite annoying … and To the app Creator please don’t do to this to innocent people .. we trusted you !!!",
+      "version": "1.0.57",
+      "voteCount": 0,
+      "sortBucket": "mosthelpful"
+    },
+    {
+      "id": "11509688046",
+      "score": 5,
+      "date": "2024-07-18T23:04:34-07:00",
+      "title": "Wonderful app!!!",
+      "text": "Hi Sivi team !!\nFirst of all thank you so much for making an app like Sivi. It is wonderful application. It has been about 6 days I m using this application ,it has lots of useful features that helps to improve my fluency. I enjoy talk with AI Arya it feels like I am actually talking to a actual teacher.\nI hope it will definitely help me achieve my target.",
+      "version": "1.0.42",
+      "voteCount": 0,
+      "sortBucket": "mosthelpful"
+    },
+    {
+      "id": "12073927495",
+      "score": 1,
+      "date": "2024-12-17T06:29:37-07:00",
+      "title": "Issue of running app on multiple devices",
+      "text": "“I have been using this app for the past three to four months, and one issue I have noticed is the lack of support for running the app on multiple devices simultaneously. For example, whenever I switch between my mobile phone and iPad, I have to log in again, which can be inconvenient. I would really appreciate it if the team could work on adding a feature that allows seamless use of the app on multiple devices—such as both my phone and iPad—without needing to log in repeatedly. Thank you!”",
+      "version": "1.0.49",
+      "voteCount": 0,
+      "sortBucket": "mosthelpful"
+    },
+    {
+      "id": "10408377018",
+      "score": 5,
+      "date": "2023-09-26T01:53:25-07:00",
+      "title": "Excellent features compare to other apps",
+      "text": "Im using this app from 3.5 months. I feel very confident nowadays while speaking English. Ai is also there you practice too. I like 30 min co learner call features. Must download this app if you have confidence problem and also for fluency.",
+      "version": "1.0.30",
+      "voteCount": 1,
+      "sortBucket": "mosthelpful"
+    },
+    {
+      "id": "14073752789",
+      "score": 1,
+      "date": "2026-05-16T23:50:25-07:00",
+      "title": "Very bad application",
+      "text": "I had a bad experience with the Mysivi English Learning app. The app uses AI, but the learning quality is not good and it was not helpful for me.\n\nThey offer a 3-day free trial, but after that they automatically charge ₹299. The payment method has auto-pay enabled, so users should make sure to turn off auto-renewal if they do not want to be charged.\n\nAlso, there is no refund option after the payment is taken. I do not recommend this app because the content and overall experience were disappointing.",
+      "version": "1.0.71",
+      "voteCount": 0,
+      "sortBucket": "mosthelpful"
+    },
+    {
+      "id": "14230304396",
+      "score": 4,
+      "date": "2026-06-26T15:03:09-07:00",
+      "title": "The ads",
+      "text": "First of all like you get 5 free tries on a normal AI . ChatGPT is a lot better than it since you literally get 5 free tries of the AI correcting you’re to you are saying that as grammar feedback that’s like saying there’s no specific point to “you’re” it just doesn’t exist now like grammar feedback said for me the replace “you’re” with “you are”",
+      "version": "1.0.73",
+      "voteCount": 0,
+      "sortBucket": "mosthelpful"
+    },
+    {
+      "id": "13884835070",
+      "score": 1,
+      "date": "2026-03-25T02:44:50-07:00",
+      "title": "Bad customer service",
+      "text": "I had a very disappointing experience with this app. I deleted the app without realizing that the subscription needed to be cancelled separately. Despite not using the service, I was still charged ₹299 for the next billing cycle.\n\nWhen I reinstalled the app, my account appeared as a new account, and I could not access any of the benefits for which I was charged. This made the situation even more frustrating.\n\nI tried contacting customer support multiple times, but there has been no response at all. The lack of support and clarity regarding subscriptions is extremely disappointing.\n\nI strongly suggest the developers improve their customer service and make the subscription cancellation process more transparent. Until then, I would not recommend this app to others.",
+      "version": "1.0.66",
+      "voteCount": 0,
+      "sortBucket": "mosthelpful"
+    },
+    {
+      "id": "11177089971",
+      "score": 5,
+      "date": "2024-04-19T07:00:40-07:00",
+      "title": "Excellent app",
+      "text": "I have been using this since last 3 months and a premium user as well.\n\nI have tried many other platforms before using this app and I can say this is the best app for improving your English in terms of speaking and communication.",
+      "version": "1.0.39",
+      "voteCount": 0,
+      "sortBucket": "mosthelpful"
+    },
+    {
+      "id": "11493144010",
+      "score": 5,
+      "date": "2024-07-14T12:04:06-07:00",
+      "title": "Don't read review Just go and download",
+      "text": "You can't find better app than SIVI.. i am using this from 3-4 days and i found it very helpful. Great app thanks to the whole sivi  team who made this incredible app. God bless you all.",
+      "version": "1.0.42",
+      "voteCount": 0,
+      "sortBucket": "mosthelpful"
+    },
+    {
+      "id": "12983296870",
+      "score": 3,
+      "date": "2025-08-06T07:48:35-07:00",
+      "title": "Need feature to continue to interaction after phone lock",
+      "text": "I would like to run this app after phone lock, for example while i riding my bike need feasibility to continue to practice after phone lock. Call should not disconnect if i lock my mobile right. Expecting from you to enable this feature for better app seamless usage.",
+      "version": "1.0.57",
+      "voteCount": 0,
+      "sortBucket": "mosthelpful"
+    },
+    {
+      "id": "13389214652",
+      "score": 1,
+      "date": "2025-11-12T07:57:06-07:00",
+      "title": "My sivi is a Scam app don’t trust any one",
+      "text": "I downloaded this application and made a payment of 3 rupees,believing that this was the total cost I didn’t even use the app with in onedays I uninstalled it.\n\nHowever after deleting the app a charges of 300 rupees was detected from my account without my permission now where within the application was it clearly stated that a fees 300 rupees would be charged the only mention price of 3rs this deceptive practice constitute a scam if the subscription fees in indeed 300rupees,it must be stated clearly\nAnd specifically upfront of 300rs \n\nI demand a full refund my money 300 as the chargers was unauthorised and i didn’t use any of apps feature \n\nRefund my fund otherwise I will file to case against you and your unauthorised app my sivi app fraud",
+      "version": "1.0.63",
+      "voteCount": 1,
+      "sortBucket": "mosthelpful"
+    },
+    {
+      "id": "13317955788",
+      "score": 3,
+      "date": "2025-10-26T12:10:56-07:00",
+      "title": "Call Notification",
+      "text": "Dear team, many time person saying me why you not accepting call, am checked everything in settings notification on my phone but phone is not ringing, am using i phone 15 before am using iphone 14 same problem we face why it happened please resolve this issue",
+      "version": "1.0.62",
+      "voteCount": 0,
+      "sortBucket": "mosthelpful"
+    },
+    {
+      "id": "12062767163",
+      "score": 1,
+      "date": "2024-12-14T07:36:16-07:00",
+      "title": "Worst Experience",
+      "text": "I’ve made around 2000 calls on this app, and I’ve noticed some frustrating issues. There are a lot of arrogant people on here who disconnect calls frequently, and many users seem to make fun of others, which can be uncomfortable. I feel the app should work on reducing these negative behaviors. Additionally, the AI voice chat feature doesn’t seem to work properly on iPhone, which is disappointing.",
+      "version": "1.0.49",
+      "voteCount": 0,
+      "sortBucket": "mosthelpful"
+    },
+    {
+      "id": "12502743593",
+      "score": 3,
+      "date": "2025-04-04T07:16:52-07:00",
+      "title": "Having some issues",
+      "text": "Table to attend the call in the notification itself, there is no option to attend or cut the call in the notification And this happens whenever I close the app or minimise the app and the next point that I want to add us if possible, categorise peoples based on their conversational skill level",
+      "version": "1.0.53",
+      "voteCount": 0,
+      "sortBucket": "mosthelpful"
+    },
+    {
+      "id": "13749221342",
+      "score": 5,
+      "date": "2026-02-14T10:47:53-07:00",
+      "title": "Carfull",
+      "text": "Guys plz don’t download and use this app this app is completely fruad app, once you active a autopay after that u can’t cance that autopay if u cancelled auto u will pay again 299 ,soo plz don’t use this app 🙏 I lost 500rs with no use",
+      "version": "1.0.66",
+      "voteCount": 0,
+      "sortBucket": "mosthelpful"
+    },
+    {
+      "id": "14256627430",
+      "score": 4,
+      "date": "2026-07-02T22:25:09-07:00",
+      "title": "Double Deduction , Zero Human Support , Totally Disappointed",
+      "text": "Worst service i have ever face,\nIts look like app made just for doing fraud,\nPaid ₹524 for 3 months after trial, then ₹399 auto-deducted in just 3 days. No customer care number. Mailed support but got only useless AI reply, no human help. Double deduction + zero support",
+      "version": "1.0.75",
+      "voteCount": 0,
+      "sortBucket": "mosthelpful"
+    },
+    {
+      "id": "13173039039",
+      "score": 3,
+      "date": "2025-09-22T22:51:27-07:00",
+      "title": "A fix time set for response",
+      "text": "It’s being irritating while making conversation the time period is fix with sivi. Sivi replied in mid of conversation. And 2nd I notice that sivi give lot of suggestions and asking too many question that mind will be tired. And 3rd things sivi not able to hear the word clearly most of time.",
+      "version": "1.0.59",
+      "voteCount": 0,
+      "sortBucket": "mosthelpful"
+    },
+    {
+      "id": "12017782509",
+      "score": 2,
+      "date": "2024-12-02T08:44:11-07:00",
+      "title": "Performance issue",
+      "text": "When I used this app for the first time, it was working fine, but for several days it was not working properly. Sometimes the app is not booting properly; I clicked any option, and nothing happened, and the app was stuck. It seems like the app is hanging; after buying a subscription, this is happening.",
+      "version": "1.0.49",
+      "voteCount": 0,
+      "sortBucket": "mosthelpful"
+    },
+    {
+      "id": "11315901821",
+      "score": 4,
+      "date": "2024-05-28T03:34:55-07:00",
+      "title": "Not working properly",
+      "text": "I have purchased the plan, but when I try to login it is not working, For the first three days, it was working fine, but now the application is stuck loading. It’s very frustrating",
+      "version": "1.0.40",
+      "voteCount": 0,
+      "sortBucket": "mosthelpful"
+    },
+    {
+      "id": "13480441335",
+      "score": 1,
+      "date": "2025-12-05T21:06:10-07:00",
+      "title": "Worst Worst Worst",
+      "text": "App has been designed very strong to collect money and poor for updating the skills then once auto payment has been done still is showing free member thus not able to select the further contents and there you would have only one option to delete account but there could have been recovered option  if money have been debited from user account",
+      "version": "1.0.64",
+      "voteCount": 0,
+      "sortBucket": "mosthelpful"
+    },
+    {
+      "id": "12368277684",
+      "score": 5,
+      "date": "2025-03-01T01:11:55-07:00",
+      "title": "Fantastic app at low price subscription",
+      "text": "I have taken 1 month subscription of this English learning app and must say it’s fantastic & economical compared to the others apps . Just go for it .",
+      "version": "1.0.52",
+      "voteCount": 0,
+      "sortBucket": "mosthelpful"
+    },
+    {
+      "id": "13894832893",
+      "score": 5,
+      "date": "2026-03-27T20:27:42-07:00",
+      "title": "Review abt app",
+      "text": "I used this application coupl of years its been owesome and really like this fruitfull application conversation with the friend and strangers and been developing the communication skills and overall all personality development\nThank you Mysivi",
+      "version": "1.0.66",
+      "voteCount": 0,
+      "sortBucket": "mosthelpful"
+    },
+    {
+      "id": "11559225385",
+      "score": 5,
+      "date": "2024-08-01T04:16:51-07:00",
+      "title": "Regretting for purchasing premium account",
+      "text": "Even after filtering female, Still practising with males which I can do without purchasing premium account.\nIf sıvı is not a cheater and a reputed app then refund my premium subscription money.",
+      "version": "1.0.43",
+      "voteCount": 0,
+      "sortBucket": "mosthelpful"
+    },
+    {
+      "id": "12211879271",
+      "score": 1,
+      "date": "2025-01-21T06:30:24-07:00",
+      "title": "When I open this app every other day between 6 PM and 9 PM, the screen shows 'Under Maintenance.",
+      "text": "I purchased the premium version of the Sivi app on iOS, but every two days I receive a message saying the app is under maintenance. It shows a maintenance page, which is very frustrating and annoying. This issue happens every evening, usually between 6 PM and 9 PM. Please address and fix this problem.",
+      "version": "1.0.51",
+      "voteCount": 0,
+      "sortBucket": "mosthelpful"
+    },
+    {
+      "id": "9530191670",
+      "score": 5,
+      "date": "2023-01-20T22:04:51-07:00",
+      "title": "Best for speaking practice",
+      "text": "I have been using this app since last one month. This is really nice for speaking practice with interactive lessons, I use it everyday without getting bored. Thanks to the Speakify team.",
+      "version": "1.0.26",
+      "voteCount": 0,
+      "sortBucket": "mosthelpful"
+    },
+    {
+      "id": "10670402824",
+      "score": 4,
+      "date": "2023-12-08T06:01:12-07:00",
+      "title": "Good to use",
+      "text": "Good app to improve your English, specially speaking part, information is well organised and best part about app is that it is user friendly. Few suggestions: It will be good to add translation option, secondly Update the lesson on a monthly basis and conduct expert training and sessions.",
+      "version": "1.0.34",
+      "voteCount": 0,
+      "sortBucket": "mosthelpful"
+    },
+    {
+      "id": "13648559749",
+      "score": 4,
+      "date": "2026-01-18T09:39:26-07:00",
+      "title": "Against to MySivi app",
+      "text": "After a 3-day trial, money was debited from my account without my permission under the name of monthly subscription under autopay. It was not right to seize the money without even asking if I was interested in continuing after the trial.",
+      "version": "1.0.65",
+      "voteCount": 0,
+      "sortBucket": "mosthelpful"
+    },
+    {
+      "id": "14463323150",
+      "score": 5,
+      "date": "2026-08-23T10:15:01-07:00",
+      "title": "gender selection option removed?”",
+      "text": "Why was the gender selection option removed?”",
+      "version": "1.0.77",
+      "voteCount": 0,
+      "sortBucket": "mosthelpful"
+    },
+    {
+      "id": "14533161977",
+      "score": 3,
+      "date": "2026-09-10T06:36:35-07:00",
+      "title": "Subscription",
+      "text": "Its very helpful for the communication improvement but you dont purchase the premium plans because its taking too long to connect the people we will wait around 10-15 minutes. But otherwise its good app",
+      "version": "1.0.79",
+      "voteCount": 0,
+      "sortBucket": "mosthelpful"
+    },
+    {
+      "id": "14346135143",
+      "score": 1,
+      "date": "2026-07-25T04:46:18-07:00",
+      "title": "Its a not a good app",
+      "text": "I am very disappointed with the Mysivi app. The app is slow, frequently crashes, and has many bugs that make it difficult to use. The user interface is confusing, and important features do not work properly. Customer support is also unresponsive, which makes the experience even more frustrating.",
+      "version": "1.0.76",
+      "voteCount": 0,
+      "sortBucket": "mosthelpful"
+    },
+    {
+      "id": "12138389772",
+      "score": 5,
+      "date": "2025-01-02T21:17:05-07:00",
+      "title": "Apt for learner’s",
+      "text": "A very good application for basic starters . The most loved part is every day quiz and grammar correction is easy learning through this app . I recommend to every single person",
+      "version": "1.0.51",
+      "voteCount": 0,
+      "sortBucket": "mosthelpful"
+    },
+    {
+      "id": "10786970758",
+      "score": 5,
+      "date": "2024-01-05T06:00:49-07:00",
+      "title": "Best app for increasing your vocab.",
+      "text": "Its been only few days of using this app. I gained a lot of confidence . And i can feel that my fluency has increased a lot . The AI works like magic . Thank you sivi team.",
+      "version": "1.0.35",
+      "voteCount": 0,
+      "sortBucket": "mosthelpful"
+    },
+    {
+      "id": "14135790086",
+      "score": 1,
+      "date": "2026-06-02T09:20:30-07:00",
+      "title": "Not helpful to learn English at all and also deducted my money without starting the monthly subscrip",
+      "text": "NEVER INSTALL THIS APP FOR LEARNING ENGLISH This app is very useless to learn English and deducts money on their own without starting the monthly subscription . I must say I am extremely disappointed in this app and will never use this app. And refund my money back they are so greedy for money they deducted my the money so early.",
+      "version": "1.0.73",
+      "voteCount": 0,
+      "sortBucket": "mosthelpful"
+    },
+    {
+      "id": "12897115591",
+      "score": 5,
+      "date": "2025-07-15T21:23:17-07:00",
+      "title": "Great aap",
+      "text": "I just had one call with the candidate who has same motive as mine and we had great conversation. This app is a great platform to improve our communication.",
+      "version": "1.0.55",
+      "voteCount": 1,
+      "sortBucket": "mosthelpful"
+    },
+    {
+      "id": "13880442558",
+      "score": 5,
+      "date": "2026-03-23T18:41:07-07:00",
+      "title": "English Learner",
+      "text": "In my opinion the app clarify your doubt at every sentence as simple it very helpful and at the same time it improved my vocabulary too.",
+      "version": "1.0.66",
+      "voteCount": 0,
+      "sortBucket": "mosthelpful"
+    },
+    {
+      "id": "14465514557",
+      "score": 1,
+      "date": "2026-08-24T00:43:10-07:00",
+      "title": "Always make a trouble to connect co-learner’s",
+      "text": "I’m using this app for 4-5months everything was good bt suddenly my sivi isn’t capable to connect ppl for practice nd I’m having  their 3months subscription nd I have bought their subscription twice and after buying the subscription sivi isn’t working nd their customer support isn’t good they are not responding this tym it’s totally waste of my money’s",
+      "version": "1.0.77",
+      "voteCount": 0,
+      "sortBucket": "mosthelpful"
+    },
+    {
+      "id": "12953220047",
+      "score": 5,
+      "date": "2025-07-29T21:33:41-07:00",
+      "title": "My Experience",
+      "text": "It’s a wonderful app. It really helps me to Improve my English and Confidence. Thank you Mysivi Team to making this wonderful App and you guys Give it as free that’s really appreciative 👏🏻👏🏻",
+      "version": "1.0.57",
+      "voteCount": 0,
+      "sortBucket": "mosthelpful"
+    },
+    {
+      "id": "14143106084",
+      "score": 5,
+      "date": "2026-06-04T07:19:18-07:00",
+      "title": "A leap in learning English as a language",
+      "text": "This app is superior to all other apps of the same objective. Try it yourself, and feel free to share.",
+      "version": "1.0.73",
+      "voteCount": 0,
+      "sortBucket": "mosthelpful"
+    },
+    {
+      "id": "13256632870",
+      "score": 5,
+      "date": "2025-10-12T04:55:25-07:00",
+      "title": "It’s use full app",
+      "text": "I found app which i have been waiting for\nThank you for making this beautiful app",
+      "version": "1.0.62",
+      "voteCount": 0,
+      "sortBucket": "mosthelpful"
+    },
+    {
+      "id": "12194359509",
+      "score": 5,
+      "date": "2025-01-17T00:43:46-07:00",
+      "title": "Sivi app",
+      "text": "Very nice concept where you can connect with unknown people and talk with them. I enjoyed the app very much I am sure I will overcome my fear of talking to people in English. Thank you sivi 👍🏻👍🏻👍🏻👍🏻",
+      "version": "1.0.51",
+      "voteCount": 0,
+      "sortBucket": "mosthelpful"
+    }
+  ],
+  "developerResponses": "not available (App Store RSS does not expose developer responses)",
+  "histogramNote": "Store-wide star histogram is not exposed by lookup/RSS; sample histogram computed from RSS reviews in analysis."
+}

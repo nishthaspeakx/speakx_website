@@ -1,0 +1,99 @@
+{
+  "slug": "speak",
+  "appStoreId": "1286609883",
+  "store": "app_store",
+  "storefront": "in",
+  "collectedAt": "2026-10-13T13:40:33.179Z",
+  "errors": [],
+  "sources": {
+    "lookup": "https://itunes.apple.com/in/lookup?id=1286609883",
+    "rss": "https://itunes.apple.com/in/rss/customerreviews/page=N/id=1286609883/sortby={mostrecent|mosthelpful}/json (N=1..10, stopped at first empty page, 3 attempts per page)"
+  },
+  "lookup": {
+    "trackName": "Speak: Language Learning",
+    "sellerName": "Speakeasy Labs, Inc",
+    "averageUserRating": 4.61658,
+    "userRatingCount": 193,
+    "averageUserRatingForCurrentVersion": 4.61658,
+    "userRatingCountForCurrentVersion": 193,
+    "version": "4.69.0",
+    "releaseDate": "2017-12-22T02:12:54Z",
+    "currentVersionReleaseDate": "2026-10-09T01:17:48Z",
+    "price": 0,
+    "formattedPrice": "Free",
+    "currency": "INR",
+    "contentAdvisoryRating": "12+",
+    "primaryGenreName": "Education",
+    "trackViewUrl": "https://apps.apple.com/in/app/speak-language-learning/id1286609883?uo=4"
+  },
+  "rssPages": {
+    "mosthelpful_page1.json": 0,
+    "mostrecent_page1.json": 6,
+    "mostrecent_page2.json": 0
+  },
+  "reviewCount": 6,
+  "reviews": [
+    {
+      "id": "14535479137",
+      "score": 4,
+      "date": "2026-09-10T19:58:52-07:00",
+      "title": "Speak",
+      "text": "This is t he most helpful",
+      "version": "4.64.0",
+      "voteCount": 0,
+      "sortBucket": "mostrecent"
+    },
+    {
+      "id": "14090352377",
+      "score": 2,
+      "date": "2026-05-21T12:14:05-07:00",
+      "title": "Arabic language",
+      "text": "Arabic language is not in the app",
+      "version": "4.48.0",
+      "voteCount": 0,
+      "sortBucket": "mostrecent"
+    },
+    {
+      "id": "13884963822",
+      "score": 2,
+      "date": "2026-03-25T03:43:17-07:00",
+      "title": "You have to pay",
+      "text": "I try learning Japanese with this app, but you have to pay. The first lesson was good but by the second lesson, it only showed previews and from there i could not move on",
+      "version": "4.40.0",
+      "voteCount": 0,
+      "sortBucket": "mostrecent"
+    },
+    {
+      "id": "13203313282",
+      "score": 3,
+      "date": "2025-09-29T22:46:55-07:00",
+      "title": "Pls make it affordable",
+      "text": "Hello team, \nThis app is really a great idea it helped me learn the basics of Spanish without like writing and stuff and guess what I actually remember it but the only thing is 825 rupees is a lot of money yea I know 10 dollars is like nothing in the us and etc but 825 is a a lot I really hope u will reduce it Duolingo is super cheap but I think ur app is better than theirs but pls make it affordable like duo pls 200 is really reasonable I don’t know if it is really low but yea 😭😭😭😭😭😭",
+      "version": "4.16.0",
+      "voteCount": 0,
+      "sortBucket": "mostrecent"
+    },
+    {
+      "id": "11840117440",
+      "score": 5,
+      "date": "2024-10-16T05:34:53-07:00",
+      "title": "Gracias, Speak.",
+      "text": "I started learning with this. It’s just one day I can tell that it’s not like other it is making difference when I speak AI powered chatbot. BTW, when is the German language learning modules coming to Speak ? Thanks and appreciate your efforts.",
+      "version": "3.72.0",
+      "voteCount": 1,
+      "sortBucket": "mostrecent"
+    },
+    {
+      "id": "11059198792",
+      "score": 1,
+      "date": "2024-03-18T12:10:38-07:00",
+      "title": "Feeling bad",
+      "text": "I’m really disappointed that this application doesn’t have hindi language option for native language, what if any Indian want to learn from this app and because of native language selection he got stuck.",
+      "version": "3.42.0",
+      "voteCount": 0,
+      "sortBucket": "mostrecent"
+    }
+  ],
+  "developerResponses": "not available (App Store RSS does not expose developer responses)",
+  "histogramNote": "Store-wide star histogram is not exposed by lookup/RSS; sample histogram computed from RSS reviews in analysis."
+}

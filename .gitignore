@@ -42,3 +42,6 @@ next-env.d.ts
 qa-report.json
 .env.local
 out/
+
+# scraper deps, not source
+research/reviews/node_modules/
